@@ -98,15 +98,17 @@ export default function App({ initial = null, preloadGoalies = null }) {
     document.title = row ? shareTitle(query, row, peer) : l ? `${l.title} · NHL Comparator` : toUrl({ query, open: null }) ? shareTitle(query) : rootTitle.current
   }, [query, row, peer, vs])
 
-  const change = (q) => {
+  /** changes the query; `track: false` leaves the `query` event to the caller (the number box tracks once, on blur) */
+  const change = (q, { track: tracked = true } = {}) => {
     const next = normalize(q)
     // a field change that drops the open player out of it closes him
     const drops = row != null && (next.pos === 'G') !== (query.pos === 'G') || (row != null && next.pos !== 'ALL' && next.pos !== 'G' && (row.player.pos === 'D' ? 'D' : 'F') !== next.pos)
     setQuery(next)
     if (drops) { setOpen(null); setVs(null) }
     writeUrl(toAddress({ query: next, open: drops ? null : open, vs: drops ? null : vs }), 'replace')
-    track('query', { words: queryWords(next) })
+    if (tracked) track('query', { words: queryWords(next) })
   }
+  const settle = (q) => track('query', { words: queryWords(normalize(q)) })
   const openRow = (key) => {
     const next = open === key ? null : key
     setOpen(next)
@@ -150,7 +152,7 @@ export default function App({ initial = null, preloadGoalies = null }) {
         </span>
       </div>
       {landing ? <><p className="kicker"><a href={BASE}>NHL Comparator</a></p><h1 className="h1-q">{landing.h1}</h1></> : <h1>NHL Comparator</h1>}
-      <Sentence query={query} ledger={SKATERS} onChange={change} />
+      <Sentence query={query} ledger={SKATERS} onChange={change} onSettle={settle} />
       <p className="baserate">
         <span className="sr-only">{queryWords(query, board?.since ?? query.since)}. </span>
         Same point in the career, every {query.seq === 'teamGames' ? 'season' : 'career'} {sinceWords(board?.since ?? query.since ?? SKATERS.firstSeason)}.
