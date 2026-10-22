@@ -80,9 +80,9 @@ export function sizeToFit(str, name, size, maxW, spacing = 0, min = 22) {
 export const dashed = (x1, y, x2) => `<line x1="${x1}" y1="${y}" x2="${x2}" y2="${y}" stroke="${LINE}" stroke-dasharray="1 4"/>`
 
 /** the top every card shares: the site's name in rust, the heading, a small line; returns the parts and the y the body starts at */
-export function masthead(W, { heading, sub, headingSize = 38 }) {
+export function masthead(W, { heading, sub, headingSize = 38, brand = 'NHL COMPARATOR' }) {
   const parts = [
-    text('NFL COMPARATOR', { x: W / 2, y: 70, font: 'MonoBold', size: 16, spacing: 4, fill: RUST, anchor: 'middle' }),
+    text(brand, { x: W / 2, y: 70, font: 'MonoBold', size: 16, spacing: 4, fill: RUST, anchor: 'middle' }),
     text(heading, { x: W / 2, y: 134, font: 'Title', size: sizeToFit(heading, 'Title', headingSize, SAFE, 0.5), fill: CREAM, anchor: 'middle', spacing: 0.5 }),
   ]
   if (sub) parts.push(text(fit(sub.toUpperCase(), 'Mono', 14, SAFE, 2), { x: W / 2, y: 168, font: 'Mono', size: 14, spacing: 2, fill: FAINT, anchor: 'middle' }))

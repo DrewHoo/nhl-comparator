@@ -1,7 +1,10 @@
 // Runs after `vite build`. Bakes the rendered app into dist/index.html and
 // one page per named definition (src/lib/landing.ts) at dist/<slug>/index.html,
-// each with its own <head> from site.config.js and the landing table; writes
-// the sitemap, llms.txt, and the ledger copies the share worker reads.
+// each with its own <head> from site.config.js and the landing table; a page
+// per player with a records file (dist/player/<id>/index.html, the file
+// embedded so the hydrate matches, and dist/player/<id>/og.png, his own
+// social card); writes the sitemap, llms.txt, and the ledger copies the share
+// worker reads.
 //
 // Without this the deployed page is `<div id="root"></div>` and every word on
 // it exists only after React runs. Google usually renders JS in a deferred
@@ -30,7 +33,12 @@ const { decodeLedger, mergeExtra, fmtSeason } = await vite.ssrLoadModule('/src/l
 const { evaluate, DEFAULT_QUERY } = await vite.ssrLoadModule('/src/lib/query.ts')
 const { toUrl } = await vite.ssrLoadModule('/src/lib/url.ts')
 const { rowName, rowWords } = await vite.ssrLoadModule('/src/lib/words.ts')
-const { leaderWords, shareDescription } = await vite.ssrLoadModule('/src/lib/share.ts')
+const { leaderWords, shareDescription, playerText } = await vite.ssrLoadModule('/src/lib/share.ts')
+const { PlayerPage } = await vite.ssrLoadModule('/src/components/PlayerPage.jsx')
+const { decodePlayer, page: recordPage } = await vite.ssrLoadModule('/src/lib/records.ts')
+const { recordWords, placeWords } = await vite.ssrLoadModule('/src/lib/words.ts')
+const { playerCard } = await import('./lib/og-player.mjs')
+const { toPng } = await import('./lib/og.mjs')
 const S = mergeExtra(decodeLedger(JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/skaters.json'), 'utf8'))), JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/skaters-x.json'), 'utf8')))
 const G = decodeLedger(JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/goalies.json'), 'utf8')))
 const ledgerFor = (q) => (q.pos === 'G' ? G : S)
@@ -48,8 +56,7 @@ const template = fs.readFileSync(OUT, 'utf8')
 if (!template.includes('<div id="root"></div>')) throw new Error('prerender: could not find an empty #root in dist/index.html')
 if (!/<title>[^<]*<\/title>/.test(template)) throw new Error('prerender: could not find <title> in dist/index.html')
 
-function page({ initial, url, title, description, image, imageAlt, jsonLd }) {
-  const appHtml = renderToString(React.createElement(App, { initial, preloadGoalies: G }))
+function page({ initial, url, title, description, image, imageAlt, jsonLd, appHtml = renderToString(React.createElement(App, { initial, preloadGoalies: G })), embed = null }) {
   const head = `
     <meta name="description" content="${esc(description)}" />
     <link rel="canonical" href="${url}" />
@@ -79,6 +86,7 @@ function page({ initial, url, title, description, image, imageAlt, jsonLd }) {
   let html = template.replace(/<title>[^<]*<\/title>/, `<title>${esc(title)}</title>`)
   html = html.replace('</head>', head)
   html = html.replace('<div id="root"></div>', `<div id="root">${appHtml}</div>`)
+  if (embed) html = html.replace('<script type="module"', `<script id="player-data" type="application/json">${JSON.stringify(embed).replace(/</g, '\\u003c')}</script>\n    <script type="module"`)
   return { html, words: appHtml.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length }
 }
 
@@ -118,6 +126,42 @@ for (const l of LANDINGS) {
 }
 console.log(`prerendered ${LANDINGS.length} named definition pages`)
 
+// a page per player with a records file (scripts/build-records.mjs), and his own card
+const playersDir = path.join(ROOT, 'dist/players')
+const players = fs.existsSync(path.join(playersDir, 'index.json')) ? JSON.parse(fs.readFileSync(path.join(playersDir, 'index.json'), 'utf8')).filter((p) => p.n > 0) : []
+const SEASONS = `${fmtSeason(S.firstSeason)} to ${fmtSeason(S.currentSeason)}`
+const llmsPlayers = []
+{
+  const t0 = Date.now()
+  for (const entry of players) {
+    const file = JSON.parse(fs.readFileSync(path.join(playersDir, `${entry.id}.json`), 'utf8'))
+    const url = `${SITE}player/${entry.id}/`
+    const fams = recordPage(decodePlayer(file), file.id)
+    const face = fams[0]?.best ?? null
+    const { title, description } = playerText(file.name, file.field, face, file.first, config.title)
+    const person = { '@type': 'Person', name: file.name, ...(file.born ? { birthDate: file.born } : {}) }
+    const { html } = page({
+      url, title, description, image: `${url}og.png`, imageAlt: face ? `${file.name}: ${recordWords(face)}.` : `${file.name} on NHL Comparator.`,
+      appHtml: renderToString(React.createElement(PlayerPage, { id: file.id, preload: file })), embed: file,
+      jsonLd: {
+        '@context': 'https://schema.org',
+        '@graph': [
+          { ...webPage(url, title, description), about: person },
+          breadcrumb([[config.domain, `${ORIGIN}/`], [config.title, SITE], [file.name, url]]),
+          { '@type': 'ItemList', name: `What ${file.name} leads`, numberOfItems: Math.min(10, fams.length), itemListElement: fams.slice(0, 10).map((f, i) => ({ '@type': 'ListItem', position: i + 1, name: `${recordWords(f.best)}, ${placeWords(f.best)}` })) },
+        ],
+      },
+    })
+    const dir = path.join(ROOT, 'dist/player', String(entry.id))
+    fs.mkdirSync(dir, { recursive: true })
+    fs.writeFileSync(path.join(dir, 'index.html'), html)
+    await toPng(playerCard(file, fams, { seasons: SEASONS }), path.join(dir, 'og.png'))
+    urls.push(url)
+    if (llmsPlayers.length < 8 && face) llmsPlayers.push({ name: file.name, url, lead: `${recordWords(face)}, ${placeWords(face)}` })
+  }
+  console.log(`prerendered ${players.length} player pages, each with its card, in ${((Date.now() - t0) / 1000).toFixed(1)}s`)
+}
+
 const lastmod = new Date().toISOString().slice(0, 10)
 fs.writeFileSync(path.join(ROOT, 'dist/sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -134,6 +178,12 @@ Every row is a player's games in order from the NHL's own game records, ${fmtSea
 ## Questions
 
 ${llms.map(({ l, url, lead }) => `- [${l.h1}](${url})${lead ? `: ${lead}` : ''}`).join('\n')}
+
+## Players
+
+Every player who leads a comparison at some point in his career has a page at ${SITE}player/<id>/ (${players.length.toLocaleString('en-US')} pages; the id is the NHL's own): every comparison he leads among NHL skaters (or goalies), the best first. The pages with the most:
+
+${llmsPlayers.map((p) => `- [${p.name}](${p.url}): ${p.lead}`).join('\n')}
 
 ## Method
 

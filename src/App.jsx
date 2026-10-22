@@ -3,7 +3,7 @@ import { Sentence } from './components/Sentence.jsx'
 import { Board, rowId } from './components/Board.jsx'
 import { Panel } from './components/Panel.jsx'
 import { Notes, KOFI_URL } from './components/Notes.jsx'
-import { PlayerFinder } from './components/PlayerFinder.jsx'
+import { PlayerFinder, loadIndex } from './components/PlayerFinder.jsx'
 import { CoffeeIcon, ShareIcon } from './components/Icons.jsx'
 import { useShare } from './hooks/useShare.ts'
 import { decodeLedger, hasCols, mergeExtra, fmtSeason } from './lib/ledger.ts'
@@ -45,6 +45,8 @@ export default function App({ initial = null, preloadGoalies = null }) {
   const [goalies, setGoalies] = useState(goaliesCache)
   // bumps when the extra columns land, so the board re-evaluates
   const [loadedAt, setLoadedAt] = useState(0)
+  // who has a page (public/players/index.json, the finder's list), fetched the first time a row opens
+  const [pages, setPages] = useState(null)
   const { copied, share } = useShare()
   const landOn = useRef(null)
   const booted = useRef(false)
@@ -69,6 +71,13 @@ export default function App({ initial = null, preloadGoalies = null }) {
     loadGoalies().then((g) => { if (live) setGoalies(g) })
     return () => { live = false }
   }, [query.pos, goalies])
+
+  useEffect(() => {
+    if (!open || pages) return
+    let live = true
+    loadIndex().then((list) => { if (live) setPages(new Set(list.filter((p) => p.n > 0).map((p) => String(p.id)))) })
+    return () => { live = false }
+  }, [open, pages])
 
   const ledger = query.pos === 'G' ? goalies : SKATERS
   const isReady = !!ledger && ready(ledger, query, open)
@@ -159,7 +168,7 @@ export default function App({ initial = null, preloadGoalies = null }) {
         Same point in the career, every {query.seq === 'teamGames' ? 'season' : 'career'} {sinceWords(board?.since ?? query.since ?? SKATERS.firstSeason)}.
         {board && board.ranked[0] && board.ranked[0].value != null && <> The leader: <b>{board.ranked[0].player.name}</b>, {board.ranked[0].value.toLocaleString('en-US')}.</>}
       </p>
-      {board ? <Board board={board} query={query} ledger={ledger} open={open} onOpen={openRow} panel={row && (hasCols(ledger, PANEL_COLS) ? <Panel key={row.key} row={row} board={board} query={query} ledger={ledger} peerKey={vs} onPeer={setPeer} onClose={() => openRow(row.key)} /> : <p className="loading">loading his games…</p>)} /> : <p className="loading">{query.pos === 'G' ? 'loading the goalies…' : 'loading the rest of the ledger…'}</p>}
+      {board ? <Board board={board} query={query} ledger={ledger} open={open} onOpen={openRow} panel={row && (hasCols(ledger, PANEL_COLS) ? <Panel key={row.key} row={row} board={board} query={query} ledger={ledger} peerKey={vs} onPeer={setPeer} hasPage={pages?.has(String(row.player.id)) ?? false} onClose={() => openRow(row.key)} /> : <p className="loading">loading his games…</p>)} /> : <p className="loading">{query.pos === 'G' ? 'loading the goalies…' : 'loading the rest of the ledger…'}</p>}
       <Landings current={landing?.slug ?? null} />
       <Notes ledger={SKATERS} />
       <footer>

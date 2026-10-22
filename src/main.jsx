@@ -1,6 +1,5 @@
 import React from 'react'
 import { createRoot, hydrateRoot } from 'react-dom/client'
-import App from './App.jsx'
 import { landingFromPath } from './lib/landing.ts'
 import './styles.css'
 
@@ -15,12 +14,19 @@ const initial = landing ? { query: landing.query } : null
 // The markup is already in the HTML: scripts/prerender.mjs bakes it in at
 // build time so crawlers get the whole page without running anything.
 // Hydrate onto it rather than throwing it away. The dev server has no baked
-// markup, so fall back to a plain render there.
+// markup, so fall back to a plain render there. A player page carries its
+// records file in the HTML and loads no ledger, so it imports only its page.
 const root = document.getElementById('root')
-const app = (
-  <React.StrictMode>
-    <App initial={initial} />
-  </React.StrictMode>
-)
-if (root.firstChild) hydrateRoot(root, app)
-else createRoot(root).render(app)
+const mount = (node) => {
+  const app = <React.StrictMode>{node}</React.StrictMode>
+  if (root.firstChild) hydrateRoot(root, app)
+  else createRoot(root).render(app)
+}
+const player = /^player\/(\d+)\/?$/.exec(rel)
+if (player) {
+  let preload = null
+  try { preload = JSON.parse(document.getElementById('player-data')?.textContent ?? 'null') } catch {}
+  import('./components/PlayerPage.jsx').then(({ PlayerPage }) => mount(<PlayerPage id={player[1]} preload={preload} />))
+} else {
+  import('./App.jsx').then(({ default: App }) => mount(<App initial={initial} />))
+}

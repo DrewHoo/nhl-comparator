@@ -171,3 +171,20 @@ export function compareCard(q: Query, board: Board, row: Row, peer: Row): Compar
     chart: cmp ? { me: cmp.me, them: cmp.them, n: cmp.n, unit: seqWords(q.seq, 1) } : null,
   }
 }
+
+// ---- a player's page (src/components/PlayerPage.jsx)
+
+import type { RecordRow } from './records.ts'
+import { placeWords, recordWords, POS_WORDS } from './words.ts'
+
+/** the page's lead line, the share text: his best row, or what the page is */
+export function playerLead(name: string, field: 'ALL' | 'G', face: RecordRow | null | undefined, firstSeason: number): string {
+  return face ? `${name}: ${recordWords(face)}, ${placeWords(face)}.` : `Every comparison ${name} leads among NHL ${POS_WORDS[field]} at the same point in the career, ${sinceWords(firstSeason)}.`
+}
+
+/** a player page's head; the title is the fact people type: "Wayne Gretzky: every comparison he leads at the same point in a career · NHL Comparator" */
+export function playerText(name: string, field: 'ALL' | 'G', face: RecordRow | null | undefined, firstSeason: number, site = SITE): { title: string; description: string } {
+  const lead = playerLead(name, field, face, firstSeason)
+  const rest = ` Every comparison he leads among NHL ${POS_WORDS[field]} at the same point in the career, ${sinceWords(firstSeason)}.`
+  return { title: `${name}: every comparison he leads at the same point in a career · ${site}`, description: face ? `${lead}${rest}` : lead }
+}

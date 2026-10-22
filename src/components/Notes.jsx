@@ -106,7 +106,9 @@ export function Notes({ ledger }) {
             whole window yet, with their total so far. An <b>age</b> on a fastest-to board is the player's age on the day
             of the game that got him there, from his birth date, where it is known. The panel reads a row against a peer: where their curves met, and
             what the player needs over the next five games to match the peer there; the peer rides in the url, so a shared
-            link opens the same comparison.
+            link opens the same comparison. A player's page lists every comparison he leads among the skaters (a goalie's,
+            among the goalies), worded at the point in the career where it stands out most, or that he set and someone
+            later broke; "what he leads" in the panel goes there.
           </p>
         </details>
 

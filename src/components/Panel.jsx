@@ -68,7 +68,7 @@ function Ledger({ r, q, ledger }) {
   )
 }
 
-export function Panel({ row, board, query, ledger, peerKey = null, onPeer, onClose }) {
+export function Panel({ row, board, query, ledger, peerKey = null, onPeer, onClose, hasPage = false }) {
   const q = query
   const field = board.ranked.length
   const career = q.seq !== 'teamGames'
@@ -83,7 +83,9 @@ export function Panel({ row, board, query, ledger, peerKey = null, onPeer, onClo
       <div className="panel-head">
         <div className="panel-id">
           <span className="panel-name">{rowName(row)}</span>
-          <span className="panel-meta">{POS_NAME[p.pos] ?? p.pos} · {spanWords(p.col.season[0], p.col.season[p.n - 1])}{born}</span>
+          <span className="panel-meta">{POS_NAME[p.pos] ?? p.pos} · {spanWords(p.col.season[0], p.col.season[p.n - 1])}{born}
+            {hasPage && <> · <a className="plink" href={`${import.meta.env.BASE_URL}player/${p.id}/`}>what he leads →</a></>}
+          </span>
         </div>
         <button className="ico panel-close" onClick={onClose} aria-label="Close"><CloseIcon /></button>
       </div>

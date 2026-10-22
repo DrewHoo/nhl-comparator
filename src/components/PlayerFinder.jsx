@@ -1,8 +1,9 @@
 // Find a player: a filter box over every player in the ledger, in a dropdown
 // (Streak King's team picker, without the phone sheet). The list is
-// public/players/index.json (scripts/build-index.mjs), fetched the first
-// time the menu opens; a pick opens her row on the board (there are no
-// player pages yet).
+// public/players/index.json (scripts/build-index.mjs, marked by
+// build-records.mjs), fetched the first time the menu opens; a pick goes to
+// his page when he has one (`n` rows above the floor), else opens his row on
+// the board.
 import { useEffect, useMemo, useState } from 'react'
 import * as DM from '@radix-ui/react-dropdown-menu'
 import { SearchIcon } from './Icons.jsx'
@@ -13,7 +14,9 @@ let cached = null
 /** every player in the ledger, fetched once per load */
 export const loadIndex = () => (cached ? Promise.resolve(cached) : fetch(`${BASE}players/index.json`).then((r) => (r.ok ? r.json() : [])).catch(() => []).then((list) => (cached = list)))
 
-export function PlayerFinder({ current = null, onPick }) {
+export const playerUrl = (id) => `${BASE}player/${id}/`
+
+export function PlayerFinder({ current = null, onPick = null }) {
   const [open, setOpen] = useState(false)
   const [q, setQ] = useState('')
   const [all, setAll] = useState(cached)
@@ -24,7 +27,7 @@ export function PlayerFinder({ current = null, onPick }) {
     return () => { live = false }
   }, [open, all])
   const want = plain(q)
-  // names that start with what's typed, then names that contain it; untyped, the biggest careers first
+  // names that start with what's typed, then names that contain it; untyped, the best pages first
   const list = useMemo(() => {
     const src = all ?? []
     if (!want) return src.slice(0, 40)
@@ -33,7 +36,12 @@ export function PlayerFinder({ current = null, onPick }) {
     return [...starts, ...within].slice(0, 40)
   }, [all, want])
   const change = (o) => { setOpen(o); if (!o) setQ('') }
-  const pick = (p) => { change(false); onPick(p) }
+  const pick = (p) => {
+    change(false)
+    if (p.n > 0) window.location.href = playerUrl(p.id)
+    else if (onPick) onPick(p)
+    else window.location.href = `${BASE}${p.pos === 'G' ? '?pos=G&' : '?'}t=${p.id}`
+  }
   return (
     <DM.Root open={open} onOpenChange={change} modal={false}>
       <DM.Trigger asChild>
