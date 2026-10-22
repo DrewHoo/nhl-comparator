@@ -3,7 +3,7 @@
 // the publisher's (data/gates/README.md has the units).
 import { describe, expect, it } from 'vitest'
 import { decodeLedger, mergeExtra, type LedgerExtraFile, type LedgerFile } from './ledger.ts'
-import { crossings, curve, evaluate, toMatch, DEFAULT_QUERY, type Board, type Query } from './query.ts'
+import { ageAtWindow, crossings, curve, evaluate, toMatch, DEFAULT_QUERY, type Board, type Query } from './query.ts'
 import skaters from '../data/skaters.json'
 import skatersX from '../data/skaters-x.json'
 import goalies from '../data/goalies.json'
@@ -33,6 +33,12 @@ describe('the gate', () => {
   it('fastest to 1,000 points: Gretzky 424, Lemieux 513, Bossy 656, McDavid 659 (Wikipedia, NHL.com)', () => {
     const b = evaluate(S, Q({ how: 'reach', n: 1000, dir: 'fewest' }))
     expect(b.ranked.slice(0, 4).map((r) => [r.player.name, r.value])).toEqual([['Wayne Gretzky', 424], ['Mario Lemieux', 513], ['Mike Bossy', 656], ['Connor McDavid', 659]])
+  })
+  it("the age on a fastest-to row is his age at the game that got him there: Gretzky 23 (Dec 19, 1984), McDavid 27 (Jan 24, 2024)", () => {
+    const q = Q({ how: 'reach', n: 1000, dir: 'fewest' })
+    const b = evaluate(S, q)
+    expect(ageAtWindow(S, row(b, 'Wayne Gretzky')!, q)).toBe(23)
+    expect(ageAtWindow(S, row(b, 'Connor McDavid')!, q)).toBe(27)
   })
   it('Gretzky fastest to 100 points from the start of a season: 34 team games (1981-82)', () => {
     const b = evaluate(S, Q({ how: 'reach', n: 100, seq: 'teamGames', dir: 'fewest' }))

@@ -103,7 +103,8 @@ export function Notes({ ledger }) {
           </p>
           <p>
             Ranks are competition ranks, ties included. "Still inside the window" lists the players who haven't played the
-            whole window yet, with their total so far. The panel reads a row against a peer: where their curves met, and
+            whole window yet, with their total so far. An <b>age</b> on a fastest-to board is the player's age on the day
+            of the game that got him there, from his birth date, where it is known. The panel reads a row against a peer: where their curves met, and
             what the player needs over the next five games to match the peer there; the peer rides in the url, so a shared
             link opens the same comparison.
           </p>

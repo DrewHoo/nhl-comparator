@@ -72,13 +72,14 @@ export default function App({ initial = null, preloadGoalies = null }) {
 
   const ledger = query.pos === 'G' ? goalies : SKATERS
   const isReady = !!ledger && ready(ledger, query, open)
-  // the extra columns, when the query or the open row reads them
+  // the extra columns, when the query or the open row reads them; a fastest-to board fetches them behind the board for the ages
+  const wantsAges = query.how === 'reach' && query.seq !== 'teamGames'
   useEffect(() => {
-    if (!ledger || isReady || ledger.kind !== 'skaters') return
+    if (!ledger || ledger.kind !== 'skaters' || (isReady && !(wantsAges && !ledger.loaded.has('date')))) return
     let live = true
     loadExtra().then(() => { if (live) setLoadedAt((n) => n + 1) })
     return () => { live = false }
-  }, [ledger, isReady])
+  }, [ledger, isReady, wantsAges])
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const board = useMemo(() => (ledger && hasCols(ledger, colsNeeded(query)) ? evaluate(ledger, query) : null), [ledger, query, loadedAt])
   const row = useMemo(() => (board && open ? [...board.ranked, ...board.onTheWay].find((r) => r.key === open) ?? null : null), [board, open])
@@ -158,7 +159,7 @@ export default function App({ initial = null, preloadGoalies = null }) {
         Same point in the career, every {query.seq === 'teamGames' ? 'season' : 'career'} {sinceWords(board?.since ?? query.since ?? SKATERS.firstSeason)}.
         {board && board.ranked[0] && board.ranked[0].value != null && <> The leader: <b>{board.ranked[0].player.name}</b>, {board.ranked[0].value.toLocaleString('en-US')}.</>}
       </p>
-      {board ? <Board board={board} query={query} open={open} onOpen={openRow} panel={row && (hasCols(ledger, PANEL_COLS) ? <Panel key={row.key} row={row} board={board} query={query} ledger={ledger} peerKey={vs} onPeer={setPeer} onClose={() => openRow(row.key)} /> : <p className="loading">loading his games…</p>)} /> : <p className="loading">{query.pos === 'G' ? 'loading the goalies…' : 'loading the rest of the ledger…'}</p>}
+      {board ? <Board board={board} query={query} ledger={ledger} open={open} onOpen={openRow} panel={row && (hasCols(ledger, PANEL_COLS) ? <Panel key={row.key} row={row} board={board} query={query} ledger={ledger} peerKey={vs} onPeer={setPeer} onClose={() => openRow(row.key)} /> : <p className="loading">loading his games…</p>)} /> : <p className="loading">{query.pos === 'G' ? 'loading the goalies…' : 'loading the rest of the ledger…'}</p>}
       <Landings current={landing?.slug ?? null} />
       <Notes ledger={SKATERS} />
       <footer>
