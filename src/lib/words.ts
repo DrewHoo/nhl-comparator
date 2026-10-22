@@ -87,3 +87,53 @@ export function headWords(q: Query): string {
   if (q.how === 'streak') return `longest streak with ${t} in ${q.seq === 'teamGames' ? win : `the first ${win}`}`
   return `${q.dir} games with ${t} in ${q.seq === 'teamGames' ? win : `the first ${win}`}`
 }
+
+// ---- a record row (src/lib/records.ts): the claim, its place, its run
+
+import type { RecordRow } from './records.ts'
+import { fmtDate } from './ledger.ts'
+
+const fmt = (n: number) => n.toLocaleString('en-US')
+
+/** "39 games with 2+ points in his first 140 games", "1,000 points in 424 games", "92 goals through EDM's first 80 games of 1981-82" */
+export function recordWords(r: RecordRow): string {
+  const s = r.shape, stat = statByKey(s.stat)
+  const win = s.seq === 'teamGames' ? `${r.team}'s first ${r.at} games of ${fmtSeason(r.season!)}` : `his first ${fmt(r.at)} ${seqWords(s.seq, r.at)}`
+  const scope = s.scope === 'all' ? ', playoffs included' : ''
+  if (s.how === 'sum') return `${s.dir === 'fewest' ? 'only ' : ''}${countWords(r.value, stat)} through ${win}${scope}`
+  if (s.how === 'reach') return `${countWords(r.at, stat)} in ${fmt(r.value)} ${seqWords(s.seq, r.value)}${scope}`
+  const t = testsWords(s.tests)
+  if (s.how === 'every') return `${t} in each of ${win}${scope}`
+  if (s.how === 'streak') return `${fmt(r.value)} straight ${r.value === 1 ? 'game' : 'games'} with ${t} in ${win}${scope}`
+  return `${fmt(r.value)} ${r.value === 1 ? 'game' : 'games'} with ${t} in ${win}${scope}`
+}
+
+/** "1st of 1,873 careers, next 1,186 points", "one of 4, of 957 player-seasons", "a record when he got there, 1st of 154 careers" */
+export function placeWords(r: RecordRow): string {
+  const stat = statByKey(r.shape.stat)
+  const f = (v: number) => (r.shape.how === 'reach' ? `${fmt(v)} ${seqWords(r.shape.seq, v)}` : r.shape.how === 'sum' ? countWords(v, stat) : fmt(v))
+  const who = r.season != null ? 'player-seasons' : 'careers'
+  if (r.kind === 'set') return `a record when he got there, 1st of ${fmt(r.field)} ${who}${r.second != null ? `, past ${f(r.second)}` : ''}`
+  if (r.ties > 1) return `one of ${r.ties}, of ${fmt(r.field)} ${who}`
+  return `1st of ${fmt(r.field)} ${who}${r.second != null ? `, next ${f(r.second)}` : ''}`
+}
+
+/** "leads from game 112 to 144", "fastest to every milestone from 100 to 1,000 points", "at game 14 only", "and counting" */
+export function runWords(r: RecordRow, minN: number): string {
+  const s = r.shape, stat = statByKey(s.stat)
+  const unit = s.seq === 'teamGames' ? 'game' : seqWords(s.seq, 1)
+  if (s.how === 'reach') return r.lo === r.hi ? '' : `fastest to every milestone from ${fmt(r.from ?? r.at)} to ${countWords(r.at, stat)}`
+  const verb = r.kind === 'set' ? 'held' : 'leads'
+  const holes = r.holes ? ` (${r.holes} ${r.holes === 1 ? 'gap' : 'gaps'})` : ''
+  if (r.lo === r.hi) return `at ${unit} ${r.at} only`
+  const from = r.lo <= minN ? 'from the start' : `from ${unit} ${r.lo}`
+  return r.live ? `${verb} ${from}, and counting${holes}` : `${verb} ${from} to ${r.hi}${holes}`
+}
+
+/** "broken by Mario Lemieux 1988-89, 85 goals, Mar 25, 1989" */
+export function breakerWords(r: RecordRow): string {
+  if (!r.breaker) return ''
+  const stat = statByKey(r.shape.stat)
+  const v = r.shape.how === 'sum' ? countWords(r.breaker.value, stat) : String(r.breaker.value)
+  return `broken by ${r.breaker.name}${r.breaker.season ? ` ${fmtSeason(r.breaker.season)}` : ''}, ${v}, ${fmtDate(r.breaker.date)}`
+}

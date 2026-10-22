@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/build-index.mjs && vite build && node scripts/prerender.mjs",
+    "build": "node scripts/build-index.mjs && node scripts/build-records.mjs && vite build && node scripts/prerender.mjs",
+    "records": "node scripts/build-index.mjs && node scripts/build-records.mjs",
     "index": "node scripts/build-index.mjs",
     "preview": "vite preview",
     "harvest": "node pipeline/harvest-rest.mjs",
