@@ -1,0 +1,1310 @@
+URL: https://en.wikipedia.org/wiki/Winnipeg_Jets
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+Winnipeg Jets - Wikipedia
+Jump to content
+Main menu
+ Main menu
+ move to sidebar
+ hide
+ Navigation
+ Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+ Contribute
+ Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+ Search
+Appearance
+ Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+ Contents
+ move to sidebar
+ hide
+ (Top)
+ 1
+ History
+ Toggle History subsection
+ 1.1
+ Winnipeg Jets (1972–1996)
+ 1.2
+ Atlanta Thrashers (1999–2011)
+ 1.3
+ Winnipeg Jets (2011–present)
+ 1.3.1
+ Playoff years (2017–present)
+ 2
+ Team information
+ Toggle Team information subsection
+ 2.1
+ Jerseys
+ 2.2
+ Mascot
+ 2.3
+ Traditions
+ 2.3.1
+ National anthem
+ 2.3.2
+ Winnipeg Whiteout
+ 3
+ Season-by-season record
+ 4
+ Players and personnel
+ Toggle Players and personnel subsection
+ 4.1
+ Current roster
+ 4.2
+ Team captains
+ 4.3
+ Hall of Famers
+ 4.4
+ Retired numbers
+ 4.5
+ Winnipeg Jets Hall of Fame
+ 4.6
+ Head coaches
+ 5
+ Franchise records
+ Toggle Franchise records subsection
+ 5.1
+ Scoring leaders
+ 5.2
+ Goaltending leaders
+ 5.3
+ Single-season leaders
+ 6
+ Broadcasters
+ 7
+ See also
+ 8
+ References
+ 9
+ External links
+Toggle the table of contents
+ Winnipeg Jets
+39 languages
+ العربية
+مصرى
+Беларуская (тарашкевіца)
+Català
+Čeština
+Dansk
+Deutsch
+Esperanto
+Español
+Eesti
+Euskara
+Suomi
+Français
+Galego
+עברית
+हिन्दी
+Hrvatski
+Magyar
+Հայերեն
+Bahasa Indonesia
+Ido
+Italiano
+日本語
+한국어
+Latina
+Lietuvių
+Latviešu
+Norsk bokmål
+Polski
+Português
+Română
+Русский
+Simple English
+Slovenčina
+Српски / srpski
+Svenska
+Türkçe
+Українська
+中文
+ Edit links
+ Article
+Talk
+ English
+ Read
+Edit
+View history
+Tools
+ Tools
+ move to sidebar
+ hide
+ Actions
+Read
+Edit
+View history
+ General
+ What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+ Print/export
+ Download as PDF
+Printable version
+ In other projects
+ Wikimedia Commons
+Wikidata item
+ Appearance
+ move to sidebar
+ hide
+ From Wikipedia, the free encyclopedia
+ National Hockey League team in Manitoba
+ This article is about the Jets' second stint in Winnipeg. For their first stint in Winnipeg, see Winnipeg Jets (1972–1996). For the former Western Hockey League team, see Winnipeg Monarchs (WHL).
+[[1972–73 WHA season|1972]]–[[1978–79 WHA season|1979]] ([[World Hockey Association|WHA]])<br>[[1979–80 NHL season|1979]]–[[1995–96 NHL season|1996]] ([[National Hockey League|NHL]])<br>'''[[Atlanta Thrashers]]'''<br />[[1999–2000 NHL season|1999]]–[[2010–11 NHL season|2011]] <br />'''Winnipeg Jets'''<br />[[2011–12 NHL season|2011]]–present"},"arena":{"wt":"[[Canada Life Centre]]"},"city":{"wt":"[[Winnipeg]], Manitoba"},"uniform_image":{"wt":"WCC-Uniform-WPG.png"},"team_colors":{"wt":"Polar night blue, aviator blue, grey, red, white<ref name=\"WPGJetsUpdateLogo2011\">{{cite news|title=Winnipeg Jets update logo, flying high with new fighter jet design|url=https://www.nhl.com/news/winnipeg-jets-update-logo-flying-high-with-new-fighter-jet-design/c-569915|publisher=NHL Enterprises, L.P.|website=NHL.com|date=July 22, 2011|archive-url=https://web.archive.org/web/20210905211921/https://www.nhl.com/news/winnipeg-jets-update-logo-flying-high-with-new-fighter-jet-design/c-569915|archive-date=September 5, 2021|access-date=November 30, 2025|url-status=dead}}</ref><ref name=\"NewWPGJetsUnis2011\">{{cite news|title=Winnipeg Jets unveil Home & Away Jerseys|url=https://www.nhl.com/jets/news/winnipeg-jets-unveil-home-away-jerseys/c-587723|publisher=NHL Enterprises, L.P.|website=WinnipegJets.com|date=September 6, 2011|archive-url=https://web.archive.org/web/20170818090302/https://www.nhl.com/jets/news/winnipeg-jets-unveil-home-away-jerseys/c-587723|archive-date=August 18, 2017|access-date=November 30, 2025|url-status=dead}}</ref><br />{{color box|#041E42}} {{color box|#004A98}} {{color box|#A2AAAD}} {{color box|#A6192E}} {{color box|#FFFFFF}}"},"media_affiliates":{"wt":"[[The Sports Network|TSN3]]<br />[[CJOB|680 CJOB]]<br />[[CJKR-FM|CJKR-FM (Power 97)]]"},"owner":{"wt":"[[True North Sports & Entertainment]]<br />([[Mark Chipman]], executive chairman & governor)<ref>{{cite web|title=TNSE Front Office|url=https://www.tnse.com/our-company/our-people/|website=TNSE.com|access-date=November 30, 2025}}</ref>"},"general_manager":{"wt":"[[Kevin Cheveldayoff]]"},"head_coach":{"wt":"[[Scott Arniel]]"},"captain":{"wt":"[[Adam Lowry]]"},"minor_league_affiliates":{"wt":"[[Manitoba Moose]] ([[American Hockey League|AHL]])<br>[[Bloomington Bison]] ([[ECHL]])"},"stanley_cups":{"wt":"'''0'''"},"avco":{"wt":"'''3''' ([[1975–76 WHA season|1975–76]], [[1977–78 WHA season|1977–78]], [[1978–79 WHA season|1978–79]])"},"conf_titles":{"wt":"'''0'''"},"presidents'_trophies":{"wt":"'''1''' ([[2024–25 Winnipeg Jets season|2024–25]])"},"division_titles":{"wt":"'''4''' ([[1972–73 WHA season|1972–73]], [[1975–76 WHA season|1975–76]], [[1977–78 WHA season|1977–78]], [[2024–25 Winnipeg Jets season|2024–25]])"},"website":{"wt":"{{URL|nhl.com/jets}}"}},"i":0}}]}'> Winnipeg Jets | 
+ 2026–27 Winnipeg Jets season | 
+ | 
+Conference | Western | 
+Division | Central | 
+Founded | 1972 | 
+History | Winnipeg Jets
+1972–1979 (WHA)
+1979–1996 (NHL)
+Atlanta Thrashers
+1999–2011 
+Winnipeg Jets
+2011–present | 
+Home arena | Canada Life Centre | 
+City | Winnipeg, Manitoba | 
+ | 
+Team colours | Polar night blue, aviator blue, grey, red, white[1][2]
+ | 
+Media | TSN3
+680 CJOB
+CJKR-FM (Power 97) | 
+Owner(s) | True North Sports & Entertainment
+(Mark Chipman, executive chairman & governor)[3] | 
+General manager | Kevin Cheveldayoff | 
+Head coach | Scott Arniel | 
+Captain | Adam Lowry | 
+Minor league affiliates | Manitoba Moose (AHL)
+Bloomington Bison (ECHL) | 
+Stanley Cups | 0 | 
+Avco World Trophies | 3 (1975–76, 1977–78, 1978–79) | 
+Conference championships | 0 | 
+Presidents' Trophies | 1 (2024–25) | 
+Division championships | 4 (1972–73, 1975–76, 1977–78, 2024–25) | 
+Official website | nhl.com/jets | 
+The Winnipeg Jets are a professional ice hockey team based in Winnipeg. The Jets compete in the National Hockey League (NHL) as a member of the Central Division in the Western Conference. The team is owned by True North Sports & Entertainment, playing its home games at Canada Life Centre.[4][5]
+The franchise was established in the World Hockey Association (WHA) in 1972. They made the playoffs every year except for the 1974–75 season, won the Avco Cup three times (in 1976, 1978, and 1979) and appeared in the Avco Cup Finals two additional times (in 1973 and 1977). The club joined the National Hockey League (NHL) in 1979 after the NHL merged with the WHA. The team struggled early on in the NHL, in part due to the 1979 expansion draft, going a combined 29–106–25 through the 1979–80 and 1980–81 seasons. The Jets made the Stanley Cup playoffs every season from 1981–82 to 1987–88, though the team only finished with a winning record twice during that period, in 1984–85 and 1986–87, which were also the only times the Jets advanced past the first round until 2017–18. After the 1995–96 season, the Jets were deactivated while their players, coaches, and staff relocated to Phoenix, Arizona, to become the Phoenix Coyotes.
+On June 25, 1997, the NHL expanded to Atlanta, with the Atlanta Thrashers, and began play in the 1999–2000 NHL season. True North Sports & Entertainment then bought the team in May 2011, and relocated the Thrashers to Winnipeg prior to the 2011–12 season, making them the first NHL franchise to relocate since the Hartford Whalers became the Carolina Hurricanes in 1997.[6][7][8] The team inherited the Jets branding, but the records and history of the original franchise initially remained with the Coyotes. On September 24, 2026, the NHL consolidated the records and statistics of the original Winnipeg Jets with the Thrashers and the modern Jets; thus, the Jets were retrospectively deactivated from 1996 to 1999, with the franchise resuming operations as the Atlanta Thrashers.[9][10]
+History
+[edit]
+Main article: Winnipeg Jets (1972–1996)
+Winnipeg Jets (1972–1996)
+[edit]
+On December 27, 1971, Winnipeg was granted one of the founding franchises in the World Hockey Association (WHA). By 1979, many of the WHA's teams had folded, but the Jets were absorbed into the NHL along with the Quebec Nordiques, Edmonton Oilers, and Hartford Whalers as part of the WHA–NHL merger.[11][12] In 1996, team owner Barry Shenkarow sold the team to American businessmen Steven Gluckstern and Richard Burke. Burke and Gluckstern originally planned to move the team to Minnesota (which had lost the North Stars to Dallas in 1993), but eventually reached an agreement with Phoenix businessman Jerry Colangelo that would see the team move to Arizona and become the Phoenix Coyotes. The Jets played their last game before moving on April 28, 1996.
+Atlanta Thrashers (1999–2011)
+[edit]
+Main article: Atlanta Thrashers
+The Thrashers take the puck into the offensive zone against the St. Louis Blues at Philips Arena on September 22, 2007.
+The city of Atlanta was awarded an NHL expansion franchise, named the Atlanta Thrashers, on June 25, 1997. It was the second NHL franchise for Atlanta (their first being the Atlanta Flames, established in 1972, who departed for Calgary in 1980 to become the Calgary Flames). The Thrashers began play in the 1999–2000 season.
+In the 12 years in Atlanta, the Thrashers qualified for the Stanley Cup playoffs once, during the 2006–07 season, and never won a playoff game. Partially due to their lack of playoff success, the team had difficulty drawing fans to attend their games in their final seasons.[13]
+Winnipeg Jets (2011–present)
+[edit]
+Mounting losses eventually compelled the Coyotes to file for bankruptcy after the 2008–09 season. The team was taken over by the league before the next season began. As early as October 2009, there were rumours that True North Sports & Entertainment, the company that owns both Winnipeg's Canada Life Centre (then known as MTS Centre) and the American Hockey League (AHL)'s Manitoba Moose, had been invited to bid on the city's former franchise.[14] TNSE submitted a series of bids for the Coyotes, which were taken seriously enough that the league drew up a tentative schedule with Winnipeg in place of Phoenix. TNSE were 10 minutes away from getting the Coyotes before the NHL shelved the bid after securing a large subsidy from the Coyotes' municipal government.[15] In contrast to aggressive, public bids by Jim Balsillie (who had unsuccessfully attempted to use bankruptcy laws to skirt NHL rules and move the Coyotes to Hamilton), the low-key approach by TNSE and its chairman, Mark Chipman, was praised by NHL commissioner Gary Bettman and other owners, raising their profile when the question of the Thrashers' relocation came up.[16]
+Crowds gather at The Forks in Winnipeg on May 31, 2011, for the official announcement that the Atlanta Thrashers would relocate to Winnipeg pending the approval of the NHL's Board of Governors.
+On May 20, 2011, the Winnipeg Sun confirmed that an agreement in principle had been reached for True North to purchase the Thrashers,[17] while Winnipeg Mayor Sam Katz announced that he was confident that the Thrashers' relocation to Winnipeg would soon be officially announced.[18] On May 31, 2011, at a press conference at the MTS Centre, Bettman confirmed that the Atlanta Thrashers had been sold to True North and would relocate to Winnipeg for the 2011–12 season, pending the approval of the sale and relocation by the NHL's Board of Governors,[19] which came at their June 21, 2011, meeting.[20] The reported purchase price was $170 million, with $60 million going to the NHL as a relocation fee.[18] After the announcement, True North made preparations to move the Moose franchise to St. John's, Newfoundland and Labrador.[21]
+Season ticket sales began June 1, 2011, with Manitoba Moose season ticket holders having priority. The team sought to sell 13,000 season tickets in an effort to prove its viability.[22] Within the first three and a half hours, the new franchise sold 1,870 packages to Moose season ticket holders.[23] Season tickets opened to the general public on June 4 and sold out in 17 minutes.[24] Once the "Drive to 13,000" was completed, True North started a season ticket waiting list, which was shut down after 8,000 people signed up in two hours.[25] In July 2011, tickets for the October 9 home opener against the Montreal Canadiens were listed for an average price of $1,711 on StubHub, with an average selling price of $713.[26]
+True North said the team's name would not be announced until after the successful completion of the season ticket drive at the earliest.[27] The team was not to be named the Thrashers, since True North did not acquire the name in the transaction, and the rights to that name and the Thrashers logo were retained by the ownership group in Atlanta.[28] There was considerable support in Winnipeg to reuse "Winnipeg Jets", the name of the city's original WHA and NHL franchise, though rumours spread that True North preferred "Manitoba Moose". "Whiteout" and "Falcons" were also considered, but the latter was quickly rejected in deference to Atlanta, which has another professional sports team by that name.[29][30][31] True North kept the team's name secret until the 2011 NHL entry draft in Saint Paul, Minnesota, on June 24, when Chipman introduced general manager Kevin Cheveldayoff to "make our first pick, on behalf of the Winnipeg Jets."[32] At the time, the league directly owned the Coyotes and thus controlled the old Jets' trademarks, and granted permission to the new Jets to use them.
+Before the franchise relocation was officially completed, True North bought out the remaining years of general manager Rick Dudley's contract on June 4, 2011.[33] Thrashers President Don Waddell, who had been with the franchise since its inception, had earlier announced he would not be moving with the team.[28] Kevin Cheveldayoff, a former general manager of the Chicago Wolves and former assistant general manager of the Chicago Blackhawks, was hired to replace Dudley four days later.[34] The team also retained Marcel Comeau, the director of amateur scouting.[35] On June 12, 2011, Cheveldayoff had Thrashers head coach Craig Ramsay reinterview for his position, then formally dismissed him as head coach eight days later.[36][37] Claude Noël, who had been the head coach of the Manitoba Moose, was named head coach four days later; the other finalist for the job had been Chicago Blackhawks assistant coach Mike Haviland.[38] Charlie Huddy, Pascal Vincent and Wade Flaherty, formerly of the Dallas Stars and Blackhawks, were named Noël's assistant coaches.
+The team celebrate their first regulation win as the Jets at the MTS Centre on October 17, 2011.
+The Jets made their formal regular season debut on October 9, 2011, when a sellout crowd at the MTS Centre saw the visiting Montreal Canadiens defeat the Jets 5–1, with Nik Antropov scoring the first-ever Jets goal.[39] The opening ceremonies featured a concert by Winnipeg-based rock band Bachman–Turner Overdrive, who performed "You Ain't Seen Nothing Yet" with the title sung as "we just got back the Jets".[40] Other highlights on the first Jets schedule included a home-and-home set with the Phoenix Coyotes, Winnipeg's previous NHL franchise (including a December 1 game in Winnipeg, the Coyotes' first regular season appearance in Winnipeg since vacating the city), as well as a December 17 home game against the Anaheim Ducks, which was former Jet Teemu Selänne's first playing appearance in Winnipeg since being traded from the Jets in February 1996.[41]
+During the summer of 2012, the Jets added Perry Pearn to their coaching staff. Larry Simmons was appointed assistant general manager, the same position he had held with the Thrashers.[42][43] As the Jets inherited the Thrashers' position in the Southeast Division since the 2011–12 season, the NHL and National Hockey League Players' Association (NHLPA) were prompted to consider realignment of teams. Beginning in 2013–14, the Jets moved to the Western Conference and play in the new-look, seven-team Central Division.[44][45]
+The Jets fired Noël and Pearn in January 2014, with the former being replaced by veteran coach Paul Maurice.[46] On April 9, 2015, the Jets clinched their first Stanley Cup playoff appearance since relocating to Winnipeg following a 1–0 shootout loss to the Colorado Avalanche. They clinched the spot after the Calgary Flames defeated the Los Angeles Kings later in the night.[47] Finishing the season in the second wild-card spot, they played the top-seeded Anaheim Ducks in the first round. In the first playoff series that involved a team from Winnipeg since the 1996 playoffs, the Ducks swept the Jets in four games.
+Dustin Byfuglien with the Jets in the 2015–16 season. The Jets signed Byfuglien to a five-year extension in the 2015 off-season.
+The season following their first playoff run was a disappointment, as the Jets finished 25th overall, well out of the playoffs. Management was forced to deal with expiring contracts of two star players, electing to sign Dustin Byfuglien to a five-year extension while trading team captain Andrew Ladd to the Chicago Blackhawks at the NHL trade deadline. Despite finishing with the sixth-worst record in the league, the Jets managed to win the second overall pick in the 2016 NHL entry draft through the draft lottery, which they used to select Finnish prospect Patrik Laine.[48][49] Later that summer, the team appointed Blake Wheeler as their new captain.
+Playoff years (2017–present)
+[edit]
+In the 2017–18 season, the Jets clinched their second playoff spot since relocating from Atlanta, with the help of starting goaltender, Connor Hellebuyck. On March 25, 2018, the Jets beat the Nashville Predators 5–4 in a shootout, and clinched a spot in the 2018 Stanley Cup playoffs.[50] On April 11, 2018, the Jets won the first playoff game in the history of the Atlanta/Winnipeg franchise when they defeated the Minnesota Wild 3–2.[51] On April 20, 2018, the Jets won their first playoff series in franchise history (and the first series victory in 31 years for the city) with a 5–0 victory over the Minnesota Wild in game five of the first round series, winning the series 4–1.[52] On May 10, 2018, the Jets made further franchise history by advancing to the conference finals for the first time, defeating the Nashville Predators four games to three; Nashville were the defending holders of the Campbell Bowl Trophy from the previous season and holders of the Presidents' Trophy for most points in the league during the 2017–18 NHL season.[53] This would also mark the first time that either iteration of the Winnipeg Jets had advanced beyond the second round of the playoffs. Facing the Vegas Golden Knights in the conference finals, the Jets defeated the Golden Knights in the first game of the series 4–2.[54] However, the Jets went on to lose the conference finals, with the Golden Knights defeating the Jets in the following four games in the series.[55]
+In 2019, the Jets clinched the playoffs, but lost to the eventual Stanley Cup champion St. Louis Blues in six games in the first round.
+The Jets struggled in the 2019–20 season due to the departure of many high-profile defencemen such as Jacob Trouba, Tyler Myers and Dustin Byfuglien, but were still in contention for a wild-card spot when the league shut down due to the COVID-19 pandemic. The Jets were awarded a playoff spot as part of the expanded format, but injuries to star forwards Mark Scheifele and Patrik Laine in the first game of their series against the Calgary Flames in the qualifying round handicapped the team and they were eliminated 3–1 in the best-of-five series. Goaltender Connor Hellebuyck was also awarded the Vezina Trophy for being the league's best goaltender. The Jets won their fourth consecutive playoff berth in the 2020–21 season and swept the Edmonton Oilers in the first round but were themselves swept in the second round by the Montreal Canadiens.
+In the 2021–22 season, the Jets finished a disappointing sixth in the Central Division, missing the playoffs. At the start of the 2022–23 season, forward Blake Wheeler was stripped of the team captaincy.[56] The Jets then clinched the 2023 playoffs at the end of the regular season, but were defeated by the eventual Stanley Cup champion Vegas Golden Knights in five games in the first round. Before the start of the 2023–24 season, forward Adam Lowry was appointed team captain.[57] The Jets then clinched the second seed in the Central Division, but lost to the Colorado Avalanche in five games in the first round.
+In February 2024, NHL commissioner Gary Bettman stated that the threat of the Jets facing relocation was not a concern and gave a vote of confidence.[58]
+During the 2024–25 season, the Jets won their first Presidents Trophy and their division championship for most wins (56), most points (116).[59] They would then win against the St. Louis Blues in the first round in seven games [60] before eventually losing to the Dallas Stars in six games.[61]
+On September 24, 2026, the NHL announced that statistical history of the original Jets franchise would be moved from the inactive Coyotes franchise to the current Jets franchise. The records and statistics of the franchise now include both iterations in Winnipeg as well as the Thrashers.[9]
+Team information
+[edit]
+Jerseys
+[edit]
+The main and initial secondary logos of the Winnipeg Jets (the wordmark at lower right has since been replaced by the script form on their first alternate jersey[62]). The primary logo incorporates the RCAF roundel, and was prominent on the uniforms of the Ottawa RCAF Flyers[63]
+Patch worn during the 2011–12 season, the team's inaugural season in Winnipeg as its second incarnation
+Patch worn by the second incarnation of the Jets during the team's 10th season in Winnipeg in 2021, which also doubled as a tribute to Dale Hawerchuk, who died the previous summer
+The Jets debuted in the WHA wearing blue and white uniforms with red trim. White uniforms featured a blue shoulder yoke, blue numbers and blue-white-red-white-blue waist, sock and sleeve stripes. The blue uniforms were the inverse of their white counterparts minus the contrasting yoke and used red numbers. In the franchise's first season, the uniforms featured the futuristic "Jets" wordmark in front along with red or white player nameplates. Starting in 1974, the Jets donned their "classic" look, ditching the contrast-colour nameplates and unveiling their famous roundel logo. In 1977, the Jets added a white shoulder yoke on the blue uniform, and the following season, switched from red to blue pants.[64]
+Upon moving to the NHL in 1979, the Jets unveiled new uniforms. Then-general manager John Ferguson Sr. had been derided for changing the classic New York Rangers uniforms during the late 1970s, so he brought most elements of that design to the Jets. Both uniforms featured a thick shoulder stripe that extended through the sleeves, along with another thick stripe on the waist. In addition, the blue uniforms now featured white numbers with red trim and a white inverse of the team's logo in front. In 1987, the Jets added a "Goals for Kids" patch which remained a prominent figure on the uniforms until the relocation.[64]
+In 1990, the Jets unveiled their final uniform design during its original incarnation, featuring the updated crest in front and contrasting sleeve and waist stripes. They also switched back to red pants.[64]
+After True North relocated the then-Atlanta Thrashers to Winnipeg, no new logo and colours for the Jets accompanied the team's nickname announcement at the 2011 NHL entry draft (draft pick Mark Scheifele was presented with a generic black and silver NHL jersey and cap),[65] but True North confirmed that they were in the process of conceiving a logo and colour scheme for the Jets, with True North's chairman, Mark Chipman, stating that the previous Jets' blue and red colours would be incorporated.[66] The Jets unveiled their new logos and team colours on July 22, 2011, three days before the team had scheduled to release them (this after team merchandise containers were broken into and a crude picture of a Jets' T-shirt made the rounds on the internet).[1][67][68]
+While blue and silver are the main colour palette, the insignias are a dramatic departure from the previous Jets' logos and pay homage to the Royal Canadian Air Force (RCAF), particularly Winnipeg's 17 Wing; the primary logo is patterned after the roundels used by the RCAF and includes a silhouette of a McDonnell Douglas CF-18 Hornet.[68] (Red is a secondary part of the colour scheme due to a maple leaf, the incorporation of which came with the permission of the Toronto Maple Leafs.)[68] Game uniforms for the new Jets were unveiled in September at 17 Wing;[2][69][70] the team did not introduce a third jersey for its inaugural season due to a limited timetable.[67][68]
+The Jets kept their existing uniforms when Adidas took over production of NHL uniforms in 2017. Prior to the 2018–19 season, the Jets introduced their first alternate uniform, featuring aviator blue as the base colour, along with a new "Jets" wordmark, block letters and numbers, and striping inspired from the 1990–96 uniforms of the original Jets.[71][72]
+Even though the current Jets were initially not connected with the original franchise prior to 2026, the team continued to pay tribute to its original incarnation on a few occasions. From 2016 to 2019, the Jets wore throwback white uniforms based on the 1973–78 design worn by the original Jets. The uniforms made its debut in the 2016 NHL Heritage Classic and have been used during Jets Hall of Fame induction nights since.[73] This uniform was brought back for the 2026 NHL Heritage Classic to commemorate the 10th anniversary of the Jets' hosting the event.[74] A blue version of the throwback uniforms was later unveiled, this time for the 2019 NHL Heritage Classic.[75] For the 2020–21 season, the Jets wore "Reverse Retro" alternate uniforms, recreating the original Jets' 1979–90 uniforms but recoloured to match the current Jets' scheme.[76] In addition, the current Jets' 10th-anniversary logo in 2021 also served as a memorial logo to Dale Hawerchuk, whose no. 10 (in the original Jets' number and colour style) was added in lieu of the team's current logo following his death on August 18, 2020.[77] Starting with the 2021–22 season, the Jets' blue "Heritage" uniforms were promoted to alternate status, replacing the previous aviator blue alternates.[78] In the 2022–23 season, the Jets wore "Reverse Retro" uniforms based on the white uniforms worn by the original Jets from 1990 to 1996, again recoloured to the current Jets' scheme.[79]
+In the 2023–24 season, the Jets wore special "Heritage" uniforms for three games in collaboration with the RCAF for its centennial anniversary. Nicknamed the "Forty-Eight" in tribute to the Ottawa RCAF Flyers team that won the gold medal for Team Canada in the 1948 Winter Olympics, the uniform featured a powder blue (nicknamed "RCAF blue") base, red and navy blue stripes, and navy blue numbers.[80]
+The logo was designed by Reebok, the NHL and designer Linda Lynch.[81] Reebok's lead uniform and team identity designers, Dominique Fillion and Linda Lynch, have been associated with the identity design.[82]
+Mascot
+[edit]
+True North announced they had "recalled" their former Moose mascot, Mick E. Moose, from the AHL. Mick E. had spent the past 15 seasons with the Manitoba Moose of the International and American hockey leagues, entertaining fans at Moose games and community events. Slight modifications to the costume were made, including a new vintage leather aviator helmet.[83][84] Since the start of the 2015–16 season, Mick E. Moose has served as mascot for both the Jets and the Manitoba Moose. A fan favourite, he also averages over 100 community appearances per season in Winnipeg and rural Manitoba.[84] In the 2016 Heritage Classic, the current Jets resurrected their mascot from its original incarnation, Benny, and has since served as the team's secondary mascot.
+Traditions
+[edit]
+National anthem
+[edit]
+Beginning in 2011, during the singing of "O Canada", fans commonly shout the words "True North!" (in the line "The True North strong and free") to recognize True North Sports & Entertainment.[85] Jennifer Hanson was the Jets' regular national anthem singer for the final seven seasons of the original franchise, and performed again during the 2016 Heritage Classic Alumni Game.[86] Stacey Nattrass (who has been uniquely known as Your Winnipeg Jets' Own) has performed the anthems at the majority of home games since 2011.[87]
+Winnipeg Whiteout
+[edit]
+The Winnipeg Whiteout is a hockey tradition that dates back to 1987 when fans of the original Jets franchise were asked to wear white clothing at the home playoff games. It was created as a response to the "C of Red" created by fans of the Calgary Flames, whom the Jets were facing in the first round of the 1987 Stanley Cup playoffs.[88][89] The Jets eliminated the Flames in six games, and fans wore white for every home playoff game thereafter.
+Fans of the former Jets AHL affiliate, the St. John's IceCaps, also continued this tradition, as did fans of the continuing franchise in Glendale, the Arizona Coyotes. It was referred to as the "Ice Cap's Whiteout"[90] and "Coyotes Whiteout",[91] respectively by IceCaps and Coyotes fans. The Whiteout was also used during the Canada vs Russia Gold medal game, at the 1999 World Junior Ice Hockey Championships, hosted by the city of Winnipeg.[92] During the 2009 Calder Cup playoffs between the Manitoba Moose and the Hershey Bears, fans were asked to wear white for game 6 of the Calder Cup Finals.[93]
+The Winnipeg Jets resurrected this tradition when they qualified for the 2015 Stanley Cup playoffs.[94]
+Season-by-season record
+[edit]
+For the full season-by-season history, see List of Winnipeg Jets seasons
+Note: GP = Games played, W = Wins, L = Losses, OTL = Overtime losses, Pts = Points, GF = Goals for, GA = Goals against
+Season | GP | W | L | OTL | Pts | GF | GA | Finish | Playoffs | 
+2021–22 | 82 | 39 | 32 | 11 | 89 | 252 | 257 | 6th, Central | Did not qualify | 
+2022–23 | 82 | 46 | 33 | 3 | 95 | 247 | 225 | 4th, Central | Lost in first round, 1–4 (Golden Knights) | 
+2023–24 | 82 | 52 | 24 | 6 | 110 | 259 | 199 | 2nd, Central | Lost in first round, 1–4 (Avalanche) | 
+2024–25 | 82 | 56 | 22 | 4 | 116 | 277 | 191 | 1st, Central | Lost in second round, 2–4 (Stars) | 
+2025–26 | 82 | 35 | 35 | 12 | 82 | 231 | 260 | 7th, Central | Did not qualify | 
+Players and personnel
+[edit]
+Current roster
+[edit]
+ view
+talk
+edit
+Updated September 29, 2026[95][96]
+No. | 
+Nat | 
+Player | 
+Pos | 
+S/G | 
+Age | 
+Acquired | 
+Birthplace | 
+36 | 
+ | 
+Morgan Barron | 
+C | 
+L | 
+27 | 
+2022 | 
+Halifax, Nova Scotia | 
+77 | 
+ | 
+Tyrel Bauer | 
+D | 
+R | 
+24 | 
+2020 | 
+Cochrane, Alberta | 
+61 | 
+ | 
+Viggo Björck | 
+C | 
+R | 
+18 | 
+2026 | 
+Stockholm, Sweden | 
+81 | 
+ | 
+Kyle Connor | 
+LW | 
+L | 
+29 | 
+2015 | 
+Clinton Township, Michigan | 
+2 | 
+ | 
+Dylan DeMelo | 
+D | 
+R | 
+33 | 
+2020 | 
+London, Ontario | 
+71 | 
+ | 
+Walker Duehr | 
+RW | 
+R | 
+28 | 
+2025 | 
+Sioux Falls, South Dakota | 
+38 | 
+ | 
+Mario Ferraro | 
+D | 
+L | 
+28 | 
+2026 | 
+King City, Ontario | 
+24 | 
+ | 
+Haydn Fleury | 
+D | 
+L | 
+30 | 
+2024 | 
+Carlyle, Saskatchewan | 
+37 | 
+ | 
+Connor Hellebuyck | 
+G | 
+L | 
+33 | 
+2012 | 
+Commerce, Michigan | 
+9 | 
+ | 
+Alex Iafallo | 
+LW/C | 
+L | 
+32 | 
+2023 | 
+Eden, New York | 
+45 | 
+ | 
+Cole Koepke | 
+LW | 
+L | 
+28 | 
+2025 | 
+Two Harbors, Minnesota | 
+93 | 
+ | 
+Brad Lambert | 
+C | 
+R | 
+22 | 
+2022 | 
+Lahti, Finland | 
+17 | 
+ | 
+Adam Lowry (C) | 
+C | 
+L | 
+33 | 
+2011 | 
+St. Louis, Missouri | 
+44 | 
+ | 
+Josh Morrissey (A) | 
+D | 
+L | 
+31 | 
+2013 | 
+Calgary, Alberta | 
+7 | 
+ | 
+Vladislav Namestnikov | 
+C | 
+L | 
+33 | 
+2023 | 
+Voskresensk, Russia | 
+62 | 
+ | 
+Nino Niederreiter | 
+RW | 
+L | 
+34 | 
+2023 | 
+Chur, Switzerland | 
+91 | 
+ | 
+Cole Perfetti | 
+C | 
+L | 
+24 | 
+2020 | 
+Whitby, Ontario | 
+4 | 
+ | 
+Neal Pionk | 
+D | 
+R | 
+31 | 
+2019 | 
+Omaha, Nebraska | 
+27 | 
+ | 
+Isak Rosén | 
+RW | 
+L | 
+23 | 
+2026 | 
+Stockholm, Sweden | 
+57 | 
+ | 
+Elias Salomonsson | 
+D | 
+R | 
+22 | 
+2022 | 
+Skellefteå, Sweden | 
+54 | 
+ | 
+Dylan Samberg | 
+D | 
+L | 
+27 | 
+2017 | 
+Hermantown, Minnesota | 
+55 | 
+ | 
+Mark Scheifele (A) | 
+C | 
+R | 
+33 | 
+2011 | 
+Kitchener, Ontario | 
+74 | 
+ | 
+Stuart Skinner | 
+G | 
+L | 
+27 | 
+2026 | 
+Edmonton, Alberta | 
+6 | 
+ | 
+Jack St. Ivany | 
+D | 
+R | 
+27 | 
+2026 | 
+Manhattan Beach, California | 
+33 | 
+ | 
+Clay Stevenson | 
+G | 
+L | 
+27 | 
+2026 | 
+Drayton Valley, Alberta | 
+13 | 
+ | 
+Gabriel Vilardi | 
+C | 
+R | 
+27 | 
+2023 | 
+Kingston, Ontario | 
+Team captains
+[edit]
+Note: This list includes Jets captains from both the NHL and WHA and does not include captains from the Atlanta Thrashers.
+Ab McDonald, 1972–1974
+Dan Johnson, 1974–1975
+Lars-Erik Sjoberg, 1975–1978
+Barry Long, 1978–1979
+Lars-Erik Sjoberg, 1979–1980
+Morris Lukowich, 1980–1981
+Dave Christian, 1981–1982
+Lucien DeBlois, 1982–1984
+Dale Hawerchuk, 1984–1989
+Dale Hawerchuk, Thomas Steen and Randy Carlyle, 1989–1990 (tri-captains)
+Thomas Steen and Randy Carlyle, 1990–1991 (co-captains)
+Troy Murray, 1991–1993
+Dean Kennedy, 1993
+Keith Tkachuk, 1993–1995
+Kris King, 1995–1996
+Andrew Ladd, 2011–2016
+Blake Wheeler, 2016–2022
+Adam Lowry, 2023–present
+Hall of Famers
+[edit]
+Dale Hawerchuk, C, 1981–1990, inducted 2001
+Phil Housley, D, 1990–1993, inducted 2015
+Bobby Hull, LW, 1972–1980, inducted 1983
+Serge Savard, D, 1981–1983, inducted 1986
+Teemu Selänne, RW, 1992–1996, inducted 2017
+Keith Tkachuk, LW, 1991–1996, inducted 2026
+Retired numbers
+[edit]
+The previous Winnipeg Jets organization retired the jersey numbers of two players, while their successors, the Arizona Coyotes, honoured the numbers of players who played for the former Jets. No numbers have been officially retired by the current franchise to date, although several members of the original franchise are honoured by the current Winnipeg Jets organization as part of its Hall of Fame.
+The number 99 is retired league-wide in honour of Wayne Gretzky; this was done by the NHL at the 2000 NHL All-Star Game.[97]
+Retired/honoured by the original Winnipeg Jets/Arizona Coyotes
+#9 Bobby Hull – upon relocation of the team from Atlanta in 2011, Evander Kane received permission from Hull to wear this number and did so until traded to the Buffalo Sabres in February 2015.[98] Andrew Copp wore this number from 2015 to 2022.
+#10 Dale Hawerchuk – Bryan Little switched from number 10 to number 18 during the franchise relocation in 2011, out of respect for Hawerchuk. The current organization incorporated the number into its commemorative logo for the 2020–21 season which simultaneously celebrated the team's tenth season in Winnipeg and honoured Hawerchuk, who died of cancer in August 2020.
+#25 Thomas Steen – this number was worn briefly by Zach Redmond and Brett MacLean. It was last worn by Paul Stastny, a close friend of Steen's son, Alex. Stastny chose the number in part because of Steen.
+Honoured by the Atlanta Thrashers/current Winnipeg Jets
+#11 Rick Rypien – this number was not issued in honour of former Manitoba Moose player Rypien following the player's death shortly after signing with the Jets organization prior to the 2011–12 season. Nate Thompson was granted special permission to wear the honoured number after signing with the club for the 2020–21 season.[99] The Jets and Moose also wear stickers bearing #11 on their helmets as part of the Project11 initiative in support of mental health awareness.
+#37 Dan Snyder – the Atlanta/Winnipeg organization did not issue this number between 2003 and 2016 following the death of Snyder in 2003.[100] Goaltender Connor Hellebuyck has worn the number since 2016, having received the blessing of the Snyder family.[101]
+Winnipeg Jets Hall of Fame
+[edit]
+The organization created the Winnipeg Jets Hall of Fame in 2016 to honour the impact and accomplishments of the original Winnipeg Jets, and the history of professional hockey in the city.[102] The inaugural inductees were the "HOT Line" consisting of Anders Hedberg, Bobby Hull and Ulf Nilsson, who were inducted on October 19, 2016.[103] Dale Hawerchuk was honoured on November 14, 2017.[104] Lars-Erik Sjöberg and Ab McDonald were posthumously inducted on February 26, 2019. Both were captains of the team at key points of the original team's history, with the latter being the first-ever captain for the team and the former being the first captain for the team upon joining the NHL.[105] Randy Carlyle and Thomas Steen were inducted on February 11, 2020, both serving as some of the longest tenured players in original Jets' history.[106] Teemu Selänne and Teppo Numminen were inducted on November 17, 2022.[107]
+Players
+Bobby Hull (2016)
+Ulf Nilsson (2016)
+Anders Hedberg (2016)
+Dale Hawerchuk (2017)
+Lars-Erik Sjöberg (2019)
+Ab McDonald (2019)
+Randy Carlyle (2020)
+Thomas Steen (2020)
+Teemu Selänne (2022)
+Teppo Numminen (2022)
+Head coaches
+[edit]
+Main article: List of Winnipeg Jets head coaches
+Note: This list does not include head coaches from the Atlanta Thrashers.
+Claude Noël, 2011–2014
+Paul Maurice, 2014–2021
+Dave Lowry, 2021–2022
+Rick Bowness, 2022–2024
+Scott Arniel, 2024–present
+Franchise records
+[edit]
+Scoring leaders
+[edit]
+Recording 812 points as a member of the Jets, Blake Wheeler was the franchise's all-time points leader.
+These are the top-ten point-scorers in franchise (Atlanta and Winnipeg) history.[108] Figures are updated after each completed NHL regular season.
+ * – current Jets player
+Note: Pos = Position; GP = Games played; G = Goals; A = Assists; Pts = Points; P/G = Points per game
+\n{| class=\"wikitable\" style=\"text-align:center\"\n|+ style=\"background:#FFFFFF; border-top:#041E42 5px solid; border-bottom:#004A98 5px solid;\"|Points\n! Player !! Pos !! GP !! G !! A !! Pts !! P/G\n|-\n| style=\"text-align:left;\"|[[Dale Hawerchuk]] || LW || 713 || 379 || 550 || '''929''' || 1.30\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Mark Scheifele]]* || C || 961 || 372 || 535 || '''907''' || .94\n|-\n| style=\"text-align:left;\"|[[Thomas Steen]] || C || 950 || 264 || 553 || '''817''' || .86\n|-\n| style=\"text-align:left;\"|[[Blake Wheeler]] || C || 897 || 262 || 550 || '''812''' || .91\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Kyle Connor]]* || LW || 695 || 323 || 351 || '''674''' || .97\n|-\n| style=\"text-align:left;\"|[[Ilya Kovalchuk]] || LW || 594 || 328 || 287 || '''615''' || 1.04\n|-\n| style=\"text-align:left;\"|[[Bryan Little]] || C || 843 || 217 || 304 || '''521''' || .62\n|- \n| style=\"text-align:left;\"|[[Nikolaj Ehlers]] || LW || 674 || 225 || 295 || '''520''' || .77\n|-\n|style=\"text-align:left;\"|[[Paul MacLean (ice hockey)|Paul MacLean]] || RW || 527 || 248 || 270 || '''518''' || .98\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Josh Morrissey]]* || D || 739 || 94 || 334 || '''428''' || .58\n|}\n",{"template":{"target":{"wt":"col-break","href":"./Template:Col-break"},"params":{"gap":{"wt":"1em"}},"i":2}},"\n{| class=\"wikitable\" style=\"text-align:center\"\n|+ style=\"background:#FFFFFF; border-top:#041E42 5px solid; border-bottom:#004A98 5px solid;\"|Goals\n! Player !! Pos !! G\n|-\n| style=\"text-align:left;\"|[[Dale Hawerchuk]] || C || 379\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Mark Scheifele]]* || C || 372\n|-\n| style=\"text-align:left;\"|[[Ilya Kovalchuk]] || LW || 328\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Kyle Connor]]* || LW || 323\n|-\n| style=\"text-align:left;\"|[[Thomas Steen]] || C || 264\n|-\n| style=\"text-align:left;\"|[[Blake Wheeler]] || RW || 262\n|-\n| style=\"text-align:left;\"|[[Paul MacLean (ice hockey)|Paul MacLean]] || LW || 248\n|-\n| style=\"text-align:left;\"|[[Nikolaj Ehlers]] || LW || 225\n|-\n| style=\"text-align:left;\"|[[Bryan Little]] || C || 217\n|-\n| style=\"text-align:left;\"|[[Doug Smail]] || LW || 189\n|}\n",{"template":{"target":{"wt":"col-break","href":"./Template:Col-break"},"params":{"gap":{"wt":"1em"}},"i":3}},"\n{| class=\"wikitable\" style=\"text-align:center\"\n|+ style=\"background:#FFFFFF; border-top:#041E42 5px solid; border-bottom:#004A98 5px solid;\"|Assists\n! Player !! Pos !! A\n|-\n| style=\"text-align:left;\"|[[Thomas Steen]] || C || 553\n|-\n| style=\"text-align:left;\"|[[Dale Hawerchuk]] || C || 550\n|-\n| style=\"text-align:left;\"|[[Blake Wheeler]] || RW || 550\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Mark Scheifele]]* || C || 535\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Kyle Connor]]* || LW || 351\n|- style=\"background:#cfc;\"\n| style=\"text-align:left;\"|[[Josh Morrissey]]* || D || 334\n|-\n| style=\"text-align:left;\"|[[Bryan Little]] || C || 304\n|-\n| style=\"text-align:left;\"|[[Nikolaj Ehlers]] || LW || 295\n|-\n| style=\"text-align:left;\"|[[Dustin Byfuglien]] || D || 294\n|-\n| style=\"text-align:left;\"|[[Ilya Kovalchuk]] || LW || 287\n|}\n",{"template":{"target":{"wt":"col-end","href":"./Template:Col-end"},"params":{},"i":4}}]}'> 
+Points
+Player | Pos | GP | G | A | Pts | P/G | 
+Dale Hawerchuk | LW | 713 | 379 | 550 | 929 | 1.30 | 
+Mark Scheifele* | C | 961 | 372 | 535 | 907 | .94 | 
+Thomas Steen | C | 950 | 264 | 553 | 817 | .86 | 
+Blake Wheeler | C | 897 | 262 | 550 | 812 | .91 | 
+Kyle Connor* | LW | 695 | 323 | 351 | 674 | .97 | 
+Ilya Kovalchuk | LW | 594 | 328 | 287 | 615 | 1.04 | 
+Bryan Little | C | 843 | 217 | 304 | 521 | .62 | 
+Nikolaj Ehlers | LW | 674 | 225 | 295 | 520 | .77 | 
+Paul MacLean | RW | 527 | 248 | 270 | 518 | .98 | 
+Josh Morrissey* | D | 739 | 94 | 334 | 428 | .58 | 
+ | 
+Goals
+Player | Pos | G | 
+Dale Hawerchuk | C | 379 | 
+Mark Scheifele* | C | 372 | 
+Ilya Kovalchuk | LW | 328 | 
+Kyle Connor* | LW | 323 | 
+Thomas Steen | C | 264 | 
+Blake Wheeler | RW | 262 | 
+Paul MacLean | LW | 248 | 
+Nikolaj Ehlers | LW | 225 | 
+Bryan Little | C | 217 | 
+Doug Smail | LW | 189 | 
+ | 
+Assists
+Player | Pos | A | 
+Thomas Steen | C | 553 | 
+Dale Hawerchuk | C | 550 | 
+Blake Wheeler | RW | 550 | 
+Mark Scheifele* | C | 535 | 
+Kyle Connor* | LW | 351 | 
+Josh Morrissey* | D | 334 | 
+Bryan Little | C | 304 | 
+Nikolaj Ehlers | LW | 295 | 
+Dustin Byfuglien | D | 294 | 
+Ilya Kovalchuk | LW | 287 | 
+ | 
+Goaltending leaders
+[edit]
+These are the top-ten goaltenders in franchise (Atlanta and Winnipeg) history by wins.[109] Figures are updated after each completed NHL regular season.
+ * – current Jets player
+Note: GP = Games played; W = Wins; L = Losses; T/O = Ties/Overtime losses; GA = Goal against; GAA = Goals against average; SA = Shots against; SV% = Save percentage; SO = Shutouts
+Goaltenders
+Player | GP | W | L | T/O | GA | GAA | SA | SV% | SO | 
+Connor Hellebuyck* | 625 | 345 | 208 | 55 | 1,568 | 2.58 | 18,613 | .916 | 45 | 
+Ondřej Pavelec | 379 | 152 | 158 | 47 | 1,023 | 2.87 | 10,984 | .907 | 17 | 
+Bob Essensa | 281 | 116 | 114 | 32 | 882 | 3.38 | 8,292 | .894 | 14 | 
+Kari Lehtonen | 204 | 94 | 83 | 17 | 559 | 2.87 | 6,362 | .912 | 14 | 
+Brian Hayward | 165 | 63 | 75 | 16 | 649 | 4.28 | 4,783 | .864 | 1 | 
+Johan Hedberg | 137 | 57 | 47 | 14 | 377 | 3.08 | 3,756 | .900 | 4 | 
+Daniel Berthiaume | 120 | 50 | 45 | 13 | 399 | 3.63 | 3,216 | .876 | 4 | 
+Doug Soetaert | 130 | 50 | 48 | 21 | 510 | 4.24 | 3,891 | .869 | 2 | 
+Pasi Nurminen | 125 | 48 | 54 | 12 | 338 | 2.87 | 3,519 | .904 | 5 | 
+Michael Hutchinson | 102 | 43 | 39 | 11 | 239 | 2.65 | 2,644 | .910 | 3 | 
+Single-season leaders
+[edit]
+Most goals in a season: Teemu Selanne, 76 (1992-93)
+Most assists in a season: Phil Housley, 79 (1992–93)
+Most points in a season: Teemu Selänne, 132 (1992–93)
+Most penalty minutes in a season: Tie Domi, 347 (1993–94)
+Most goals in a season, defenceman: Phil Housley, 23 (1990–91, 1991–92)
+Most points in a season, defenceman: Phil Housley, 97 (1992–93)
+Most goals in a season, rookie: Teemu Selänne, 76 (1992-93)
+Most assists in a season, rookie: Dale Hawerchuk, 58 (1981–82)
+Most points in a season, rookie: Teemu Selänne, 132 (1992–93)
+Most wins in a season: Connor Hellebuyck, 47 (2024–25)
+Most shutouts in a season: Connor Hellebuyck, 8 (2024–25)
+Broadcasters
+[edit]
+The majority of the Jets' home market is marked in orange.
+Bell Media served as the initial media rightsholder for the Jets, under a 10-year deal covering both radio and television.[110][111]
+TSN is the regional television broadcaster of the Jets for games not broadcast by Sportsnet or Amazon Prime Video; games are televised on TSN3 in Manitoba, Saskatchewan, Nunavut, the Northwest Territories (shared with the Calgary Flames and Edmonton Oilers outside of Manitoba), and parts of Northwestern Ontario (shared with the Toronto Maple Leafs). Initially, Jets games were carried on a dedicated feed of TSN in the team's market, "TSN Jets", which was sold as a subscription-based pay television service separate from the national TSN network. In 2014, with the realignment of TSN into regional feeds, Jets telecasts moved to TSN3 and the separate TSN Jets channel was discontinued.[111] The team renewed its television rights with TSN3 on October 5, 2020.[112]
+Dan Robertson and Landon Ferraro serve as the respective play-by-play announcer and colour commentator for Jets broadcasts on TSN3, with Sara Orlesky reporting at rinkside.[113] Previously, Dennis Beyak served as the primary play-by-play voice for the Jets until his retirement at the end of the 2021–22 NHL season. Beyak's previous partners include Kevin Sawyer, Ray Ferraro, and Shane Hnidy. Hnidy was the team's lead colour commentator from the 2011–12 to 2016–17 seasons and has since moved to AT&T SportsNet Rocky Mountain to cover the Vegas Golden Knights in 2017.[114]
+Corus Entertainment has held the Jets radio rights since the 2020–21 season, as part of a seven-year agreement signed in 2020. CJOB and CJKR-FM Power 97 serve as co-flagships, simulcasting all games on AM and FM radio. Paul Edmonds and Mitchell Clinton (previously Jamie Thomas) serve as on-air play-by-play team. CJOB served as the radio home of their original incarnation from 1972 to 1982, and again from 1992 to 1996.[115] (CJKR-FM solely airs Jets games in the event of scheduling conflicts with Winnipeg Blue Bombers football on CJOB.) CFRW, TSN Radio 1290, served as the flagship radio station of the team from 2011 to 2020, with Edmonds on play-by-play alongside Brian Munz. They were occasionally joined by Beyak, who took over radio play-by-play when TSN was not involved in the television broadcast. Munz also occasionally substituted for Beyak on TSN.[111]
+See also
+[edit]
+List of Atlanta Thrashers/Winnipeg Jets general managers
+List of Winnipeg Jets draft picks
+List of Winnipeg Jets players
+List of Winnipeg Jets award winners
+References
+[edit]
+1 2 "Winnipeg Jets update logo, flying high with new fighter jet design". NHL.com. NHL Enterprises, L.P. July 22, 2011. Archived from the original on September 5, 2021. Retrieved November 30, 2025.
+1 2 "Winnipeg Jets unveil Home & Away Jerseys". WinnipegJets.com. NHL Enterprises, L.P. September 6, 2011. Archived from the original on August 18, 2017. Retrieved November 30, 2025.
+↑ "TNSE Front Office". TNSE.com. Retrieved November 30, 2025.
+↑ "Welcome to Canada Life Centre, home of the Winnipeg Jets". WinnipegJets.com (Press release). NHL Enterprises, L.P. June 15, 2021. Retrieved May 21, 2024.
+↑ "Winnipeg Jets' home arena to be renamed Canada Life Centre". CBC. June 15, 2021. Retrieved February 25, 2022.
+↑ Condor, Bob (May 31, 2011). "Winnipeg group has deal to buy, move Thrashers". NHL.com. NHL Enterprises, L.P. Archived from the original on March 7, 2016. Retrieved November 30, 2025.
+↑ Ira Podell (June 21, 2011). "Winnipeg bound: NHL owners give green light for Atlanta Thrashers to move". Winnipeg Free Press. Retrieved June 27, 2011.
+↑ Bechtel, Mark (January 30, 2012). "Everybody Loves Winnipeg: Sixteen years after it abandoned North America's coldest city—and its smallest market—for sunnier, sexier climes, the NHL has returned better than ever, giving loyal fans of the reincarnated Jets, and every Canadian, something to cheer about". Sports Illustrated. Retrieved May 25, 2018.
+1 2 "NHL Announces Consolidation of Winnipeg Jets' History". NHL.com. September 24, 2026. Retrieved September 24, 2026.
+↑ Van Diest, Derek (September 24, 2026). "Jets stats to include both iterations of franchise, Scheifele now chasing Hawerchuk again | NHL.com". www.nhl.com. Retrieved September 29, 2026.
+↑ "Pro hockey once had two leagues, and that couldn't last". CBC. March 22, 2019. Retrieved October 30, 2021.
+↑ "Looking back at Winnipeg's professional hockey history". CTV. May 20, 2011. Archived from the original on October 30, 2015. Retrieved October 30, 2021.
+↑ O'Brien, James (November 6, 2010). "Add the Atlanta Thrashers to the list of teams facing attendance issues". NBC Sports. Retrieved May 31, 2011.
+↑ Wiebe, Ken (October 4, 2009). "Thrashers to Winnipeg?". canoe.com. Archived from the original on November 7, 2015. Retrieved December 13, 2010.
+↑ Kirbyson, Geoff (June 17, 2011). "Jun 2011: Winnipeg came within 10 minutes of getting the Coyotes". Winnipeg Free Press. Retrieved June 21, 2024.
+↑ "True North also had talks about buying Predators, Coyotes". National Post. June 2, 2011. Retrieved May 25, 2018.
+↑ Penton, Kirk (May 20, 2011). "Moose deny St. John's move". Winnipeg Sun. Archived from the original on November 7, 2015. Retrieved May 31, 2011.
+1 2 Wiebe, Ken (May 24, 2011). "NHL announcement in next few days 'realistic': Katz". Toronto Sun. Retrieved May 31, 2011.
+↑ "True North buys Thrashers, set to move team to Winnipeg". The Sports Network. Retrieved January 30, 2012.
+↑ "NHL Board of Governors approves sale of Thrashers to True North Sports & Entertainment". WinnipegJets.com. NHL Enterprises, L.P. June 21, 2011. Archived from the original on August 31, 2018. Retrieved November 30, 2025.
+↑ "Pro hockey returning to St. John's". CBC News. October 6, 2011. Retrieved May 25, 2018.
+↑ "New Winnipeg franchise sells 13K season tickets". June 4, 2011.
+↑ "Fans commit to buying 1,870 season tickets on first day of drive". Winnipeg Free Press. June 1, 2011.
+↑ Tait, Ed (June 4, 2011). "NHL season tickets sell out in just 17 minutes". Winnipeg Free Press.
+↑ "Season ticket wait list capped at 8,000 following 17-minute sellout |Ed Tait". Winnipeg Free Press. June 4, 2011.
+↑ "Tickets Sold in the Winnipeg Jets Secondary Ticket Market | Illegal Curve Hockey". Illegalcurve.com. July 29, 2011. Archived from the original on January 24, 2012. Retrieved January 30, 2012.
+↑ Tate, Ed (June 4, 2011). "Transition Game-True North has hands full, but not overwhelmed". Winnipeg Free Press. Retrieved June 4, 2011.
+1 2 Tucker T (June 1, 2011). "Waddell's job, Thrashers name will end with sale". Atlanta Journal-Constitution. Retrieved June 4, 2011.
+↑ Halstead, Jason (May 25, 2011). "Thousands sign petition demanding team be called Jets". Toronto Sun. Retrieved June 22, 2011.
+↑ "Could it be the Winnipeg Whiteout?". June 4, 2011.
+↑ Ledra, Cristina; Pickens, Pat (November 22, 2016). "NHL team nicknames explained". NHL.com. NHL Enterprises, L.P. Retrieved May 13, 2018.
+↑ "Jun 2011: Fans get their wish". June 25, 2011.
+↑ CBC Sports (June 4, 2011). "Thrashers GM Dudley let go by True North". CBC Sports. Retrieved May 25, 2018.
+↑ "CHEVELDAYOFF TAKES WINNIPEG GENERAL MANAGER'S JOB". TSN. June 8, 2011. Archived from the original on June 23, 2011. Retrieved June 8, 2011.
+↑ Mirtle, James (July 14, 2011). "Jets take several Thrashers staffers with them". The Globe and Mail. Retrieved September 30, 2018.
+↑ "WINNIPEG GM INTENDS ON INTERVIEWING FOR COACHING JOB". TSN. Retrieved June 13, 2011.
+↑ Wiebe, Ken (June 20, 2011). Then there were two: Noel and Haviland still standing. Winnipeg Sun. Retrieved June 20, 2011.
+↑ "Noel named as Winnipeg Head Coach". Noel named as Winnipeg Head Coach. June 24, 2011. Retrieved June 24, 2011.
+↑ "Canadiens vs. Jets - Game Recap - October 9, 2011". Archived from the original on August 4, 2017.
+↑ Klein, Jeff Z. (October 8, 2011). "N.H.L.: Giddy Winnipeg Reclaims Its Long-Lost Prairie Companion". The New York Times. ISSN 0362-4331. Retrieved April 13, 2017.
+↑ "Jun 2011: NHL regular season schedule released". June 23, 2011.
+↑ "Jets re-sign assistant coaches, add Pearn". Rogers Sportsnet. June 14, 2012.
+↑ "Jets promote Simmons to assistant GM". TSN. August 2, 2012.
+↑ "NHL's realignment plan on hold after NHLPA rejects changes". The Sports Network. January 7, 2012. Archived from the original on July 20, 2012. Retrieved January 30, 2012.
+↑ "NHL players approve realignment for next season". Canadian Broadcasting Corporation. March 7, 2013. Retrieved May 25, 2018.
+↑ Tait, Ed (January 12, 2014). "Jets fire Noel, hire Paul Maurice". Winnipeg Free Press.
+↑ "Winnipeg Jets fans celebrate as team secures NHL playoff spot". CBC News. April 9, 2015.
+↑ "Jets move up and steal No. 2 pick for NHL Draft". Winnipeg Sun. April 30, 2016.
+↑ "Andrew Ladd trade with Blackhawks about development, Jets blogger says". Canadian Broadcasting Corporation. February 26, 2016.
+↑ "Jets clinch playoff spot after shootout win over Predators". Sportsnet.ca. March 25, 2018. Retrieved March 26, 2018.
+↑ Billeck, Scott (April 11, 2018). "Jets top Wild in Game 1 for first playoff win in franchise history". National Hockey League. Retrieved May 13, 2018.
+↑ "Jets smash Wild to win franchise's first playoff series 4-1". Sportsnet.ca. The Canadian Press. April 20, 2018. Retrieved April 21, 2018.
+↑ Geary, Aidan (May 10, 2018). "'Total elation': Jets fans floating on air after historic Game 7 win". CBC News. Retrieved July 7, 2021.
+↑ Cotsonika, Nick (May 13, 2018). "Jets feed off crowd's energy in Game 1 win against Golden Knights". National Hockey League. Retrieved May 20, 2018.
+↑ Hobson, Russ (May 20, 2018). "Winnipeg Jets' playoff run ends with 4th straight loss to Vegas Golden Knights". Global News. Corus Entertainment Inc. Retrieved May 20, 2018.
+↑ "Jets to enter season without captain, remove Wheeler from role". NHL.com. September 16, 2022. Retrieved June 18, 2024.
+↑ "Adam Lowry named Jets captain". NHL.com. September 12, 2023. Retrieved June 18, 2024.
+↑ Woelk, Daisy (February 28, 2024). "Winnipeg Jets owner calms fans amid attendance concerns, assures future stability". Global News. Retrieved March 10, 2025.
+↑ "Winnipeg Jets win first Presidents' Trophy in club's history". ESPN. April 14, 2025. Retrieved May 18, 2025.
+↑ Bauming, Darrin (May 4, 2025). "Jets rally late in 3rd, defeat Blues in Game 7 on Lowry's 2OT goal". NHL.com. Retrieved May 18, 2025.
+↑ Hawkins, Stephen (May 17, 2025). "Winnipeg Jets out of NHL playoffs after 2-1 overtime loss to Dallas Stars in Game 6". Globe and Mail. Retrieved May 18, 2025.
+↑ Minuk, David (August 13, 2021). "Winnipeg Jets making Heritage Classic blue steel official third jersey". Illegal Curve. Retrieved April 13, 2025.
+↑ O'Malley, Dave (2013). "Roundel Round-Up - The Roundel – Part of Canadian Popular Culture". vintagewings.ca. Vintage Wings of Canada. Retrieved April 1, 2015.
+1 2 3 "Winnipeg Jets Jersey History". The Hockey Writers. August 11, 2026. Retrieved September 24, 2026.
+↑ "Jun 2011: Welcome to Winnipeg, Scheifele". June 25, 2011.
+↑ Williams, Patrick (June 24, 2011). "It's official: Winnipeg will be called the Jets". NHL.com. NHL Enterprises, L.P. Archived from the original on March 6, 2016. Retrieved November 30, 2025.
+1 2 "True North Unveils Jets Logos". WinnipegJets.com. NHL Enterprises, L.P. July 22, 2011. Archived from the original on February 21, 2018. Retrieved November 28, 2023.
+1 2 3 4 Campbell, Tim (July 23, 2011). "Jets fly with air force logo". Winnipeg Free Press. Retrieved May 13, 2018.
+↑ "Winnipeg Jets unveil new navy blue uniforms". WinnipegJets.com. NHL Enterprises, L.P. September 7, 2011. Archived from the original on May 3, 2019. Retrieved November 28, 2023.
+↑ "Winnipeg Jets unveil new uniforms". Toronto Star. September 6, 2011.
+↑ "Winnipeg Jets, National Hockey League® and adidas Unveil Third Jersey for the 2018-2019 NHL". WinnipegJets.com (Press release). NHL Enterprises, L.P. September 14, 2018. Retrieved May 3, 2019.
+↑ "Jets reveal hot, new, not-so-secret Jersey design". Winnipeg Free Press. September 14, 2018. Retrieved September 15, 2018.
+↑ "Winnipeg Jets announce Hall of Fame inductees, Heritage jersey dates". WinnipegJets.com. NHL Enterprises, L.P. November 26, 2018. Retrieved January 2, 2019.
+↑ "NHL unveils uniforms for 2026 NHL Heritage Classic". NHL.com. NHL Enterprises, L.P. October 7, 2026. Retrieved October 7, 2026.
+↑ "The Heritage Blue jersey". WinnipegJets.com. NHL Enterprises, L.P. September 13, 2019. Archived from the original on September 14, 2019. Retrieved September 13, 2019.
+↑ "Reverse Retro alternate jerseys for all 31 teams unveiled by NHL, adidas". National Hockey League. December 1, 2020. Retrieved December 5, 2020.
+↑ "Jets honour Hawerchuk in 10th anniversary logo". National Hockey League. October 7, 2020. Retrieved February 2, 2021.
+↑ "Jets announce tribute to Hawerchuk on 40th anniversary of first contract". National Hockey League. August 13, 2021. Retrieved August 13, 2021.
+↑ "NHL Reverse Retro jerseys for all 32 teams unveiled by adidas". NHL.com. October 20, 2022. Retrieved October 20, 2022.
+↑ "It's time to Fly the 'Forty-Eight'!". WinnipegJets.com. NHL Enterprises, L.P. September 23, 2023. Retrieved September 23, 2023.
+↑ Campbell, Tim (July 22, 2011). "Winnipeg Jets unveil air force-inspired logo". Winnipeg Free Press. Retrieved May 13, 2018.
+↑ Williams, Patrick (September 6, 2011). "New Jets jerseys, ceremony evoke military feel". NHL.com. NHL Enterprises, L.P. Archived from the original on March 10, 2016. Retrieved November 30, 2025.
+↑ "Mick E. Moose". WinnipegJets.com. NHL Enterprises, L.P. Archived from the original on November 29, 2016. Retrieved May 13, 2018.
+1 2 ""Fan favourite Mick E. Moose drafted into the NHL ranks". Winnipeg Free Press. October 8, 2011. Retrieved May 13, 2018.
+↑ Waldie, Paul (December 9, 2011). "When sports fans alter national anthems". The Globe and Mail. Retrieved April 8, 2018.
+↑ Eric Westhaver (October 22, 2016). "Former Jets anthem singer flying back to familiar territory". The Reminder. Retrieved October 30, 2021.
+↑ "Winnipeg Jets anthem singer Stacey Nattrass gets serious ice time". Canadian Broadcasting Corporation. Retrieved May 17, 2017.
+↑ "Meet the man behind the Winnipeg Jets' whiteout". Global News.
+↑ Sigurdson, Hal (April 18, 1987). "Whiteout aside, defence tells tale". Winnipeg Free Press. p. 83.
+↑ "Wear White and Be Loud!". stjohnsicecaps.com. Archived from the original on October 1, 2012. Retrieved May 24, 2025.
+↑ Perez, Anthony (April 11, 2012). "It's Time for WhiteOut 2012". NHL.com/Coyotes. NHL Enterprises, LP. Archived from the original on April 6, 2018. Retrieved May 13, 2018.
+↑ Archived at Ghostarchive and the Wayback Machine: "1999 World Junior Gold Medal Game Canada VS Russia AT WINNIPEG ARENA Part 1 / 10". YouTube. October 12, 2010.
+↑ "What Black-Out? Wear White to the Moose Game Tonight! | ChrisD.ca". June 12, 2009.
+↑ Williams, Patrick (April 12, 2015). "Jets ready for first playoff series at MTS Centre". NHL.com. NHL Enterprises, L.P. Archived from the original on March 9, 2016. Retrieved November 30, 2025.
+↑ "Winnipeg Jets Roster". National Hockey League. Retrieved September 29, 2026.
+↑ "Winnipeg Jets Roster Transactions". CBS Sports. Retrieved September 29, 2026.
+↑ "Perfect setting: Gretzky's number retired before All-Star Game". CNN Sports Illustrated. Associated Press. February 6, 2000. Archived from the original on November 12, 2013. Retrieved June 9, 2014.
+↑ "Aug 2011: Kane to don Hull's No. 9". August 18, 2011.
+↑ "Jets announce number changes, Thompson to wear 11 in honour of Rypien". NHL.com. October 19, 2020. Retrieved February 26, 2021.
+↑ "A Sadness in Atlanta". Sports Illustrated. October 13, 2003. Retrieved May 25, 2018.
+↑ Clinton, Jared (September 8, 2016). "Connor Hellebuyck switches to No. 37 with support from Dan Snyder's family". thehockeynews.com. The Hockey News. Retrieved September 28, 2016.
+↑ "Winnipeg Jets create Hall of Fame to honour legendary players". CBC News. July 15, 2016. Retrieved August 5, 2016.
+↑ Campbell, Tim (October 19, 2016). "Jets induct inaugural Hall of Fame class". WinnipegJets.com. NHL Enterprises, L.P. Retrieved May 13, 2018.
+↑ "Hawerchuk honored by Winnipeg, inducted into Jets Hall of Fame". National Hockey League. November 14, 2017. Retrieved May 13, 2018.
+↑ "Jets pay tribute to former captains Lars-Erik Sjoberg, Ab McDonald". Canadian Broadcasting Corporation. February 26, 2019. Retrieved March 4, 2019.
+↑ Thomas, Jamie (February 11, 2020). "Jets welcome Steen and Carlyle to Hall of Fame". NHL.com. Retrieved February 14, 2020.
+↑ "Winnipeg Jets to induct Selanne, Numminen into team's Hall of Fame". Sportsnet.ca. August 17, 2022. Retrieved August 18, 2022.
+↑ "Regular Season – All Skaters – Career for Franchise – Career Points – NHL.com – Stats". National Hockey League. Retrieved April 18, 2026.
+↑ "Regular Season – Goalie – Goalie Career for Franchise – Career Wins – NHL.com – Stats". National Hockey League. Archived from the original on June 17, 2013. Retrieved April 26, 2025.
+↑ Tait, Ed (July 21, 2011). "Jets reach broadcast agreement with TSN". Winnipeg Free Press. Retrieved October 6, 2020.
+1 2 3 "Jets game broadcasts moving to TSN3". Winnipeg Free Press. August 18, 2014. Retrieved August 18, 2014.
+↑ Release, Media (October 5, 2020). "True North Sports + Entertainment, TSN announce extension for Jets games - TSN.ca". TSN. Retrieved October 6, 2020.
+↑ Robinson, Ian (September 28, 2022). "Pictou County's Dan Robertson Has A New NHL Job". Hot Country 103.5 FM. Archived from the original on September 28, 2022. Retrieved September 29, 2022.
+↑ Granger, Jesse (August 15, 2017). "Golden Knights name first TV, radio broadcasters". Las Vegas Sun. Retrieved August 15, 2017.
+↑ Wyman, Ted (October 5, 2020). "CJOB acquires Winnipeg Jets radio broadcast rights for next seven years". Winnipeg Sun. Retrieved October 6, 2020.
+External links
+[edit]
+Wikimedia Commons has media related to Winnipeg Jets.
+Official website
+v
+t
+e
+Winnipeg Jets
+ | 
+Founded in 1972
+Formerly the Atlanta Thrashers (1999–2011)
+Based in Winnipeg, Manitoba
+ | 
+Franchise | 
+Team
+General managers
+Coaches
+Players
+Captains
+Draft picks
+expansion draft
+Seasons
+Current season
+ | 
+History | 
+NHL–WHA merger
+Records
+Award winners
+Broadcasters
+ | 
+Personnel | 
+Owner(s)
+True North Sports & Entertainment (Mark Chipman, chairman)
+General manager
+Kevin Cheveldayoff
+Head coach
+Scott Arniel
+Team captain
+Adam Lowry
+Current roster
+ | 
+Arena | 
+Winnipeg Arena
+Canada Life Centre
+ | 
+Affiliates | 
+AHL
+Manitoba Moose
+ECHL
+Bloomington Bison
+ | 
+Media | 
+Radio
+680 CJOB
+Power 97
+TV
+TSN3
+ | 
+Culture and lore | 
+Atlanta Thrashers
+Mick E. Moose
+Winnipeg Whiteout
+Winnipeg Jets (original)
+Dancing Gabe
+2016 Heritage Classic
+2019 Heritage Classic
+Bell MTS Iceplex
+2026 Heritage Classic
+ | 
+ Category
+ Commons
+ | 
+Links to related articles
+ | 
+v
+t
+e
+Winnipeg Jets seasons
+ | 
+1970s | 
+1970–71 . 1971–72 . 1972–73
+1973–74
+1974–75
+1975–76
+1976–77
+1977–78
+1978–79
+1979–80
+ | 
+1980s | 
+1980–81
+1981–82
+1982–83
+1983–84
+1984–85
+1985–86
+1986–87
+1987–88
+1988–89
+1989–90
+ | 
+1990s | 
+1990–91
+1991–92
+1992–93
+1993–94
+1994–95
+1995–96
+ | 
+1999–2011 | 
+Atlanta Thrashers
+ | 
+2010s | 
+2010–11 . 2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+2018–19
+2019–20
+ | 
+2020s | 
+2020–21
+2021–22
+2022–23
+2023–24
+2024–25
+2025–26
+2026–27
+ | 
+v
+t
+e
+Atlanta Thrashers
+ | 
+Founded in 1999
+Based in Atlanta, Georgia
+Relocated as the Winnipeg Jets in 2011
+ | 
+Franchise | 
+Team
+General managers
+Coaches
+Players
+Captains
+Draft picks
+expansion draft
+Seasons
+ | 
+History | 
+Records
+Winnipeg Jets
+ | 
+Arena | 
+Philips Arena
+ | 
+Lore | 
+Ted Turner
+ | 
+ Category
+ | 
+v
+t
+e
+National Hockey League
+ | 
+Western Conference | Eastern Conference | 
+Pacific Division
+ | 
+Anaheim Ducks
+ | 
+Calgary Flames
+ | 
+Edmonton Oilers
+ | 
+Los Angeles Kings
+ | 
+San Jose Sharks
+ | 
+Seattle Kraken
+ | 
+Vancouver Canucks
+ | 
+Vegas Golden Knights
+ | 
+ | 
+Central Division
+ | 
+Chicago Blackhawks
+ | 
+Colorado Avalanche
+ | 
+Dallas Stars
+ | 
+Minnesota Wild
+ | 
+Nashville Predators
+ | 
+St. Louis Blues
+ | 
+Utah Mammoth
+ | 
+Winnipeg Jets
+ | 
+ | 
+Atlantic Division
+ | 
+Boston Bruins
+ | 
+Buffalo Sabres
+ | 
+Detroit Red Wings
+ | 
+Florida Panthers
+ | 
+Montreal Canadiens
+ | 
+Ottawa Senators
+ | 
+Tampa Bay Lightning
+ | 
+Toronto Maple Leafs
+ | 
+ | 
+Metropolitan Division
+ | 
+Carolina Hurricanes
+ | 
+Columbus Blue Jackets
+ | 
+New Jersey Devils
+ | 
+New York Islanders
+ | 
+New York Rangers
+ | 
+Philadelphia Flyers
+ | 
+Pittsburgh Penguins
+ | 
+Washington Capitals
+ | 
+ | 
+ | 
+Events | 
+Seasons
+structure
+Stanley Cup
+playoffs
+tied games
+conference finals
+Final
+champions
+traditions and anecdotes
+Presidents' Trophy
+All-Star Game
+Draft
+combine
+Players
+Association
+retired jersey numbers
+100 Greatest
+All-Star teams
+All-Decade teams
+Quarter-Century teams
+Awards
+Captains
+Outdoor games
+Winter Classic
+Heritage Classic
+Stadium Series
+Hockey Day
+America
+Canada
+International games
+Kraft Hockeyville
+Big City Greens Classic
+Pride Night
+ | 
+History | 
+Eras
+pre-NHL (1883–1926)
+NHA (1910–1917)
+1917–1942
+1942–1967
+1967–1992
+1992–2017
+Since 2017
+All-time standings
+All-time playoff series
+Organizational changes
+defunct and relocated teams
+Original Six
+1967 expansion
+WHA
+merger
+potential expansion
+Transactions
+ | 
+Others | 
+Streaks
+wins
+losses
+Droughts
+Hall of Fame
+members
+Rivalries
+Arenas
+Rules
+Fighting
+Violence
+Uniforms
+Cheerleaders and Ice Girls
+Ice hockey in Canada
+Ice hockey in the United States
+Valuations
+Collective bargaining agreement
+Lockouts
+Television and radio coverage
+Attendance figures
+NHL Enterprises
+NHL Central Scouting Bureau
+ | 
+ Category
+2026–27 season
+ | 
+ | 
+v
+t
+e
+Defunct and relocated National Hockey League teams
+ | 
+Defunct | 
+California/Oakland/Bay Area Seals/California Golden Seals / Cleveland Barons
+Montreal Maroons
+Montreal Wanderers
+New York/Brooklyn Americans
+Ottawa Senators (1883–1934) / St. Louis Eagles
+Phoenix/Arizona Coyotes
+Pittsburgh Pirates / Philadelphia Quakers
+Quebec Athletic Club/Athletics / Hamilton Tigers
+ | 
+Relocated
+(still active) | 
+Atlanta Flames (became Calgary Flames)
+Hartford Whalers (became Carolina Hurricanes)
+Kansas City Scouts / Colorado Rockies (became New Jersey Devils)
+Minnesota North Stars (became Dallas Stars)
+Quebec Nordiques (became Colorado Avalanche)
+Winnipeg Jets (original) / Atlanta Thrashers (became Winnipeg Jets)
+ | 
+v
+t
+e
+True North Sports & Entertainment
+ | 
+Teams | 
+Winnipeg Jets (NHL) (2011–present)
+Manitoba Moose (AHL) (2003–2011, 2015–present)
+ | 
+Venues | 
+Bell MTS Iceplex
+Burton Cummings Theatre
+Camp Manitou
+Canada Life Centre
+Portage Place
+True North Square
+ | 
+People | 
+David Thomson
+Mark Chipman
+Jim Ludlow
+Kevin Cheveldayoff
+Craig Heisinger
+ | 
+Former teams | 
+St. John's IceCaps (AHL) (2011–2015)
+ | 
+v
+t
+e
+Manitoba Moose
+ | 
+Founded in 1994 in St. Paul, Minnesota
+Based in Winnipeg, Manitoba, from 1996 to 2011
+Relocated to St. John's, Newfoundland and Labrador, for 2011–12 season
+Relocated back to Winnipeg for 2015–16 season
+ | 
+Franchise | 
+History
+Players
+Coaches
+Seasons
+Records
+All articles
+ | 
+Arenas | 
+Saint Paul Civic Center
+Target Center
+Winnipeg Arena
+Canada Life Centre
+Mile One Centre
+ | 
+Coaches | 
+Serratore
+Perron
+Carlyle
+Smyl
+Carlyle
+Vigneault
+Arniel
+Noël
+McCambridge
+Vincent
+Morrison
+ | 
+General managers | 
+Perron
+Carlyle
+Heisinger
+ | 
+Team names | 
+Minnesota Moose
+Manitoba Moose
+St. John's IceCaps
+ | 
+Affiliates | 
+Winnipeg Jets (NHL)
+Bloomington Bison (ECHL)
+ | 
+v
+t
+e
+Sports teams based in Manitoba
+ | 
+Baseball | 
+AA
+Winnipeg Goldeyes
+ | 
+Basketball | 
+CEBL
+Winnipeg Sea Bears
+ | 
+Football | 
+CFL
+Winnipeg Blue Bombers
+WWCFL
+Manitoba Fearless
+Winnipeg Wolfpack
+CJFL
+Winnipeg Rifles
+ | 
+Hockey | 
+NHL
+Winnipeg Jets
+AHL
+Manitoba Moose
+WHL
+Brandon Wheat Kings
+MJHL
+Dauphin Kings
+Neepawa Titans
+Niverville Nighthawks
+Northern Manitoba Blizzard
+Portage Terriers
+Selkirk Steelers
+Steinbach Pistons
+Swan Valley Stampeders
+Virden Oil Capitals
+Waywayseecappo Wolverines
+Winkler Flyers
+Winnipeg Blues
+Winnipeg Freeze
+SJHL
+Flin Flon Bombers
+ | 
+Soccer | 
+NSL
+Winnipeg NSL
+ | 
+Ringette | 
+NRL
+Manitoba Herd
+ | 
+U Sports | 
+Brandon University Bobcats
+University of Manitoba Bisons
+University of Winnipeg Wesmen
+ | 
+ | 
+ Portals: Ice hockey
+ Canada
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Winnipeg_Jets&oldid=1380572473"
+ Categories: Winnipeg Jets
+National Hockey League teams
+2011 establishments in Manitoba
+Central Division (NHL)
+Ice hockey clubs established in 2011
+National Hockey League teams based in Canada
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Use Canadian English from January 2015
+All Wikipedia articles written in Canadian English
+Use mdy dates from August 2017
+Articles with hCards
+Commons category link from Wikidata
+Official website different in Wikidata and Wikipedia
+ This page was last edited on 16 October 2026, at 15:39 (UTC).
+ Page was rendered with Parsoid.
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ Privacy policy
+ About Wikipedia
+ Disclaimers
+ Contact Wikipedia
+ Legal & safety contacts
+ Code of Conduct
+ Developers
+ Statistics
+ Cookie statement
+ Mobile view
+Search
+ Search
+Toggle the table of contents
+ Winnipeg Jets
+39 languages
+Add topic

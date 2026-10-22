@@ -1,0 +1,94 @@
+URL: https://evolving-hockey.com/terms-of-use/
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+ 
+ Evolving-Hockey 
+ Evolving-Hockey
+ Home 
+ Standard 
+ Skater Tables Goalie Tables Team Tables League Tables Player Pages 
+ GAR | xGAR 
+ GAR Skater Tables GAR Goalie Tables xGAR Skater Tables GAR/xGAR League Tables Penalty Goals Tables Shooting Goals Tables 
+ RAPM 
+ RAPM Skater Tables RAPM Team Tables 
+ Games 
+ Live Games Past Games Game Logs 
+ Charts 
+ Skater Charts Goalie Charts Team Charts RAPM Charts GAR/xGAR Charts Player Cards 
+ Tools 
+ Combos Tables Skater Similarity Skater QoT/QoC 
+ Projections 
+ Contract Projections Team Projections Fantasy Projections Player Projections 
+ Queries 
+ PBP Query Shifts Query 
+ More 
+ About Terms of Use Privacy Policy References Glossary Site Map 
+ Profile 
+ My Account Contact Us Log In 
+Terms of Use
+The following are terms of use that constitute a legally binding agreement (“Contract”) between you (whether as a student, parent or guardian) and Evolving Hockey LLC (“Evolving Hockey,” “we,” “our,” or “us”).
+This website and contents (“Site”) is owned by Evolving Hockey.  The Site is protected by law, including, but not limited to, United States copyright law and/or international treaties and other international law.  Any unauthorized Use (as defined below) of any content, features or functionality contained or made available by this Site is a breach of your contractual obligations hereunder, other relevant agreement(s) you have with us, and may also be in violation of copyright or trademark laws, privacy, publicity, communications regulations and statutes.
+Logging in to the Site, using the Site services, viewing the Site pages, interacting with the various available Site functions, inputting information, uploading content, copying, linking or any other similar activities collectively constitute “Use” (including the various grammatical variations thereof).  You agree that your Use of the Site sufficiently demonstrates and serves to confirm your unqualified consent to the terms and conditions in this Contract . If you do not agree to this Contract, you will not be permitted to Use the Site.
+We may periodically audit your Use of the Site.  In the event we conclude that your Use is in violation of this Contract, we may block your access at any time, and without notice.  This remedy is in addition to any other remedy available at law, the exercise of which shall be undertaken at our sole discretion.
+We reserve the right to deny your registration to use the Site for any or no reason and we are not obligated to inform you of our decision.
+We RESERVE THE RIGHT TO CHANGE AND/OR AMEND THESE TERMS AND CONDITIONS AT ANY TIME.  We are not obligated to provide you with advance notice. The latest version of this Contract will be posted at www.evolving-hockey.com .
+ Contents 
+Accurate Information & Account Security
+Use Restrictions
+User Generated Content
+Copyright and Copyright Agents
+Warranty Disclaimer
+Limitation of Liability
+Indemnification
+Transmissions
+Entire Contract
+Miscellaneous & Governing Law
+Accurate Information & Account Security
+All the information that you provide in order to Use the Site is true, accurate, current, and complete. You will change any password immediately if you believe it may have been compromised or used without authorization. You also agree to immediately inform us of any breaches of security that you become aware of, such as loss, theft, or unauthorized disclosure or use of your username or password by contacting us at admin@evolving-hockey.com . Until we are so notified you will remain liable for any unauthorized access and use of your account.
+Use Restrictions
+ Age : You must be 13 years or older to create an account for use of this Site. A parent or legal guardian may create an account for use of this Site on behalf of a child that is under 13 years of age.
+ Copyright : All content in this Site, including, without limitation, text, pictures, graphics and data, and the selection and arrangement thereof, are copyrighted materials of Evolving Hockey ©2018-2022, ALL RIGHTS RESERVED, or of the original author of the material.  You may not “mirror” any material contained in this Site on any other server, or deep link into any other page on this Site without our prior, express written permission. Additional information regarding copyright infringement is provided in the section titled Copyright and Copyright Agents.
+ Trademarks : Any and all trademarks, service marks, trade names and logos (collectively, the “Trademarks”) used and displayed on this Site are registered and unregistered Trademarks of Evolving Hockey or its licensors.  These Trademarks may not be copied, imitated or used, in whole or in part, without our prior, explicit written permission.  Nothing in this Contract confers on you any right of ownership to any of the Trademarks.  Further, nothing in this Site shall be construed as granting, by implication, estoppel or otherwise any license or right to use any Trademark displayed on the Site, without our prior, explicit written consent.
+ Hyperlinks :  Any third party links provided in the Site are provided solely for your convenience.  We do not review, endorse nor make any representations about such sites, and your use of these sites is at your own risk.  You agree that we will not be responsible or liable under any circumstances or theories, directly or indirectly, for any damage or loss caused or alleged to be caused, by or in connection with your use or reliance on these third party sites.
+ Limited Access :  You agree you will not use, directly or indirectly, any bot, spider, or other automatic method or means, nor any manual processes to copy any part of this Site.  You agree that you will not use any device, software or routine to interfere or attempt to interfere with the proper working of the Site.  You will not take any action, directly or indirectly, that we, in our sole discretion, conclude imposes an unreasonable or disproportionately large load on any components of our computer infrastructure or that of our service providers.
+ Parental or Guardian Consent : Any use of the Site by a minor without the consent and supervision of a parent or guardian is prohibited.
+ Additional Use Restrictions :  You may not post, intercept, transmit, email, retransmit or store material on, from and/or through the Site, which, in our sole judgment: (i) violates any local, state, federal or foreign law or regulation, (ii) is threatening, harassing, obscene, indecent, defamatory or that otherwise could adversely affect any individual, group or entity, or (iii) violates the rights of any person, including rights protected by copyright, trademark, trade secret, patent or other intellectual property or similar laws or regulations.  You will be solely responsible for determining and complying with any and all laws and regulations that are applicable to your Use.
+By way of illustration, neither of which shall be deemed exhaustive, the following activities are prohibited:
+Upload, post, email or otherwise transmit any data that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, pornographic, libelous, invasive of another’s privacy, hateful or racially, ethnically or otherwise objectionable;
+Impersonate any person or entity, including, but not limited to, another employee (e.g., a colleague), an Evolving Hockey employee, officer, director or agent, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+Forge headers or otherwise manipulate identifiers in order to disguise the origin of any data transmitted through this Site or develop restricted or password-only access pages or images;
+Upload, post, email or otherwise transmit any data that infringes any patent, trademark, trade secret, copyright or other proprietary and/or confidentiality rights of any party;
+Upload, post, email or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, spam, chain letters, pyramid schemes or any other form of solicitation; and
+Upload, post, email or otherwise transmit any data that contains malware.
+User Generated Content
+ Personal Use : With the exception of permitted distribution (provided below) any data, visualizations and all material obtained from Evolving Hockey is only for your personal use.
+ Permitted Distribution : Statistical models you create based on data provided by the Site may be publicly shared as long as you provide a link back to the Site and reference the Site as the source of the data.
+ Prohibited Distribution : Apart from the Permitted Distribution, you may not distribute, share, copy, upload, or otherwise make available to any third party any data you find on the Site.
+ Liability : You are solely liable for any content you upload to the Site. You represent and warrant that you: (a) are the exclusive owner of the content and that you have all rights, approvals and/or consents necessary to upload it to the Site; (b) your content does not and will not violate any tournament rules; and (c) your content does not infringe on the rights of any third parties. We reserve the right to remove any content we conclude violates this Contract. By uploading content to the Site, you grant Evolving Hockey an irrevocable, perpetual, world-wide, royalty-free, non-exclusive license to use, edit, modify, reproduce and publicly display the content in any medium.
+Copyright and Copyright Agents
+In operating the Site, we may act as a “services provider” (as defined by DMCA) and offer services as online provider of materials and links to third party web sites. We respect the intellectual property of others, and we ask you to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide us with the following information: (a) An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; (b) Description of the copyrighted work that you claim has been infringed; (c) A description of where the material that you claim is infringing is located on the Site; (d) Your address, telephone number, and email address; (e) A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and (f) A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+Warranty Disclaimer
+WE MAKE NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THIS SITE OR ITS CONTENT, OR ANY PRODUCT OR SERVICE AVAILABLE ON OR PROMOTED THROUGH THIS SITE. THIS SITE AND ALL OF ITS CONTENT ARE PROVIDED ON AN “AS IS,” “AS AVAILABLE” BASIS, WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND. TO THE FULLEST EXTENT PERMITTED BY LAW, EVOLVING HOCKEY DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED, ARISING BY STATUTE, CUSTOM, COURSE OF DEALING, COURSE OF PERFORMANCE OR IN ANY OTHER WAY, WITH RESPECT TO THIS SITE, ITS CONTENT, AND ANY PRODUCTS OR SERVICES AVAILABLE OR PROMOTED THROUGH THIS SITE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, EVOLVING HOCKEY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES (A) OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE; (B) RELATING TO THE SECURITY OF THIS SITE; (C) THAT THE CONTENT OF THIS SITE IS ACCURATE, COMPLETE OR CURRENT; OR (D) THAT THIS SITE WILL OPERATE SECURELY OR WITHOUT INTERRUPTION OR ERROR.
+WE DO NOT REPRESENT OR WARRANT THAT THIS SITE, ITS SERVERS, OR ANY TRANSMISSIONS SENT FROM US OR THROUGH THIS SITE WILL BE FREE OF MALWARE.
+Evolving Hockey does not endorse and is not responsible for statements, advice and opinions made by anyone other than authorized Evolving Hockey representatives. WITHOUT LIMITING ANY OF THE FOREGOING, WE DO NOT MAKE ANY REPRESENTATIONS OR WARRANTIES AGAINST THE POSSIBILITY OF DELETION, MISDELIVERY OR FAILURE TO STORE COMMUNICATIONS, PERSONALIZED SETTINGS, OR OTHER DATA. YOU ACCEPT THAT OUR SHAREHOLDERS, OWNERS, OFFICERS, DIRECTORS, EMPLOYEES AND OTHER REPRESENTATIVES SHALL HAVE THE BENEFIT OF THIS CLAUSE.
+APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OF CERTAIN WARRANTIES, SO ALL OR PART OF THIS DISCLAIMER OF WARRANTIES MAY NOT APPLY TO YOU.
+Limitation of Liability
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAWS WE, ON BEHALF OF OUR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, SUPPLIERS, LICENSORS AND SERVICE PROVIDERS, EXCLUDE AND DISCLAIM LIABILITY FOR ANY LOSSES AND EXPENSES OF WHATEVER NATURE AND HOWSOEVER ARISING INCLUDING, WITHOUT LIMITATION, ANY DIRECT, INDIRECT, GENERAL, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES; LOSS OF USE; LOSS OF DATA; LOSS CAUSED BY MALWARE; LOSS OF INCOME OR PROFIT; LOSS OF OR DAMAGE TO PROPERTY; CLAIMS OF THIRD PARTIES; OR OTHER LOSSES OF ANY KIND OR CHARACTER, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES, ARISING OUT OF OR IN CONNECTION WITH THE USE OF THIS SITE. YOU ASSUME TOTAL RESPONSIBILITY FOR ESTABLISHING SUCH PROCEDURES FOR DATA BACK UP AND MALWARE CHECKING AS YOU CONSIDER NECESSARY. THIS LIMITATION OF LIABILITY APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR ANY OTHER BASIS.
+IF ANY PART OF THIS LIMITATION ON LIABILITY IS FOUND TO BE INVALID OR UNENFORCEABLE FOR ANY REASON, THEN THE AGGREGATE LIABILITY OF THE RELEASED PARTIES FOR LIABILITIES THAT OTHERWISE WOULD HAVE BEEN LIMITED SHALL NOT EXCEED, IN THE AGGREGATE, ONE HUNDRED DOLLARS ($100.00).
+This Site gives you specific legal rights and you may also have other rights which vary from jurisdiction to jurisdiction. Some jurisdictions do not allow certain kinds of limitations or exclusions of liability, so the limitations and exclusions set out in this Contract may not apply to you. Other jurisdictions allow limitations and exclusions subject to certain conditions. In such a case the limitations and exclusions set out in this Contract shall apply to the fullest extent permitted by the laws of such applicable jurisdictions. Your statutory rights as a consumer, if any, are not affected by these provisions, and we do not seek to exclude or limit liability for fraudulent misrepresentation.
+Indemnification
+You will indemnify and defend Evolving Hockey from any loss, liability, claim, demand, damage or expense (including reasonable legal fees) asserted by any third party relating in any way to your Use or breach of this Contract.  Any settlement you agree to shall not, under any circumstances, impose an unindemnified obligation on us without our prior explicit written consent. Without limiting the application of neither this section, nor any of its other rights under applicable law, Evolving Hockey reserves the right to assume the exclusive defense and control of any matter subject to indemnification by you.
+Transmissions
+Any information you transmit to or post on this Site, by any means, will be treated as non-confidential.
+Entire Contract
+This Contract contains the entire understanding and agreement between you and Evolving Hockey with respect to this Site and supersedes all previous communications, negotiations, and agreements, whether oral, written, or electronic, between you and us with respect to this Site and your Use of this Site.
+Miscellaneous & Governing Law
+If any provision in this Contract is held by a court of competent jurisdiction to be invalid, then such provision shall be construed as nearly as possible to correspond with Evolving Hockey’s intentions and without prejudice to Evolving Hockey as the drafter and the remaining provisions in the Contract shall remain unaffected.  Our failure to exercise or enforce any right or provision of this Contract shall not constitute a waiver of such right or provision, unless previously and explicitly agreed to by us in writing.  The section titles in this Contract are solely used for convenience and have no independent legal significance.  This Contract may be assigned in whole or in part by us, but this Contract may not be assigned by you.  This Contract shall be governed by and construed in accordance with the laws of the State of Minnesota, notwithstanding any conflict of laws provisions or rules.  You unequivocally, irrevocably and unconditionally: (i) consent to the exclusive jurisdiction of the state and federal courts sitting in Hennepin County, Minnesota for any litigation or dispute arising out of relating to this Contract; (ii) agree to waive a trial by jury; (iii) agree not to commence any litigation arising out of relating to this Contract in any other jurisdiction; and (iv) agree not to plead or claim that such litigation is being brought in an inconvenient forum.
+ © Evolving Hockey LLC 2021. All Rights Reserved. 
+ About 
+ Terms of Use 
+ Privacy Policy 
+ References 
+ Glossary 
+ Site Map 

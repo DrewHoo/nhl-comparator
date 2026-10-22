@@ -1,0 +1,3087 @@
+{
+  "schema": "nhl-comparator/gates/v0",
+  "doc": "data/gates/README.md",
+  "generated": "2026-10-22",
+  "sources": [
+    "research/factoids/return.json (70 claims, 68 verified on fetched pages)",
+    "research/data-sources-apis.md (per-stat floors)",
+    "research/beachhead.md"
+  ],
+  "ledger_floors": {
+    "goals": "1917-18",
+    "assists": "1917-18",
+    "points": "1917-18",
+    "pim": "1917-18",
+    "gwg": "1917-18",
+    "otg": "1917-18",
+    "ppg": "1933-34",
+    "shg": "1933-34",
+    "goalie_decision": "1917-18",
+    "goalie_ga": "1917-18",
+    "goalie_toi": "1917-18",
+    "goalie_shutouts": "1917-18",
+    "goalie_starter": "1917-18",
+    "goalie_ties": "1921-22 to 2004-05",
+    "goalie_otl": "2005-06",
+    "goalie_shots_saves": "1955-56",
+    "shots": "1959-60",
+    "plus_minus": "1959-60 (official 1967-68)",
+    "toi": "1997-98",
+    "shifts": "1997-98",
+    "faceoffs": "1997-98",
+    "hits": "1997-98 boxscore / 2005-06 REST",
+    "blocks": "1997-98 boxscore / 2005-06 REST",
+    "giveaways": "1997-98 boxscore / 2005-06 REST",
+    "takeaways": "1997-98 boxscore / 2005-06 REST",
+    "assists_caveat": "credited sparingly before the mid-1930s; secondary assists not full-time until 1945-46 (research/factoids-and-conventions.md Q7)"
+  },
+  "counts": {
+    "player glory": 24,
+    "player futility": 3,
+    "goalies": 9,
+    "team glory": 9,
+    "team futility": 10,
+    "coaches": 4,
+    "rookies": 7,
+    "playoffs": 4
+  },
+  "gates": [
+    {
+      "id": "PG01",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG01",
+      "claim": "Gretzky scored 50 goals in 39 games (1981-82)",
+      "publisher": "Wikipedia (50 goals in 50 games; List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+      "claim_date": "1981-12-30",
+      "numbers": {
+        "headline": "50 G in 39 games",
+        "previous": "Bossy/Richard 50 in 50"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games (Gretzky played every team game, so equal)"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals",
+        "agg": "fastest-to-M (M=50)",
+        "window": "team games of a season from opening night",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "to give him the record of 50 goals in 39 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Fastest 50 goals from start of season: Wayne Gretzky (December 30, 1981), 39 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG02",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG02",
+      "claim": "Maurice Richard: first player to score 50 goals in 50 games (1944-45)",
+      "publisher": "Wikipedia (50 goals in 50 games)",
+      "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+      "claim_date": "1945-03-18",
+      "numbers": {
+        "headline": "50 G in 50 GP (team's 50-game season)"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals",
+        "agg": "count >= M within window",
+        "window": "team's first 50 games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "recognizing Richard as the first, and to that point only, player to score 50 goals in 50 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "By definition, the 50-in-50 is an official achievement only because a player completes it within their team's first 50 games",
+          "note": "the defining convention: team games, not player GP",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG03",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG03",
+      "claim": "Lemieux 50 goals in 1988-89: team game 46, his 44th game played",
+      "publisher": "Wikipedia (50 goals in 50 games)",
+      "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+      "claim_date": "1989-01-20",
+      "numbers": {
+        "team_game": 46,
+        "player_gp": 44,
+        "season_total": "85 G in 76 GP"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "BOTH quoted: team game 46 / player GP 44"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals",
+        "agg": "fastest-to-M (M=50)",
+        "window": "team games of a season (official) vs player GP (popular)",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "The unit split in one sentence: the official record book ranks him by team games (46), the popular \"50 in 44\" counts his own GP.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "Lemieux's 50th goal came in game 46 of the team's schedule against the Winnipeg Jets and goaltender Pokey Reddick, which was Lemieux's 44th game of the season.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG04",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG04",
+      "claim": "Bossy scored 50 in 50 (1980-81); Brett Hull twice (1990-91 in the Blues' 49th game; 1991-92)",
+      "publisher": "Wikipedia (50 goals in 50 games)",
+      "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+      "claim_date": "1981-01-24",
+      "numbers": {
+        "official_50in50_seasons": 8,
+        "players": 5
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals",
+        "agg": "count >= M within window",
+        "window": "team's first 50 games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "In the 1980–81 season, Mike Bossy of the New York Islanders became only the second player to score 50 goals in 50 games, 36 years after Richard had done so.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "in the Blues' 49th game",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "the NHL has officially deemed only five players in eight different seasons to have reached the mark",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG05",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG05",
+      "claim": "Gretzky fastest to 1,000 points (424 games) and only player to 2,000; Lemieux second (513)",
+      "publisher": "Wikipedia (List of NHL players with 1,000 points)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_players_with_1,000_points",
+      "claim_date": "1984-12-19",
+      "numbers": {
+        "headline": 424,
+        "second": "Lemieux 513",
+        "second_1000_for_Gretzky": "433 games"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "points",
+        "agg": "fastest-to-M (M=1000, 2000)",
+        "window": "first N career games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_players_with_1,000_points",
+          "quote": "The fewest NHL games required to reach the mark was 424, set by Wayne Gretzky. Second quickest was Mario Lemieux, achieving the mark in his 513th game.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_players_with_1,000_points",
+          "quote": "the NHL's only player ever to score 2,000 points in regular-season play",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG06",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG06",
+      "claim": "McDavid reached 1,000 points in 659 games, fourth-fastest ever (Nov. 14, 2024)",
+      "publisher": "NHL.com",
+      "url": "https://www.nhl.com/news/oilers-connor-mcdavid-scores-1000th-nhl-point",
+      "claim_date": "2024-11-14",
+      "numbers": {
+        "headline": 659,
+        "ahead": "Gretzky 424, Lemieux 513, Bossy 656",
+        "next": "Stastny 682"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "points",
+        "agg": "fastest-to-M (M=1000)",
+        "window": "first N career games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "Brief said \"2025\"; the milestone was 2024-11-14. \"Fastest active\" (vs Crosby 757) is [S] only (Daily Hive snippet).",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/oilers-connor-mcdavid-scores-1000th-nhl-point",
+          "quote": "the fourth-fastest to get there, accomplishing the feat in 659 games (341 goals, 660 assists). Only Wayne Gretzky (424 games), Mario Lemieux (513), and Mike Bossy (656) did it faster.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_players_with_1,000_points",
+          "quote": "Game No. – Number of career games played when 1,000th point was scored",
+          "note": "Wikipedia's column definition: the player's own career GP",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG07",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG07",
+      "claim": "McDavid 153 points in 2022-23, most since Lemieux's 161 in 1995-96",
+      "publisher": "NHL / Oilers release",
+      "url": "https://nhl.com/oilers/news/release-mcdavid-wins-art-ross-rocket-richard-trophies-343565052",
+      "claim_date": "2023-04-14",
+      "numbers": {
+        "headline": "153 (64 G, 89 A)",
+        "previous_higher": "Lemieux 161 (1995-96)"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "points",
+        "agg": "sum",
+        "window": "a season",
+        "field": "since 1995-96 (era-bounded \"most since\")"
+      },
+      "verification": "V",
+      "note": "NHL.com Spanish profile gives Lemieux 162 [S]; 161 is the English release.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://nhl.com/oilers/news/release-mcdavid-wins-art-ross-rocket-richard-trophies-343565052",
+          "quote": "the most by any NHL player since 1995-96 when Mario Lemieux recorded 161 points with the Pittsburgh Penguins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG08",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG08",
+      "claim": "Kucherov 144 points and 100 assists in 2023-24 (fifth player with a 100-assist season)",
+      "publisher": "Wikipedia (Nikita Kucherov)",
+      "url": "https://en.wikipedia.org/wiki/Nikita_Kucherov",
+      "claim_date": "2024-04-18",
+      "numbers": {
+        "headline": "44 G, 100 A, 144 P in 81 GP"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "assists / points",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "144 is not a record; the viral hook is 100 assists (club of five).",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nikita_Kucherov",
+          "quote": "Kucherov ended the season with a career high in goals (44), assists (100), and points (144) in 81 games played.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG09",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG09",
+      "claim": "Ovechkin passed Gretzky with goal 895 (Apr. 6, 2025) in his 1,487th game, Gretzky's career GP total",
+      "publisher": "NHL.com; Wikipedia",
+      "url": "https://www.nhl.com/news/alex-ovechkin-wayne-gretzky-nhl-goals-record-chase",
+      "claim_date": "2025-04-06",
+      "numbers": {
+        "headline": 895,
+        "previous": "Gretzky 894",
+        "games": 1487,
+        "current_total_per_wikipedia": 929
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "goals",
+        "agg": "sum (and pace: through N games)",
+        "window": "career / first N games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/alex-ovechkin-wayne-gretzky-nhl-goals-record-chase",
+          "quote": "Alex Ovechkin of the Washington Capitals scored his 895th NHL goal on Sunday against the New York Islanders, passing Wayne Gretzky for the all-time record.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Ovechkin",
+          "quote": "Ovechkin's record-breaking 895th goal came in his 1,487th career game, the same number of games as Gretzky's career total.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most career goals (regular season): Alexander Ovechkin, 929",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG10",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG10",
+      "claim": "Ovechkin shares the record of nine 50-goal seasons with Bossy and Gretzky; Bossy's nine were consecutive",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "2026",
+      "numbers": {
+        "headline": 9,
+        "tied": "Bossy, Gretzky"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "count of seasons with goals>=50",
+        "agg": "count",
+        "window": "seasons",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most 50-or-more goal seasons: Mike Bossy, Wayne Gretzky, and Alexander Ovechkin 9",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most consecutive 50-or-more goal seasons: Mike Bossy (1977–1986), 9",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG11",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG11",
+      "claim": "Matthews 69 goals (2023-24), the salary-cap-era record, passing Ovechkin's 65",
+      "publisher": "Wikipedia (Auston Matthews)",
+      "url": "https://en.wikipedia.org/wiki/Auston_Matthews",
+      "claim_date": "2024-04-17",
+      "numbers": {
+        "headline": 69,
+        "previous": "Ovechkin 65 (2007-08)"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals",
+        "agg": "sum",
+        "window": "a season",
+        "field": "since 2005-06 (salary cap era)"
+      },
+      "verification": "V",
+      "note": "Era-bounded record: the words carry the bound (\"salary cap era\").",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Auston_Matthews",
+          "quote": "In 2024, Matthews set the single-season goal record of the salary cap era with a total of 69 goals, surpassing Alexander Ovechkin's 65 in 2007–08",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG12",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG12",
+      "claim": "Matthews 60 goals in 2021-22: first Maple Leaf, third 60-goal scorer after the 2004-05 lockout",
+      "publisher": "Wikipedia (Auston Matthews)",
+      "url": "https://en.wikipedia.org/wiki/Auston_Matthews",
+      "claim_date": "2022-04-26",
+      "numbers": {
+        "headline": "60 G in 73 GP"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals",
+        "agg": "count >= M",
+        "window": "a season",
+        "field": "one franchise / since 2005-06"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Auston_Matthews",
+          "quote": "becoming the first player in Maple Leafs history to score 60 goals in a season, and only the third in the post-2004–05 lockout NHL to score 60 or more",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG13",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG13",
+      "claim": "Crosby: 20 straight point-per-game seasons, breaking Gretzky's 19",
+      "publisher": "CBS Sports; Wikipedia",
+      "url": "https://www.cbssports.com/nhl/news/sidney-crosby-breaks-wayne-gretzkys-longstanding-record-with-20th-season-averaging-a-point-per-game",
+      "claim_date": "2025-03-27",
+      "numbers": {
+        "headline": 20,
+        "previous": "Gretzky 19 (of 20 seasons)"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "seasons with points/GP >= 1",
+        "agg": "streak",
+        "window": "seasons",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "Date conflict: CBS reports the clinching goal on Thursday (Mar. 27, 2025); Wikipedia says March 28.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.cbssports.com/nhl/news/sidney-crosby-breaks-wayne-gretzkys-longstanding-record-with-20th-season-averaging-a-point-per-game",
+          "quote": "Gretzky was a point-per-game player in 19 of his 20 seasons.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sidney_Crosby",
+          "quote": "On March 28, 2025 Crosby became the only player in NHL history to average over a point-per-game over 20 seasons.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG14",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG14",
+      "claim": "Gretzky single-season records: 92 goals (1981-82), 163 assists and 215 points (1985-86)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1986",
+      "numbers": {
+        "goals": 92,
+        "assists": 163,
+        "points": 215,
+        "incl_playoffs_points": "255 (1984-85)"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals / assists / points",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most goals, single season: Wayne Gretzky (1981–82), 92",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points, one season: Wayne Gretzky (1985–86), 215",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points, one season, including playoffs: Wayne Gretzky (1984–85), 255",
+          "note": "the combined framing exists only as a separately labeled record",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG15",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG15",
+      "claim": "Gretzky's 51-game point streak (1983-84), also the longest from the start of a season",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1984",
+      "numbers": {
+        "headline": 51
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "games with a point",
+        "agg": "streak",
+        "window": "a run (from season start)",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Longest consecutive point-scoring streak: Wayne Gretzky (1983–84), 51 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG16",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG16",
+      "claim": "Gretzky fastest to 100 points from the start of a season: 34 games (Dec. 27, 1981)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1981-12-27",
+      "numbers": {
+        "headline": 34
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games of a season"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "points",
+        "agg": "fastest-to-M (M=100)",
+        "window": "team games of a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Fastest 100 points from the start of a season: Wayne Gretzky (December 27, 1981), 34 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG17",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG17",
+      "claim": "Gordie Howe: 1,850 NHL points (WHA's 508 kept separate); oldest forward at 52",
+      "publisher": "Hockey-Reference; Wikipedia",
+      "url": "https://www.hockey-reference.com/leaders/points_career.html",
+      "claim_date": "1980",
+      "numbers": {
+        "nhl_points": 1850,
+        "wha_points": 508,
+        "oldest_game": "52 years, 11 days"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only (WHA listed in a separate table)",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "points",
+        "agg": "sum",
+        "window": "career",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.hockey-reference.com/leaders/points_career.html",
+          "quote": "1946-80 | 1850 |",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.hockey-reference.com/leaders/points_career.html",
+          "quote": "1973-79 | 508 |",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Oldest forward: Gordie Howe, April 11, 1980, 52 years, 11 days",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG18",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG18",
+      "claim": "Jagr: second in career points (1,921); oldest NHL hat trick at 42 years, 322 days",
+      "publisher": "Wikipedia; Hockey-Reference",
+      "url": "https://en.wikipedia.org/wiki/Jaromír_Jágr",
+      "claim_date": "2015-01-03",
+      "numbers": {
+        "points": 1921,
+        "age": "42y 322d"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "points / hat tricks",
+        "agg": "sum / oldest-to-M",
+        "window": "career / by age",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points by a right wing, career: Jaromir Jagr, 1,921",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaromír_Jágr",
+          "quote": "Jágr became the oldest player in NHL history to score a hat-trick at 42 years and 322 days.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG19",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG19",
+      "claim": "Esposito 76 goals in 78 games (1970-71), the record until Gretzky",
+      "publisher": "Wikipedia (Phil Esposito)",
+      "url": "https://en.wikipedia.org/wiki/Phil_Esposito",
+      "claim_date": "1971",
+      "numbers": {
+        "headline": 76,
+        "gp": 78
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "goals",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Phil_Esposito",
+          "quote": "in 78 games he averaged nearly a goal a game, scoring 76 goals",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG20",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG20",
+      "claim": "Bobby Orr +124 in 1970-71, the best plus-minus season",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1971",
+      "numbers": {
+        "headline": "+124",
+        "career_record": "Larry Robinson +722"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "plus-minus",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Best ± rating one season: Bobby Orr (1970–71), +124",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Best ± rating, regular season career: Larry Robinson, +722",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG21",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG21",
+      "claim": "Makar reached 100 points in his 108th game, tied for sixth-fewest by a defenseman",
+      "publisher": "NHL.com (Avalanche)",
+      "url": "https://www.nhl.com/news/makar-records-100th-career-point-327355166",
+      "claim_date": "2021-10-28",
+      "numbers": {
+        "headline": 108,
+        "ahead": "Cameron 88, M. Howe 94, Leetch 102, Murphy 105, Housley 106"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player (defense)",
+        "population": "careers",
+        "stat": "points",
+        "agg": "fastest-to-M (M=100)",
+        "window": "first N career games",
+        "field": "all-time (includes 1921-22)"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/makar-records-100th-career-point-327355166",
+          "quote": "He tied Sergei Zubov (108 games in 1993-94) for the sixth-fewest games by a defenseman in NHL history to record 100 career points.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG22",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG22",
+      "claim": "Makar: 100 goals in 362 games, fifth-fastest defenseman since 1943-44",
+      "publisher": "TSN / The Canadian Press (AP)",
+      "url": "https://www.tsn.ca/nhl/colorado-avalanche-s-cale-makar-becomes-fifth-fastest-defensemen-to-reach-100-goals-in-nhl-history-1.2238676",
+      "claim_date": "2025-01-18",
+      "numbers": {
+        "headline": 362,
+        "ahead": "Orr 299, Coffey 300, Bourque 329, Potvin 348"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player (defense)",
+        "population": "careers",
+        "stat": "goals",
+        "agg": "fastest-to-M (M=100)",
+        "window": "first N career games",
+        "field": "since 1943-44"
+      },
+      "verification": "V",
+      "note": "Publishers disagree on the era floor: NHL.com's Makar points list reaches back to 1921-22; the AP/CP goals list stops at 1943-44.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.tsn.ca/nhl/colorado-avalanche-s-cale-makar-becomes-fifth-fastest-defensemen-to-reach-100-goals-in-nhl-history-1.2238676",
+          "quote": "he became the fifth-fastest defenseman since 1943-44 to reach that particular mark. The only blue liners speedier are Hall of Famers: Bobby Orr (299 games), Paul Coffey (300), Ray Bourque (329) and Denis Potvin (348).",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG23",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG23",
+      "claim": "Lemieux scored on his first shift, first shot, first game (Oct. 11, 1984)",
+      "publisher": "Wikipedia (Mario Lemieux)",
+      "url": "https://en.wikipedia.org/wiki/Mario_Lemieux",
+      "claim_date": "1984-10-11",
+      "numbers": {},
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "goals",
+        "agg": "first-event",
+        "window": "first game",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "Not a comparator query (shift-level); keep out of scope.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_Lemieux",
+          "quote": "on his first shift, he stole the puck from Hall of Fame defenceman Ray Bourque and scored a goal with his first NHL shot against Pete Peeters",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PG24",
+      "section": "player glory",
+      "corpus_ref": "research/factoids-and-conventions.md PG24",
+      "claim": "McDavid 900 points in 602 games, fifth-fastest (Gretzky 385, Lemieux 463, Bossy 582, Stastny 599)",
+      "publisher": "TSN",
+      "url": "https://www.tsn.ca/nhl/by-the-numbers-mcdavid-chasing-history-in-pursuit-of-1-000-points-1.2056657",
+      "claim_date": "2024-01-02",
+      "numbers": {
+        "headline": 602,
+        "ahead": "Gretzky 385, Lemieux 463, Bossy 582, Stastny 599"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "points",
+        "agg": "fastest-to-M (M=900)",
+        "window": "first N career games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.tsn.ca/nhl/by-the-numbers-mcdavid-chasing-history-in-pursuit-of-1-000-points-1.2056657",
+          "quote": "becoming the fifth-fastest player in NHL history to reach 900 points after scoring a goal and four assists in his 602nd game",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PF01",
+      "section": "player futility",
+      "corpus_ref": "research/factoids-and-conventions.md PF01",
+      "claim": "Worst career plus-minus: Bob Stewart, -257; worst game: Greg Joly, -9",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "",
+      "numbers": {
+        "career": -257,
+        "game": -9
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "plus-minus",
+        "agg": "sum (min)",
+        "window": "career",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Worst ± rating, regular season career: Bob Stewart, -257",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Worst ± rating, regular season game: Greg Joly (March 15, 1977), -9",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PF02",
+      "section": "player futility",
+      "corpus_ref": "research/factoids-and-conventions.md PF02",
+      "claim": "Most games before a first playoff game: Jeff Skinner, 1,078; most GP without ever reaching the playoffs: Guy Charron, 734",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "",
+      "numbers": {
+        "skinner": 1078,
+        "charron": 734
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "games played",
+        "agg": "count before first playoff game",
+        "window": "career",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most games played before playing in a playoff game: Jeff Skinner, 1078",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most games played without playing in the playoffs (retired): Guy Charron, 734",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PF03",
+      "section": "player futility",
+      "corpus_ref": "research/factoids-and-conventions.md PF03",
+      "claim": "Goalie losses: Brodeur most career (397); Gary Smith most in a season (48, 1970-71)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "",
+      "numbers": {
+        "career": 397,
+        "season": 48
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "careers / player-seasons",
+        "stat": "losses",
+        "agg": "sum",
+        "window": "career / a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most losses by a goaltender regular season career: Martin Brodeur, 397",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most losses by a goaltender, one season: Gary Smith (1970–71), 48",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO01",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO01",
+      "claim": "Brodeur: 691 wins, 125 shutouts, 1,265 games (regular season); 804 wins with playoffs",
+      "publisher": "Wikipedia (List of NHL records; 300-win list)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_goaltenders_with_300_wins",
+      "claim_date": "2015",
+      "numbers": {
+        "wins": 691,
+        "shutouts": 125,
+        "gp": 1265,
+        "wins_incl_playoffs": 804,
+        "runner_up_shutouts": "Sawchuk 103"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "goalie appearances (GP), not starts"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "careers",
+        "stat": "wins / shutouts",
+        "agg": "sum",
+        "window": "career",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_goaltenders_with_300_wins",
+          "quote": "Martin Brodeur is the all-time leader with 691 career regular season victories.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most shutouts regular season career: Martin Brodeur 125",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most games appeared in by a goaltender, career regular season: Martin Brodeur, 1,265",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_statistical_leaders",
+          "quote": "Terry Sawchuk, 103",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO02",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO02",
+      "claim": "Most wins in a season: 48, Brodeur (2006-07) and Holtby (2015-16)",
+      "publisher": "Wikipedia; Guinness",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "2007-04-05",
+      "numbers": {
+        "headline": 48,
+        "previous": "Parent 47 (1973-74) [S]"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "player-seasons",
+        "stat": "wins",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "No asterisk for shootout wins: the NY Sun report was 429-blocked, so that ruling is [S].",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most wins by a goaltender, one season: Martin Brodeur (2006–07) and Braden Holtby (2015–16), 48",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.guinnessworldrecords.com/world-records/most-individual-wins-in-an-nhl-season",
+          "quote": "Martin Brodeur (Canada) of the New Jersey Devils (USA) broke the NHL record for most wins in a season with 48 during the 2006-07 season.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most shootout wins by a goaltender in a season: Ryan Miller and Martin Brodeur (2006–07), Mathieu Garon (2007–08), and Jonathan Quick (2010–11), 10",
+          "note": "so the 48 includes shootout wins (derived)",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO03",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO03",
+      "claim": "Lundqvist: 30+ wins in each of his first seven seasons (2005-06 to 2011-12); quickest to 400 wins (727 games)",
+      "publisher": "Guinness; Wikipedia",
+      "url": "https://guinnessworldrecords.com/world-records/most-consecutive-30-win-seasons-to-start-an-nhl-goaltender-career",
+      "claim_date": "2012",
+      "numbers": {
+        "streak": 7,
+        "fastest_400": 727
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "careers",
+        "stat": "seasons with wins>=30 / wins",
+        "agg": "streak from career start / fastest-to-M",
+        "window": "seasons / first N games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://guinnessworldrecords.com/world-records/most-consecutive-30-win-seasons-to-start-an-nhl-goaltender-career",
+          "quote": "has become the only player in his position to record seven straight regular seasons with 30-plus wins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Quickest goaltender to win 400 regular-season games: Henrik Lundqvist 727",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO04",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO04",
+      "claim": "Youngest goalie to each wins milestone: Roy to 50 and 100; Brodeur to 200 through 600",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "",
+      "numbers": {
+        "roy_100": "23 yrs",
+        "brodeur_600": "37 yrs., 11 mos."
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "careers",
+        "stat": "wins",
+        "agg": "youngest-to-M",
+        "window": "by age",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "Age precision here is years/months, not the years+days NHL.com uses.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Youngest goaltender to win 100 regular-season games: Patrick Roy 23 yrs",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Youngest goaltender to win 600 regular-season games: Martin Brodeur 37 yrs., 11 mos.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO05",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO05",
+      "claim": "Grant Fuhr: 79 games in a season (1995-96), 76 consecutive",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1996",
+      "numbers": {
+        "headline": 79
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "goalie appearances"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "player-seasons",
+        "stat": "games played",
+        "agg": "count",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most games appeared in by a goaltender, one regular season: Grant Fuhr, 79 (1995–96)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO06",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO06",
+      "claim": "David Ayres, a 42-year-old emergency backup, credited with a win in his debut (Feb. 22, 2020)",
+      "publisher": "Wikipedia (David Ayres; List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/David_Ayres",
+      "claim_date": "2020-02-22",
+      "numbers": {
+        "age": "42 years, 194 days"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "careers",
+        "stat": "wins",
+        "agg": "oldest-to-M (M=1)",
+        "window": "by age",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Ayres",
+          "quote": "He is the first emergency backup goaltender to be credited with a win in the National Hockey League (NHL).",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Oldest goaltender to win his regular-season debut: David Ayres, February 22, 2020, 42 years, 194 days",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO07",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO07",
+      "claim": "Hellebuyck 47-12-3 in 2024-25, Hart and Vezina; seventh goalie with 45+ wins",
+      "publisher": "The Hockey News",
+      "url": "https://thehockeynews.com/news/latest-news/connor-hellebuyck-becomes-fifth-nhl-goalie-to-win-vezina-and-hart-trophies-in-same-season",
+      "claim_date": "2025-06-12",
+      "numbers": {
+        "record": "47-12-3",
+        "gp": 63
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "player-seasons",
+        "stat": "wins",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://thehockeynews.com/news/latest-news/connor-hellebuyck-becomes-fifth-nhl-goalie-to-win-vezina-and-hart-trophies-in-same-season",
+          "quote": "Hellebuyck put up a 47-12-3 record this season, becoming the seventh NHL goalie in league history",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO08",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO08",
+      "claim": "Season goalie records: Hainsworth 22 shutouts (1928-29); Gilles Gilbert 17-game win streak (1975-76)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "",
+      "numbers": {
+        "shutouts": 22,
+        "win_streak": 17
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "player-seasons",
+        "stat": "shutouts / wins",
+        "agg": "sum / streak",
+        "window": "a season / a run",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most shutouts, one regular season: George Hainsworth (1928–29), 22",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Longest winning streak by a goaltender, one season: Gilles Gilbert (1975–76), 17 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "GO09",
+      "section": "goalies",
+      "corpus_ref": "research/factoids-and-conventions.md GO09",
+      "claim": "\"Most wins by a goalie through his first 100 starts\"",
+      "publisher": "(none found)",
+      "url": "",
+      "claim_date": "",
+      "numbers": {},
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "goalie starts"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "careers",
+        "stat": "wins",
+        "agg": "sum",
+        "window": "first N starts",
+        "field": "all-time"
+      },
+      "verification": "UNVERIFIED",
+      "note": "No publisher list found; the comparator would be first to rank it. Needs a GS column, which old box scores may not carry.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": []
+    },
+    {
+      "id": "TG01",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG01",
+      "claim": "2022-23 Bruins: 65 wins, 135 points, fastest to 100 points (61 games), 5 regulation losses",
+      "publisher": "Wikipedia (List of NHL records (team))",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "2023-04-13",
+      "numbers": {
+        "wins": 65,
+        "points": 135,
+        "to_100_pts": "61 GP",
+        "previous": "1976-77 Canadiens 132 pts; 1995-96 Red Wings / 2018-19 Lightning 62 W"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "wins / points",
+        "agg": "sum / fastest-to-M",
+        "window": "a season / team games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Most points: 135, by the 2022–23 Boston Bruins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Most wins: 65, by the 2022–23 Boston Bruins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Fewest games to reach 100 points: 61, by the 2022–23 Boston Bruins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Fewest regulation losses: 5, by the 2022–23 Boston Bruins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG02",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG02",
+      "claim": "1976-77 Canadiens: 60-8-12, 132 points, only 8 losses",
+      "publisher": "Wikipedia (1976-77 Montreal Canadiens season)",
+      "url": "https://en.wikipedia.org/wiki/1976–77_Montreal_Canadiens_season",
+      "claim_date": "1977",
+      "numbers": {
+        "record": "60-8-12",
+        "points": 132,
+        "to_100_pts": "62nd game"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "losses (min) / points",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Fewest losses (including overtime and shootout): 8, by the 1976–77 Montreal Canadiens",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1976–77_Montreal_Canadiens_season",
+          "quote": "Montreal set new records for most wins (60) and points (132) in a season.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1976–77_Montreal_Canadiens_season",
+          "quote": "The Canadiens earned their 100th point in the 62nd game of the season",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG03",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG03",
+      "claim": "1992-93 Penguins: 17 straight wins; 14 straight playoff wins across 1992-93",
+      "publisher": "Wikipedia (List of NHL records (team))",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "1993",
+      "numbers": {
+        "headline": 17,
+        "playoff": 14
+      },
+      "scope": {
+        "season": "regular season (17); playoffs separately (14)",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "wins",
+        "agg": "streak",
+        "window": "a run",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Overall: 17 games, by 1992–93 Pittsburgh Penguins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Most consecutive playoff games won: 14, by Pittsburgh Penguins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG04",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG04",
+      "claim": "1979-80 Flyers: 35-game unbeaten streak (25 wins, 10 ties)",
+      "publisher": "Wikipedia (List of NHL records (team); Flyers season)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "1980-01-06",
+      "numbers": {
+        "headline": 35,
+        "w": 25,
+        "t": 10
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "games without a loss",
+        "agg": "streak",
+        "window": "a run",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Overall: 35 games, by 1979–80 Philadelphia Flyers (25 wins, 10 ties)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG05",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG05",
+      "claim": "2024-25 Jets: best 15-game start (14-1-0), fastest to 15 wins (16 GP); 16 straight wins spanning seasons",
+      "publisher": "NHL.com (quarter-mark release)",
+      "url": "https://www.nhl.com/news/numbers-at-quarter-mark-of-2024-25-nhl-season",
+      "claim_date": "2024-11-09",
+      "numbers": {
+        "record_15": "14-1-0",
+        "to_15_wins": 16
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "wins",
+        "agg": "sum / fastest-to-M",
+        "window": "first N team games of a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "A ready-made \"wins through first N team games\" gate. Note NHL.com lets a streak span seasons; the Wikipedia team list is single-season.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/numbers-at-quarter-mark-of-2024-25-nhl-season",
+          "quote": "post the best 15-game start to a season in League history (14-1-0) and become the fastest team ever to 15 wins (16 GP)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.nhl.com/news/numbers-at-quarter-mark-of-2024-25-nhl-season",
+          "quote": "to match the second longest winning streak in NHL history (spanning seasons or single season; behind the Penguins: 17-0-0 in 1992-93)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG06",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG06",
+      "claim": "2017-18 Golden Knights: most wins and points by a first-year expansion team",
+      "publisher": "Wikipedia (2017-18 Vegas Golden Knights season)",
+      "url": "https://en.wikipedia.org/wiki/2017–18_Vegas_Golden_Knights_season",
+      "claim_date": "2018",
+      "numbers": {
+        "points_pct": ".665",
+        "fleury_wins": 28
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons (inaugural)",
+        "stat": "wins / points",
+        "agg": "sum",
+        "window": "a season",
+        "field": "expansion teams"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2017–18_Vegas_Golden_Knights_season",
+          "quote": "they broke the record for most wins by an expansion team in their first season when they earned their 34th win of the season",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most wins by a goaltender, expansion team season: Marc-Andre Fleury (2017–18 Vegas Golden Knights), 28",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG07",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG07",
+      "claim": "62-win seasons: 1995-96 Red Wings (record, 131 pts) and 2018-19 Lightning (62-16-4, 128 pts)",
+      "publisher": "Wikipedia (season pages)",
+      "url": "https://en.wikipedia.org/wiki/1995–96_Detroit_Red_Wings_season",
+      "claim_date": "1996",
+      "numbers": {
+        "wings": "62 W, 131 pts",
+        "lightning": "62-16-4, 128 pts"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "wins",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1995–96_Detroit_Red_Wings_season",
+          "quote": "the Red Wings eclipsed the all-time record of most regular-season wins with 62, a record previously set at 60 by the 1976–77 Montreal Canadiens",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2018–19_Tampa_Bay_Lightning_season",
+          "quote": "2018–19 record | 62–16–4 |",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG08",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG08",
+      "claim": "2012-13 Blackhawks: 24-game points streak to start a season (21 W, 3 SO losses)",
+      "publisher": "Wikipedia (List of NHL records (team))",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "2013-03-06",
+      "numbers": {
+        "headline": 24
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "games with a standings point",
+        "agg": "streak from season start",
+        "window": "first N team games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "A \"points streak\" counts OT/SO losses; distinct from \"unbeaten\" (W+T) and \"winning\".",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Overall: 24 games, by 2012–13 Chicago Blackhawks[3] (21 wins, 3 shootout losses)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TG09",
+      "section": "team glory",
+      "corpus_ref": "research/factoids-and-conventions.md TG09",
+      "claim": "Best points percentage in a season: .875, 1929-30 Bruins",
+      "publisher": "Wikipedia (List of NHL records (team))",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "1930",
+      "numbers": {
+        "headline": ".875"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "points percentage",
+        "agg": "rate",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Greatest points percentage: .875, by the 1929–30 Boston Bruins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF01",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF01",
+      "claim": "1974-75 Capitals: 8-67-5, 21 points, .131, the worst season ever",
+      "publisher": "Wikipedia (List of NHL records (team); Capitals season)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "1975",
+      "numbers": {
+        "record": "8-67-5",
+        "points": 21,
+        "pct": ".131"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "wins (min) / points pct (min)",
+        "agg": "sum / rate",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Fewest wins: 8, by the 1974–75 Washington Capitals",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Lowest points percentage: .131, by the 1974–75 Washington Capitals",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1974–75_Washington_Capitals_season",
+          "quote": "They finished 8–67–5, which is the worst record in NHL history.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF02",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF02",
+      "claim": "1992-93 Sharks: 71 losses, the most ever",
+      "publisher": "Wikipedia (List of NHL records (team); Sharks season)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "1993",
+      "numbers": {
+        "headline": 71,
+        "record": "11-71-2 [S]"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games (84-game season)"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "losses",
+        "agg": "sum",
+        "window": "a season",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Most losses: 71, by the 1992–93 San Jose Sharks",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1992–93_San_Jose_Sharks_season",
+          "quote": "most consecutive losses, with 17 in a row",
+          "note": "conflicts with 18 (2003-04 Penguins); definitional, see TF04",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF03",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF03",
+      "claim": "1992-93 Senators: 1-41-0 on the road; 38-game road losing streak",
+      "publisher": "Wikipedia (List of NHL records (team); Senators season)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "1993",
+      "numbers": {
+        "road": "1-41-0",
+        "road_streak": "38 (team list) vs 39 (season page)"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team road games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "road losses",
+        "agg": "streak",
+        "window": "a run",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "Two Wikipedia pages disagree (38 vs 39).",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Worst away record: 1–41–0, by the 1992–93 Ottawa Senators",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Away: 38 games, by 1992–93 Ottawa Senators",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1992–93_Ottawa_Senators_season",
+          "quote": "the longest road losing streak with a total of 39, from October 10 to April 3",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF04",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF04",
+      "claim": "18-game losing streak: 2003-04 Penguins (0-17-1) and 2020-21 Sabres (0-15-3)",
+      "publisher": "Wikipedia; ESPN",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "2021-03-29",
+      "numbers": {
+        "headline": 18,
+        "pit": "0-17-1",
+        "buf": "0-15-3"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "losses (any kind)",
+        "agg": "streak",
+        "window": "a run",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Overall: 18 games, by 2003–04 Pittsburgh Penguins and by 2020–21 Buffalo Sabres",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2003–04_Pittsburgh_Penguins_season",
+          "quote": "In an 18-game losing streak, they went 0–17–1 (one overtime loss).",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2020–21_Buffalo_Sabres_season",
+          "quote": "In the Sabres' 18-game losing streak, they were 0–15–3 (two overtime losses and one shootout loss).",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/31166656/the-buffalo-sabres-epic-winless-streak-continues-most-fault-how-do-get-back-track",
+          "quote": "The NHL is insistent that the Sabres are on an 18-game \"winless streak\" rather than a \"losing streak.\"",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF05",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF05",
+      "claim": "1980-81 Jets: 30-game winless streak (23 losses, 7 ties)",
+      "publisher": "Wikipedia (List of NHL records (team))",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "1980",
+      "numbers": {
+        "headline": 30
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "games without a win",
+        "agg": "streak",
+        "window": "a run",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Overall: 30 games, by 1980–81 Winnipeg Jets (23 losses, 7 ties)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF06",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF06",
+      "claim": "Worst starts: 1943-44 Rangers 15 winless; 11 straight losses to open by 1943-44 Rangers, 2017-18 and 2021-22 Coyotes, 2023-24 Sharks",
+      "publisher": "Wikipedia (List of NHL records (team))",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+      "claim_date": "2023-11",
+      "numbers": {
+        "winless_start": 15,
+        "losing_start": 11
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "losses",
+        "agg": "streak from season start",
+        "window": "first N team games",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Overall: 11 games, by 1943–44 New York Rangers, 2017–18 Arizona Coyotes, 2021–22 Arizona Coyotes and 2023–24 San Jose Sharks",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "Overall: 15 games, by 1943–44 New York Rangers (14 losses, 1 tie)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF07",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF07",
+      "claim": "2023-24 Sharks: 47 points, the fewest in an 82-game season since OT/SO losses earned a point",
+      "publisher": "Wikipedia (2023-24 San Jose Sharks season)",
+      "url": "https://en.wikipedia.org/wiki/2023–24_San_Jose_Sharks_season",
+      "claim_date": "2024-04-18",
+      "numbers": {
+        "headline": 47
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "points",
+        "agg": "sum (min)",
+        "window": "a season",
+        "field": "since 1999-2000 (OTL point era), 82-game seasons"
+      },
+      "verification": "V",
+      "note": "Era-bounded futility record: the bound is in the words.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2023–24_San_Jose_Sharks_season",
+          "quote": "The Sharks finished with a total of 47 points, the lowest ever total for an 82-game season with one point awarded for an overtime or shootout loss.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF08",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF08",
+      "claim": "2024-25 Sharks: first team to lose nine straight to open consecutive seasons",
+      "publisher": "NBC Sports Bay Area",
+      "url": "https://www.nbcsportsbayarea.com/nhl/san-jose-sharks/macklin-celebrini-las-vegas-golden-knights/1798168",
+      "claim_date": "2024-10-26",
+      "numbers": {
+        "headline": 9
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons (consecutive)",
+        "stat": "losses",
+        "agg": "streak from season start",
+        "window": "first N team games, two seasons",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nbcsportsbayarea.com/nhl/san-jose-sharks/macklin-celebrini-las-vegas-golden-knights/1798168",
+          "quote": "made the Sharks the first team in NHL history to lose nine consecutive games to begin consecutive seasons.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF09",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF09",
+      "claim": "Sabres: 14-season playoff drought (2011-12 to 2024-25), the longest ever, ended in 2025-26",
+      "publisher": "Wikipedia (List of NHL franchise post-season droughts)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_franchise_post-season_droughts",
+      "claim_date": "2026",
+      "numbers": {
+        "headline": "14 seasons",
+        "next": "Panthers, Oilers, Red Wings 10"
+      },
+      "scope": {
+        "season": "seasons (playoff appearance)",
+        "league": "NHL only",
+        "games_unit": "seasons"
+      },
+      "slots": {
+        "who": "team",
+        "population": "franchise",
+        "stat": "playoff appearances (none)",
+        "agg": "streak",
+        "window": "seasons",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_franchise_post-season_droughts",
+          "quote": "Buffalo Sabres | 2010–11 | 2025–26 | 14 seasons |",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "TF10",
+      "section": "team futility",
+      "corpus_ref": "research/factoids-and-conventions.md TF10",
+      "claim": "Fewest wins through a team's first N games of a season (publisher lists)",
+      "publisher": "(none found)",
+      "url": "",
+      "claim_date": "",
+      "numbers": {},
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "team games"
+      },
+      "slots": {
+        "who": "team",
+        "population": "team-seasons",
+        "stat": "wins",
+        "agg": "sum (min)",
+        "window": "first N team games",
+        "field": "all-time"
+      },
+      "verification": "UNVERIFIED",
+      "note": "Publishers give record-at-game-N lines (Sharks 0-10-1, Jets 14-1-0) but no ranked \"fewest through N\" list was found.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": []
+    },
+    {
+      "id": "CO01",
+      "section": "coaches",
+      "corpus_ref": "research/factoids-and-conventions.md CO01",
+      "claim": "Scotty Bowman: 1,244 regular-season wins in 2,141 games; Quenneville second (1,012)",
+      "publisher": "Wikipedia (List of NHL statistical leaders)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_statistical_leaders",
+      "claim_date": "2002",
+      "numbers": {
+        "headline": 1244,
+        "games": 2141,
+        "second": "Quenneville 1,012"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "games coached"
+      },
+      "slots": {
+        "who": "coach",
+        "population": "careers",
+        "stat": "wins",
+        "agg": "sum",
+        "window": "career",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_statistical_leaders",
+          "quote": "Scotty Bowman, 1,244",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_statistical_leaders",
+          "quote": "Scotty Bowman, 2,141",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_statistical_leaders",
+          "quote": "Joel Quenneville, 1,012",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "CO02",
+      "section": "coaches",
+      "corpus_ref": "research/factoids-and-conventions.md CO02",
+      "claim": "Jon Cooper second-fastest coach to 600 wins, behind Bowman (Jan. 12, 2026)",
+      "publisher": "The Hockey News",
+      "url": "https://thehockeynews.com/nhl/tampa-bay-lightning/latest-news/jon-cooper-records-600th-nhl-win",
+      "claim_date": "2026-01-12",
+      "numbers": {
+        "games": "1,005 [S]",
+        "bowman": "1,002 [S]"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "games coached"
+      },
+      "slots": {
+        "who": "coach",
+        "population": "careers",
+        "stat": "wins",
+        "agg": "fastest-to-M (M=600)",
+        "window": "first N games coached",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "Game counts 1,005 vs 1,002 are from a search snippet only.",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://thehockeynews.com/nhl/tampa-bay-lightning/latest-news/jon-cooper-records-600th-nhl-win",
+          "quote": "he's become the second-fastest coach to reach the 600 win plateau, behind only the legendary Scotty Bowman",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "CO03",
+      "section": "coaches",
+      "corpus_ref": "research/factoids-and-conventions.md CO03",
+      "claim": "Worst start to a coaching career: Andre Tourigny 0-10-1 (Coyotes, 2021-22)",
+      "publisher": "NBC Sports Bay Area (quoting Sheng Peng)",
+      "url": "https://www.nbcsportsbayarea.com/nhl/san-jose-sharks/macklin-celebrini-las-vegas-golden-knights/1798168",
+      "claim_date": "2024-10-26",
+      "numbers": {
+        "headline": "0-10-1"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "games coached"
+      },
+      "slots": {
+        "who": "coach",
+        "population": "careers",
+        "stat": "losses",
+        "agg": "streak from career start",
+        "window": "first N games coached",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nbcsportsbayarea.com/nhl/san-jose-sharks/macklin-celebrini-las-vegas-golden-knights/1798168",
+          "quote": "Andre Tourigny lost his first 11 games (0-10-1) with the Arizona Coyotes in 2021-22",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "CO04",
+      "section": "coaches",
+      "corpus_ref": "research/factoids-and-conventions.md CO04",
+      "claim": "Barry Trotz: 1,196 games as the first coach of an expansion franchise (Nashville)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "2014",
+      "numbers": {
+        "headline": 1196
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "games coached"
+      },
+      "slots": {
+        "who": "coach",
+        "population": "careers (one franchise)",
+        "stat": "games coached",
+        "agg": "count",
+        "window": "career",
+        "field": "one franchise"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most games coached by the first coach of an expansion franchise: Barry Trotz (Nashville Predators), 1,196",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "RO01",
+      "section": "rookies",
+      "corpus_ref": "research/factoids-and-conventions.md RO01",
+      "claim": "Selanne's 76 goals and 132 points (1992-93) remain the rookie records",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1993",
+      "numbers": {
+        "goals": 76,
+        "points": 132,
+        "previous_points": "Peter Stastny"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player (rookie)",
+        "population": "player-seasons",
+        "stat": "goals / points",
+        "agg": "sum",
+        "window": "a season (rookie)",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most goals by a rookie, one season: Teemu Selanne (1992–93), 76",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points by a rookie, one season: Teemu Selanne (1992–93), 132",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "RO02",
+      "section": "rookies",
+      "corpus_ref": "research/factoids-and-conventions.md RO02",
+      "claim": "Auston Matthews: four goals in his NHL debut (Oct. 12, 2016)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "2016-10-12",
+      "numbers": {
+        "headline": 4
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player (rookie)",
+        "population": "careers",
+        "stat": "goals",
+        "agg": "sum",
+        "window": "first game",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most goals by a rookie, first game: Auston Matthews (October 12, 2016), 4",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "RO03",
+      "section": "rookies",
+      "corpus_ref": "research/factoids-and-conventions.md RO03",
+      "claim": "Crosby: youngest 100-point season, 18 years 253 days (Apr. 17, 2006)",
+      "publisher": "NHL.com (This Date in History)",
+      "url": "https://www.nhl.com/news/this-date-in-nhl-history-april-17-280320680",
+      "claim_date": "2006-04-17",
+      "numbers": {
+        "age": "18 years, 253 days",
+        "other": "Hawerchuk 18 years, 354 days"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "points",
+        "agg": "youngest-to-M (M=100)",
+        "window": "by age",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/this-date-in-nhl-history-april-17-280320680",
+          "quote": "(18 years, 253 days) becomes the youngest NHL player to reach 100 points in a season.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "RO04",
+      "section": "rookies",
+      "corpus_ref": "research/factoids-and-conventions.md RO04",
+      "claim": "Bedard: youngest All-Star (18 years, 171 days); third-youngest four-point game (18 years, 115 days)",
+      "publisher": "SI; CBS Sports",
+      "url": "https://www.si.com/nhl/2024/01/05/blackhawks-connor-bedard-makes-nhl-history-with-all-star-selection",
+      "claim_date": "2024-01-04",
+      "numbers": {
+        "all_star_age": "18y 171d",
+        "four_point_age": "18y 115d"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "points in a game",
+        "agg": "youngest-to-M",
+        "window": "by age",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.si.com/nhl/2024/01/05/blackhawks-connor-bedard-makes-nhl-history-with-all-star-selection",
+          "quote": "becomes the youngest player in league history to be selected to the All-Star team",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.cbssports.com/nhl/news/blackhawks-connor-bedard-makes-nhl-history-with-four-points-against-lightning/",
+          "quote": "At the age of 18 years and 115 days",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "RO05",
+      "section": "rookies",
+      "corpus_ref": "research/factoids-and-conventions.md RO05",
+      "claim": "Teen career leaders before the 20th birthday: Carson 92 goals; Crosby 222 points (Laine 134, Bedard 128)",
+      "publisher": "NHL.com; The Hockey News",
+      "url": "https://nhl.com/news/jets-patrik-laine-turns-20-happy-with-numbers-298130784",
+      "claim_date": "2018-04-19",
+      "numbers": {
+        "goals": "Carson 92, Hawerchuk 85, Laine 80",
+        "points": "Crosby 222"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "goals / points",
+        "agg": "sum",
+        "window": "by age (before 20th birthday)",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://nhl.com/news/jets-patrik-laine-turns-20-happy-with-numbers-298130784",
+          "quote": "has scored 80 goals, the third-most by an NHL teenager; Jimmy Carson scored 92 for the Los Angeles Kings (1986-88), and Dale Hawerchuk of the original Jets scored 85 (1981-83).",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://thehockeynews.com/nhl/chicago-blackhawks/latest-news/connor-bedard-had-very-impressive-pre-20s-nhl-showing",
+          "quote": "He recorded 128 points as a teenager in the NHL, Laine recorded 134, and Crosby had 222.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "RO06",
+      "section": "rookies",
+      "corpus_ref": "research/factoids-and-conventions.md RO06",
+      "claim": "Celebrini (2025-26): factored into 46.2% of Sharks goals, best ever by an NHL teenager",
+      "publisher": "NHL.com (Sharks)",
+      "url": "https://www.nhl.com/sharks/news/sharks-sign-forward-macklin-celebrini-to-a-five-year-contract-extension",
+      "claim_date": "2026",
+      "numbers": {
+        "headline": "46.2%"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons",
+        "stat": "share of team goals",
+        "agg": "rate",
+        "window": "a season, by age (teenager)",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/sharks/news/sharks-sign-forward-macklin-celebrini-to-a-five-year-contract-extension",
+          "quote": "He completed the campaign factoring into 46.2-percent of all Sharks goals, the second-best such mark in the league this season and best ever by an NHL teenager or any San Jose skater.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "RO07",
+      "section": "rookies",
+      "corpus_ref": "research/factoids-and-conventions.md RO07",
+      "claim": "Youngest NHL player: Bep Guidolin, 16 years 337 days (Nov. 12, 1942)",
+      "publisher": "Wikipedia; Guinness",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1942-11-12",
+      "numbers": {
+        "age": "16y 337d"
+      },
+      "scope": {
+        "season": "regular season only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "careers",
+        "stat": "games played",
+        "agg": "youngest-to-M (M=1)",
+        "window": "by age",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Youngest player to play his first game: Bep Guidolin, November 12, 1942, 16 years, 337 days",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://guinnessworldrecords.com/world-records/youngest-player-to-play-in-nhl",
+          "quote": "At 16 years 11 months, Armand \"Bep\" Guidolin (Canada, b. 9 December 1925) became the youngest player to skate in an NHL game",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PO01",
+      "section": "playoffs",
+      "corpus_ref": "research/factoids-and-conventions.md PO01",
+      "claim": "Gretzky 47 points in the 1985 playoffs; 382 career playoff points",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1985",
+      "numbers": {
+        "headline": 47,
+        "career": 382
+      },
+      "scope": {
+        "season": "playoffs only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons (postseason)",
+        "stat": "points",
+        "agg": "sum",
+        "window": "a postseason",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points, one playoff season: Wayne Gretzky (1985), 47",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points playoff career: Wayne Gretzky, 382",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PO02",
+      "section": "playoffs",
+      "corpus_ref": "research/factoids-and-conventions.md PO02",
+      "claim": "McDavid 34 assists in the 2024 playoffs, a record; Conn Smythe on a losing finalist",
+      "publisher": "Wikipedia (List of NHL records; Connor McDavid)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "2024-06",
+      "numbers": {
+        "headline": 34
+      },
+      "scope": {
+        "season": "playoffs only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons (postseason)",
+        "stat": "assists",
+        "agg": "sum",
+        "window": "a postseason",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most assists, one playoff season: Connor McDavid (2024), 34",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Connor_McDavid",
+          "quote": "McDavid won the Conn Smythe Trophy as the most valuable player in the 2024 Stanley Cup playoffs",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PO03",
+      "section": "playoffs",
+      "corpus_ref": "research/factoids-and-conventions.md PO03",
+      "claim": "Patrick Roy: 151 playoff wins; Binnington 16 as a rookie (2019)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "2019",
+      "numbers": {
+        "roy": 151,
+        "binnington": 16
+      },
+      "scope": {
+        "season": "playoffs only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "goalie",
+        "population": "careers / postseason",
+        "stat": "wins",
+        "agg": "sum",
+        "window": "career / a postseason",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most wins by a goaltender playoffs career: Patrick Roy, 151",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most wins by a rookie goaltender, single playoffs season: Jordan Binnington (2018–19 St. Louis Blues), 16",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "PO04",
+      "section": "playoffs",
+      "corpus_ref": "research/factoids-and-conventions.md PO04",
+      "claim": "Most goals in one playoffs: 19, Reggie Leach (1976) and Jari Kurri (1985)",
+      "publisher": "Wikipedia (List of NHL records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+      "claim_date": "1985",
+      "numbers": {
+        "headline": 19
+      },
+      "scope": {
+        "season": "playoffs only",
+        "league": "NHL only",
+        "games_unit": "player GP"
+      },
+      "slots": {
+        "who": "player",
+        "population": "player-seasons (postseason)",
+        "stat": "goals",
+        "agg": "sum",
+        "window": "a postseason",
+        "field": "all-time"
+      },
+      "verification": "V",
+      "note": "",
+      "query": null,
+      "assertions": [],
+      "status": "pending",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most goals, in single playoffs season: Reggie Leach (1976) and Jari Kurri (1985), 19",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    }
+  ]
+}

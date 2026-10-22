@@ -1,0 +1,1193 @@
+URL: https://en.wikipedia.org/wiki/1979–80_Philadelphia_Flyers_season
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+1979–80 Philadelphia Flyers season - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Off-season
+2
+Regular season
+Toggle Regular season subsection
+2.1
+Season standings
+2.2
+Record vs. opponents
+2.2.1
+Vs. Campbell Conference
+3
+Playoffs
+4
+Schedule and results
+Toggle Schedule and results subsection
+4.1
+Regular season
+4.2
+Playoffs
+5
+Player statistics
+Toggle Player statistics subsection
+5.1
+Scoring
+5.2
+Goaltending
+6
+Awards and records
+Toggle Awards and records subsection
+6.1
+Awards
+6.2
+Records
+6.3
+Milestones
+7
+Transactions
+Toggle Transactions subsection
+7.1
+Trades
+7.2
+Players acquired
+7.3
+Players lost
+7.4
+Signings
+8
+Draft picks
+9
+Farm teams
+10
+Notes
+11
+References
+12
+External links
+Toggle the table of contents
+1979–80 Philadelphia Flyers season
+Add languages
+Add links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+NHL hockey team season
+{{Cite web|url=http://www.flyershistory.net/cgi-bin/attend.cgi|title=All Time Team Attendance|accessdate=October 26, 2013|publisher=Flyers History|work=P. Anson}}</ref>"},"MinorLeague":{"wt":"[[Maine Mariners (AHL)|Maine Mariners]]<br />[[Toledo Goaldiggers]]<br />[[Jersey/Hampton Aces|Hampton Aces]]"},"GoalsLeader":{"wt":"[[Reggie Leach]] (50)"},"AssistsLeader":{"wt":"[[Bobby Clarke]] (57)<br />[[Ken Linseman]] (57)"},"PointsLeader":{"wt":"Ken Linseman (79)"},"PIMLeader":{"wt":"[[Paul Holmgren]] (267)"},"PlusMinusLeader":{"wt":"[[Jimmy Watson (ice hockey)|Jimmy Watson]] (+53)"},"WinsLeader":{"wt":"[[Pete Peeters]] (29)"},"GAALeader":{"wt":"Pete Peeters (2.73)"},"DivisionWin":{"wt":"yes"},"ConferenceWin":{"wt":"yes"}},"i":0}}]}'> 1979–80 Philadelphia Flyers |
+Campbell Conference champions
+|
+Patrick Division champions
+|
+Division | 1st Patrick |
+Conference | 1st Campbell |
+1979–80 record | 48–12–20 |
+Home record | 27–5–8 |
+Road record | 21–7–12 |
+Goals for | 327 (2nd) |
+Goals against | 254 (7th) |
+Team information |
+General manager | Keith Allen |
+Coach | Pat Quinn |
+Captain | Mel Bridgman |
+Alternate captains | None[a] |
+Arena | Spectrum |
+Average attendance | 17,077[1] |
+Minor league affiliates | Maine Mariners
+Toledo Goaldiggers
+Hampton Aces |
+Team leaders |
+Goals | Reggie Leach (50) |
+Assists | Bobby Clarke (57)
+Ken Linseman (57) |
+Points | Ken Linseman (79) |
+Penalty minutes | Paul Holmgren (267) |
+Plus/minus | Jimmy Watson (+53) |
+Wins | Pete Peeters (29) |
+Goals against average | Pete Peeters (2.73) |
+← 1978–79
+1980–81 →
+|
+The 1979–80 Philadelphia Flyers season was the franchise's 13th season in the National Hockey League (NHL). This team owns the longest unbeaten streak in major North American sports history in 35 consecutive games (25 wins, 10 ties) without a loss, from October 14 to January 6.[2][3][4][5] The Flyers reached the Stanley Cup Final but lost in six games to the New York Islanders.
+Off-season
+[edit]
+On August 10, 1979, Bobby Clarke was named a player-assistant coach.[6] In order to become an assistant coach, Clarke was required to give up the captaincy due to NHL rules.[7] Mel Bridgman was named Clarke's replacement as team captain on October 11.[8]
+Regular season
+[edit]
+The Flyers went undefeated for a North American professional sports record 35 straight games (25–0–10), a record that still stands to this day.[2] In doing so, the Flyers wrapped up the Patrick Division title with 14 games to spare and the #1 overall seed in the playoffs.
+Season standings
+[edit]
+Patrick Division
+|
+Games played</span>"}]]}'>GP |
+Wins</span>"}]]}'>W |
+Losses</span>"}]]}'>L |
+Ties</span>"}]]}'>T |
+Goals for</span>"}]]}'>GF |
+Goals against</span>"}]]}'>GA |
+Points</span>"}]]}'>Pts |
+Philadelphia Flyers | 80 | 48 | 12 | 20 | 327 | 254 | 116 |
+New York Islanders | 80 | 39 | 28 | 13 | 281 | 247 | 91 |
+New York Rangers | 80 | 38 | 32 | 10 | 308 | 284 | 86 |
+Atlanta Flames | 80 | 35 | 32 | 13 | 282 | 269 | 83 |
+Washington Capitals | 80 | 27 | 40 | 13 | 261 | 293 | 67 |
+[9]Note: GP = Games played, W = Wins, L = Losses, T = Ties, Pts = Points, GF = Goals for, GA = Goals against
+Note: Teams that qualified for the playoffs are highlighted in bold.
+League standings[10]
+Rank</span>"}]]}'>R |
+|
+Division</span>"}]]}'>Div |
+Games played</span>"}]]}'>GP |
+Wins</span>"}]]}'>W |
+Losses</span>"}]]}'>L |
+Ties</span>"}]]}'>T |
+Goals for</span>"}]]}'>GF |
+Goals against</span>"}]]}'>GA |
+Points</span>"}]]}'>Pts |
+1 | p – Philadelphia Flyers | PTK | 80 | 48 | 12 | 20 | 327 | 254 | 116 |
+2 | y – Buffalo Sabres | ADM | 80 | 47 | 17 | 16 | 318 | 201 | 110 |
+3 | x – Montreal Canadiens | NRS | 80 | 47 | 20 | 13 | 328 | 240 | 107 |
+4 | Boston Bruins | ADM | 80 | 46 | 21 | 13 | 310 | 234 | 105 |
+5 | New York Islanders | PTK | 80 | 39 | 28 | 13 | 281 | 247 | 91 |
+6 | Minnesota North Stars | ADM | 80 | 36 | 28 | 16 | 311 | 253 | 88 |
+7 | x – Chicago Black Hawks | SMY | 80 | 34 | 27 | 19 | 241 | 250 | 87 |
+8 | New York Rangers | PTK | 80 | 38 | 32 | 10 | 308 | 284 | 86 |
+9 | Atlanta Flames | PTK | 80 | 35 | 32 | 13 | 282 | 269 | 83 |
+10 | St. Louis Blues | SMY | 80 | 34 | 34 | 12 | 266 | 278 | 80 |
+11 | Toronto Maple Leafs | ADM | 80 | 35 | 40 | 5 | 304 | 327 | 75 |
+12 | Los Angeles Kings | NRS | 80 | 30 | 36 | 14 | 290 | 313 | 74 |
+13 | Pittsburgh Penguins | NRS | 80 | 30 | 37 | 13 | 251 | 303 | 73 |
+14 | Hartford Whalers | NRS | 80 | 27 | 34 | 19 | 303 | 312 | 73 |
+15 | Vancouver Canucks | SMY | 80 | 27 | 37 | 16 | 256 | 281 | 70 |
+16 | Edmonton Oilers | SMY | 80 | 28 | 39 | 13 | 301 | 322 | 69 |
+|
+17 | Washington Capitals | PTK | 80 | 27 | 40 | 13 | 261 | 293 | 67 |
+18 | Detroit Red Wings | NRS | 80 | 26 | 43 | 11 | 268 | 306 | 63 |
+19 | Quebec Nordiques | ADM | 80 | 25 | 44 | 11 | 248 | 313 | 61 |
+20 | Winnipeg Jets | SMY | 80 | 20 | 49 | 11 | 214 | 314 | 51 |
+21 | Colorado Rockies | SMY | 80 | 19 | 48 | 13 | 234 | 308 | 51 |
+Divisions: ADM – Adams, NRS – Norris, PTK – Patrick, SMY – Smythe
+bold – The top 16 teams in the league qualified for the playoffs, regardless of division or conference.
+x – Won division; y – Won Conference (and division); p – Won Presidents' Trophy (and conference and division)
+Record vs. opponents
+[edit]
+Patrick Division record vs. opponents
+|
+Vs. Campbell Conference
+[edit]
+Vs. Patrick Division
+1979–80 NHL records[11] |
+Team |
+ATL |
+NYI |
+NYR |
+PHI |
+WSH |
+Total |
+Atlanta |
+— | 1–3 | 3–0–1 | 2–2 | 3–0–1 | 9−5−2 |
+N.Y. Islanders |
+3–1 | — | 2–2 | 2–2 | 2–2 | 9−7−0 |
+N.Y. Rangers |
+0–3–1 | 2–2 | — | 1–2–1 | 2–2 | 5−9−2 |
+Philadelphia |
+2–2 | 2–2 | 2–1–1 | — | 2–0–2 | 8−5−3 |
+Washington |
+0–3–1 | 2–2 | 2–2 | 0–2–2 | — | 4−9−3 |
+Vs. Smythe Division
+1979–80 NHL records |
+Team |
+CHI |
+COL |
+EDM |
+STL |
+VAN |
+WIN |
+Total |
+Atlanta |
+0−2−2 | 4−0 | 2−1−1 | 3−1 | 2−2 | 4−0 | 15−6−3 |
+N.Y. Islanders |
+2−1−1 | 3−1 | 1−2−1 | 3−1 | 1−2−1 | 2−0−2 | 12−7−5 |
+N.Y. Rangers |
+1−2−1 | 1−1−2 | 3−1 | 4−0 | 4−0 | 2−2 | 15−6−3 |
+Philadelphia |
+2–0–2 | 2–1–1 | 3–0−1 | 2−0−2 | 3−1 | 4−0 | 16−2−6 |
+Washington |
+2−2 | 1−1−2 | 1−3 | 2−2 | 3−1 | 3−0−1 | 12−9−3 |
+Vs. Wales Conference
+Vs. Adams Division
+1979–80 NHL records |
+Team |
+BOS |
+BUF |
+MIN |
+QUE |
+TOR |
+Total |
+Atlanta |
+0–4 | 0–3–1 | 1–1–2 | 3–0–1 | 1–3 | 5–11–4 |
+N.Y. Islanders |
+1–3 | 1–2–1 | 0–2–2 | 4–0 | 3–1 | 9–8–3 |
+N.Y. Rangers |
+2–2 | 1–2–1 | 1–2–1 | 2–1–1 | 2–2 | 8–9–3 |
+Philadelphia |
+1–1–2 | 3–0–1 | 3–1 | 3–0–1 | 1–1–2 | 11–3–6 |
+Washington |
+1–2–1 | 0–4 | 0–3–1 | 1–1–2 | 1–3 | 3–13–4 |
+Vs. Norris Division
+1979–80 NHL records |
+Team |
+DET |
+HFD |
+LAK |
+MTL |
+PIT |
+Total |
+Atlanta |
+2–1–1 | 1–3 | 2–1–1 | 0–3–1 | 1–2–1 | 6–10–4 |
+N.Y. Islanders |
+1–3 | 3–1 | 2–1–1 | 3–0–1 | 0–1–3 | 9–6–5 |
+N.Y. Rangers |
+3–1 | 2–1–1 | 3–1 | 0–3–1 | 2–2 | 10–8–2 |
+Philadelphia |
+3–0–1 | 2–0–2 | 4–0 | 1–2–1 | 3–0–1 | 13–2–5 |
+Washington |
+1–2–1 | 2–1–1 | 3–1 | 1–2–1 | 1–3 | 8–9–3 |
+|
+Playoffs
+[edit]
+The Flyers' regular-season success continued into the playoffs, as the Flyers swept a young Wayne Gretzky and his Edmonton Oilers in the first round, then went on to get revenge against Fred Shero and his Rangers by beating them in five before disposing of Minnesota in five to lock up a berth in the Stanley Cup Final. Facing the Islanders for the Cup, the Flyers would ultimately lose in six games on Bob Nystrom's overtime Cup-winning goal. The result of the series was marred by controversy, as the Islanders were arguably offside on the play that resulted in their second goal in game six, but no call was made. Linesman Leon Stickle admitted after the game that he had blown the call.[12]
+Schedule and results
+[edit]
+Regular season
+[edit]
+{{cite web |title=1979-80 Philadelphia Flyers Schedule and Results |url=https://www.hockey-reference.com/teams/PHI/1980_games.html |website=Hockey-Reference.com |access-date=August 27, 2022}}</ref>"}},"i":0}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"October: 6–1–1 (home: 5–0–1; road: 1–1–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Record "},"8":{"wt":"Points "},"9":{"wt":"Recap"}},"i":1}},"\n|- {{Game-won}}\n| 1 || October 11 || 5–2 || align=\"left\"| [[1979–80 New York Islanders season|New York Islanders]] || Myre || 17,077 || 1–0–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020007"},"2":{"wt":"W"}},"i":2}},"\n|- {{Game-lost}}\n| 2 || October 13 || 2–9 || align=\"left\"| @ [[1979–80 Atlanta Flames season|Atlanta Flames]] || Myre || 13,358 || 1–1–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020015"},"2":{"wt":"L"}},"i":3}},"\n|- {{Game-won}}\n| 3 || October 14 || 4–3 || align=\"left\"| [[1979–80 Toronto Maple Leafs season|Toronto Maple Leafs]] || Peeters || 17,077 || 2–1–0 || 4 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020024"},"2":{"wt":"W"}},"i":4}},"\n|- {{Game-won}}\n| 4 || October 18 || 6–2 || align=\"left\"| [[1979–80 Atlanta Flames season|Atlanta Flames]] || Peeters || 17,077 || 3–1–0 || 6 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020040"},"2":{"wt":"W"}},"i":5}},"\n|- {{Game-won}}\n| 5 || October 20 || 7–3 || align=\"left\"| @ [[1979–80 Detroit Red Wings season|Detroit Red Wings]] || Myre || 15,417 || 4–1–0 || 8 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020048"},"2":{"wt":"W"}},"i":6}},"\n|- {{Game-tied}}\n| 6 || October 21 || 6–6 || align=\"left\"| [[1979–80 Montreal Canadiens season|Montreal Canadiens]] || Myre || 17,077 || 4–1–1 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020056"},"2":{"wt":"T"}},"i":7}},"\n|- {{Game-won}}\n| 7 || October 25 || 5–2 || align=\"left\"| [[1979–80 New York Rangers season|New York Rangers]] || Peeters || 17,077 || 5–1–1 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020071"},"2":{"wt":"W"}},"i":8}},"\n|- {{Game-won}}\n| 8 || October 28 || 5–4 || align=\"left\"| [[1979–80 Detroit Red Wings season|Detroit Red Wings]] || Myre || 17,077 || 6–1–1 || 13 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020087"},"2":{"wt":"W"}},"i":9}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":10}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"November: 11–0–2 (home: 6–0–0; road: 5–0–2)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Record "},"8":{"wt":"Points "},"9":{"wt":"Recap"}},"i":11}},"\n|- {{Game-won}}\n| 9 || November 1 || 3–1 || align=\"left\"| [[1979–80 St. Louis Blues season|St. Louis Blues]] || Peeters || 17,077 || 7–1–1 || 15 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020104"},"2":{"wt":"W"}},"i":12}},"\n|- {{Game-won}}\n| 10 || November 3 || 5–3 || align=\"left\"| @ [[1979–80 Montreal Canadiens season|Montreal Canadiens]] || Myre || 17,012 || 8–1–1 || 17 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020112"},"2":{"wt":"W"}},"i":13}},"\n|- {{Game-won}}\n| 11 || November 4 || 3–1 || align=\"left\"| [[1979–80 Buffalo Sabres season|Buffalo Sabres]] || Peeters || 17,077 || 9–1–1 || 19 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020120"},"2":{"wt":"W"}},"i":14}},"\n|- {{Game-won}}\n| 12 || November 7 || 4–3 || align=\"left\"| @ [[1979–80 Quebec Nordiques season|Quebec Nordiques]] || Myre || 11,899 || 10–1–1 || 21 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020130"},"2":{"wt":"W"}},"i":15}},"\n|- {{Game-won}}\n| 13 || November 10 || 5–2 || align=\"left\"| @ [[1979–80 New York Islanders season|New York Islanders]] || Peeters || 14,995 || 11–1–1 || 23 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020141"},"2":{"wt":"W"}},"i":16}},"\n|- {{Game-won}}\n| 14 || November 11 || 5–4 || align=\"left\"| [[1979–80 Vancouver Canucks season|Vancouver Canucks]] || Myre || 17,077 || 12–1–1 || 25 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020149"},"2":{"wt":"W"}},"i":17}},"\n|- {{Game-won}}\n| 15 || November 15 || 5–3 || align=\"left\"| [[1979–80 Edmonton Oilers season|Edmonton Oilers]] || Myre || 17,077 || 13–1–1 || 27 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020165"},"2":{"wt":"W"}},"i":18}},"\n|- {{Game-tied}}\n| 16 || November 17 || 3–3 || align=\"left\"| @ [[1979–80 St. Louis Blues season|St. Louis Blues]] || Peeters || 12,723 || 13–1–2 || 28 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020175"},"2":{"wt":"T"}},"i":19}},"\n|- {{Game-won}}\n| 17 || November 21 || 6–4 || align=\"left\"| @ [[1979–80 Los Angeles Kings season|Los Angeles Kings]] || Peeters || 10,030 || 14–1–2 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020195"},"2":{"wt":"W"}},"i":20}},"\n|- {{Game-won}}\n| 18 || November 23 || 5–2 || align=\"left\"| @ [[1979–80 Vancouver Canucks season|Vancouver Canucks]] || Myre || 16,413 || 15–1–2 || 32 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020203"},"2":{"wt":"W"}},"i":21}},"\n|- {{Game-tied}}\n| 19 || November 24 || 2–2 || align=\"left\"| @ [[1979–80 Edmonton Oilers season|Edmonton Oilers]] || Peeters || 15,423 || 15–1–3 || 33 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020208"},"2":{"wt":"T"}},"i":22}},"\n|- {{Game-won}}\n| 20 || November 27 || 6–2 || align=\"left\"| [[1979–80 Hartford Whalers season|Hartford Whalers]] || Myre || 17,077 || 16–1–3 || 35 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020222"},"2":{"wt":"W"}},"i":23}},"\n|- {{Game-won}}\n| 21 || November 29 || 6–4 || align=\"left\"| [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Peeters || 17,077 || 17–1–3 || 37 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020235"},"2":{"wt":"W"}},"i":24}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":25}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"December: 7–0–7 (home: 4–0–4; road: 3–0–3)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Record "},"8":{"wt":"Points "},"9":{"wt":"Recap"}},"i":26}},"\n|- {{Game-tied}}\n| 22 || December 1 || 4–4 || align=\"left\"| @ [[1979–80 Toronto Maple Leafs season|Toronto Maple Leafs]] || Myre || 16,485 || 17–1–4 || 38 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020242"},"2":{"wt":"T"}},"i":27}},"\n|- {{Game-tied}}\n| 23 || December 2 || 4–4 || align=\"left\"| [[1979–80 Detroit Red Wings season|Detroit Red Wings]] || Peeters || 17,077 || 17–1–5 || 39 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020250"},"2":{"wt":"T"}},"i":28}},"\n|- {{Game-tied}}\n| 24 || December 4 || 2–2 || align=\"left\"| [[1979–80 Boston Bruins season|Boston Bruins]] || Myre || 17,077 || 17–1–6 || 40 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020256"},"2":{"wt":"T"}},"i":29}},"\n|- {{Game-won}}\n| 25 || December 6 || 9–4 || align=\"left\"| [[1979–80 Los Angeles Kings season|Los Angeles Kings]] || Peeters || 17,077 || 18–1–6 || 42 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020268"},"2":{"wt":"W"}},"i":30}},"\n|- {{Game-tied}}\n| 26 || December 9 || 4–4 || align=\"left\"| [[1979–80 Chicago Black Hawks season|Chicago Black Hawks]] || Myre || 17,077 || 18–1–7 || 43 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020281"},"2":{"wt":"T"}},"i":31}},"\n|- {{Game-won}}\n| 27 || December 13 || 6–4 || align=\"left\"| [[1979–80 Quebec Nordiques season|Quebec Nordiques]] || Peeters || 17,077 || 19–1–7 || 45 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020299"},"2":{"wt":"W"}},"i":32}},"\n|- {{Game-won}}\n| 28 || December 15 || 3–2 || align=\"left\"| [[1979–80 Buffalo Sabres season|Buffalo Sabres]] || Peeters || 17,077 || 20–1–7 || 47 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020307"},"2":{"wt":"W"}},"i":33}},"\n|- {{Game-tied}}\n| 29 || December 16 || 1–1 || align=\"left\"| @ [[1979–80 New York Rangers season|New York Rangers]] || Myre || 17,404 || 20–1–8 || 48 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020315"},"2":{"wt":"T"}},"i":34}},"\n|- {{Game-tied}}\n| 30 || December 20 || 1–1 || align=\"left\"| [[1979–80 Pittsburgh Penguins season|Pittsburgh Penguins]] || Peeters || 17,077 || 20–1–9 || 49 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020331"},"2":{"wt":"T"}},"i":35}},"\n|- {{Game-won}}\n| 31 || December 22 || 5–2 || align=\"left\"| @ [[1979–80 Boston Bruins season|Boston Bruins]] || Myre || 14,673 || 21–1–9 || 51 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020340"},"2":{"wt":"W"}},"i":36}},"\n|- {{Game-won}}\n| 32 || December 23 || 4–2 || align=\"left\"| [[1979–80 Hartford Whalers season|Hartford Whalers]] || Peeters || 17,077 || 22–1–9 || 53 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020349"},"2":{"wt":"W"}},"i":37}},"\n|- {{Game-tied}}\n| 33 || December 26 || 4–4 || align=\"left\"| @ [[1979–80 Hartford Whalers season|Hartford Whalers]] || Myre || 7,627 || 22–1–10 || 54 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020352"},"2":{"wt":"T"}},"i":38}},"\n|- {{Game-won}}\n| 34 || December 28 || 5–3 || align=\"left\"| @ [[1979–80 Winnipeg Jets season|Winnipeg Jets]] || Peeters || 16,038 || 23–1–10 || 56 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020364"},"2":{"wt":"W"}},"i":39}},"\n|- {{Game-won}}\n| 35 || December 29 || 3–2 || align=\"left\"| @ [[1979–80 Colorado Rockies season|Colorado Rockies]] || Myre || 16,452 || 24–1–10 || 58 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020368"},"2":{"wt":"W"}},"i":40}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":41}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"January: 10–2–2 (home: 4–0–1; road: 6–2–1)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Record "},"8":{"wt":"Points "},"9":{"wt":"Recap"}},"i":42}},"\n|- {{Game-won}}\n| 36 || January 4 || 5–3 || align=\"left\"| @ [[1979–80 New York Rangers season|New York Rangers]] || Myre || 17,398 || 25–1–10 || 60 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020391"},"2":{"wt":"W"}},"i":43}},"\n|- {{Game-won}}\n| 37 || January 6 || 4–2 || align=\"left\"| @ [[1979–80 Buffalo Sabres season|Buffalo Sabres]] || Peeters || 16,433 || 26–1–10 || 62 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020403"},"2":{"wt":"W"}},"i":44}},"\n|- {{Game-lost}}\n| 38 || January 7 || 1–7 || align=\"left\"| @ [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Myre || 15,962 || 26–2–10 || 62 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020408"},"2":{"wt":"L"}},"i":45}},"\n|- {{Game-won}}\n| 39 || January 10 || 5–4 || align=\"left\"| [[1979–80 Winnipeg Jets season|Winnipeg Jets]] || Peeters || 17,077 || 27–2–10 || 64 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020422"},"2":{"wt":"W"}},"i":46}},"\n|- {{Game-lost}}\n| 40 || January 12 || 3–4 || align=\"left\"| @ [[1979–80 Montreal Canadiens season|Montreal Canadiens]] || Myre || 18,091 || 27–3–10 || 64 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020430"},"2":{"wt":"L"}},"i":47}},"\n|- {{Game-tied}}\n| 41 || January 13 || 1–1 || align=\"left\"| [[1979–80 St. Louis Blues season|St. Louis Blues]] || Peeters || 17,077 || 27–3–11 || 65 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020437"},"2":{"wt":"T"}},"i":48}},"\n|- {{Game-won}}\n| 42 || January 15 || 7–4 || align=\"left\"| [[1979–80 Washington Capitals season|Washington Capitals]] || Myre || 17,077 || 28–3–11 || 67 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020445"},"2":{"wt":"W"}},"i":49}},"\n|- {{Game-won}}\n| 43 || January 17 || 5–1 || align=\"left\"| [[1979–80 Chicago Black Hawks season|Chicago Black Hawks]] || Peeters || 17,077 || 29–3–11 || 69 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020457"},"2":{"wt":"W"}},"i":50}},"\n|- {{Game-tied}}\n| 44 || January 19 || 4–4 || align=\"left\"| @ [[1979–80 Washington Capitals season|Washington Capitals]] || Myre || 18,130 || 29–3–12 || 70 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020465"},"2":{"wt":"T"}},"i":51}},"\n|- {{Game-won}}\n| 45 || January 22 || 3–1 || align=\"left\"| @ [[1979–80 St. Louis Blues season|St. Louis Blues]] || Peeters || 17,453 || 30–3–12 || 72 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020479"},"2":{"wt":"W"}},"i":52}},"\n|- {{Game-won}}\n| 46 || January 23 || 4–1 || align=\"left\"| @ [[1979–80 Chicago Black Hawks season|Chicago Black Hawks]] || Myre || 17,160 || 31–3–12 || 74 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020485"},"2":{"wt":"W"}},"i":53}},"\n|- {{Game-won}}\n| 47 || January 25 || 5–4 || align=\"left\"| @ [[1979–80 Winnipeg Jets season|Winnipeg Jets]] || Peeters || 15,122 || 32–3–12 || 76 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020492"},"2":{"wt":"W"}},"i":54}},"\n|- {{Game-won}}\n| 48 || January 27 || 5–3 || align=\"left\"| @ [[1979–80 Edmonton Oilers season|Edmonton Oilers]] || Peeters || 15,423 || 33–3–12 || 78 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020504"},"2":{"wt":"W"}},"i":55}},"\n|- {{Game-won}}\n| 49 || January 31 || 4–2 || align=\"left\"| [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || St. Croix || 17,077 || 34–3–12 || 80 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020525"},"2":{"wt":"W"}},"i":56}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":57}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"February: 7–2–2 (home: 3–1–1; road: 4–1–1)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Record "},"8":{"wt":"Points "},"9":{"wt":"Recap"}},"i":58}},"\n|- {{Game-won}}\n| 50 || February 2 || 4–0 || align=\"left\"| @ [[1979–80 Pittsburgh Penguins season|Pittsburgh Penguins]] || Peeters || 16,033 || 35–3–12 || 82 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020531"},"2":{"wt":"W"}},"i":59}},"\n|- {{Game-tied}}\n| 51 || February 3 || 3–3 || align=\"left\"| [[1979–80 Boston Bruins season|Boston Bruins]] || Myre || 17,077 || 35–3–13 || 83 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020541"},"2":{"wt":"T"}},"i":60}},"\n|- {{Game-lost}}\n| 52 || February 7 || 1–4 || align=\"left\"| [[1979–80 Vancouver Canucks season|Vancouver Canucks]] || Myre || 17,077 || 35–4–13 || 83 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020552"},"2":{"wt":"L"}},"i":61}},"\n|- {{Game-won}}\n| 53 || February 9 || 6–5 || align=\"left\"| @ [[1979–80 Detroit Red Wings season|Detroit Red Wings]] || Peeters || 19,353 || 36–4–13 || 85 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020560"},"2":{"wt":"W"}},"i":62}},"\n|- {{Game-won}}\n| 54 || February 10 || 5–2 || align=\"left\"| [[1979–80 Los Angeles Kings season|Los Angeles Kings]] || Myre || 17,077 || 37–4–13 || 87 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020567"},"2":{"wt":"W"}},"i":63}},"\n|- {{Game-won}}\n| 55 || February 14 || 5–1 || align=\"left\"| [[1979–80 Winnipeg Jets season|Winnipeg Jets]] || Peeters || 17,077 || 38–4–13 || 89 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020583"},"2":{"wt":"W"}},"i":64}},"\n|- {{Game-won}}\n| 56 || February 17 || 6–5 || align=\"left\"| [[1979–80 Pittsburgh Penguins season|Pittsburgh Penguins]] || Myre || 17,077 || 39–4–13 || 91 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020598"},"2":{"wt":"W"}},"i":65}},"\n|- {{Game-lost}}\n| 57 || February 19 || 6–8 || align=\"left\"| @ [[1979–80 Colorado Rockies season|Colorado Rockies]] || Peeters || 11,563 || 39–5–13 || 91 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020606"},"2":{"wt":"L"}},"i":66}},"\n|- {{Game-won}}\n| 58 || February 22 || 7–3 || align=\"left\"| @ [[1979–80 Vancouver Canucks season|Vancouver Canucks]] || Myre || 16,341 || 40–5–13 || 93 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020620"},"2":{"wt":"W"}},"i":67}},"\n|- {{Game-won}}\n| 59 || February 23 || 5–1 || align=\"left\"| @ [[1979–80 Los Angeles Kings season|Los Angeles Kings]] || Peeters || 16,005 || 41–5–13 || 95 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020624"},"2":{"wt":"W"}},"i":68}},"\n|- {{Game-tied}}\n| 60 || February 27 || 1–1 || align=\"left\"| @ [[1979–80 Buffalo Sabres season|Buffalo Sabres]] || Myre || 16,433 || 41–5–14 || 96 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020644"},"2":{"wt":"T"}},"i":69}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":70}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"March: 6–6–5 (home: 4–3–1; road: 2–3–4)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Record "},"8":{"wt":"Points "},"9":{"wt":"Recap"}},"i":71}},"\n|- {{Game-tied}}\n| 61 || March 1 || 3–3 || align=\"left\"| @ [[1979–80 Toronto Maple Leafs season|Toronto Maple Leafs]] || Myre || 16,485 || 41–5–15 || 97 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020656"},"2":{"wt":"T"}},"i":72}},"\n|- {{Game-lost}}\n| 62 || March 2 || 1–5 || align=\"left\"| [[1979–80 Montreal Canadiens season|Montreal Canadiens]] || Peeters || 17,077 || 41–6–15 || 97 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020665"},"2":{"wt":"L"}},"i":73}},"\n|- {{Game-won}}\n| 63 || March 4 || 4–1 || align=\"left\"| [[1979–80 Colorado Rockies season|Colorado Rockies]] || Peeters || 17,007 || 42–6–15 || 99 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020673"},"2":{"wt":"W"}},"i":74}},"\n|- {{Game-lost}}\n| 64 || March 6 || 2–5 || align=\"left\"| [[1979–80 New York Islanders season|New York Islanders]] || Myre || 17,077 || 42–7–15 || 99 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020682"},"2":{"wt":"L"}},"i":75}},"\n|- {{Game-won}}\n| 65 || March 8 || 6–2 || align=\"left\"| @ [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Peeters || 15,701 || 43–7–15 || 101 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020689"},"2":{"wt":"W"}},"i":76}},"\n|- {{Game-won}}\n| 66 || March 9 || 5–3 || align=\"left\"| [[1979–80 Edmonton Oilers season|Edmonton Oilers]] || Myre || 17,077 || 44–7–15 || 103 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020697"},"2":{"wt":"W"}},"i":77}},"\n|- {{Game-won}}\n| 67 || March 11 || 4–3 || align=\"left\"| [[1979–80 Pittsburgh Penguins season|Pittsburgh Penguins]] || Peeters || 9,972 || 45–7–15 || 105 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020080"},"2":{"wt":"W"}},"i":78}},"\n|- {{Game-tied}}\n| 68 || March 12 || 6–6 || align=\"left\"| @ [[1979–80 Chicago Black Hawks season|Chicago Black Hawks]] || Myre || 17,306 || 45–7–16 || 106 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020708"},"2":{"wt":"T"}},"i":79}},"\n|- {{Game-lost}}\n| 69 || March 15 || 3–4 || align=\"left\"| @ [[1979–80 Atlanta Flames season|Atlanta Flames]] || Peeters || 15,156 || 45–8–16 || 106 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020723"},"2":{"wt":"L"}},"i":80}},"\n|- {{Game-tied}}\n| 70 || March 16 || 4–4 || align=\"left\"| [[1979–80 Colorado Rockies season|Colorado Rockies]] || Myre || 17,077 || 45–8–17 || 107 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020732"},"2":{"wt":"T"}},"i":81}},"\n|- {{Game-lost}}\n| 71 || March 20 || 0–3 || align=\"left\"| [[1979–80 Toronto Maple Leafs season|Toronto Maple Leafs]] || Peeters || 17,077 || 45–9–17 || 107 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020749"},"2":{"wt":"L"}},"i":82}},"\n|- {{Game-tied}}\n| 72 || March 21 || 5–5 || align=\"left\"| @ [[1979–80 Hartford Whalers season|Hartford Whalers]] || Myre || 14,460 || 45–9–18 || 108 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020753"},"2":{"wt":"T"}},"i":83}},"\n|- {{Game-lost}}\n| 73 || March 23 || 2–7 || align=\"left\"| @ [[1979–80 Boston Bruins season|Boston Bruins]] || Peeters || 14,673 || 45–10–18 || 108 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020766"},"2":{"wt":"L"}},"i":84}},"\n|- {{Game-lost}}\n| 74 || March 25 || 2–5 || align=\"left\"| @ [[1979–80 New York Islanders season|New York Islanders]] || Myre || 14,995 || 45–11–18 || 108 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020774"},"2":{"wt":"L"}},"i":85}},"\n|- {{Game-won}}\n| 75 || March 27 || 5–2 || align=\"left\"| [[1979–80 Quebec Nordiques season|Quebec Nordiques]] || Peeters || 17,077 || 46–11–18 || 110 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020784"},"2":{"wt":"W"}},"i":86}},"\n|- {{Game-tied}}\n| 76 || March 29 || 3–3 || align=\"left\"| @ [[1979–80 Washington Capitals season|Washington Capitals]] || Myre || 18,130 || 46–11–19 || 111 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020794"},"2":{"wt":"T"}},"i":87}},"\n|- {{Game-won}}\n| 77 || March 30 || 4–2 || align=\"left\"| [[1979–80 Atlanta Flames season|Atlanta Flames]] || Peeters || 17,077 || 47–11–19 || 113 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020799"},"2":{"wt":"W"}},"i":88}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":89}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"April: 1–1–1 (home: 1–1–0; road: 0–0–1)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Record "},"8":{"wt":"Points "},"9":{"wt":"Recap"}},"i":90}},"\n|- {{Game-tied}}\n| 78 || April 1 || 3–3 || align=\"left\"| @ [[1979–80 Quebec Nordiques season|Quebec Nordiques]] || Myre || 10,706 || 47–11–20 || 114 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020808"},"2":{"wt":"T"}},"i":91}},"\n|- {{Game-won}}\n| 79 || April 3 || 4–2 || align=\"left\"| [[1979–80 Washington Capitals season|Washington Capitals]] || Peeters || 17,077 || 48–11–20 || 116 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020820"},"2":{"wt":"W"}},"i":92}},"\n|- {{Game-lost}}\n| 80 || April 6 || 3–8 || align=\"left\"| [[1979–80 New York Rangers season|New York Rangers]] || Myre || 17,077 || 48–12–20 || 116 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979020834"},"2":{"wt":"L"}},"i":93}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":94}},"\n|-\n|\n'''''Legend''''':\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#cfc"},"2":{"wt":"Win (2 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"W"}},"i":95}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#fcc"},"2":{"wt":"Loss (0 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"L"}},"i":96}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#ffc"},"2":{"wt":"Tie (1 point)"},"border":{"wt":"1px solid black"},"text":{"wt":"T"}},"i":97}},"\n",{"template":{"target":{"wt":"Game log end","href":"./Template:Game_log_end"},"params":{},"i":98}}]}'>
+1979–80 regular season[13] |
+October: 6–1–1 (home: 5–0–1; road: 1–1–0)
+Game | Date | Score | Opponent | Decision | Attendance | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+1 | October 11 | 5–2 | New York Islanders | Myre | 17,077 | 1–0–0 | 2 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+2 | October 13 | 2–9 | @ Atlanta Flames | Myre | 13,358 | 1–1–0 | 2 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+3 | October 14 | 4–3 | Toronto Maple Leafs | Peeters | 17,077 | 2–1–0 | 4 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+4 | October 18 | 6–2 | Atlanta Flames | Peeters | 17,077 | 3–1–0 | 6 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+5 | October 20 | 7–3 | @ Detroit Red Wings | Myre | 15,417 | 4–1–0 | 8 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+6 | October 21 | 6–6 | Montreal Canadiens | Myre | 17,077 | 4–1–1 | 9 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+7 | October 25 | 5–2 | New York Rangers | Peeters | 17,077 | 5–1–1 | 11 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+8 | October 28 | 5–4 | Detroit Red Wings | Myre | 17,077 | 6–1–1 | 13 | W |
+|
+November: 11–0–2 (home: 6–0–0; road: 5–0–2)
+Game | Date | Score | Opponent | Decision | Attendance | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+9 | November 1 | 3–1 | St. Louis Blues | Peeters | 17,077 | 7–1–1 | 15 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+10 | November 3 | 5–3 | @ Montreal Canadiens | Myre | 17,012 | 8–1–1 | 17 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+11 | November 4 | 3–1 | Buffalo Sabres | Peeters | 17,077 | 9–1–1 | 19 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+12 | November 7 | 4–3 | @ Quebec Nordiques | Myre | 11,899 | 10–1–1 | 21 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+13 | November 10 | 5–2 | @ New York Islanders | Peeters | 14,995 | 11–1–1 | 23 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+14 | November 11 | 5–4 | Vancouver Canucks | Myre | 17,077 | 12–1–1 | 25 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+15 | November 15 | 5–3 | Edmonton Oilers | Myre | 17,077 | 13–1–1 | 27 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+16 | November 17 | 3–3 | @ St. Louis Blues | Peeters | 12,723 | 13–1–2 | 28 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+17 | November 21 | 6–4 | @ Los Angeles Kings | Peeters | 10,030 | 14–1–2 | 30 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+18 | November 23 | 5–2 | @ Vancouver Canucks | Myre | 16,413 | 15–1–2 | 32 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+19 | November 24 | 2–2 | @ Edmonton Oilers | Peeters | 15,423 | 15–1–3 | 33 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+20 | November 27 | 6–2 | Hartford Whalers | Myre | 17,077 | 16–1–3 | 35 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+21 | November 29 | 6–4 | Minnesota North Stars | Peeters | 17,077 | 17–1–3 | 37 | W |
+|
+December: 7–0–7 (home: 4–0–4; road: 3–0–3)
+Game | Date | Score | Opponent | Decision | Attendance | Record | Points | Recap |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+22 | December 1 | 4–4 | @ Toronto Maple Leafs | Myre | 16,485 | 17–1–4 | 38 | T |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+23 | December 2 | 4–4 | Detroit Red Wings | Peeters | 17,077 | 17–1–5 | 39 | T |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+24 | December 4 | 2–2 | Boston Bruins | Myre | 17,077 | 17–1–6 | 40 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+25 | December 6 | 9–4 | Los Angeles Kings | Peeters | 17,077 | 18–1–6 | 42 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+26 | December 9 | 4–4 | Chicago Black Hawks | Myre | 17,077 | 18–1–7 | 43 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+27 | December 13 | 6–4 | Quebec Nordiques | Peeters | 17,077 | 19–1–7 | 45 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+28 | December 15 | 3–2 | Buffalo Sabres | Peeters | 17,077 | 20–1–7 | 47 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+29 | December 16 | 1–1 | @ New York Rangers | Myre | 17,404 | 20–1–8 | 48 | T |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+30 | December 20 | 1–1 | Pittsburgh Penguins | Peeters | 17,077 | 20–1–9 | 49 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+31 | December 22 | 5–2 | @ Boston Bruins | Myre | 14,673 | 21–1–9 | 51 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+32 | December 23 | 4–2 | Hartford Whalers | Peeters | 17,077 | 22–1–9 | 53 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+33 | December 26 | 4–4 | @ Hartford Whalers | Myre | 7,627 | 22–1–10 | 54 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+34 | December 28 | 5–3 | @ Winnipeg Jets | Peeters | 16,038 | 23–1–10 | 56 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+35 | December 29 | 3–2 | @ Colorado Rockies | Myre | 16,452 | 24–1–10 | 58 | W |
+|
+January: 10–2–2 (home: 4–0–1; road: 6–2–1)
+Game | Date | Score | Opponent | Decision | Attendance | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+36 | January 4 | 5–3 | @ New York Rangers | Myre | 17,398 | 25–1–10 | 60 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+37 | January 6 | 4–2 | @ Buffalo Sabres | Peeters | 16,433 | 26–1–10 | 62 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+38 | January 7 | 1–7 | @ Minnesota North Stars | Myre | 15,962 | 26–2–10 | 62 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+39 | January 10 | 5–4 | Winnipeg Jets | Peeters | 17,077 | 27–2–10 | 64 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+40 | January 12 | 3–4 | @ Montreal Canadiens | Myre | 18,091 | 27–3–10 | 64 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+41 | January 13 | 1–1 | St. Louis Blues | Peeters | 17,077 | 27–3–11 | 65 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+42 | January 15 | 7–4 | Washington Capitals | Myre | 17,077 | 28–3–11 | 67 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+43 | January 17 | 5–1 | Chicago Black Hawks | Peeters | 17,077 | 29–3–11 | 69 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+44 | January 19 | 4–4 | @ Washington Capitals | Myre | 18,130 | 29–3–12 | 70 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+45 | January 22 | 3–1 | @ St. Louis Blues | Peeters | 17,453 | 30–3–12 | 72 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+46 | January 23 | 4–1 | @ Chicago Black Hawks | Myre | 17,160 | 31–3–12 | 74 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+47 | January 25 | 5–4 | @ Winnipeg Jets | Peeters | 15,122 | 32–3–12 | 76 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+48 | January 27 | 5–3 | @ Edmonton Oilers | Peeters | 15,423 | 33–3–12 | 78 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+49 | January 31 | 4–2 | Minnesota North Stars | St. Croix | 17,077 | 34–3–12 | 80 | W |
+|
+February: 7–2–2 (home: 3–1–1; road: 4–1–1)
+Game | Date | Score | Opponent | Decision | Attendance | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+50 | February 2 | 4–0 | @ Pittsburgh Penguins | Peeters | 16,033 | 35–3–12 | 82 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+51 | February 3 | 3–3 | Boston Bruins | Myre | 17,077 | 35–3–13 | 83 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+52 | February 7 | 1–4 | Vancouver Canucks | Myre | 17,077 | 35–4–13 | 83 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+53 | February 9 | 6–5 | @ Detroit Red Wings | Peeters | 19,353 | 36–4–13 | 85 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+54 | February 10 | 5–2 | Los Angeles Kings | Myre | 17,077 | 37–4–13 | 87 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+55 | February 14 | 5–1 | Winnipeg Jets | Peeters | 17,077 | 38–4–13 | 89 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+56 | February 17 | 6–5 | Pittsburgh Penguins | Myre | 17,077 | 39–4–13 | 91 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+57 | February 19 | 6–8 | @ Colorado Rockies | Peeters | 11,563 | 39–5–13 | 91 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+58 | February 22 | 7–3 | @ Vancouver Canucks | Myre | 16,341 | 40–5–13 | 93 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+59 | February 23 | 5–1 | @ Los Angeles Kings | Peeters | 16,005 | 41–5–13 | 95 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+60 | February 27 | 1–1 | @ Buffalo Sabres | Myre | 16,433 | 41–5–14 | 96 | T |
+|
+March: 6–6–5 (home: 4–3–1; road: 2–3–4)
+Game | Date | Score | Opponent | Decision | Attendance | Record | Points | Recap |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+61 | March 1 | 3–3 | @ Toronto Maple Leafs | Myre | 16,485 | 41–5–15 | 97 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+62 | March 2 | 1–5 | Montreal Canadiens | Peeters | 17,077 | 41–6–15 | 97 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+63 | March 4 | 4–1 | Colorado Rockies | Peeters | 17,007 | 42–6–15 | 99 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+64 | March 6 | 2–5 | New York Islanders | Myre | 17,077 | 42–7–15 | 99 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+65 | March 8 | 6–2 | @ Minnesota North Stars | Peeters | 15,701 | 43–7–15 | 101 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+66 | March 9 | 5–3 | Edmonton Oilers | Myre | 17,077 | 44–7–15 | 103 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+67 | March 11 | 4–3 | Pittsburgh Penguins | Peeters | 9,972 | 45–7–15 | 105 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+68 | March 12 | 6–6 | @ Chicago Black Hawks | Myre | 17,306 | 45–7–16 | 106 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+69 | March 15 | 3–4 | @ Atlanta Flames | Peeters | 15,156 | 45–8–16 | 106 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+70 | March 16 | 4–4 | Colorado Rockies | Myre | 17,077 | 45–8–17 | 107 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+71 | March 20 | 0–3 | Toronto Maple Leafs | Peeters | 17,077 | 45–9–17 | 107 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+72 | March 21 | 5–5 | @ Hartford Whalers | Myre | 14,460 | 45–9–18 | 108 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+73 | March 23 | 2–7 | @ Boston Bruins | Peeters | 14,673 | 45–10–18 | 108 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+74 | March 25 | 2–5 | @ New York Islanders | Myre | 14,995 | 45–11–18 | 108 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+75 | March 27 | 5–2 | Quebec Nordiques | Peeters | 17,077 | 46–11–18 | 110 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+76 | March 29 | 3–3 | @ Washington Capitals | Myre | 18,130 | 46–11–19 | 111 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+77 | March 30 | 4–2 | Atlanta Flames | Peeters | 17,077 | 47–11–19 | 113 | W |
+|
+April: 1–1–1 (home: 1–1–0; road: 0–0–1)
+Game | Date | Score | Opponent | Decision | Attendance | Record | Points | Recap |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+78 | April 1 | 3–3 | @ Quebec Nordiques | Myre | 10,706 | 47–11–20 | 114 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+79 | April 3 | 4–2 | Washington Capitals | Peeters | 17,077 | 48–11–20 | 116 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+80 | April 6 | 3–8 | New York Rangers | Myre | 17,077 | 48–12–20 | 116 | L |
+|
+Legend:
+W Win (2 points)
+L Loss (0 points)
+T Tie (1 point)
+|
+Playoffs
+[edit]
+"}},"i":0}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"Preliminary Round vs. Edmonton Oilers - Flyers win 3–0"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Series "},"8":{"wt":"Recap"}},"i":1}},"\n|- {{Game-won}}\n| 1 || April 8 || 4–3 OT || align=\"left\"| [[1979–80 Edmonton Oilers season|Edmonton Oilers]] || Peeters || 17,077 || Flyers lead 1–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030111"},"2":{"wt":"W"}},"i":2}},"\n|- {{Game-won}}\n| 2 || April 9 || 5–1 || align=\"left\"| [[1979–80 Edmonton Oilers season|Edmonton Oilers]] || Peeters || 17,077 || Flyers lead 2–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030112"},"2":{"wt":"W"}},"i":3}},"\n|- {{Game-won}}\n| 3 || April 11 || 3–2 OT || align=\"left\"| @ [[1979–80 Edmonton Oilers season|Edmonton Oilers]] || Myre || 15,423 || '''Flyers win 3–0''' || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030113"},"2":{"wt":"W"}},"i":4}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":5}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"Quarterfinals vs. New York Rangers – Flyers win 4–1"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Series "},"8":{"wt":"Recap"}},"i":6}},"\n|- {{Game-won}}\n| 1 || April 16 || 2–1 || align=\"left\"| [[1979–80 New York Rangers season|New York Rangers]] || Peeters || 17,077 || Flyers lead 1–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030211"},"2":{"wt":"W"}},"i":7}},"\n|- {{Game-won}}\n| 2 || April 17 || 4–1 || align=\"left\"| [[1979–80 New York Rangers season|New York Rangers]] || Peeters || 17,077 || Flyers lead 2–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030212"},"2":{"wt":"W"}},"i":8}},"\n|- {{Game-won}}\n| 3 || April 19 || 3–0 || align=\"left\"| @ [[1979–80 New York Rangers season|New York Rangers]] || Peeters || 17,374 || Flyers lead 3–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030213"},"2":{"wt":"W"}},"i":9}},"\n|- {{Game-lost}}\n| 4 || April 20 || 2–4 || align=\"left\"| @ [[1979–80 New York Rangers season|New York Rangers]] || Peeters || 17,368 || Flyers lead 3–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030214"},"2":{"wt":"L"}},"i":10}},"\n|- {{Game-won}}\n| 5 || April 22 || 3–1 || align=\"left\"| [[1979–80 New York Rangers season|New York Rangers]] || Peeters || 17,077 || '''Flyers win 4–1''' || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030215"},"2":{"wt":"W"}},"i":11}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":12}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"Semifinals vs. Minnesota North Stars – Flyers win 4–1"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Series "},"8":{"wt":"Recap"}},"i":13}},"\n|- {{Game-lost}}\n| 1 || April 29 || 5–6 || align=\"left\"| [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Peeters || 17,077 || North Stars lead 1–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030311"},"2":{"wt":"L"}},"i":14}},"\n|- {{Game-won}}\n| 2 || May 1 || 7–0 || align=\"left\"| [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Myre || 17,077 || Series tied 1–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030312"},"2":{"wt":"W"}},"i":15}},"\n|- {{Game-won}}\n| 3 || May 4 || 5–3 || align=\"left\"| @ [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Myre || 15,706 || Flyers lead 2–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030313"},"2":{"wt":"W"}},"i":16}},"\n|- {{Game-won}}\n| 4 || May 6 || 3–2 || align=\"left\"| @ [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Myre || 15,650 || Flyers lead 3–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030314"},"2":{"wt":"W"}},"i":17}},"\n|- {{Game-won}}\n| 5 || May 8 || 7–3 || align=\"left\"| [[1979–80 Minnesota North Stars season|Minnesota North Stars]] || Myre || 17,077 || '''Flyers win 4–1''' || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030315"},"2":{"wt":"W"}},"i":18}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":19}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#ff642a 2px solid; border-bottom:#000 2px solid;"},"title":{"wt":"[[1980 Stanley Cup Final|Stanley Cup Final]] vs. New York Islanders – Islanders win 4–2"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Decision "},"6":{"wt":"Attendance "},"7":{"wt":"Series "},"8":{"wt":"Recap"}},"i":20}},"\n|- {{Game-lost}}\n| 1 || May 13 || 3–4 OT || align=\"left\"| [[1979–80 New York Islanders season|New York Islanders]] || Peeters || 17,077 || Islanders lead 1–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030411"},"2":{"wt":"L"}},"i":21}},"\n|- {{Game-won}}\n| 2 || May 15 || 8–3 || align=\"left\"| [[1979–80 New York Islanders season|New York Islanders]] || Peeters || 17,077 || Series tied 1–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030412"},"2":{"wt":"W"}},"i":22}},"\n|- {{Game-lost}}\n| 3 || May 17 || 2–6 || align=\"left\"| @ [[1979–80 New York Islanders season|New York Islanders]] || Myre || 14,995 || Islanders lead 2–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030413"},"2":{"wt":"L"}},"i":23}},"\n|- {{Game-lost}}\n| 4 || May 19 || 2–5 || align=\"left\"| @ [[1979–80 New York Islanders season|New York Islanders]] || Peeters || 14,995 || Islanders lead 3–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030414"},"2":{"wt":"L"}},"i":24}},"\n|- {{Game-won}}\n| 5 || May 22 || 6–3 || align=\"left\"| [[1979–80 New York Islanders season|New York Islanders]] || Peeters || 17,077 || Islanders lead 3–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030415"},"2":{"wt":"W"}},"i":25}},"\n|- {{Game-lost}}\n| 6 || May 24 || 4–5 OT || align=\"left\"| @ [[1979–80 New York Islanders season|New York Islanders]] || Peeters || 14,995 || '''Islanders win 4–2''' || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1979030416"},"2":{"wt":"L"}},"i":26}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":27}},"\n|-\n|\n'''''Legend''''':\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#cfc"},"2":{"wt":"Win"},"border":{"wt":"1px solid black"},"text":{"wt":"W"}},"i":28}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#fcc"},"2":{"wt":"Loss"},"border":{"wt":"1px solid black"},"text":{"wt":"L"}},"i":29}},"\n",{"template":{"target":{"wt":"Game log end","href":"./Template:Game_log_end"},"params":{},"i":30}}]}'>
+1980 Stanley Cup playoffs[13] |
+Preliminary Round vs. Edmonton Oilers - Flyers win 3–0
+Game | Date | Score | Opponent | Decision | Attendance | Series | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+1 | April 8 | 4–3 OT | Edmonton Oilers | Peeters | 17,077 | Flyers lead 1–0 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+2 | April 9 | 5–1 | Edmonton Oilers | Peeters | 17,077 | Flyers lead 2–0 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+3 | April 11 | 3–2 OT | @ Edmonton Oilers | Myre | 15,423 | Flyers win 3–0 | W |
+|
+Quarterfinals vs. New York Rangers – Flyers win 4–1
+Game | Date | Score | Opponent | Decision | Attendance | Series | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+1 | April 16 | 2–1 | New York Rangers | Peeters | 17,077 | Flyers lead 1–0 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+2 | April 17 | 4–1 | New York Rangers | Peeters | 17,077 | Flyers lead 2–0 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+3 | April 19 | 3–0 | @ New York Rangers | Peeters | 17,374 | Flyers lead 3–0 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+4 | April 20 | 2–4 | @ New York Rangers | Peeters | 17,368 | Flyers lead 3–1 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+5 | April 22 | 3–1 | New York Rangers | Peeters | 17,077 | Flyers win 4–1 | W |
+|
+Semifinals vs. Minnesota North Stars – Flyers win 4–1
+Game | Date | Score | Opponent | Decision | Attendance | Series | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+1 | April 29 | 5–6 | Minnesota North Stars | Peeters | 17,077 | North Stars lead 1–0 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+2 | May 1 | 7–0 | Minnesota North Stars | Myre | 17,077 | Series tied 1–1 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+3 | May 4 | 5–3 | @ Minnesota North Stars | Myre | 15,706 | Flyers lead 2–1 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+4 | May 6 | 3–2 | @ Minnesota North Stars | Myre | 15,650 | Flyers lead 3–1 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+5 | May 8 | 7–3 | Minnesota North Stars | Myre | 17,077 | Flyers win 4–1 | W |
+|
+Stanley Cup Final vs. New York Islanders – Islanders win 4–2
+Game | Date | Score | Opponent | Decision | Attendance | Series | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+1 | May 13 | 3–4 OT | New York Islanders | Peeters | 17,077 | Islanders lead 1–0 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+2 | May 15 | 8–3 | New York Islanders | Peeters | 17,077 | Series tied 1–1 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+3 | May 17 | 2–6 | @ New York Islanders | Myre | 14,995 | Islanders lead 2–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+4 | May 19 | 2–5 | @ New York Islanders | Peeters | 14,995 | Islanders lead 3–1 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+5 | May 22 | 6–3 | New York Islanders | Peeters | 17,077 | Islanders lead 3–2 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+6 | May 24 | 4–5 OT | @ New York Islanders | Peeters | 14,995 | Islanders win 4–2 | L |
+|
+Legend:
+W Win
+L Loss
+|
+Player statistics
+[edit]
+Scoring
+[edit]
+Position abbreviations: C = Center; D = Defense; G = Goaltender; LW = Left wing; RW = Right wing
+† = Joined team via a transaction (e.g., trade, waivers, signing) during the season. Stats reflect time with the Flyers only.
+‡ = Left team via a transaction (e.g., trade, waivers, release) during the season. Stats reflect time with the Flyers only.
+Jersey number</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"No."},"2":{"wt":"Jersey number"}},"i":0}}]}'>No. |
+Player |
+Position</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"Pos"},"2":{"wt":"Position"}},"i":0}}]}'>Pos |
+Regular season |
+Playoffs |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Goals</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":0}}]}'>G |
+Assists</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":0}}]}'>A |
+Points</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"Pts"},"2":{"wt":"Points"}},"i":0}}]}'>Pts |
+Plus/minus</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"+/-"},"2":{"wt":"Plus/minus"}},"i":0}}]}'>+/- |
+Penalties in minutes</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalties in minutes"}},"i":0}}]}'>PIM |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Goals</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":0}}]}'>G |
+Assists</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":0}}]}'>A |
+Points</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"Pts"},"2":{"wt":"Points"}},"i":0}}]}'>Pts |
+Plus/minus</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"+/-"},"2":{"wt":"Plus/minus"}},"i":0}}]}'>+/- |
+Penalties in minutes</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalties in minutes"}},"i":0}}]}'>PIM |
+14 | Ken Linseman | C | 80 | 22 | 57 | 79 | 26 | 107 | 17 | 4 | 18 | 22 | 13 | 40 |
+27 | Reggie Leach | RW | 76 | 50 | 26 | 76 | 40 | 28 | 19 | 9 | 7 | 16 | 8 | 6 |
+26 | Brian Propp | LW | 80 | 34 | 41 | 75 | 45 | 54 | 19 | 5 | 10 | 15 | 12 | 29 |
+7 | Bill Barber | LW | 79 | 40 | 32 | 72 | 39 | 17 | 19 | 12 | 9 | 21 | 10 | 23 |
+16 | Bobby Clarke | C | 76 | 12 | 57 | 69 | 42 | 65 | 19 | 8 | 12 | 20 | 10 | 16 |
+19 | Rick MacLeish | LW | 78 | 31 | 35 | 66 | 23 | 28 | 19 | 9 | 6 | 15 | 1 | 2 |
+17 | Paul Holmgren | RW | 74 | 30 | 35 | 65 | 35 | 267 | 18 | 10 | 10 | 20 | 15 | 47 |
+10 | Mel Bridgman | C | 74 | 16 | 31 | 47 | 13 | 136 | 19 | 2 | 9 | 11 | 8 | 70 |
+2 | Bob Dailey | D | 61 | 13 | 26 | 39 | 30 | 71 | 19 | 4 | 13 | 17 | 9 | 22 |
+9 | Bob Kelly | LW | 75 | 15 | 20 | 35 | 19 | 122 | 19 | 1 | 1 | 2 | −1 | 38 |
+3 | Behn Wilson | D | 61 | 9 | 25 | 34 | 21 | 212 | 19 | 4 | 9 | 13 | 6 | 66 |
+11 | Dennis Ververgaert | RW | 58 | 14 | 17 | 31 | 9 | 24 | 2 | 0 | 0 | 0 | −3 | 0 |
+15 | Al Hill | LW | 61 | 16 | 10 | 26 | 14 | 53 | 19 | 3 | 5 | 8 | 3 | 19 |
+25 | Norm Barnes | D | 59 | 4 | 21 | 25 | 23 | 59 | 10 | 0 | 0 | 0 | −2 | 8 |
+20 | Jimmy Watson | D | 71 | 5 | 18 | 23 | 53 | 51 | 15 | 0 | 4 | 4 | 16 | 20 |
+22 | Tom Gorence | RW | 51 | 8 | 13 | 21 | 7 | 15 | 15 | 3 | 3 | 6 | 6 | 18 |
+28[b] | Mike Busniuk | D | 71 | 2 | 18 | 20 | 39 | 93 | 19 | 2 | 4 | 6 | 17 | 23 |
+12 | John Paddock | LW | 32 | 3 | 7 | 10 | −4 | 36 | 3 | 2 | 0 | 2 | 0 | 0 |
+6 | Andre Dupont | D | 58 | 1 | 7 | 8 | 37 | 107 | 19 | 0 | 4 | 4 | 21 | 50 |
+5 | Frank Bathe | D | 47 | 0 | 7 | 7 | 7 | 111 | 1 | 0 | 0 | 0 | −1 | 0 |
+29 | Jack McIlhargey† | D | 26 | 0 | 4 | 4 | 7 | 95 | 9 | 0 | 0 | 0 | 1 | 25 |
+23 | Dave Gardner† | C | 2 | 1 | 1 | 2 | 1 | 0 | — | — | — | — | — | — |
+21 | Gary Morrison | RW | 3 | 0 | 2 | 2 | 0 | 0 | 5 | 0 | 1 | 1 | 2 | 2 |
+21 | Don Gillen | RW | 1 | 1 | 0 | 1 | 1 | 0 | — | — | — | — | — | — |
+34 | Dennis Patterson | D | 3 | 0 | 1 | 1 | −1 | 0 | — | — | — | — | — | — |
+8 | Blake Wesley | D | 2 | 0 | 1 | 1 | −3 | 2 | — | — | — | — | — | — |
+31 | Phil Myre | G | 41 | 0 | 0 | 0 | | 37 | 6 | 0 | 0 | 0 | | 0 |
+33 | Pete Peeters | G | 40 | 0 | 0 | 0 | | 28 | 13 | 0 | 0 | 0 | | 2 |
+30 | Rick St. Croix | G | 1 | 0 | 0 | 0 | | 0 | — | — | — | — | — | — |
+Goaltending
+[edit]
+Jersey number</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"No."},"2":{"wt":"Jersey number"}},"i":0}}]}'>No. |
+Player |
+Regular season |
+Playoffs |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Games started</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GS"},"2":{"wt":"Games started"}},"i":0}}]}'>GS |
+Wins</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"W"},"2":{"wt":"Wins"}},"i":0}}]}'>W |
+Losses</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"L"},"2":{"wt":"Losses"}},"i":0}}]}'>L |
+Ties</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"T"},"2":{"wt":"Ties"}},"i":0}}]}'>T |
+Shots against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SA"},"2":{"wt":"Shots against"}},"i":0}}]}'>SA |
+Goals against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GA"},"2":{"wt":"Goals against"}},"i":0}}]}'>GA |
+Goals against average</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GAA"},"2":{"wt":"Goals against average"}},"i":0}}]}'>GAA |
+Save percentage</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SV%"},"2":{"wt":"Save percentage"}},"i":0}}]}'>SV% |
+Shutouts</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SO"},"2":{"wt":"Shutouts"}},"i":0}}]}'>SO |
+Time on ice</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"TOI"},"2":{"wt":"Time on ice"}},"i":0}}]}'>TOI |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Games started</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GS"},"2":{"wt":"Games started"}},"i":0}}]}'>GS |
+Wins</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"W"},"2":{"wt":"Wins"}},"i":0}}]}'>W |
+Losses</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"L"},"2":{"wt":"Losses"}},"i":0}}]}'>L |
+Shots against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SA"},"2":{"wt":"Shots against"}},"i":0}}]}'>SA |
+Goals against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GA"},"2":{"wt":"Goals against"}},"i":0}}]}'>GA |
+Goals against average</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GAA"},"2":{"wt":"Goals against average"}},"i":0}}]}'>GAA |
+Save percentage</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SV%"},"2":{"wt":"Save percentage"}},"i":0}}]}'>SV% |
+Shutouts</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SO"},"2":{"wt":"Shutouts"}},"i":0}}]}'>SO |
+Time on ice</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"TOI"},"2":{"wt":"Time on ice"}},"i":0}}]}'>TOI |
+33 | Pete Peeters | 40 | 39 | 29 | 5 | 5 | 1061 | 108 | 2.73 | .898 | 1 | 2,370 | 13 | 13 | 8 | 5 | 377 | 37 | 2.79 | .902 | 1 | 797 |
+31 | Phil Myre | 41 | 40 | 18 | 7 | 15 | 1127 | 141 | 3.58 | .875 | 0 | 2,363 | 6 | 6 | 5 | 1 | 201 | 16 | 2.50 | .920 | 1 | 384 |
+30 | Rick St. Croix | 1 | 1 | 1 | 0 | 0 | 25 | 2 | 2.00 | .920 | 0 | 60 | — | — | — | — | — | — | — | — | — | — |
+Awards and records
+[edit]
+Awards
+[edit]
+Type |
+Award/honor |
+Recipient |
+Ref |
+League(annual) |
+Jack Adams Award |
+Pat Quinn |
+[14] |
+Lester Patrick Trophy[c] |
+Bobby Clarke |
+[15] |
+Ed Snider |
+League(in-season) |
+NHL All-Star Game selection |
+Bill Barber |
+[16][17] |
+Norm Barnes |
+Reggie Leach[d] |
+Rick MacLeish |
+Pete Peeters |
+Brian Propp |
+Jimmy Watson |
+Team |
+Barry Ashbee Trophy |
+Norm Barnes |
+[18] |
+Class Guy Award |
+Andre Dupont |
+[18] |
+Records
+[edit]
+See also: List of Philadelphia Flyers records
+The 1979–80 Philadelphia Flyers set the NHL record and North American pro sports record undefeated streak of 35 games, 25 wins and 10 ties, from October 14 to January 6.[19] Likewise, they set team records for longest home undefeated streak at 26 games (October 11 to February 3) and longest road undefeated streak at 16 games (October 20 to January 6).[20][21] Among other team records set during the regular season was the most powerplay goals allowed in a single game (6 on February 19) and the most penalties in a single game (38 on February 22).[22][23] Their twelve losses and seven road losses on the season are the fewest in franchise history.[24]
+The Flyers set a number of franchise records during their semifinal playoff series with the Minnesota North Stars. On May 1, Bob Dailey tied a team record for most assists during a playoff game (4) and set the team record for points by a defenseman during a playoff game (5).[25][26] Team records were also tied for most powerplay goals in a single game (4) and single period (3) during the same game.[27][28] Bill Barber's three shorthanded goals during the series is tied for an NHL record, as is the same total for most shorthanded goals in a playoff year.[29][30]
+Another series mark which tied the NHL record was the 15 powerplay goals allowed against the New York Islanders during the 1980 Stanley Cup Final.[31] Barber’s four game-winning goals is also tied for a team playoff year record and defenseman Andre Dupont’s +21 plus-minus rating is the team record.[32][33] The Flyers nine home wins during the playoffs is tied for the most in team history.[24]
+Milestones
+[edit]
+Milestone |
+Player |
+Date |
+Ref |
+First game |
+Brian Propp |
+October 11, 1979 |
+[34] |
+Blake Wesley |
+October 13, 1979 |
+Mike Busniuk |
+October 20, 1979 |
+Don Gillen |
+January 27, 1980 |
+Gary Morrison |
+February 17, 1980 |
+600th assist |
+Bobby Clarke |
+October 14, 1979 |
+[35] |
+Transactions
+[edit]
+The Flyers were involved in the following transactions from May 22, 1979, the day after the deciding game of the 1979 Stanley Cup Final, through May 24, 1980, the day of the deciding game of the 1980 Stanley Cup Final.[36]
+Trades
+[edit]
+Date |
+Details |
+Ref |
+June 7, 1979 (1979-06-07) |
+To Philadelphia Flyers Phil Myre
+|
+To St. Louis Blues Blake Dunlop
+Rick Lapointe
+|
+[37] |
+August 16, 1979 (1979-08-16) |
+To Philadelphia Flyers 3rd-round pick in 1981
+|
+To Washington Capitals Wayne Stephenson
+|
+[38] |
+September 4, 1979 (1979-09-04) |
+To Philadelphia Flyers Conditional 3rd- or 4th-round pick in 1981[e]
+|
+To Detroit Red Wings Dennis Sobchuk
+|
+[39] |
+January 2, 1980 (1980-01-02) |
+To Philadelphia Flyers Jack McIlhargey
+|
+To Vancouver Canucks cash
+|
+[40] |
+Players acquired
+[edit]
+Date | Player | Former team | Term | Via | Ref |
+June 9, 1979 (1979-06-09) |
+Dennis Sobchuk | Edmonton Oilers | | Reclamation[f] | [39][41] |
+August 8, 1979 (1979-08-08) |
+Dennis Patterson | Maine Mariners (AHL) | | Free agency | [42] |
+September 4, 1979 (1979-09-04) |
+Fred Williams | Philadelphia Firebirds (AHL) | | Free agency | [43] |
+September 28, 1979 (1979-09-28) |
+Greg Adams | Victoria Cougars (WHL) | | Free agency | [44] |
+October 10, 1979 (1979-10-10) |
+Sam St. Laurent | Chicoutimi Saguenéens (QMJHL) | | Free agency | [45] |
+October 25, 1979 (1979-10-25) |
+Tim Kerr | Kingston Canadians (OMJHL) | | Free agency | [46] |
+October 28, 1979 (1979-10-28) |
+Marc-Andre Marchand | Hull Olympiques (QMJHL) | 3-year | Free agency | [47] |
+October 31, 1979 (1979-10-31) |
+Dan Barber | Toronto Marlboros (OMJHL) | | Free agency | [48] |
+January 21, 1980 (1980-01-21) |
+Dave Gardner | Binghamton Dusters (AHL) | | Free agency | [49] |
+Players lost
+[edit]
+Date | Player | New team | Via | Ref |
+May 31, 1979 (1979-05-31) |
+Bernie Parent | | Retirement | [50] |
+June 9, 1979 (1979-06-09) |
+Serge Beaudoin | Atlanta Flames[g] | Reclamation | [41][51] |
+Ron Chipperfield | Edmonton Oilers | Reclamation | [41][52] |
+John McKenzie[h] | | Reclamation | [41][53] |
+Michel Parizeau{{cite web |title=HOCKEY |url=https://www.newspapers.com/newspage/467135968/ |website=Newspapers.com |access-date=September 22, 2022 |date=September 6, 1979 |quote=SYRACUSE FIREBIRDS... Named Michel Parizeau head coach.}}</ref>"}},"i":0}}]}'>[i] | | Reclamation | [41][55] |
+June 13, 1979 (1979-06-13) |
+Jim Cunningham | Winnipeg Jets | Expansion draft | [41][56] |
+Dave Hoyda | Winnipeg Jets | Expansion draft | [41][56] |
+Bernie Johnston | Hartford Whalers | Expansion draft | [41][56] |
+M. F. Schurman | Hartford Whalers | Expansion draft | [41][56] |
+Signings
+[edit]
+Date | Player | Term | Ref |
+June 18, 1979 (1979-06-18) |
+Frank Bathe | multi-year | [57] |
+September 4, 1979 (1979-09-04) |
+Lindsay Carson | | [43] |
+Don Gillen | | [43] |
+Brian Propp | multi-year | [43] |
+Blake Wesley | | [43] |
+Gord Williams | | [43] |
+Draft picks
+[edit]
+See also: List of Philadelphia Flyers draft picks
+Philadelphia's picks at the 1979 NHL entry draft, which was held at the Queen Elizabeth Hotel in Montreal, on August 9, 1979.[58]
+Round |
+Pick |
+Player |
+Position |
+Nationality |
+Team (league) |
+Notes |
+1 |
+14 |
+Brian Propp |
+Left wing |
+Canada |
+Brandon Wheat Kings (WHL) |
+|
+2 |
+22 |
+Blake Wesley |
+Defense |
+Canada |
+Portland Winter Hawks (WHL) |
+{{cite web|title=1979 NHL Entry Draft Pick Transactions|url=http://www.prosportstransactions.com/hockey/DraftTrades/Years/1979.htm|publisher=Pro Sports Transactions|accessdate=November 7, 2013}}</ref>"}},"i":0}}]}'>[j] |
+35 |
+Pelle Lindbergh |
+Goaltender |
+Sweden |
+AIK (Elitserien) |
+|
+3 |
+56 |
+Lindsay Carson |
+Center |
+Canada |
+Billings Bighorns (WHL) |
+|
+4 |
+77 |
+Don Gillen |
+Right wing |
+Canada |
+Brandon Wheat Kings (WHL) |
+|
+5 |
+98 |
+Thomas Eriksson |
+Defense |
+Sweden |
+Djurgardens IF (Elitserien) |
+|
+6 |
+119 |
+Gord Williams |
+Forward |
+Canada |
+Lethbridge Broncos (WHL) |
+|
+Farm teams
+[edit]
+The Flyers were affiliated with the Maine Mariners of the AHL,[60][61] the Toledo Goaldiggers of the IHL,[62] and the Hampton Aces of the Eastern Hockey League.[62]
+Notes
+[edit]
+↑ The alternate captain position was abolished from the 1975–76 season through the 1984–85 season.
+↑ Busniuk wore number 21 in his first game.
+↑ Former Flyers coach Fred Shero also given award
+↑ Named All-Star Game Most Valuable Player
+↑ Received 4th-round pick.
+↑ Originally drafted by the Flyers in the fifth round of the 1974 NHL amateur draft, Sobchuk was reclaimed from Edmonton prior to the Expansion draft.
+↑ Since Beaudoin's 1978–79 WHA team, the Birmingham Bulls, was not one of the four teams accepted into the NHL, he became a free agent and signed with Atlanta on August 15.
+↑ McKenzie was not reclaimed from the Hartford Whalers and retired.
+↑ Parizeau was not reclaimed from Edmonton and retired. He was named the head coach of the Syracuse Firebirds on September 5.[54]
+↑ The Flyers traded the 1978 second-round pick acquired from the Los Angeles Kings in the 1976 Dave Schultz trade to the Colorado Rockies for the Rockies' 1979 second-round pick, 22nd overall, on June 15, 1978.[59]
+References
+[edit]
+"Philadelphia Flyers 1979–80 roster and statistics". The Internet Hockey Database. Retrieved February 10, 2022.
+"1979–80 Philadelphia Flyers Roster and Statistics". Hockey-Reference.com. Sports Reference LLC. Retrieved February 10, 2022.
+"Flyers History - Season Overview : 1979–80". Flyers History. FlyersAlumni.net. Retrieved February 10, 2022.
+↑ "All Time Team Attendance". P. Anson. Flyers History. Retrieved October 26, 2013.
+1 2 "Flyers History – The Streak". P. Anson. Flyers History. Retrieved November 18, 2013.
+↑ "Old Flyers know what makes a streak". ESPN. February 27, 2013. Retrieved March 7, 2013.
+↑ Sadowski, Rick. "Chicago Blackhawks' NHL record streak over at 24 games with 6-2 loss to Colorado Avalanche". NHL.com. Archived from the original on November 11, 2020. Retrieved August 16, 2023.
+↑ Chodos, Ben. "Chicago Blackhawks' Record-Setting Point Streak Snapped by Colorado Avalanche". Bleacher Report. Retrieved August 16, 2023.
+↑ "Clarke, Watson added to Flyers' coaching staff". Ottawa Journal. August 11, 1979. p. 24. Retrieved December 20, 2014 – via Newspapers.com.
+↑ "Flyers History – Hall of Fame Profile – Bobby Clarke". P. Anson. FlyersHistory.net. Retrieved August 6, 2014.
+↑ "Bridgman Named Captain". The Gettysburg Times. October 12, 1979. p. 15. Retrieved December 20, 2014 – via Newspapers.com.
+↑ Dinger, Ralph, ed. (2011). The National Hockey League Official Guide & Record Book 2012. Dan Diamond & Associates. p. 152. ISBN 9781894801225.
+↑ "1979–80 NHL Standings". NHL.com. National Hockey League.
+↑ "All-Time NHL Results". NHL.com. Retrieved August 25, 2023.
+↑ Blumenstock, Kathy (June 2, 1980). "Putting the Hammer to the Old Bugaboo: Isles win in '80". Sports Illustrated Vault. Archived from the original on May 1, 2020. Retrieved May 1, 2025.
+1 2 "1979-80 Philadelphia Flyers Schedule and Results". Hockey-Reference.com. Retrieved August 27, 2022.
+↑ "Jack Adams Award". National Hockey League. Archived from the original on May 19, 2010. Retrieved August 6, 2015.
+↑ "Lester Patrick Trophy". National Hockey League. Archived from the original on December 2, 2013. Retrieved August 6, 2015.
+↑ "32nd NHL All-Star Game". NHL.com. Archived from the original on January 10, 2010. Retrieved August 6, 2015.
+↑ 2014–15 NHL Official Guide & Record Book, p. 234
+1 2 "Flyers History – Team Awards". P.Anson. Retrieved August 6, 2015.
+↑ "Team Records: Longest Undefeated Streaks, Season". records.nhl.com. Retrieved September 14, 2022.
+↑ "Team Records: Longest Home Undefeated Streaks, Season". records.nhl.com. Retrieved September 14, 2022.
+↑ "Team Records: Longest Road Undefeated Streak, One Season". records.nhl.com. Retrieved September 14, 2022.
+↑ 2016–2017 Philadelphia Flyers Media Guide, p. 261
+↑ "Team Records: Most Penalties, One Team, Game". records.nhl.com. Retrieved September 14, 2022.
+1 2 "Philadelphia Flyers: Year-by-Year Record". records.nhl.com. Retrieved September 12, 2022.
+↑ "Playoff Skater Records: Most Assists, Playoff Game". records.nhl.com. Retrieved September 6, 2022.
+↑ "Playoff Skater Records: Most Points, Defenseman, Playoff Game". records.nhl.com. Retrieved September 6, 2022.
+↑ "Playoff Team Records: Most Power-Play Goals, One Team, Playoff Game". records.nhl.com. Retrieved September 14, 2022.
+↑ "Playoff Team Records: Most Power-Play Goals, One Team, Playoff Period". records.nhl.com. Retrieved September 14, 2022.
+↑ "Playoff Skater Records: Most Shorthanded Goals, Playoff Series". records.nhl.com. Retrieved September 14, 2022.
+↑ "Playoff Skater Records: Most Shorthanded Goals, Playoff Year". records.nhl.com. Retrieved September 7, 2022.
+↑ "Playoff Team Records: Most Power-Play Goals, One Team, Playoff Series". records.nhl.com. Retrieved September 14, 2022.
+↑ "Playoff Skater Records: Most Game-Winning Goals, Playoff Year". records.nhl.com. Retrieved September 7, 2022.
+↑ "NHL Stats". NHL.com. Retrieved September 12, 2022.
+↑ "1979-80 NHL Debuts". Hockey-Reference.com. Retrieved October 3, 2024.
+↑ "Flyers History – All-Time Milestone Award Winners". P.Anson. Retrieved August 15, 2015.
+↑ "Hockey Transactions Search Results". Pro Sports Transactions. Retrieved April 11, 2014.
+↑ "Flyers Obtain Goalie". The Gettysburg Times. Associated Press. June 8, 1979. Retrieved December 14, 2014 – via Newspapers.com.
+↑ "Flyers trade goaltender". Ottawa Journal. Associated Press. August 17, 1979. Retrieved December 14, 2014 – via Newspapers.com.
+1 2 "Dennis Sobchuk – Notes". NHL.com. Retrieved December 14, 2014.
+↑ Morganti, Al (January 3, 1980). "Flyers reacquire McIlhargey from Canucks". The Philadelphia Inquirer. p. 19. Retrieved May 1, 2025 – via Newspapers.com.
+1 2 3 4 5 6 7 8 9 Parsons, Mark (October 11, 2013). "The 1979 'NHL' Expansion' Draft". Historical Hockey Stats & Trivia. Retrieved July 26, 2015.
+↑ "Dennis Patterson – Notes". NHL.com. Retrieved December 14, 2014.
+1 2 3 4 5 6 "NHL draft picks having pecuniary problems". Ottawa Journal. Associated Press. September 5, 1979. Retrieved December 14, 2014 – via Newspapers.com.
+↑ "Gregory Adams – Notes". NHL.com. Retrieved December 14, 2014.
+↑ "Samuel St. Laurent – Notes". NHL.com. Retrieved December 14, 2014.
+↑ "Tim Kerr – Notes". NHL.com. Retrieved December 14, 2014.
+↑ Gallagher, Danny (October 29, 1979). "Hull defenceman signs with Philadelphia Flyers". Ottawa Journal. Retrieved December 19, 2014 – via Newspapers.com.
+↑ "Nov 01, 1979, page 27 - Waterloo Region Record at Newspapers.com". Newspapers.com. November 1, 1979. Retrieved August 15, 2024. Flyers sign Dan Barber
+↑ "Dave Gardner – Notes". NHL.com. Retrieved December 14, 2014.
+↑ "Parent's eye injury forces his retirement". Lakeland Ledger. AP. June 1, 1979. Retrieved October 28, 2013.
+↑ "Serge Beaudoin – Stats". NHL.com. Retrieved July 30, 2015.
+↑ "Ronald Chipperfield – Notes". NHL.com. Retrieved December 14, 2014.
+↑ "John McKenzie – Notes". NHL.com. Retrieved July 30, 2015.
+↑ "HOCKEY". Newspapers.com. September 6, 1979. Retrieved September 22, 2022. SYRACUSE FIREBIRDS... Named Michel Parizeau head coach.
+↑ "Michel Parizeau – Notes". NHL.com. Retrieved July 30, 2015.
+1 2 3 4 "Flyers Lose Hoyda in Draft". The Gettysburg Times. Associated Press. June 14, 1979. Retrieved December 14, 2014 – via Newspapers.com.
+↑ "in hockey". Courier-Post. June 19, 1979. p. 18. Retrieved May 1, 2025 – via Newspapers.com.
+↑ "1979 NHL Entry Draft Picks at hockeydb.com". hockeyDB.com. Retrieved November 12, 2013.
+↑ "1979 NHL Entry Draft Pick Transactions". Pro Sports Transactions. Retrieved November 7, 2013.
+↑ "AHL Franchise Statistics". P. Anson. Flyers History. Retrieved October 26, 2013.
+↑ "AHL Season Overview: 1979–80". P. Anson. Flyers History. Retrieved October 26, 2013.
+1 2 "Non-AHL Affiliates". P. Anson. Flyers History. Retrieved October 26, 2013.
+External links
+[edit]
+Blumenstock, Kathy (November 26, 1979). "The Broad St. Bullies Clean Up Their Act". Sports Illustrated. Retrieved November 8, 2014.
+v
+t
+e
+Philadelphia Flyers seasons
+|
+1960s |
+1960–61 . 1961–62 . 1962–63 . 1963–64 . 1964–66 . 1965–66 . 1966–67 . 1967–68
+1968–69
+1969–70
+|
+1970s |
+1970–71
+1971–72
+1972–73
+1973–74
+1974–75
+1975–76
+1976–77
+1977–78
+1978–79
+1979–80
+|
+1980s |
+1980–81
+1981–82
+1982–83
+1983–84
+1984–85
+1985–86
+1986–87
+1987–88
+1988–89
+1989–90
+|
+1990s |
+1990–91
+1991–92
+1992–93
+1993–94
+1994–95
+1995–96
+1996–97
+1997–98
+1998–99
+1999–00
+|
+2000s |
+2000–01
+2001–02
+2002–03
+2003–04
+2004–05
+2005–06
+2006–07
+2007–08
+2008–09
+2009–10
+|
+2010s |
+2010–11
+2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+2018–19
+2019–20
+|
+2020s |
+2020–21
+2021–22
+2022–23
+2023–24
+2024–25
+2025–26
+2026–27
+|
+Highlighted seasons indicate Stanley Cup championship
+|
+v
+t
+e
+Philadelphia Flyers
+|
+Founded in 1967
+Based in Philadelphia, Pennsylvania
+|
+Franchise |
+Team
+General managers
+Coaches
+Players
+Captains
+Draft picks
+expansion draft
+Seasons
+Current season
+|
+History |
+1967 expansion
+Records
+Award winners
+Retired numbers
+Broadcasters
+|
+Personnel |
+Owner(s)
+Comcast Spectacor
+General manager
+Daniel Briere
+Head coach
+Rick Tocchet
+Team captain
+Sean Couturier
+Current roster
+|
+Arenas |
+Spectrum
+Xfinity Mobile Arena
+New South Philadelphia Arena (planned)
+|
+Rivalries |
+New Jersey Devils
+New York Islanders
+New York Rangers
+Pittsburgh Penguins
+Washington Capitals
+|
+Affiliates |
+AHL
+Lehigh Valley Phantoms
+ECHL
+Reading Royals
+Affiliate history
+|
+Media |
+TV
+NBC Sports Philadelphia
+NBC Sports Philadelphia Plus
+Streaming
+Peacock
+Radio
+97.5 The Fanatic
+|
+Culture and lore |
+Blues–Flyers brawl
+Broad Street Bullies
+Curse of Billy Penn
+Ed Snider
+Eric Lindros trade
+Flyers–Senators brawl
+"For a case of Tastykake!"
+Gene Hart
+"God Bless America"
+The Goldbergs
+Gritty
+"I Like It Loud"
+Kate Smith
+Lauren Hart
+Legion of Doom
+Lou Nolan
+"Mac's Big Break"
+Mike "Doc" Emrick
+The Leon Stickle Game
+The Night the Spectrum Shook
+Philadelphia Sports Hall of Fame
+South Philadelphia Sports Complex
+This Is 40
+"Treehouse of Horror IV"
+The Boils
+1976 Flyers–Red Army game
+2010 Winter Classic
+2012 Winter Classic
+2017 Stadium Series
+2019 Stadium Series
+Outdoors at Lake Tahoe
+2024 Stadium Series
+|
+Category
+|
+v
+t
+e
+1979–80 NHL season
+|
+Patrick |
+Atlanta
+NY Islanders
+NY Rangers
+Philadelphia
+Washington
+|
+Adams |
+Boston
+Buffalo
+Minnesota
+Quebec
+Toronto
+|
+Norris |
+Detroit
+Hartford
+Los Angeles
+Montreal
+Pittsburgh
+|
+Smythe |
+Chicago
+Colorado
+Edmonton
+St. Louis
+Vancouver
+Winnipeg
+|
+See also |
+NHL–WHA merger
+Expansion draft
+Entry draft
+All-Star Game
+Playoffs
+Stanley Cup Final
+|
+Retrieved from "https://en.wikipedia.org/w/index.php?title=1979–80_Philadelphia_Flyers_season&oldid=1379212971"
+Categories: Philadelphia Flyers seasons
+1979–80 NHL season by team
+Patrick Division champion seasons
+Western Conference (NHL) championship seasons
+1979 in sports in Pennsylvania
+1980 in sports in Pennsylvania
+1979 in Philadelphia
+1980 in Philadelphia
+1980 Stanley Cup
+Hidden categories: Articles with short description
+Short description matches Wikidata
+Use American English from March 2026
+All Wikipedia articles written in American English
+Use mdy dates from August 2023
+Articles with hCards
+This page was last edited on 8 October 2026, at 16:26 (UTC).
+Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+1979–80 Philadelphia Flyers season
+Add languages
+Add topic

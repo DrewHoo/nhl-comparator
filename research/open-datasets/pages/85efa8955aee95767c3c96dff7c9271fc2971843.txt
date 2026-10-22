@@ -1,0 +1,32 @@
+URL: https://query.wikidata.org/sparql?format=json&query=SELECT%20%3Fprop%20%3Flabel%20WHERE%20%7B%20VALUES%20%3Fprop%20%7B%20wd%3AP3522%20wd%3AP3598%20%7D%20%3Fprop%20rdfs%3Alabel%20%3Flabel%20FILTER(LANG(%3Flabel)%3D%22en%22)%20%7D
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+{
+  "head" : {
+    "vars" : [ "prop", "label" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "prop" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3522"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NHL.com player ID"
+      }
+    }, {
+      "prop" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/P3598"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hockey-Reference.com player ID"
+      }
+    } ]
+  }
+}

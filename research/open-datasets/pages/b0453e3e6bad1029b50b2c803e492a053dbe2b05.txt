@@ -1,0 +1,38 @@
+URL: https://www.hockeydb.com/copyright.html
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+ 
+ Usage Terms
+Access to hockeydb.com by a web crawler or 'bot with the purpose of capturing the content is expressly 
+prohibited. Proceed with caution. If we detect site crawling, the machine you access from may be permanently denied access.
+ Facts cannot be copyrighted. 
+There is even some question if large compilations of information like this database can be copyrighted. 
+I ask people to treat this site with some respect and intelligence. Please feel free to use information here, but don't use it
+in a way that competes with this site.
+That said, copying large portions of hockeydb.com to provide a service that directly competes with hockeydb.com is prohibited under 
+ unfair competition misappriation tort law. 
+The law establishes three tests:
+Has the plaintiff made a substantial investment (time, money, effort) in the product being copied? [for the record, I have spent over ten years 
+and over $100,000 compiling the information on hockeydb.com -- so I'd say this is substantial.]
+Has the defendant approrpriated the property at little or no cost? [writing a script to "download" hockeydb.com would likely qualify]
+Is the defendent's use of the property directly affecting the plaintiff, either by diverting profits or making the plaintiff's product less 
+desirable? [setting up a similar site, even if non-profit, or releasing the data into the "public domain" would qualify].
+I simply ask that you be smart. Don't take too much. Don't compete with me. Don't do something that will put
+me out of business. If you use the information here, give me credit. Don't try to pass 
+this information as your own work. If you use a good amount of information, please link back to this site.
+A good usage of the information here would be to trace the history of the old AHA. A bad usage of the information here would
+be setting up a site that archives NHL logos.
+If you want to post someone's career stats, don't even bother asking -- I'll always say yes to something as 
+trivial as that. Mention the site if it's appropriate.
+And so I'm not a hypocrite, realize that I have used thousands of sources to compile 
+this site; take a look at where I got my information on the credits page .
+Regarding hockey logos, you may think that since a logo was never copyrighted, and since it is in the public domain, 
+you can take the image file presented on this site and use it however you want. This is wrong.
+My scans of these logos are a derivative work since they are transforming the logos into another medium. These image 
+files are protected by copyright law even though the original logo is in the public domain. Although you are free to 
+copy the logo from an original source, you are not free to copy my image files.
+I suggest you read 
+this article before freely copying and distributing the logos I have assembled.
+ Home | Advertise | Feedback | Usage | Privacy | FAQ | Links | Credits | Help! 
+ Copyright 1998-2026 hockeyDB.com. All rights reserved.

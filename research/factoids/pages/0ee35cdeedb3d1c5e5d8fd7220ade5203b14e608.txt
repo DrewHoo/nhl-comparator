@@ -1,0 +1,993 @@
+URL: https://en.wikipedia.org/wiki/1992–93_Ottawa_Senators_season
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+1992–93 Ottawa Senators season - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Background
+2
+Offseason
+3
+Preseason
+4
+Regular season
+Toggle Regular season subsection
+4.1
+Highlights
+5
+Final standings
+6
+Schedule and results
+7
+Player statistics
+Toggle Player statistics subsection
+7.1
+Regular season
+7.1.1
+Scoring
+7.1.2
+Goaltending
+8
+Awards and records
+Toggle Awards and records subsection
+8.1
+Awards
+8.2
+Milestones
+9
+Transactions
+Toggle Transactions subsection
+9.1
+Trades
+9.2
+Players acquired
+9.3
+Players lost
+9.4
+Player signings
+10
+Draft picks
+Toggle Draft picks subsection
+10.1
+Expansion draft
+10.2
+Entry draft
+11
+Farm teams
+Toggle Farm teams subsection
+11.1
+New Haven Senators
+11.2
+Thunder Bay Thunder Hawks
+12
+See also
+13
+Notes
+14
+References
+15
+Bibliography
+Toggle the table of contents
+1992–93 Ottawa Senators season
+Add languages
+Add links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+NHL hockey team season (inaugural season)
+[[Brad Shaw]]<br />[[Sylvain Turgeon]]"},"Arena":{"wt":"[[Ottawa Civic Centre]]"},"Attendance":{"wt":"10,485"},"MinorLeague":{"wt":"[[New Haven Senators]]<br>[[Thunder Bay Senators]]"},"GoalsLeader":{"wt":"[[Sylvain Turgeon]] (25)"},"AssistsLeader":{"wt":"[[Norm Maciver]] (46)"},"PointsLeader":{"wt":"Norm Maciver (63)"},"PlusMinusLeader":{"wt":"[[Dave Archibald]] (-16)"},"PIMLeader":{"wt":"[[Mike Peluso (ice hockey, born 1965)|Mike Peluso]] (318)"},"WinsLeader":{"wt":"[[Peter Sidorkiewicz]] (8)"},"GAALeader":{"wt":"[[Daniel Berthiaume]] (4.30)"}},"i":0}}]}'> 1992–93 Ottawa Senators |
+Division | 6th Adams |
+Conference | 12th Wales |
+1992–93 record | 10–70–4 |
+Home record | 9–29–4 |
+Road record | 1–41–0 |
+Goals for | 202 |
+Goals against | 395 |
+Team information |
+General manager | Mel Bridgman |
+Coach | Rick Bowness |
+Captain | Laurie Boschman |
+Alternate captains | Brad Marsh
+Brad Shaw
+Sylvain Turgeon |
+Arena | Ottawa Civic Centre |
+Average attendance | 10,485 |
+Minor league affiliates | New Haven Senators
+Thunder Bay Senators |
+Team leaders |
+Goals | Sylvain Turgeon (25) |
+Assists | Norm Maciver (46) |
+Points | Norm Maciver (63) |
+Penalty minutes | Mike Peluso (318) |
+Plus/minus | Dave Archibald (-16) |
+Wins | Peter Sidorkiewicz (8) |
+Goals against average | Daniel Berthiaume (4.30) |
+1993–94 →
+|
+The 1992–93 Ottawa Senators season was the first season of the modern Ottawa Senators franchise in the National Hockey League (NHL).[a] Despite winning the first game of the regular season on October 8, 1992, the Senators won only nine more en route to their worst season ever. The team recorded three NHL records that season: the longest home losing streak of eleven, from October 27 to December 8; the longest road losing streak with a total of 39, from October 10 to April 3 (nearly the whole season) and fewest road wins in a season, with just one victory.
+Background
+[edit]
+The second iteration of the Ottawa Senators began in 1989 when Bruce Firestone, Cyril Leeder, and Randy Sexton came together to plan their attempt at acquiring a National Hockey League (NHL) franchise. The NHL was looking to add two new franchises by the 1992–93 season and after adding key personnel such as Jim Durrell, and Frank Finnigan from the original Senators franchise, the group submitted their proposal to the NHL. On December 6, 1990, the group was awarded a franchise upon payment of a $50 million expansion fee, which required additional investors, led by Rod Bryden.[1]
+In August 1991, Mel Bridgman was named the Senators first general manager.[2] While awaiting approval of the Palladium, their planned arena, the Senators agreed with the City of Ottawa to lease the Ottawa Civic Centre in December 1991, to play in for the upcoming season.[3]
+Offseason
+[edit]
+<a rel=\"mw:WikiLink\" href=\"./Boston_Bruins\" title=\"Boston Bruins\" id=\"mwMA\">Boston</a></b>"}'>
+Boston
+<a rel=\"mw:WikiLink\" href=\"./Buffalo_Sabres\" title=\"Buffalo Sabres\" id=\"mwMg\">Buffalo</a></b>"}'>
+Buffalo
+<a rel=\"mw:WikiLink\" href=\"./Hartford_Whalers\" title=\"Hartford Whalers\" id=\"mwNA\">Hartford</a></b>"}'>
+Hartford
+<a rel=\"mw:WikiLink\" href=\"./Montreal_Canadiens\" title=\"Montreal Canadiens\" id=\"mwNg\">Montreal</a></b>"}'>
+Montreal
+<a rel=\"mw:WikiLink\" href=\"./Ottawa_Senators\" title=\"Ottawa Senators\" id=\"mwOA\">Ottawa</a></b>"}'>
+Ottawa
+<a rel=\"mw:WikiLink\" href=\"./Quebec_Nordiques\" title=\"Quebec Nordiques\" id=\"mwOg\">Quebec</a></b>"}'>
+Quebec
+Adams Division teams
+On June 2, 1992, the then city of Kanata, Ontario, gave approval of the "Palladium" project. On June 29, the club held ground-breaking ceremonies for the Palladium project at the site. The team was still seeking partners for financing the project and Ogden Corporation would back $120 million in loans on November 11. Actual construction would begin in 1994.[2] On June 15, Rick Bowness was named as the team's first head coach.[2] Bowness was previously a head coach for the Winnipeg Jets and Boston Bruins.[4] He added Alain Vigneault, former coach of the Hull Olympiques of the Quebec Major Junior Hockey League, and E. J. McGuire, former coach of the Maine Mariners of the American Hockey League (AHL) and assistant coach in the NHL with the Chicago Blackhawks and Philadelphia Flyers, as his own assistant coaches.[5] Jim Durrell, a former Ottawa mayor who became the team's first president on December 17, 1990, resigned on July 29.[2]
+Preseason
+[edit]
+The Senators held their first training camp beginning on September 8 with medical evaluations. Forty-four rookies and 32 veteran players were invited to the camp.[6] The camp was split between the Robert Guertin Arena in Hull, Quebec, from September 11 to 24, and the Kanata Recreation Complex from September 25 to October 7. Additionally, an intra-squad game was held in Brockville, Ontario on September 20.[6][7] The first roster cuts took place on September 13, with the release of 11 players.[8] On September 15, 28 players were assigned to Ottawa's AHL affiliate, the New Haven Senators.[9]
+The team played its first preseason exhibition game in Hartford against the Hartford Whalers on September 18. The game ended in a 1–1 tie, and the Senators first goal was scored by Neil Brady.[10] The Senators cut nine more players after the game, releasing five players and sending four others back to their junior teams.[11] The Washington Capitals won the first game played in Ottawa on September 21 in overtime, 4–3.[12] Dubbed the "Capital Cup", they played a second game against the Capitals on September 22, in which they were blown out, 8–1.[13] The first win by the Senators since re-entry into the NHL was recorded on September 24, a 4–3 victory over the New York Islanders. Defenceman Brad Shaw scored the winning goal.[14] Ottawa then lost the next game to the Tampa Bay Lightning on September 25, 3–2.[15] The team followed that up with another loss to Tampa Bay on September 27, 4–3.[16]
+On September 27, it was announced that Ottawa had signed former Philadelphia Flyers' winger Brad Jones to a professional tryout contract (PTO).[17] On September 30, the Senators lost 4–3 in overtime to Hartford.[18] Ottawa finished its preseason schedule with another 4–3 loss to Hartford on October 1.[19] Following the game, Ottawa cut four more players from its training camp roster, bringing the total remaining to 31.[20] On October 4, the Senators claimed Norm Maciver in the waiver draft from the Edmonton Oilers.[21] In a final series of roster cuts before the season began, three more players were assigned to New Haven bringing the number down to 29.[22] On October 7, just before the start of the regular season, the Senators announced Laurie Boschman as the team's first captain, with Sylvain Turgeon, Brad Shaw, and Brad Marsh as the alternates.[23] The same day, Jones' PTO expired and the Senators sent him to New Haven on an amateur tryout. However, by the end of October, the team and the player could not agree on a contract and Jones departed.[24][25]
+Regular season
+[edit]
+The Senators finished last in goals scored (202), wins (10), points (24, tied with the San Jose Sharks), even-strength goals scored (129), power-play goals for (66, tied with the Edmonton Oilers and the San Jose Sharks), power play goals against (115) and power play % (14.73) and shooting percentage (8.9%; 202 goals on 2,281 shots).[26][27]
+The Senators recorded their first win of the season in their opening game against the Montreal Canadiens in Ottawa, 5–3.[28] They did not win again until November 25, a 3–1 victory at home over the New Jersey Devils.[29][30] Despite being the worst team in the league, two players — defenceman Brad Marsh and goaltender Peter Sidorkiewicz — were selected to play in the 1993 NHL All-Star Game.[31] The Senators only won six more times after the All-Star break, recording their only road victory of the season against the New York Islanders, 5–3, on April 10, 1993.[32]
+Highlights
+[edit]
+The new Senators played their first game on October 8, 1992, in the Ottawa Civic Centre defeating the eventual Stanley Cup champion Montreal Canadiens by a score of 5–3. The game was televised on Hockey Night in Canada and was in front of a sold-out Ottawa Civic Centre with 10,449 in attendance.[28] Lyndon Slewidge performed the national anthem before the game.[33] The ceremonial faceoff between Laurie Boschman and Denis Savard was done by Frank Finnigan, Jr. (his father having died on Christmas Day, 1991), Bruce Firestone and NHL president Gil Stein. There was much pre-game spectacle—the skating of Brian Orser, the nine banners being raised to honour the original Senators' Stanley Cup wins, retirement of Frank Finnigan's jersey number and the singing of the anthem by Alanis Morissette.[28] The game was attended by Russell Williams, an Ottawa fan who had witnessed the last Stanley Cup win in Ottawa in the 1927 Stanley Cup Final, and would later attend the games of the 2007 Stanley Cup Final, held in Ottawa.[34]
+The starting lineup of the team's first ever game consisted of;[35]
+Peter Sidorkiewicz, goal
+Ken Hammond, defence
+Brad Shaw, defence
+Neil Brady, centre
+Jody Hull, right wing
+Sylvain Turgeon, left wing
+The remaining players filling out the game day roster included: forwards Mark Lamb, Doug Smail, Darcy Loewen, Jamie Baker, Laurie Boschman, Andrew McBain, Tomas Jelinek, Mike Peluso, Marc Fortier, defencemen Norm Maciver, Chris Luongo, Mark Osiecki, Darren Rumble, and goaltender Steve Weeks.[36] Brady scored the first goal for the modern-day Ottawa Senators franchise in the game. Smail had the first multi-goal game of the team's history, notching two.[28]
+Two Senators recorded hat tricks during the regular season; Bob Kudelski scored one in a 3–2 victory over San Jose on January 10, 1993[37] and Laurie Boschman scored one on April 10, 1993, in a 5–3 win on the road against the New York Islanders.[38]
+Final standings
+[edit]
+Adams Division
+|
+GP |
+W |
+L |
+T |
+Pts |
+GF |
+GA |
+Boston Bruins | 84 | 51 | 26 | 7 | 109 | 332 | 268 |
+Quebec Nordiques | 84 | 47 | 27 | 10 | 104 | 351 | 300 |
+Montreal Canadiens | 84 | 48 | 30 | 6 | 102 | 326 | 280 |
+Buffalo Sabres | 84 | 38 | 36 | 10 | 86 | 335 | 297 |
+Hartford Whalers | 84 | 26 | 52 | 6 | 58 | 284 | 369 |
+Ottawa Senators | 84 | 10 | 70 | 4 | 24 | 202 | 395 |
+[39]Note: GP = Games played, W = Wins, L = Losses, T = Ties, Pts = Points, GF = Goals for, GA = Goals against
+Note: Teams that qualified for the playoffs are highlighted in bold.
+Wales Conference[40]
+Rank</span>"}]]}'>R |
+|
+Division</span>"}]]}'>Div |
+Games played</span>"}]]}'>GP |
+Wins</span>"}]]}'>W |
+Losses</span>"}]]}'>L |
+Ties</span>"}]]}'>T |
+Goals for</span>"}]]}'>GF |
+Goals against</span>"}]]}'>GA |
+Points</span>"}]]}'>Pts |
+1 | p – Pittsburgh Penguins | PTK | 84 | 56 | 21 | 7 | 367 | 268 | 119 |
+2 | Boston Bruins | ADM | 84 | 51 | 26 | 7 | 332 | 268 | 109 |
+3 | Quebec Nordiques | ADM | 84 | 47 | 27 | 10 | 351 | 300 | 104 |
+4 | Montreal Canadiens | ADM | 84 | 48 | 30 | 6 | 326 | 280 | 102 |
+5 | Washington Capitals | PTK | 84 | 43 | 34 | 7 | 325 | 286 | 93 |
+6 | New York Islanders | PTK | 84 | 40 | 37 | 7 | 335 | 297 | 87 |
+7 | New Jersey Devils | PTK | 84 | 40 | 37 | 7 | 308 | 299 | 87 |
+8 | Buffalo Sabres | ADM | 84 | 38 | 36 | 10 | 335 | 297 | 86 |
+9 | Philadelphia Flyers | PTK | 84 | 36 | 37 | 11 | 319 | 319 | 83 |
+10 | New York Rangers | PTK | 84 | 34 | 39 | 11 | 304 | 308 | 79 |
+11 | Hartford Whalers | ADM | 84 | 26 | 52 | 6 | 284 | 369 | 58 |
+12 | Ottawa Senators | ADM | 84 | 10 | 70 | 4 | 202 | 395 | 24 |
+p – Won Presidents' Trophy (and division)
+Divisions: PTK – Patrick, ADM – Adams
+bold – Qualified for playoffs
+Schedule and results
+[edit]
+{{cite web |title=1992-93 Ottawa Senators Schedule |url=https://www.hockey-reference.com/teams/OTT/1993_games.html |website=Hockey-Reference.com |access-date=March 7, 2025}}</ref>"}},"i":0}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#000000 2px solid; border-bottom:#CE1126 2px solid;"},"title":{"wt":"October: 1–9–1 (home: 1–3–1; road: 0–6–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Visitor "},"4":{"wt":"Score "},"5":{"wt":"Home "},"6":{"wt":"OT "},"7":{"wt":"Decision "},"8":{"wt":"Attendance "},"9":{"wt":"Arena "},"10":{"wt":"Record "},"11":{"wt":"Points "},"12":{"wt":"Recap"}},"i":1}},"\n|- {{Game-won}}\n| 1 || October 8 || [[1992-93 Montreal Canadiens season|Montreal]] || 3–5 || Ottawa || || [[Peter Sidorkiewicz|Sidorkiewicz]] || 10,449 || [[Ottawa Civic Centre]] || 1–0–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020012"},"2":{"wt":"W"}},"i":2}},"\n|- {{Game-lost}}\n| 2 || October 10 || Ottawa || 2–9 || [[1992-93 Quebec Nordiques season|Quebec]] || || [[Steve Weeks|Weeks]] || 15,399 || [[Colisée de Québec|Le Colisée]] || 1–1–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020022"},"2":{"wt":"L"}},"i":3}},"\n|- {{Game-lost}}\n| 3 || October 12 || Ottawa || 3–6 || [[1992-93 Boston Bruins season|Boston]] || || Sidorkiewicz || 13,056 || [[Boston Garden]] || 1–2–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020035"},"2":{"wt":"L"}},"i":4}},"\n|- {{Game-lost}}\n| 4 || October 14 || Ottawa || 1–4 || [[1992-93 Hartford Whalers season|Hartford]] || || Sidorkiewicz || 7,628 || [[Hartford Civic Center]] || 1–3–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020044"},"2":{"wt":"L"}},"i":5}},"\n|- {{Game-lost}}\n| 5 || October 16 || Ottawa || 1–5 || [[1992-93 Washington Capitals season|Washington]] || || Sidorkiewicz || 12,911 || [[Capital Centre (Landover, Maryland)|Capital Centre]] || 1–4–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020056"},"2":{"wt":"L"}},"i":6}},"\n|- {{Game-lost}}\n| 6 || October 20 || Ottawa || 3–5 || [[1992-93 Toronto Maple Leafs season|Toronto]] || || Sidorkiewicz || 7,186 || [[Copps Coliseum]] || 1–5–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020074"},"2":{"wt":"L"}},"i":7}},"\n|- {{Game-lost}}\n| 7 || October 22 || [[1992-93 Hartford Whalers season|Hartford]] || 5–1 || Ottawa || || Sidorkiewicz || 10,392 || Ottawa Civic Centre || 1–6–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020085"},"2":{"wt":"L"}},"i":8}},"\n|- {{Game-lost}}\n| 8 || October 24 || [[1992-93 New York Rangers season|NY Rangers]] || 3–2 || Ottawa || OT || Sidorkiewicz || 10,089 || Ottawa Civic Centre || 1–7–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020097"},"2":{"wt":"L"}},"i":9}},"\n|- {{Game-lost}}\n| 9 || October 27 || [[1992-93 Pittsburgh Penguins season|Pittsburgh]] || 7–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 1–8–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020110"},"2":{"wt":"L"}},"i":10}},"\n|- {{Game-lost}}\n| 10 || October 30 || Ottawa || 3–12 || [[1992-93 Buffalo Sabres season|Buffalo]] || || Weeks || 15,088 || [[Buffalo Memorial Auditorium]] || 1–9–0 || 2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020124"},"2":{"wt":"L"}},"i":11}},"\n|- {{Game-tied}}\n| 11 || October 31 || [[1992-93 Buffalo Sabres season|Buffalo]] || 2–2 || Ottawa || OT || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 1–9–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020132"},"2":{"wt":"T"}},"i":12}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":13}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#000000 2px solid; border-bottom:#CE1126 2px solid;"},"title":{"wt":"November: 1–13–0 (home: 1–6–0; road: 0–7–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Visitor "},"4":{"wt":"Score "},"5":{"wt":"Home "},"6":{"wt":"OT "},"7":{"wt":"Decision "},"8":{"wt":"Attendance "},"9":{"wt":"Arena "},"10":{"wt":"Record "},"11":{"wt":"Points "},"12":{"wt":"Recap"}},"i":14}},"\n|- {{Game-lost}}\n| 12 || November 3 || Ottawa || 2–5 || [[1992-93 Edmonton Oilers season|Edmonton]] || || Sidorkiewicz || 12,738 || [[Northlands Coliseum]] || 1–10–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020146"},"2":{"wt":"L"}},"i":15}},"\n|- {{Game-lost}}\n| 13 || November 5 || Ottawa || 4–8 || [[1992-93 Calgary Flames season|Calgary]] || || [[Darrin Madeley|Madeley]] || 18,736 || [[Olympic Saddledome]] || 1–11–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020155"},"2":{"wt":"L"}},"i":16}},"\n|- {{Game-lost}}\n| 14 || November 6 || Ottawa || 1–4 || [[1992-93 Vancouver Canucks season|Vancouver]] || || Madeley || 15,332 || [[Pacific Coliseum]] || 1–12–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020161"},"2":{"wt":"L"}},"i":17}},"\n|- {{Game-lost}}\n| 15 || November 9 || [[1992-93 Toronto Maple Leafs season|Toronto]] || 3–1 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 1–13–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020178"},"2":{"wt":"L"}},"i":18}},"\n|- {{Game-lost}}\n| 16 || November 11 || [[1992-93 Quebec Nordiques season|Quebec]] || 7–3 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 1–14–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020187"},"2":{"wt":"L"}},"i":19}},"\n|- {{Game-lost}}\n| 17 || November 13 || Ottawa || 0–1 || [[1992-93 Tampa Bay Lightning season|Tampa Bay]] || || Sidorkiewicz || 10,425 || [[Expo Hall]] || 1–15–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020199"},"2":{"wt":"L"}},"i":20}},"\n|- {{Game-lost}}\n| 18 || November 15 || Ottawa || 2–7 || [[1992-93 Philadelphia Flyers season|Philadelphia]] || || Sidorkiewicz || 17,216 || [[Spectrum (arena)|Spectrum]] || 1–16–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020213"},"2":{"wt":"L"}},"i":21}},"\n|- {{Game-lost}}\n| 19 || November 17 || [[1992-93 Montreal Canadiens season|Montreal]] || 5–3 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 1–17–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020219"},"2":{"wt":"L"}},"i":22}},"\n|- {{Game-lost}}\n| 20 || November 19 || [[1992-93 Hartford Whalers season|Hartford]] || 4–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 1–18–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020229"},"2":{"wt":"L"}},"i":23}},"\n|- {{Game-lost}}\n| 21 || November 21 || Ottawa || 1–3 || [[1992-93 Montreal Canadiens season|Montreal]] || || Sidorkiewicz || 16,689 || [[Montreal Forum]] || 1–19–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020242"},"2":{"wt":"L"}},"i":24}},"\n|- {{Game-lost}}\n| 22 || November 23 || [[1992-93 Boston Bruins season|Boston]] || 3–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 1–20–1 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020253"},"2":{"wt":"L"}},"i":25}},"\n|- {{Game-won}}\n| 23 || November 25 || [[1992-93 New Jersey Devils season|New Jersey]] || 1–3 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 2–20–1 || 5 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020263"},"2":{"wt":"W"}},"i":26}},"\n|- {{Game-lost}}\n| 24 || November 27 || Ottawa || 1–4 || [[1992-93 Buffalo Sabres season|Buffalo]] || || Sidorkiewicz || 16,325 || Buffalo Auditorium || 2–21–1 || 5 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020272"},"2":{"wt":"L"}},"i":27}},"\n|- {{Game-lost}}\n| 25 || November 29 || [[1992-93 Buffalo Sabres season|Buffalo]] || 5–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 2–22–1 || 5 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020290"},"2":{"wt":"L"}},"i":28}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":29}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#000000 2px solid; border-bottom:#CE1126 2px solid;"},"title":{"wt":"December: 1–12–2 (home: 1–6–2; road: 0–6–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Visitor "},"4":{"wt":"Score "},"5":{"wt":"Home "},"6":{"wt":"OT "},"7":{"wt":"Decision "},"8":{"wt":"Attendance "},"9":{"wt":"Arena "},"10":{"wt":"Record "},"11":{"wt":"Points "},"12":{"wt":"Recap"}},"i":30}},"\n|- {{Game-lost}}\n| 26 || December 1 || [[1992-93 Minnesota North Stars season|Minnesota]] || 3–1 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 2–23–1 || 5 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020296"},"2":{"wt":"L"}},"i":31}},"\n|- {{Game-tied}}\n| 27 || December 3 || [[1992-93 New Jersey Devils season|New Jersey]] || 3–3 || Ottawa || OT || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 2–23–2 || 6 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020305"},"2":{"wt":"T"}},"i":32}},"\n|- {{Game-won}}\n| 28 || December 5 || [[1992-93 Philadelphia Flyers season|Philadelphia]] || 2–3 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 3–23–2 || 8 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020316"},"2":{"wt":"W"}},"i":33}},"\n|- {{Game-lost}}\n| 29 || December 7 || [[1992-93 Washington Capitals season|Washington]] || 6–5 || Ottawa || || Weeks || 10,500 || Ottawa Civic Centre || 3–24–2 || 8 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020329"},"2":{"wt":"L"}},"i":34}},"\n|- {{Game-lost}}\n| 30 || December 9 || Ottawa || 2–6 || [[1992-93 Hartford Whalers season|Hartford]] || || Weeks || 8,227 || Hartford Civic Center || 3–25–2 || 8 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020338"},"2":{"wt":"L"}},"i":35}},"\n|- {{Game-lost}}\n| 31 || December 10 || Ottawa || 2–4 || [[1992-93 Boston Bruins season|Boston]] || || Sidorkiewicz || 13,509 || Boston Garden || 3–26–2 || 8 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020343"},"2":{"wt":"L"}},"i":36}},"\n|- {{Game-tied}}\n| 32 || December 12 || [[1992-93 Calgary Flames season|Calgary]] || 1–1 || Ottawa || OT || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 3–26–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020356"},"2":{"wt":"T"}},"i":37}},"\n|- {{Game-lost}}\n| 33 || December 15 || [[1992-93 Detroit Red Wings season|Detroit]] || 3–2 || Ottawa || OT || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 3–27–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020369"},"2":{"wt":"L"}},"i":38}},"\n|- {{Game-lost}}\n| 34 || December 17 || Ottawa || 3–9 || [[1992-93 New York Islanders season|NY Islanders]] || || Weeks || 7,689 || [[Nassau Coliseum]] || 3–28–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020380"},"2":{"wt":"L"}},"i":39}},"\n|- {{Game-lost}}\n| 35 || December 19 || Ottawa || 1–5 || [[1992-93 Toronto Maple Leafs season|Toronto]] || || Sidorkiewicz || 15,720 || [[Maple Leaf Gardens]] || 3–29–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020393"},"2":{"wt":"L"}},"i":40}},"\n|- {{Game-lost}}\n| 36 || December 21 || [[1992-93 Washington Capitals season|Washington]] || 4–3 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 3–30–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020405"},"2":{"wt":"L"}},"i":41}},"\n|- {{Game-lost}}\n| 37 || December 23 || [[1992-93 Chicago Blackhawks season|Washington]] || 4–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 3–31–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020416"},"2":{"wt":"L"}},"i":42}},"\n|- {{Game-lost}}\n| 38 || December 26 || Ottawa || 2–4 || [[1992-93 Quebec Nordiques season|Quebec]] || || [[Daniel Berthiaume|Berthiaume]] || 15,337 || Le Colisée || 3–32–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020423"},"2":{"wt":"L"}},"i":43}},"\n|- {{Game-lost}}\n| 39 || December 27 || [[1992-93 Quebec Nordiques season|Quebec]] || 6–1 || Ottawa || || Berthiaume || 10,500 || Ottawa Civic Centre || 3–33–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020433"},"2":{"wt":"L"}},"i":44}},"\n|- {{Game-lost}}\n| 40 || December 31 || Ottawa || 4–5 || [[1992-93 Detroit Red Wings season|Detroit]] || OT || Sidorkiewicz || 19,875 || [[Joe Louis Arena]] || 3–34–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020452"},"2":{"wt":"L"}},"i":45}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":46}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#000000 2px solid; border-bottom:#CE1126 2px solid;"},"title":{"wt":"January: 2–12–0 (home: 2–5–0; road: 0–7–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Visitor "},"4":{"wt":"Score "},"5":{"wt":"Home "},"6":{"wt":"OT "},"7":{"wt":"Decision "},"8":{"wt":"Attendance "},"9":{"wt":"Arena "},"10":{"wt":"Record "},"11":{"wt":"Points "},"12":{"wt":"Recap"}},"i":47}},"\n|- {{Game-lost}}\n| 41 || January 2 || [[1992-93 Buffalo Sabres season|Buffalo]] || 7–2 || Ottawa || || Berthiaume || 10,500 || Ottawa Civic Centre || 3–35–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020461"},"2":{"wt":"L"}},"i":48}},"\n|- {{Game-lost}}\n| 42 || January 6 || Ottawa || 2–6 || [[1992-93 New York Rangers season|NY Rangers]] || || Sidorkiewicz || 18,200 || [[Madison Square Garden]] || 3–36–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020486"},"2":{"wt":"L"}},"i":49}},"\n|- {{Game-lost}}\n| 43 || January 8 || Ottawa || 4–6 || [[1992-93 New Jersey Devils season|New Jersey]] || || Sidorkiewicz || 12,406 || [[Brendan Byrne Arena]] || 3–37–3 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020496"},"2":{"wt":"L"}},"i":50}},"\n|- {{Game-won}}\n| 44 || January 10 || [[1992-93 San Jose Sharks season|San Jose]] || 2–3 || Ottawa || || Berthiaume || 10,500 || Ottawa Civic Centre || 4–37–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020511"},"2":{"wt":"W"}},"i":51}},"\n|- {{Game-lost}}\n| 45 || January 12 || [[1992-93 Los Angeles Kings season|Los Angeles]] || 3–2 || Ottawa || || Berthiaume || 10,500 || Ottawa Civic Centre || 4–38–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020519"},"2":{"wt":"L"}},"i":52}},"\n|- {{Game-lost}}\n| 46 || January 14 || [[1992-93 St. Louis Blues season|St. Louis]] || 4–1 || Ottawa || || Berthiaume || 10,500 || Ottawa Civic Centre || 4–39–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020530"},"2":{"wt":"L"}},"i":53}},"\n|- {{Game-lost}}\n| 47 || January 16 || Ottawa || 1–6 || [[1992-93 Pittsburgh Penguins season|Pittsburgh]] || || Sidorkiewicz || 16,154 || [[Pittsburgh Civic Arena]] || 4–40–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020541"},"2":{"wt":"L"}},"i":54}},"\n|- {{Game-lost}}\n| 48 || January 17 || [[1992-93 New York Islanders season|NY Islanders]] || 7–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 4–41–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020550"},"2":{"wt":"L"}},"i":55}},"\n|- {{Game-lost}}\n| 49 || January 19 || [[1992-93 Quebec Nordiques season|Quebec]] || 5–2 || Ottawa || || Berthiaume || 10,500 || Ottawa Civic Centre || 4–42–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020558"},"2":{"wt":"L"}},"i":56}},"\n|- {{Game-lost}}\n| 50 || January 21 || Ottawa || 2–7 || [[1992-93 Minnesota North Stars season|Minnesota]] || || Sidorkiewicz || 10,265 || [[Met Center]] || 4–43–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020568"},"2":{"wt":"L"}},"i":57}},"\n|- {{Game-lost}}\n| 51 || January 23 || Ottawa || 4–6 || [[1992-93 Washington Capitals season|Washington]] || || Sidorkiewicz || 17,793 || Capital Centre || 4–44–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020580"},"2":{"wt":"L"}},"i":58}},"\n|- {{Game-lost}}\n| 52 || January 26 || Ottawa || 1–5 || [[1992-93 St. Louis Blues season|St. Louis]] || || Sidorkiewicz || 15,554 || [[St. Louis Arena]] || 4–45–3 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020595"},"2":{"wt":"L"}},"i":59}},"\n|- {{Game-won}}\n| 53 || January 28 || [[1992-93 Hartford Whalers season|Hartford]] || 2–5 || Ottawa || || Berthiaume || 10,304 || Ottawa Civic Centre || 5–45–3 || 13 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020607"},"2":{"wt":"W"}},"i":60}},"\n|- {{Game-lost}}\n| 54 || January 30 || Ottawa || 3–5 || [[1992-93 Montreal Canadiens season|Montreal]] || || Berthiaume || 16,787 || Montreal Forum || 5–46–3 || 13 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020618"},"2":{"wt":"L"}},"i":61}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":62}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#000000 2px solid; border-bottom:#CE1126 2px solid;"},"title":{"wt":"February: 4–7–1 (home: 4–2–1; road: 0–5–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Visitor "},"4":{"wt":"Score "},"5":{"wt":"Home "},"6":{"wt":"OT "},"7":{"wt":"Decision "},"8":{"wt":"Attendance "},"9":{"wt":"Arena "},"10":{"wt":"Record "},"11":{"wt":"Points "},"12":{"wt":"Recap"}},"i":63}},"\n|- {{Game-tied}}\n| 55 || February 1 || [[1992-93 Winnipeg Jets season|Winnipeg]] || 4–4 || Ottawa || OT || Berthiaume || 10,373 || Ottawa Civic Centre || 5–46–4 || 14 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020629"},"2":{"wt":"T"}},"i":64}},"\n|- {{Game-won}}\n| 56 || February 3 || [[1992-93 Edmonton Oilers season|Edmonton]] || 2–3 || Ottawa || || Sidorkiewicz || 10,425 || Ottawa Civic Centre || 6–46–4 || 16 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020639"},"2":{"wt":"W"}},"i":65}},"\n|- {{Game-won}}\n| 57 || February 8 || [[1992-93 Buffalo Sabres season|Buffalo]] || 2–4 || Ottawa || || Sidorkiewicz || 10,442 || Ottawa Civic Centre || 7–46–4 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020649"},"2":{"wt":"W"}},"i":66}},"\n|- {{Game-lost}}\n| 58 || February 9 || Ottawa || 1–8 || [[1992-93 Philadelphia Flyers season|Philadelphia]] || || Sidorkiewicz || 17,185 || Spectrum || 7–47–4 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020652"},"2":{"wt":"L"}},"i":67}},"\n|- {{Game-lost}}\n| 59 || February 13 || [[1992-93 Montreal Canadiens season|Montreal]] || 4–1 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 7–48–4 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020674"},"2":{"wt":"L"}},"i":68}},"\n|- {{Game-lost}}\n| 60 || February 17 || Ottawa || 4–6 || [[1992-93 Quebec Nordiques season|Quebec]] || || Berthiaume || 14,385 || Le Colisée|| 7–49–4 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020695"},"2":{"wt":"L"}},"i":69}},"\n|- {{Game-lost}}\n| 61 || February 20 || Ottawa || 4–5 || [[1992-93 Montreal Canadiens season|Montreal]] || || Sidorkiewicz || 16,859 || Montreal Forum || 7–50–4 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020710"},"2":{"wt":"L"}},"i":70}},"\n|- {{Game-lost}}\n| 62 || February 22 || Ottawa || 3–6 || [[1992-93 Winnipeg Jets season|Winnipeg]] || || Berthiaume || 12,816 || [[Winnipeg Arena]] || 7–51–4 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020723"},"2":{"wt":"L"}},"i":71}},"\n|- {{Game-lost}}\n| 63 || February 23 || [[1992-93 Winnipeg Jets season|Winnipeg]] || 8–2 || Ottawa || || Sidorkiewicz || 7,245 || [[Saskatchewan Place]] || 7–52–4 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020728"},"2":{"wt":"L"}},"i":72}},"\n|- {{Game-won}}\n| 64 || February 25 || [[1992-93 Pittsburgh Penguins season|Pittsburgh]] || 1–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 8–52–4 || 20 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020738"},"2":{"wt":"W"}},"i":73}},"\n|- {{Game-lost}}\n| 65 || February 27 || Ottawa || 2–5 || [[1992-93 New Jersey Devils season|New Jersey]] || || Sidorkiewicz || 18,111 || Brendan Byrne Arena || 8–53–4 || 20 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020750"},"2":{"wt":"L"}},"i":74}},"\n|- {{Game-won}}\n| 66 || February 28 || [[1992-93 Quebec Nordiques season|Quebec]] || 4–6 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 9–53–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020759"},"2":{"wt":"W"}},"i":75}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":76}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#000000 2px solid; border-bottom:#CE1126 2px solid;"},"title":{"wt":"March: 0–10–0 (home: 0–3–0; road: 0–7–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Visitor "},"4":{"wt":"Score "},"5":{"wt":"Home "},"6":{"wt":"OT "},"7":{"wt":"Decision "},"8":{"wt":"Attendance "},"9":{"wt":"Arena "},"10":{"wt":"Record "},"11":{"wt":"Points "},"12":{"wt":"Recap"}},"i":77}},"\n|- {{Game-lost}}\n| 67 || March 2 || Ottawa || 2–3 || [[1992-93 San Jose Sharks season|San Jose]] || OT || Sidorkiewicz || 11,089 || [[Cow Palace]] || 9–54–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020767"},"2":{"wt":"L"}},"i":78}},"\n|- {{Game-lost}}\n| 68 || March 4 || Ottawa || 6–8 || [[1992-93 Los Angeles Kings season|Los Angeles]] || || Berthiaume || 16,005 || [[Great Western Forum]] || 9–55–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020778"},"2":{"wt":"L"}},"i":79}},"\n|- {{Game-lost}}\n| 69 || March 7 || Ottawa || 2–4 || [[1992-93 Chicago Blackhawks season|Chicago]] || || Berthiaume || 18,472 || [[Chicago Stadium]] || 9–56–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020795"},"2":{"wt":"L"}},"i":80}},"\n|- {{Game-lost}}\n| 70 || March 13 || Ottawa || 3–6 || [[1992-93 Boston Bruins season|Boston]] || || Sidorkiewicz || 8,974 || Boston Garden || 9–57–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020822"},"2":{"wt":"L"}},"i":81}},"\n|- {{Game-lost}}\n| 71 || March 18 || [[1992-93 Boston Bruins season|Boston]] || 4–1 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 9–58–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020849"},"2":{"wt":"L"}},"i":82}},"\n|- {{Game-lost}}\n| 72 || March 22 || [[1992-93 New York Rangers season|NY Rangers]] || 5–4 || Ottawa || || Sidorkiewicz || 10,449 || Ottawa Civic Centre || 9–59–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020875"},"2":{"wt":"L"}},"i":83}},"\n|- {{Game-lost}}\n| 73 || March 25 || [[1992-93 Tampa Bay Lightning season|Tampa Bay]] || 3–2 || Ottawa || OT || Berthiaume || 10,500 || Ottawa Civic Centre || 9–60–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020889"},"2":{"wt":"L"}},"i":84}},"\n|- {{Game-lost}}\n| 74 || March 27 || Ottawa || 3–4 || [[1992-93 Montreal Canadiens season|Montreal]] || OT || Berthiaume || 16,944 || Montreal Forum || 9–61–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020900"},"2":{"wt":"L"}},"i":85}},"\n|- {{Game-lost}}\n| 75 || March 28 || Ottawa || 1–3 || [[1992-93 Buffalo Sabres season|Buffalo]] || || Sidorkiewicz || 15,320 || Buffalo Auditorium || 9–62–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020907"},"2":{"wt":"L"}},"i":86}},"\n|- {{Game-lost}}\n| 76 || March 30 || Ottawa || 4–6 || [[1992-93 Pittsburgh Penguins season|Pittsburgh]] || || Sidorkiewicz || 16,065 || Pittsburgh Civic Arena || 9–63–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020861"},"2":{"wt":"L"}},"i":87}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":88}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"style":{"wt":"background:#fff; border-top:#000000 2px solid; border-bottom:#CE1126 2px solid;"},"title":{"wt":"April: 1–7–0 (home: 0–4–0; road: 1–3–0)"},"1":{"wt":"Game "},"2":{"wt":"Date "},"3":{"wt":"Visitor "},"4":{"wt":"Score "},"5":{"wt":"Home "},"6":{"wt":"OT "},"7":{"wt":"Decision "},"8":{"wt":"Attendance "},"9":{"wt":"Arena "},"10":{"wt":"Record "},"11":{"wt":"Points "},"12":{"wt":"Recap"}},"i":89}},"\n|- {{Game-lost}}\n| 77 || April 1 || [[1992-93 Quebec Nordiques season|Quebec]] || 4–2 || Ottawa || || Berthiaume || 10,500 || Ottawa Civic Centre || 9–64–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020924"},"2":{"wt":"L"}},"i":90}},"\n|- {{Game-lost}}\n| 78 || April 3 || Ottawa || 3–7 || [[1992-93 Hartford Whalers season|Hartford]] || || Berthiaume || 13,005 || Hartford Civic Center || 9–65–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020933"},"2":{"wt":"L"}},"i":91}},"\n|- {{Game-lost}}\n| 79 || April 4 || [[1992-93 Vancouver Canucks season|Vancouver]] || 3–0 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 9–66–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020944"},"2":{"wt":"L"}},"i":92}},"\n|- {{Game-lost}}\n| 80 || April 7 || [[1992-93 Hartford Whalers season|Hartford]] || 6–1 || Ottawa || || Berthiaume || 10,439 || Ottawa Civic Centre || 9–67–4 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020957"},"2":{"wt":"L"}},"i":93}},"\n|- {{Game-won}}\n| 81 || April 10 || Ottawa || 5–3 || [[1992-93 New York Islanders season|NY Islanders]] || || Sidorkiewicz || 11,835 || Nassau Coliseum || 10–67–4 || 24 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020972"},"2":{"wt":"W"}},"i":94}},"\n|- {{Game-lost}}\n| 82 || April 11 || Ottawa || 2–4 || [[1992-93 Boston Bruins season|Boston]] || || Sidorkiewicz || 14,448 || Boston Garden || 10–68–4 || 24 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020979"},"2":{"wt":"L"}},"i":95}},"\n|- {{Game-lost}}\n| 83 || April 13 || Ottawa || 2–6 || [[1992-93 Quebec Nordiques season|Quebec]] || || Berthiaume || 15,399 || Le Colisée || 10–69–4 || 24 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020990"},"2":{"wt":"L"}},"i":96}},"\n|- {{Game-lost}}\n| 84 || April 14 || [[1992-93 Boston Bruins season|Boston]] || 4–2 || Ottawa || || Sidorkiewicz || 10,500 || Ottawa Civic Centre || 10–70–4 || 24 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020996"},"2":{"wt":"L"}},"i":97}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":98}},"\n|-\n|\n'''''Legend''''':\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#cfc"},"2":{"wt":"Win (2 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"W"}},"i":99}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#fcc"},"2":{"wt":"Loss (0 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"L"}},"i":100}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#ffc"},"2":{"wt":"Tie (1 point)"},"border":{"wt":"1px solid black"},"text":{"wt":"T"}},"i":101}},"\n",{"template":{"target":{"wt":"Game log end","href":"./Template:Game_log_end"},"params":{},"i":102}}]}'>
+1992–93 regular season[41] |
+October: 1–9–1 (home: 1–3–1; road: 0–6–0)
+Game | Date | Visitor | Score | Home | OT | Decision | Attendance | Arena | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+1 | October 8 | Montreal | 3–5 | Ottawa | | Sidorkiewicz | 10,449 | Ottawa Civic Centre | 1–0–0 | 2 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+2 | October 10 | Ottawa | 2–9 | Quebec | | Weeks | 15,399 | Le Colisée | 1–1–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+3 | October 12 | Ottawa | 3–6 | Boston | | Sidorkiewicz | 13,056 | Boston Garden | 1–2–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+4 | October 14 | Ottawa | 1–4 | Hartford | | Sidorkiewicz | 7,628 | Hartford Civic Center | 1–3–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+5 | October 16 | Ottawa | 1–5 | Washington | | Sidorkiewicz | 12,911 | Capital Centre | 1–4–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+6 | October 20 | Ottawa | 3–5 | Toronto | | Sidorkiewicz | 7,186 | Copps Coliseum | 1–5–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+7 | October 22 | Hartford | 5–1 | Ottawa | | Sidorkiewicz | 10,392 | Ottawa Civic Centre | 1–6–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+8 | October 24 | NY Rangers | 3–2 | Ottawa | OT | Sidorkiewicz | 10,089 | Ottawa Civic Centre | 1–7–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+9 | October 27 | Pittsburgh | 7–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 1–8–0 | 2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+10 | October 30 | Ottawa | 3–12 | Buffalo | | Weeks | 15,088 | Buffalo Memorial Auditorium | 1–9–0 | 2 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+11 | October 31 | Buffalo | 2–2 | Ottawa | OT | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 1–9–1 | 3 | T |
+|
+November: 1–13–0 (home: 1–6–0; road: 0–7–0)
+Game | Date | Visitor | Score | Home | OT | Decision | Attendance | Arena | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+12 | November 3 | Ottawa | 2–5 | Edmonton | | Sidorkiewicz | 12,738 | Northlands Coliseum | 1–10–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+13 | November 5 | Ottawa | 4–8 | Calgary | | Madeley | 18,736 | Olympic Saddledome | 1–11–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+14 | November 6 | Ottawa | 1–4 | Vancouver | | Madeley | 15,332 | Pacific Coliseum | 1–12–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+15 | November 9 | Toronto | 3–1 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 1–13–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+16 | November 11 | Quebec | 7–3 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 1–14–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+17 | November 13 | Ottawa | 0–1 | Tampa Bay | | Sidorkiewicz | 10,425 | Expo Hall | 1–15–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+18 | November 15 | Ottawa | 2–7 | Philadelphia | | Sidorkiewicz | 17,216 | Spectrum | 1–16–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+19 | November 17 | Montreal | 5–3 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 1–17–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+20 | November 19 | Hartford | 4–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 1–18–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+21 | November 21 | Ottawa | 1–3 | Montreal | | Sidorkiewicz | 16,689 | Montreal Forum | 1–19–1 | 3 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+22 | November 23 | Boston | 3–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 1–20–1 | 3 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+23 | November 25 | New Jersey | 1–3 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 2–20–1 | 5 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+24 | November 27 | Ottawa | 1–4 | Buffalo | | Sidorkiewicz | 16,325 | Buffalo Auditorium | 2–21–1 | 5 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+25 | November 29 | Buffalo | 5–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 2–22–1 | 5 | L |
+|
+December: 1–12–2 (home: 1–6–2; road: 0–6–0)
+Game | Date | Visitor | Score | Home | OT | Decision | Attendance | Arena | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+26 | December 1 | Minnesota | 3–1 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 2–23–1 | 5 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+27 | December 3 | New Jersey | 3–3 | Ottawa | OT | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 2–23–2 | 6 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+28 | December 5 | Philadelphia | 2–3 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 3–23–2 | 8 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+29 | December 7 | Washington | 6–5 | Ottawa | | Weeks | 10,500 | Ottawa Civic Centre | 3–24–2 | 8 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+30 | December 9 | Ottawa | 2–6 | Hartford | | Weeks | 8,227 | Hartford Civic Center | 3–25–2 | 8 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+31 | December 10 | Ottawa | 2–4 | Boston | | Sidorkiewicz | 13,509 | Boston Garden | 3–26–2 | 8 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+32 | December 12 | Calgary | 1–1 | Ottawa | OT | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 3–26–3 | 9 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+33 | December 15 | Detroit | 3–2 | Ottawa | OT | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 3–27–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+34 | December 17 | Ottawa | 3–9 | NY Islanders | | Weeks | 7,689 | Nassau Coliseum | 3–28–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+35 | December 19 | Ottawa | 1–5 | Toronto | | Sidorkiewicz | 15,720 | Maple Leaf Gardens | 3–29–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+36 | December 21 | Washington | 4–3 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 3–30–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+37 | December 23 | Washington | 4–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 3–31–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+38 | December 26 | Ottawa | 2–4 | Quebec | | Berthiaume | 15,337 | Le Colisée | 3–32–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+39 | December 27 | Quebec | 6–1 | Ottawa | | Berthiaume | 10,500 | Ottawa Civic Centre | 3–33–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+40 | December 31 | Ottawa | 4–5 | Detroit | OT | Sidorkiewicz | 19,875 | Joe Louis Arena | 3–34–3 | 9 | L |
+|
+January: 2–12–0 (home: 2–5–0; road: 0–7–0)
+Game | Date | Visitor | Score | Home | OT | Decision | Attendance | Arena | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+41 | January 2 | Buffalo | 7–2 | Ottawa | | Berthiaume | 10,500 | Ottawa Civic Centre | 3–35–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+42 | January 6 | Ottawa | 2–6 | NY Rangers | | Sidorkiewicz | 18,200 | Madison Square Garden | 3–36–3 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+43 | January 8 | Ottawa | 4–6 | New Jersey | | Sidorkiewicz | 12,406 | Brendan Byrne Arena | 3–37–3 | 9 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+44 | January 10 | San Jose | 2–3 | Ottawa | | Berthiaume | 10,500 | Ottawa Civic Centre | 4–37–3 | 11 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+45 | January 12 | Los Angeles | 3–2 | Ottawa | | Berthiaume | 10,500 | Ottawa Civic Centre | 4–38–3 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+46 | January 14 | St. Louis | 4–1 | Ottawa | | Berthiaume | 10,500 | Ottawa Civic Centre | 4–39–3 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+47 | January 16 | Ottawa | 1–6 | Pittsburgh | | Sidorkiewicz | 16,154 | Pittsburgh Civic Arena | 4–40–3 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+48 | January 17 | NY Islanders | 7–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 4–41–3 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+49 | January 19 | Quebec | 5–2 | Ottawa | | Berthiaume | 10,500 | Ottawa Civic Centre | 4–42–3 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+50 | January 21 | Ottawa | 2–7 | Minnesota | | Sidorkiewicz | 10,265 | Met Center | 4–43–3 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+51 | January 23 | Ottawa | 4–6 | Washington | | Sidorkiewicz | 17,793 | Capital Centre | 4–44–3 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+52 | January 26 | Ottawa | 1–5 | St. Louis | | Sidorkiewicz | 15,554 | St. Louis Arena | 4–45–3 | 11 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+53 | January 28 | Hartford | 2–5 | Ottawa | | Berthiaume | 10,304 | Ottawa Civic Centre | 5–45–3 | 13 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+54 | January 30 | Ottawa | 3–5 | Montreal | | Berthiaume | 16,787 | Montreal Forum | 5–46–3 | 13 | L |
+|
+February: 4–7–1 (home: 4–2–1; road: 0–5–0)
+Game | Date | Visitor | Score | Home | OT | Decision | Attendance | Arena | Record | Points | Recap |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+55 | February 1 | Winnipeg | 4–4 | Ottawa | OT | Berthiaume | 10,373 | Ottawa Civic Centre | 5–46–4 | 14 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+56 | February 3 | Edmonton | 2–3 | Ottawa | | Sidorkiewicz | 10,425 | Ottawa Civic Centre | 6–46–4 | 16 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+57 | February 8 | Buffalo | 2–4 | Ottawa | | Sidorkiewicz | 10,442 | Ottawa Civic Centre | 7–46–4 | 18 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+58 | February 9 | Ottawa | 1–8 | Philadelphia | | Sidorkiewicz | 17,185 | Spectrum | 7–47–4 | 18 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+59 | February 13 | Montreal | 4–1 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 7–48–4 | 18 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+60 | February 17 | Ottawa | 4–6 | Quebec | | Berthiaume | 14,385 | Le Colisée | 7–49–4 | 18 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+61 | February 20 | Ottawa | 4–5 | Montreal | | Sidorkiewicz | 16,859 | Montreal Forum | 7–50–4 | 18 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+62 | February 22 | Ottawa | 3–6 | Winnipeg | | Berthiaume | 12,816 | Winnipeg Arena | 7–51–4 | 18 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+63 | February 23 | Winnipeg | 8–2 | Ottawa | | Sidorkiewicz | 7,245 | Saskatchewan Place | 7–52–4 | 18 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+64 | February 25 | Pittsburgh | 1–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 8–52–4 | 20 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+65 | February 27 | Ottawa | 2–5 | New Jersey | | Sidorkiewicz | 18,111 | Brendan Byrne Arena | 8–53–4 | 20 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+66 | February 28 | Quebec | 4–6 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 9–53–4 | 22 | W |
+|
+March: 0–10–0 (home: 0–3–0; road: 0–7–0)
+Game | Date | Visitor | Score | Home | OT | Decision | Attendance | Arena | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+67 | March 2 | Ottawa | 2–3 | San Jose | OT | Sidorkiewicz | 11,089 | Cow Palace | 9–54–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+68 | March 4 | Ottawa | 6–8 | Los Angeles | | Berthiaume | 16,005 | Great Western Forum | 9–55–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+69 | March 7 | Ottawa | 2–4 | Chicago | | Berthiaume | 18,472 | Chicago Stadium | 9–56–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+70 | March 13 | Ottawa | 3–6 | Boston | | Sidorkiewicz | 8,974 | Boston Garden | 9–57–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+71 | March 18 | Boston | 4–1 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 9–58–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+72 | March 22 | NY Rangers | 5–4 | Ottawa | | Sidorkiewicz | 10,449 | Ottawa Civic Centre | 9–59–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+73 | March 25 | Tampa Bay | 3–2 | Ottawa | OT | Berthiaume | 10,500 | Ottawa Civic Centre | 9–60–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+74 | March 27 | Ottawa | 3–4 | Montreal | OT | Berthiaume | 16,944 | Montreal Forum | 9–61–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+75 | March 28 | Ottawa | 1–3 | Buffalo | | Sidorkiewicz | 15,320 | Buffalo Auditorium | 9–62–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+76 | March 30 | Ottawa | 4–6 | Pittsburgh | | Sidorkiewicz | 16,065 | Pittsburgh Civic Arena | 9–63–4 | 22 | L |
+|
+April: 1–7–0 (home: 0–4–0; road: 1–3–0)
+Game | Date | Visitor | Score | Home | OT | Decision | Attendance | Arena | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+77 | April 1 | Quebec | 4–2 | Ottawa | | Berthiaume | 10,500 | Ottawa Civic Centre | 9–64–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+78 | April 3 | Ottawa | 3–7 | Hartford | | Berthiaume | 13,005 | Hartford Civic Center | 9–65–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+79 | April 4 | Vancouver | 3–0 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 9–66–4 | 22 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+80 | April 7 | Hartford | 6–1 | Ottawa | | Berthiaume | 10,439 | Ottawa Civic Centre | 9–67–4 | 22 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+81 | April 10 | Ottawa | 5–3 | NY Islanders | | Sidorkiewicz | 11,835 | Nassau Coliseum | 10–67–4 | 24 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+82 | April 11 | Ottawa | 2–4 | Boston | | Sidorkiewicz | 14,448 | Boston Garden | 10–68–4 | 24 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+83 | April 13 | Ottawa | 2–6 | Quebec | | Berthiaume | 15,399 | Le Colisée | 10–69–4 | 24 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+84 | April 14 | Boston | 4–2 | Ottawa | | Sidorkiewicz | 10,500 | Ottawa Civic Centre | 10–70–4 | 24 | L |
+|
+Legend:
+W Win (2 points)
+L Loss (0 points)
+T Tie (1 point)
+|
+Player statistics
+[edit]
+Regular season
+[edit]
+Scoring
+[edit]
+Regular season[42]
+Player |
+Pos |
+GP |
+G |
+A |
+Pts |
+PIM |
++/- |
+PPG |
+SHG |
+GWG |
+Norm Maciver | D | 80 | 17 | 46 | 63 | 84 | −46 | 7 | 1 | 2 |
+Jamie Baker | C | 76 | 19 | 29 | 48 | 54 | −20 | 10 | 0 | 2 |
+Sylvain Turgeon | LW | 72 | 25 | 18 | 43 | 104 | −29 | 8 | 0 | 2 |
+Brad Shaw | D | 81 | 7 | 34 | 41 | 34 | −47 | 4 | 0 | 0 |
+Bob Kudelski | RW | 48 | 21 | 14 | 35 | 22 | −22 | 12 | 0 | 2 |
+Jody Hull | RW | 69 | 13 | 21 | 34 | 14 | −24 | 5 | 1 | 0 |
+Mark Lamb | C | 71 | 7 | 19 | 26 | 64 | −40 | 1 | 0 | 0 |
+Mike Peluso | LW | 81 | 15 | 10 | 25 | 318 | −35 | 2 | 0 | 1 |
+Mark Freer | C | 63 | 10 | 14 | 24 | 39 | −35 | 3 | 3 | 0 |
+Neil Brady | C | 55 | 7 | 17 | 24 | 57 | −25 | 5 | 0 | 0 |
+Andrew McBain | RW | 59 | 7 | 16 | 23 | 43 | −37 | 1 | 0 | 0 |
+Laurie Boschman | C | 70 | 9 | 7 | 16 | 101 | −26 | 0 | 1 | 1 |
+Darren Rumble | D | 69 | 3 | 13 | 16 | 61 | −24 | 0 | 0 | 0 |
+Dave Archibald | C/LW | 44 | 9 | 6 | 15 | 32 | −16 | 6 | 0 | 0 |
+Doug Smail | LW | 51 | 4 | 10 | 14 | 51 | −34 | 0 | 0 | 0 |
+Tomas Jelinek | RW | 49 | 7 | 6 | 13 | 52 | −21 | 0 | 0 | 0 |
+Chris Luongo | D | 76 | 3 | 9 | 12 | 68 | −47 | 1 | 0 | 0 |
+Jeff Lazaro | LW | 26 | 6 | 4 | 10 | 16 | −8 | 0 | 1 | 0 |
+Rob Murphy | C | 44 | 3 | 7 | 10 | 30 | −23 | 0 | 0 | 0 |
+Darcy Loewen | LW | 79 | 4 | 5 | 9 | 145 | −26 | 0 | 0 | 0 |
+Ken Hammond | D | 62 | 4 | 4 | 8 | 104 | −42 | 0 | 0 | 0 |
+Gord Dineen | D | 32 | 2 | 4 | 6 | 30 | −19 | 1 | 0 | 0 |
+Mark Osiecki | D | 34 | 0 | 4 | 4 | 12 | −21 | 0 | 0 | 0 |
+Brad Marsh | D | 59 | 0 | 3 | 3 | 30 | −29 | 0 | 0 | 0 |
+Blair Atcheynum | RW | 4 | 0 | 1 | 1 | 0 | −3 | 0 | 0 | 0 |
+Daniel Berthiaume | G | 25 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |
+Marc Fortier | C | 10 | 0 | 1 | 1 | 6 | −7 | 0 | 0 | 0 |
+Jim Kyte | D | 4 | 0 | 1 | 1 | 4 | 0 | 0 | 0 | 0 |
+Dominic Lavoie | D | 2 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+Jim Thomson | RW | 15 | 0 | 1 | 1 | 41 | −11 | 0 | 0 | 0 |
+Tony Cimellaro | C | 2 | 0 | 0 | 0 | 0 | −2 | 0 | 0 | 0 |
+Radek Hamr | D | 4 | 0 | 0 | 0 | 0 | −4 | 0 | 0 | 0 |
+Lonnie Loach | LW | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+Darrin Madeley | G | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+Brad Miller | D | 11 | 0 | 0 | 0 | 42 | −5 | 0 | 0 | 0 |
+Kent Paynter | D | 6 | 0 | 0 | 0 | 20 | −7 | 0 | 0 | 0 |
+Peter Sidorkiewicz | G | 64 | 0 | 0 | 0 | 8 | 0 | 0 | 0 | 0 |
+Martin St. Amour | LW | 1 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+Steve Weeks | G | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+Goaltending
+[edit]
+Regular season[42]
+Player |
+MIN |
+GP |
+W |
+L |
+T |
+GA |
+GAA |
+SO |
+SA |
+SV |
+SV% |
+Peter Sidorkiewicz | 3388 | 64 | 8 | 46 | 3 | 250 | 4.43 | 0 | 1737 | 1487 | .856 |
+Daniel Berthiaume | 1326 | 25 | 2 | 17 | 1 | 95 | 4.30 | 0 | 739 | 644 | .871 |
+Darrin Madeley | 90 | 2 | 0 | 2 | 0 | 10 | 6.67 | 0 | 44 | 34 | .773 |
+Steve Weeks | 249 | 7 | 0 | 5 | 0 | 30 | 7.23 | 0 | 144 | 114 | .792 |
+Team: | 5053 | 84 | 10 | 70 | 4 | 385 | 4.57 | 0 | 2664 | 2279 | .855 |
+Note:
+Pos = Position;GP = Games played; G = Goals; A = Assists; Pts = Points; PIM = Penalty minutes; +/- = Plus/minus; PPG = Power-play goals; SHG = Short-handed goals; GWG = Game-winning goals
+Pos = Position;GP = Games played; Min, TOI = Minutes played; W = Wins; L = Losses; T,T/OT = Ties; OTL = Overtime losses; GA = Goals-against; GAA = Goals-against average; SO = Shutouts; SA = Shots against; SV = Shots saved;SV% = Save percentage;
+Awards and records
+[edit]
+Awards
+[edit]
+Molson Cup – Sylvain Turgeon
+NHL All-Star Game selection – Brad Marsh, Peter Sidorkiewicz
+Milestones
+[edit]
+Date |
+Player |
+|
+January 10, 1993 | Bob Kudelski | First hat trick by a Senator |
+February 1, 1993 | Laurie Boschman | First penalty shot by a Senator (goal) |
+Source: Ottawa Senators 2007–08 Media Guide. Ottawa Senators. 2007.
+Transactions
+[edit]
+The Senators were involved in the following transactions during the 1992–93 season.
+Trades
+[edit]
+Date | Details | Ref |
+June 20, 1992 (1992-06-20) |
+To New York RangersFuture considerations |
+To Ottawa Senators11th-round pick in 1992 |
+[43] |
+June 22, 1992 (1992-06-22) |
+To Calgary FlamesChris Lindberg |
+To Ottawa SenatorsMark Osiecki |
+[44] |
+July 20, 1992 (1992-07-20) |
+To Toronto Maple LeafsFuture considerations |
+To Ottawa SenatorsBrad Marsh |
+[45] |
+July 28, 1992 (1992-07-28) |
+To New York RangersFuture considerations |
+To Ottawa SenatorsJody Hull |
+[46] |
+August 13, 1992 (1992-08-13) |
+To Washington CapitalsFuture considerations |
+To Ottawa SenatorsSteve Weeks |
+[47] |
+September 3, 1992 (1992-09-03) |
+To New Jersey DevilsFuture considerations |
+To Ottawa SenatorsNeil Brady |
+[48] |
+November 5, 1992 (1992-11-05) |
+To New York Rangers5th-round pick in 1993 |
+To Ottawa SenatorsDave Archibald |
+[49] |
+December 19, 1992 (1992-12-19) |
+To Los Angeles KingsMarc FortierJim Thomson |
+To Ottawa SenatorsBob KudelskiShawn McCosh |
+[50] |
+February 25, 1993 (1993-02-25) |
+To Toronto Maple LeafsBrad Miller |
+To Ottawa Senators9th-round pick in 1993 |
+[51] |
+March 4, 1993 (1993-03-04) |
+To Winnipeg Jets4th-round pick in 1993 |
+To Ottawa SenatorsSigning rights to Dmitri Filimonov |
+[52] |
+Players acquired
+[edit]
+Date | Player | Former team | Term | Via | Ref |
+July 15, 1992 (1992-07-15) | Tomas Jelinek | HC Sierre | 2-year | Free agency | [53] |
+July 16, 1992 (1992-07-16) | Martin St. Amour | Cincinnati Cyclones (ECHL) | — N/a | Free agency | [54]{{cite news |url=https://www.newspapers.com/article/the-ottawa-citizen-rugged-two-way-defenc/180729806/ |title=Rugged two-way defenceman among latest Ottawa signees |work=Ottawa Citizen |last=Mayoh |first=Rick |p=B7 |date=August 7, 1992 |access-date=September 9, 2025 |via=Newspapers.com |url-access=registration}}</ref><ref>{{cite news |url=https://www.newspapers.com/article/calgary-herald-transactions/180729929/ |title=Transactions |work=Calgary Herald |p=80 |date=August 7, 1992 |access-date=September 9, 2025 |via=Newspapers.com |url-access=registration}}</ref>"}},"i":0}}]}'>[b] |
+July 30, 1992 (1992-07-30) | Andrew McBain | Vancouver Canucks | —N/a | Free agency | [57]{{cite news |url=https://www.newspapers.com/article/usa-today-transactions/180733323/ |title=Transactions |work=USA Today |p=11C |date=June 23, 1992 |access-date=September 9, 2025 |via=Newspapers.com |url-access=registration}}</ref>"}},"i":0}}]}'>[c] |
+July 30, 1992 (1992-07-30) | Marc Labelle | Montreal Canadiens | —N/a | Free agency | [59][55] |
+August 6, 1992 (1992-08-06) | Mark Ferner | Toronto Maple Leafs | —N/a | Free agency | [60] |
+Scott White | Greensboro Monarchs (ECHL) | —N/a | Free agency | [55] |
+August 30, 1992 (1992-08-30) | Doug Smail | Quebec Nordiques | —N/a | Free agency | [61] |
+August 31, 1992 (1992-08-31) | Gord Dineen | Pittsburgh Penguins | —N/a | Free agency | [62] |
+September 2, 1992 (1992-09-02) | Jamie Baker | Quebec Nordiques | —N/a | Free agency | [63] |
+September 9, 1992 (1992-09-09) | Chris Luongo | Detroit Red Wings | —N/a | Free agency | [64] |
+September 10, 1992 (1992-09-10) | Jim Kyte | Calgary Flames | —N/a | Free agency | [59] |
+October 1, 1992 (1992-10-01) | Marc Fortier | Quebec Nordiques | —N/a | Free agency | [65] |
+October 4, 1992 (1992-10-04) | Norm Maciver | Edmonton Oilers | —N/a | Waivers | [66] |
+October 1992 (1992-10) | Radek Hamr | Sparta Praha (CSSR) | —N/a | Free agency | [67] |
+December 15, 1992 (1992-12-15) | Daniel Berthiaume | EC Graz (Alpenliga) | —N/a | Free agency | [68] |
+December 15, 1992 (1992-12-15) | Paul Lawless | EC Graz | —N/a | Free agency | [69] |
+Players lost
+[edit]
+Date | Player | New team | Via | Ref |
+October 21, 1992 (1992-10-21) | Lonnie Loach | Los Angeles Kings | Waivers | [70] |
+February 12, 1993 (1993-02-12) | Paul Lawless | Cincinnati Cyclones | Free agency | [71] |
+Steve Weeks | —N/a | Retirement | [72] |
+February 20, 1993 (1993-02-20) | Mark Osiecki | Winnipeg Jets | Waivers | [73] |
+Player signings
+[edit]
+Date | Player | Term | Ref |
+June 20, 1992 (1992-06-20) | Darrin Madeley | 3-year‡ | [74][75] |
+July 30, 1992 (1992-07-30) | Tony Cimellaro | —N/a | [76] |
+August 30, 1992 (1992-08-30) | Brian Downey | 2-year‡ | [77] |
+September 10, 1992 (1992-09-10) | Brad Shaw | 1-year‡ | [78] |
+October 2, 1992 (1992-10-02) | Trent McCleary | —N/a | [79] |
+October 9, 1992 (1992-10-09) | Andy Schneider | —N/a | [80] |
+‡ Contract has an additional option year.
+Draft picks
+[edit]
+Expansion draft
+[edit]
+The Senators participated in the 1992 NHL expansion draft on June 18, 1992, to fill their roster for the 1992–93 NHL season.
+Round |
+# |
+Player |
+Nationality |
+NHL team |
+1 | 2 | Peter Sidorkiewicz | Poland | Hartford Whalers |
+2 | 3 | Mark Laforest | Canada | New York Rangers |
+3 | 5 | Brad Shaw | Canada | New Jersey Devils |
+4 | 8 | Darren Rumble | Canada | Philadelphia Flyers |
+5 | 10 | Dominic Lavoie | Canada | St. Louis Blues |
+6 | 11 | Brad Miller | Canada | Buffalo Sabres |
+7 | 13 | Ken Hammond | Canada | Vancouver Canucks |
+8 | 16 | Kent Paynter | Canada | Winnipeg Jets |
+9 | 18 | John Van Kessel | Canada | Los Angeles Kings |
+10 | 20 | Sylvain Turgeon | Canada | Montreal Canadiens |
+11 | 21 | Mike Peluso | United States | Chicago Blackhawks |
+12 | 23 | Rob Murphy | Canada | Vancouver Canucks |
+13 | 25 | Mark Lamb | Canada | Edmonton Oilers |
+14 | 27 | Laurie Boschman | Canada | New Jersey Devils |
+15 | 29 | Jim Thomson | Canada | Los Angeles Kings |
+16 | 31 | Lonnie Loach | Canada | Detroit Red Wings |
+17 | 33 | Mark Freer | Canada | Philadelphia Flyers |
+18 | 35 | Chris Lindberg | Canada | Calgary Flames |
+19 | 37 | Jeff Lazaro | United States | Boston Bruins |
+20 | 39 | Darcy Loewen | Canada | Buffalo Sabres |
+21 | 41 | Blair Atcheynum | Canada | Hartford Whalers |
+Entry draft
+[edit]
+Ottawa's draft picks at the 1992 NHL entry draft in Montreal, Quebec.[81]
+Round |
+# |
+Player |
+Nationality |
+College/Junior/Club team (League) |
+1 | 2 | Alexei Yashin | Russia | HC Dynamo Moscow (Russia) |
+2 | 25 | Chad Penney | Canada | North Bay Centennials (OHL) |
+3 | 50 | Patrick Traverse | Canada | Shawinigan Cataractes (QMJHL) |
+4 | 73 | Radek Hamr | Czechoslovakia | HC Sparta Praha (Czech.) |
+5 | 98 | Daniel Guerard | Canada | Victoriaville Tigres (QMJHL) |
+6 | 121 | Alan Sinclair | United States | University of Michigan (NCAA) |
+7 | 146 | Jaroslav Miklenda | Czechoslovakia | DS Olomuc (Czech.) |
+8 | 169 | Jay Kenney | United States | Canterbury School (US HS) |
+9 | 194 | Claude Savoie | Canada | Victoriaville Tigres (QMJHL) |
+10 | 217 | Jack Grimes | Canada | Belleville Bulls (OHL) |
+11 | 242 | Tomas Jelinek | Czechoslovakia | HPK Hameenlinna (Finland) |
+11 | 264 | Petter Ronnquist | Sweden | Nacka (Sweden) |
+S | 2 | Steve Flomenhoft | United States | Harvard University (ECAC) |
+Farm teams
+[edit]
+The New Haven Senators were Ottawa's senior affiliate, playing in the American Hockey League. An agreement was reached with the team in December 1991 to be Senators' first affiliate.[82] Ottawa came to an agreement with the Thunder Bay Thunder Hawks of the Colonial Hockey League in September 1992 to be their secondary affiliate and established their minor league training and development centre in Thunder Bay, Ontario.[83]
+New Haven Senators
+[edit]
+The New Haven Senators were coached by Don MacAdam. The team finished the 1992–93 season with a 22–47–11 record, earning 55 points and fifth place in the North Division. The club failed to reach the post-season.
+Greg Pankewicz led the Senators with 23 goals, while Martin St. Amour had a team-high 60 points. Darrin Madeley and Mark Laforest each earned 10 wins, while Madeley led the team with a 3.32 GAA.
+Thunder Bay Thunder Hawks
+[edit]
+The Thunder Bay Thunder Hawks were coached by Bill McDonald. The Thunder Hawks finished the 1992–93 season with a 33–24–4 record, earning 70 points and third place in the league standings, qualifying for the post-season. In the playoffs, the Thunder Hawks defeated the Muskegon Fury in the first round, however, the team lost in the round-robin qualifiers with a 1–3 record against the Brantford Smoke and St. Thomas Wildcats.
+Jason Firth led the team with 36 goals and 100 points, finishing fourth in the league in points. In 11 playoff games, Firth scored a team-high eight goals and 17 points. Mark Michaud led the Thunder Hawks with 12 wins and had a team best 3.84 GAA.
+See also
+[edit]
+1992–93 NHL season
+Notes
+[edit]
+↑ The modern Ottawa Senators franchise is not a revival of the original franchise that operated from 1883 to 1934 and does not claim any of the Stanley Cups awarded to the early teams.
+↑ Other sources have St. Amour's contract announced on August 6.[55][56]
+↑ Other sources have McBain signing with Ottawa on June 22.[58]
+References
+[edit]
+↑ Garrioch 1998, p. 225.
+1 2 3 4 Ottawa Senators Media Guide 2009–10 (PDF). Kanata, Ontario: Ottawa Senators. 2009. pp. 196–197. Archived from the original (PDF) on June 14, 2011. Retrieved June 2, 2010.
+↑ Eade, Ron (December 17, 1991). "Take-it-or-leave-it lease approved". Ottawa Citizen. p. F1. Retrieved September 11, 2025 – via Newspapers.com.
+↑ MacGregor 1993, pp. 203–207.
+↑ MacGregor 1993, p. 198.
+1 2 Mayoh, Rick (September 5, 1992). "Senators off to camp". Ottawa Citizen. p. H1. Retrieved September 11, 2025 – via Newspapers.com.
+↑ "NHL training camp sites". Calgary Herald. The Canadian Press. September 4, 1992. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (September 14, 1992). "Protected, for now". Ottawa Citizen. p. D8. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick. "Farm-bound: Senators assign 28 to New Haven". Ottawa Citizen. p. September 16, 1992. Retrieved September 11, 2025 – via Newspapers.com.
+↑ "Expansion Senators tie Whalers 1-1". The Republican. Associated Press. September 19, 1992. p. 40. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (September 21, 1992). "Senators' roster cut to 60". Ottawa Citizen. p. B7. Retrieved September 11, 2025 – via Newspapers.com.
+↑ "Senators put on good show". The Standard. The Canadian Press. September 22, 1992. p. B5. Retrieved September 11, 2025 – via Newspapers.com.
+↑ MacKinnon, John (September 23, 1992). "Capital Punishment". Ottawa Citizen. p. E1. Retrieved September 11, 2025 – via Newspapers.com.
+↑ MacKinnon, John (September 25, 1992). "Sweet Victory". Ottawa Citizen. p. F1. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Babineau, Jeff (September 26, 1992). "Drulia's good timing propels Lightning, 3–2". Orlando Sentinel. p. B4. Retrieved September 11, 2025 – via Newspapers.com.
+↑ "Lightning strike Senators again". San Francisco Examiner. Associated Press. September 28, 1992. p. D3. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (September 28, 1992). "Senators sign Jones". Ottawa Citizen. p. C9. Retrieved September 11, 2025 – via Newspapers.com.
+↑ MacKinnon, John (October 1, 1992). "Verbeek spoils Madeley's night". Ottawa Citizen. p. E1. Retrieved September 11, 2025 – via Newspapers.com.
+↑ MacKinnon, John (October 2, 1992). "Rehearsal over". Ottawa Citizen. p. E1. Retrieved September 11, 2025 – via Newspapers.com.
+↑ MacKinnon, John (October 2, 1992). "Senators cut four, reduce roster to 31". Ottawa Citizen. p. E1. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (October 5, 1992). "Maciver gets fresh start with Senators". Ottawa Citizen. p. E2. Retrieved September 11, 2025 – via Newspapers.com.
+↑ MacKinnon, John (October 6, 1992). "Defenceman Kyte, Lavoie, Paynter trimmed from Senators' roster". Ottawa Citizen. p. F2. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (October 8, 1992). "It's Captain Boschman now". Ottawa Citizen. p. D5. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (October 7, 1992). "Maciver close to deal". Ottawa Citizen. p. E2. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (October 29, 1992). "Osiecki wants American dollars". Ottawa Citizen. p. E2. Retrieved September 11, 2025 – via Newspapers.com.
+↑ "1992–93 Ottawa Senators Roster and Statistics". Hockey-Reference.com. Retrieved February 29, 2012.
+↑ "1992–93 NHL Season Summary". Hockey-Reference.com. Retrieved February 29, 2012.
+1 2 3 4 "Maybe Rome was built in a day". Ottawa Citizen. October 9, 1992. Retrieved September 12, 2025 – via Newspapers.com.
+↑ Laroche 2014, p. 348.
+↑ "New Jersey Devils 1 – 3 Ottawa Senators". NHL.com. National Hockey League. November 25, 1992. Retrieved September 12, 2025.
+↑ Laroche 2014, p. 349.
+↑ MacGregor 1993, p. 246.
+↑ Della-Mattia, Elaine (October 8, 1992). "Job shift approved, OPP, Ottawa Senators next stop for Slewidge". The Sault Star. p. B1. Retrieved September 12, 2025 – via Newspapers.com.
+↑ Cheadle, Bruce (June 2, 2007). "Ottawa man nostalgically recalls Sens' last cup win". CTV News. Archived from the original on September 21, 2021. Retrieved December 27, 2007.
+↑ Ottawa Senators Media Guide 1998–99. Ottawa Senators. 1998. p. 193.
+↑ "Montreal Canadiens 3 – 5 Ottawa Senators". NHL.com. National Hockey League. October 8, 1992. Retrieved September 12, 2025.
+↑ "San Jose Sharks at Ottawa Senators Box Score, January 10, 1993". Hockey-Reference.com. January 10, 1993. Retrieved February 29, 2012.
+↑ "Ottawa Senators at New York Islanders Box Score, April 10, 1993". Hockey-Reference.com. April 10, 1993. Retrieved February 29, 2012.
+↑ Dinger, Ralph, ed. (2011). The National Hockey League Official Guide & Record Book 2012. Dan Diamond & Associates. p. 154. ISBN 9781894801225.
+↑ "1992–1993 Conference Standings". National Hockey League. Retrieved June 29, 2014.
+↑ "1992-93 Ottawa Senators Schedule". Hockey-Reference.com. Retrieved March 7, 2025.
+1 2 "1992-93 Ottawa Senators Statistics". Hockey-Reference.com. Retrieved June 17, 2009.
+↑ MacKinnon, John (June 21, 1992). "Yashin brings Senators into new generation". Ottawa Citizen. p. C1. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, p. 1233.
+↑ Diamond et al. 1998, p. 1270.
+↑ Diamond et al. 1998, p. 1130.
+↑ Diamond et al. 1998, p. 1720.
+↑ "Future considerations net centre Brady for Senators". Ottawa Citizen. September 4, 1992. p. C2. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, p. 839.
+↑ Diamond et al. 1998, p. 1187.
+↑ Diamond et al. 1998, pp. 1312–1313.
+↑ Diamond et al. 1998, p. 1021.
+↑ "Senators sign Czech". Ottawa Citizen. July 16, 1992. p. F3. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, p. 1446.
+1 2 3 Mayoh, Rick (August 7, 1992). "Rugged two-way defenceman among latest Ottawa signees". Ottawa Citizen. p. B7. Retrieved September 9, 2025 – via Newspapers.com.
+↑ "Transactions". Calgary Herald. August 7, 1992. p. 80. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, p. 1280.
+↑ "Transactions". USA Today. June 23, 1992. p. 11C. Retrieved September 9, 2025 – via Newspapers.com.
+1 2 Diamond et al. 1998, p. 1191.
+↑ Diamond et al. 1998, p. 1019.
+↑ Diamond et al. 1998, p. 1484.
+↑ Diamond et al. 1998, p. 981.
+↑ Diamond et al. 1998, p. 849.
+↑ Diamond et al. 1998, p. 1245.
+↑ Diamond et al. 1998, p. 1031.
+↑ Mayoh, Rick (October 5, 1992). "Maciver gets fresh start with Senators". Ottawa Citizen. p. C2. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (October 29, 1992). "Osiecki wants American dollars". Ottawa Citizen. p. E2. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, pp. 1608–1609.
+↑ MacKinnon, John (December 17, 1992). "Goalie Berthiaume, Lawless bound for New Haven affiliate". Ottawa Citizen. p. D3. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, p. 1236.
+↑ Mayoh, Rick (February 13, 1993). "Lawless joins IHL Cyclones". Ottawa Citizen. p. G3. Retrieved September 9, 2025 – via Newspapers.com.
+↑ MacKinnon, John (February 13, 1993). "Weeks returns to Whalers as goalie coach". Ottawa Citizen. p. G3. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, p. 1336.
+↑ Diamond et al. 1998, p. 1671.
+↑ Mayoh, Rick (September 15, 1992). "Giving new Senators the old college try". Ottawa Citizen. p. F1. Retrieved September 9, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, pp. 940–941.
+↑ Mahoney, Larry (September 1, 1992). "Downey signs 3-year deal with NHL's Ottawa". Bangor Daily News. p. 9. Retrieved September 11, 2025 – via Newspapers.com.
+↑ "Shaw 'very happy' with new deal". Ottawa Citizen. September 11, 1992. p. C3. Retrieved September 11, 2025 – via Newspapers.com.
+↑ Diamond et al. 1998, p. 1283.
+↑ Diamond et al. 1998, p. 1458.
+↑ "1992 NHL Entry Draft Picks at hockeydb.com". www.hockeydb.com. Retrieved March 7, 2025.
+↑ "New Haven Senators?". The Day. December 18, 1991. p. C4. Retrieved September 25, 2025 – via Newspapers.com.
+↑ Mayoh, Rick (September 16, 1992). "Farm-bound: Senators assign 28 to New Haven". Ottawa Citizen. p. B3. Retrieved September 25, 2025 – via Newspapers.com.
+Bibliography
+[edit]
+Finnigan, Joan (1992). Old Scores, New Goals: The Story of the Ottawa Senators.
+Diamond, Dan; Dinger, Ralph; Duplacey, James; Zweig, Eric, eds. (1998). Total Hockey. ISBN 0-8362-7114-9.
+Garrioch, Bruce (1998). "Ottawa Senators 1992–93 to Date". In Diamond, Dan; Dinger, Ralph; Duplacey, James; Zweig, Eric (eds.). Total Hockey. ISBN 0-8362-7114-9.
+Laroche, Stephen (2014). Changing the Game: A History of NHL Expansion. Toronto: ECW Press. ISBN 978-1-77041-079-4.
+MacGregor, Roy (1993). Road Games: A Year in the Life of the NHL. Toronto: MacFarlane Walter & Ross. ISBN 0-921912-70-6.
+National Hockey League Guide & Record Book 2007.
+v
+t
+e
+Ottawa Senators
+|
+Founded in 1992
+Based in Ottawa, Ontario
+|
+Franchise |
+Team
+General managers
+Head coaches
+Players
+Captains
+Draft picks
+expansion draft
+Seasons
+Current season
+|
+History |
+History
+Records
+Award winners
+Retired numbers
+Broadcasters
+|
+Personnel |
+Owner(s)
+Michael Andlauer
+President
+Cyril Leeder
+General manager
+Steve Staios
+Head coach
+Travis Green
+Team captain
+Thomas Chabot
+Current roster
+|
+Arenas |
+Ottawa Civic Centre
+Canadian Tire Centre
+|
+Rivalries |
+Toronto Maple Leafs
+|
+Affiliates |
+AHL
+Belleville Senators
+ECHL
+Allen Americans
+|
+Media |
+TV
+TSN5 (English)
+RDS (French)
+RDS2 (French)
+Radio
+TSN 1200 (English)
+CJFO 94,5 (French)
+|
+Culture and lore |
+Spartacat
+Lyndon Slewidge
+Flyers–Senators brawl
+2014 Heritage Classic
+100 Classic
+Bell Sensplex
+Ottawa Senators (original)
+|
+Category
+Commons
+|
+v
+t
+e
+Ottawa Senators seasons
+|
+1990s |
+1990–91 . 1991–92 . 1992–93
+1993–94
+1994–95
+1995–96
+1996–97
+1997–98
+1998–99
+1999–00
+|
+2000s |
+2000–01
+2001–02
+2002–03
+2003–04
+2004–05
+2005–06
+2006–07
+2007–08
+2008–09
+2009–10
+|
+2010s |
+2010–11
+2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+2018–19
+2019–20
+|
+2020s |
+2020–21
+2021–22
+2022–23
+2023–24
+2024–25
+2025–26
+2026–27
+|
+v
+t
+e
+1992–93 NHL season
+|
+Norris |
+Chicago
+Detroit
+Minnesota
+St. Louis
+Tampa Bay
+Toronto
+|
+Smythe |
+Calgary
+Edmonton
+Los Angeles
+San Jose
+Vancouver
+Winnipeg
+|
+Adams |
+Boston
+Buffalo
+Hartford
+Montreal
+Ottawa
+Quebec
+|
+Patrick |
+New Jersey
+NY Islanders
+NY Rangers
+Philadelphia
+Pittsburgh
+Washington
+|
+See also |
+Entry draft
+Expansion draft
+Supplemental draft
+Waiver draft
+All-Star Game
+Stanley Cup playoffs
+Stanley Cup Final
+|
+Retrieved from "https://en.wikipedia.org/w/index.php?title=1992–93_Ottawa_Senators_season&oldid=1367057394"
+Categories: Ottawa Senators seasons
+1992–93 NHL season by team
+1992–93 in Canadian ice hockey by team
+1990s in Ottawa
+1992 in sports in Ontario
+1993 in sports in Ontario
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Use Canadian English from March 2026
+All Wikipedia articles written in Canadian English
+Use mdy dates from February 2012
+Articles with hCards
+This page was last edited on 31 July 2026, at 18:13 (UTC).
+Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+1992–93 Ottawa Senators season
+Add languages
+Add topic

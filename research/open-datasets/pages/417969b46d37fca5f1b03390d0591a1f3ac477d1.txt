@@ -1,0 +1,33 @@
+URL: https://query.wikidata.org/sparql?format=json&query=SELECT%20(COUNT(DISTINCT%20%3Fp)%20AS%20%3FwithId)%20(COUNT(DISTINCT%20%3Fd)%20AS%20%3FwithDob)%20(COUNT(DISTINCT%20%3Ft)%20AS%20%3FwithTeam)%20(COUNT(DISTINCT%20%3Fh)%20AS%20%3FwithHR)%20WHERE%20%7B%20%3Fp%20wdt%3AP3522%20%3Fid%20.%20OPTIONAL%20%7B%20%3Fp%20wdt%3AP569%20%3Fdob%20.%20BIND(%3Fp%20AS%20%3Fd)%20%7D%20OPTIONAL%20%7B%20%3Fp%20p%3AP54%20%3Fst%20.%20BIND(%3Fp%20AS%20%3Ft)%20%7D%20OPTIONAL%20%7B%20%3Fp%20wdt%3AP3598%20%3Fhr%20.%20BIND(%3Fp%20AS%20%3Fh)%20%7D%20%7D
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+{
+  "head" : {
+    "vars" : [ "withId", "withDob", "withTeam", "withHR" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "withId" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "14040"
+      },
+      "withDob" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "14012"
+      },
+      "withTeam" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12496"
+      },
+      "withHR" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8523"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,42 @@
+URL: https://cran.r-project.org/web/packages/NHLData/index.html
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+ 
+ CRAN: Package NHLData 
+NHLData: Scores for Every Season Since the Founding of the NHL in 1917
+Each dataset contains scores for every game during a specific season of the NHL.
+ Version: 
+ 1.0.0 
+ Depends: 
+ R (&ge; 2.10) 
+ Published: 
+ 2017-03-08 
+ DOI: 
+ 10.32614/CRAN.package.NHLData 
+ Author: 
+ D. Lukke Sweet 
+ Maintainer: 
+ D. Lukke Sweet &#x3c;&#x64;&#x6c;&#x73;&#x32;&#x32;&#x39;&#x20;&#x61;&#x74;&#x20;&#x7a;&#x69;&#x70;&#x73;&#x2e;&#x75;&#x61;&#x6b;&#x72;&#x6f;&#x6e;&#x2e;&#x65;&#x64;&#x75;&#x3e; 
+ License: 
+ CC0 
+ NeedsCompilation: 
+ no 
+ In views: 
+ SportsAnalytics 
+ CRAN checks: 
+ NHLData results 
+Documentation:
+ Reference manual: 
+ NHLData.html , NHLData.pdf 
+Downloads:
+ Package source: 
+ NHLData_1.0.0.tar.gz 
+ Windows binaries: 
+ r-devel: NHLData_1.0.0.zip , r-release: NHLData_1.0.0.zip , r-oldrel: NHLData_1.0.0.zip 
+ macOS binaries: 
+ r-release (arm64): NHLData_1.0.0.tgz , r-oldrel (arm64): NHLData_1.0.0.tgz , r-release (x86_64): NHLData_1.0.0.tgz , r-oldrel (x86_64): NHLData_1.0.0.tgz 
+Linking:
+Please use the canonical form
+ https://CRAN.R-project.org/package=NHLData 
+to link to this page.

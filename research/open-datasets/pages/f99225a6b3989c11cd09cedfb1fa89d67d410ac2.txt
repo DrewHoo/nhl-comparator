@@ -1,0 +1,122 @@
+URL: https://www.naturalstattrick.com/scraping.php
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+ 
+ Natural Stat Trick - Scraping Policy 
+ Natural Stat Trick 
+ Login 
+ Games 
+ East 
+ Boston Bruins 
+ Buffalo Sabres 
+ Carolina Hurricanes 
+ Columbus Blue Jackets 
+ Detroit Red Wings 
+ Florida Panthers 
+ Montreal Canadiens 
+ New Jersey Devils 
+ New York Islanders 
+ New York Rangers 
+ Ottawa Senators 
+ Philadelphia Flyers 
+ Pittsburgh Penguins 
+ Tampa Bay Lightning 
+ Toronto Maple Leafs 
+ Washington Capitals 
+ West 
+ Anaheim Ducks 
+ Calgary Flames 
+ Chicago Blackhawks 
+ Colorado Avalanche 
+ Dallas Stars 
+ Edmonton Oilers 
+ Los Angeles Kings 
+ Minnesota Wild 
+ Nashville Predators 
+ San Jose Sharks 
+ Seattle Kraken 
+ St Louis Blues 
+ Utah Mammoth 
+ Vancouver Canucks 
+ Vegas Golden Knights 
+ Winnipeg Jets 
+ All Teams 
+ Players 
+ On-Ice 
+ Individual 
+ Goalies 
+ Bios 
+ Defensive Pairs 
+ Compare 
+ Player Index 
+ Line Tool 
+ Shift Performance 
+ Teams 
+ Team Reports 
+ East 
+ Boston Bruins 
+ Buffalo Sabres 
+ Carolina Hurricanes 
+ Columbus Blue Jackets 
+ Detroit Red Wings 
+ Florida Panthers 
+ Montreal Canadiens 
+ New Jersey Devils 
+ New York Islanders 
+ New York Rangers 
+ Ottawa Senators 
+ Philadelphia Flyers 
+ Pittsburgh Penguins 
+ Tampa Bay Lightning 
+ Toronto Maple Leafs 
+ Washington Capitals 
+ West 
+ Anaheim Ducks 
+ Calgary Flames 
+ Chicago Blackhawks 
+ Colorado Avalanche 
+ Dallas Stars 
+ Edmonton Oilers 
+ Los Angeles Kings 
+ Minnesota Wild 
+ Nashville Predators 
+ San Jose Sharks 
+ Seattle Kraken 
+ St Louis Blues 
+ Utah Mammoth 
+ Vancouver Canucks 
+ Vegas Golden Knights 
+ Winnipeg Jets 
+ Season Stats 
+ Standings 
+ Tools 
+Available to Early
+Access Subcribers:
+ Rolling Average Charts 
+ Trivia 
+ Team Streaks 
+ Alternate Standings 
+ Player Numbers 
+Bot & Scraping Policy
+Automated bot and scraping traffic is permitted on data.naturalstattrick.com and requires an access key. Other subdomains are intended for purely human use, and have strict traffic control measures in place.
+Please note that data.naturalstattrick.com is NOT an API endpoint. The sitemap and data returned is an exact mirror of www.naturalstattrick.com, including formatting, javascript, etc.
+Getting an Access Key
+Access keys require a Natural Stat Trick user account, and can be requested from the user profile page.
+ A paid subscription is not required , and paid features are not currently accesible via data.naturalstattrick.com .
+Requested keys require approval before they can fully be used, however some test links are provided for testing.
+Using an Access Key
+Access keys must be included as part of every page request sent to data.naturalstattrick.com . This can be done in two ways:
+As part of the URL, in the query string with "key=your key"
+As a custom header, with the name "nst-key" and a value of your key
+Usage Tokens
+There are two levels of usage tokens - "standard tokens" and "burst tokens", each with a different cap and regeneration rate:
+800 burst tokens every 5 minutes, cap of 800
+150 standard tokens every 5 minutes, cap of 1800
+At this time, every page load requires 10 of each token. This works out to two rate limits - 80 page loads in 5 minutes, and 180 page loads in 1 hour.
+The test links provided when the key is requested do not consume usage tokens.
+Abuse
+Keys may be blocked, with or without notice, for abusive or malicious usage such as (but not limited to) excessive requests beyond the rate limits, attempting to use multiple keys, or otherwise creating a problematic level of traffic.
+It is strongly recommended that you do not share your key, and take care to not accidentally expose it (ie: in a public Google Sheets document).
+ Glossary Contact Privacy Scraping 
+ 

@@ -1,0 +1,12 @@
+URL: https://www.kaggle.com/api/v1/datasets/view/s903124/nhl-playbyplay-data-from-2007
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+title: NHL play-by-play data
+licenseName: GNU Lesser General Public License 3.0
+lastUpdated: 2023-01-25T05:35:57.977Z
+totalBytes: 3977386529
+
+All the data found in this directory was retrieved using the hockey_scraper python package available on pip. It should hopefully contain all NHL pbp and shift data from the 2007 season until today. 
+
+The source code and licensing information for the hockey_scraper project can be found here - https://github.com/HarryShomer/Hockey-Scraper. 

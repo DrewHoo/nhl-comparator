@@ -1,0 +1,13 @@
+The MIT license in this repository covers the code. The data under src/data/
+and data/ is derived from sources that keep their own terms and is published
+here for viewing and verification, not sublicensed:
+
+- Game records: the National Hockey League's own statistics, read through its
+  public stats API (api.nhle.com/stats/rest), 1917-18 to the running season.
+  NHL and the NHL Shield are registered trademarks of the National Hockey
+  League. The NHL is not affiliated with this site.
+- Birth dates and the Hockey-Reference crosswalk: Wikidata, CC0.
+- The known-answer gates in data/gates/ quote the publishers they name; each
+  quote carries its source URL.
+
+Raw API responses are not in this repository.

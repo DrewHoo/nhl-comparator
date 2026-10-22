@@ -1,0 +1,1085 @@
+URL: https://en.wikipedia.org/wiki/2003–04_Pittsburgh_Penguins_season
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+2003–04 Pittsburgh Penguins season - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Offseason
+2
+Regular season
+Toggle Regular season subsection
+2.1
+Final standings
+3
+Schedule and results
+4
+Player statistics
+5
+Awards and records
+Toggle Awards and records subsection
+5.1
+Awards
+5.2
+Records
+5.3
+Milestones
+6
+Transactions
+Toggle Transactions subsection
+6.1
+Trades
+6.2
+Players acquired
+6.3
+Players lost
+6.4
+Signings
+6.5
+Other
+7
+Draft picks
+8
+Farm teams
+9
+See also
+10
+Notes
+11
+References
+Toggle the table of contents
+2003–04 Pittsburgh Penguins season
+Add languages
+Add links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+NHL team season
+[[Kelly Buchberger]] {{small|(Nov.–Apr.)}}<br />[[Martin Straka]] {{small|(Oct.–Nov.)}}"},"Arena":{"wt":"[[Mellon Arena]]"},"Attendance":{"wt":"11,877<ref>{{cite web|url=https://www.espn.com/nhl/?year=2004|title=NHL attendance|publisher=ESPN|access-date=August 8, 2022 | archive-url= https://web.archive.org/web/20071030175707/http://sports.espn.go.com/nhl/attendance?year=2004| archive-date=October 30, 2007 | url-status= live}}</ref>"},"MinorLeague":{"wt":"[[Wilkes-Barre/Scranton Penguins]]<br>[[Wheeling Nailers]]"},"GoalsLeader":{"wt":"[[Ryan Malone]] (22)"},"AssistsLeader":{"wt":"[[Dick Tärnström|Dick Tarnstrom]] (36)"},"PointsLeader":{"wt":"Dick Tarnstrom (52)"},"PlusMinusLeader":{"wt":"[[Rob Scuderi]] (2)"},"PIMLeader":{"wt":"[[Brooks Orpik]] (127)"},"WinsLeader":{"wt":"[[Sébastien Caron|Sebastien Caron]] (9)"},"GAALeader":{"wt":"[[Jean-Sébastien Aubin|Jean-Sebastien Aubin]] (2.98)"}},"i":0}}]}'> 2003–04 Pittsburgh Penguins |
+Division | 5th Atlantic |
+Conference | 15th Eastern |
+2003–04 record | 23–47–8–4 |
+Home record | 13–22–6–0 |
+Road record | 10–25–2–4 |
+Goals for | 190 |
+Goals against | 303 |
+Team information |
+General manager | Craig Patrick |
+Coach | Eddie Olczyk |
+Captain | Mario Lemieux |
+Alternate captains | Marc Bergevin (Oct.–Mar.)
+Kelly Buchberger (Nov.–Apr.)
+Martin Straka (Oct.–Nov.) |
+Arena | Mellon Arena |
+Average attendance | 11,877[1] |
+Minor league affiliates | Wilkes-Barre/Scranton Penguins
+Wheeling Nailers |
+Team leaders |
+Goals | Ryan Malone (22) |
+Assists | Dick Tarnstrom (36) |
+Points | Dick Tarnstrom (52) |
+Penalty minutes | Brooks Orpik (127) |
+Plus/minus | Rob Scuderi (2) |
+Wins | Sebastien Caron (9) |
+Goals against average | Jean-Sebastien Aubin (2.98) |
+← 2002–03
+2004–05 →
+|
+The 2003–04 Pittsburgh Penguins season was the team's 37th season of play. For the third season in a row, the club placed last in the Atlantic Division and did not qualify for the Stanley Cup playoffs for the third year in a row for the first time since the 1985–86 season and the 1987–88 season. In an 18-game losing streak, they went 0–17–1 (one overtime loss). In the first 62 games, they were 11–42–5–4 for 31 points. In their final 20 games, they were 12–5–3–0, ultimately finishing with a 23–47–8–4 record for a last place finish in the conference for the first time since the 1984–85 season and in the NHL for the first time since the 1983–84 season. Their record losing streak would not be matched until the pandemic-shortened 2020–21 season by the Buffalo Sabres. By then, tie games would be out of the picture.
+Offseason
+[edit]
+Head coach Rick Kehoe was fired on April 15, 2003.[2] Team broadcaster and former Penguins player Eddie Olczyk was hired as his replacement on June 11.[3]
+Regular season
+[edit]
+The Penguins struggled defensively, finishing 30th overall in the NHL in goals allowed, with 303. They struggled in short-handed situations, allowing the most power-play goals in the League, with 84, and finishing 30th overall in penalty-kill percentage, at 77.24%. Furthermore, they allowed the most short-handed goals in the NHL, with 15.[4]
+Final standings
+[edit]
+Atlantic Division[5]
+No. |
+CR |
+|
+GP |
+W |
+L |
+T |
+OTL |
+GF |
+GA |
+PTS |
+1 | 3 | Philadelphia Flyers | 82 | 40 | 21 | 15 | 6 | 229 | 186 | 101 |
+2 | 6 | New Jersey Devils | 82 | 43 | 25 | 12 | 2 | 213 | 164 | 100 |
+3 | 8 | New York Islanders | 82 | 38 | 29 | 11 | 4 | 237 | 210 | 91 |
+4 | 13 | New York Rangers | 82 | 27 | 40 | 7 | 8 | 206 | 250 | 69 |
+5 | 15 | Pittsburgh Penguins | 82 | 23 | 47 | 8 | 4 | 190 | 303 | 58 |
+Note: CR = Conference rank; GP = Games played; W = Wins; L = Losses; T = Ties; OTL = Overtime loss; GF = Goals for; GA = Goals against; Pts = Points
+Bolded teams qualified for the playoffs.
+Eastern Conference[6]
+Rank</span>"}]]}'>R |
+|
+Division</span>"}]]}'>Div |
+Games Played</span>"}]]}'>GP |
+Wins</span>"}]]}'>W |
+Losses</span>"}]]}'>L |
+Ties</span>"}]]}'>T |
+Overtime Losses</span>"}]]}'>OTL |
+Goals For</span>"}]]}'>GF |
+Goals Against</span>"}]]}'>GA |
+Points</span>"}]]}'>Pts |
+1 |
+Z- Tampa Bay Lightning | SE | 82 | 46 | 22 | 8 | 6 | 245 | 192 | 106 |
+2 |
+Y- Boston Bruins | NE | 82 | 41 | 19 | 15 | 7 | 209 | 188 | 104 |
+3 |
+Y- Philadelphia Flyers | AT | 82 | 40 | 21 | 15 | 6 | 209 | 188 | 101 |
+4 |
+X- Toronto Maple Leafs | NE | 82 | 45 | 24 | 10 | 3 | 242 | 204 | 103 |
+5 |
+X- Ottawa Senators | NE | 82 | 43 | 23 | 10 | 6 | 262 | 189 | 102 |
+6 |
+X- New Jersey Devils | AT | 82 | 43 | 25 | 12 | 2 | 213 | 164 | 100 |
+7 |
+X- Montreal Canadiens | NE | 82 | 41 | 30 | 7 | 4 | 208 | 192 | 93 |
+8 |
+X- New York Islanders | AT | 82 | 38 | 29 | 11 | 4 | 237 | 210 | 91 |
+8.5 |
+9 |
+Buffalo Sabres | NE | 82 | 37 | 34 | 7 | 4 | 220 | 221 | 85 |
+10 |
+Atlanta Thrashers | SE | 82 | 33 | 37 | 8 | 4 | 214 | 243 | 78 |
+11 |
+Carolina Hurricanes | SE | 82 | 28 | 34 | 14 | 6 | 172 | 209 | 76 |
+12 |
+Florida Panthers | SE | 82 | 28 | 35 | 15 | 4 | 188 | 221 | 75 |
+13 |
+New York Rangers | AT | 82 | 27 | 40 | 7 | 8 | 206 | 250 | 69 |
+14 |
+Washington Capitals | SE | 82 | 23 | 46 | 10 | 3 | 186 | 253 | 59 |
+15 |
+Pittsburgh Penguins | AT | 82 | 23 | 47 | 8 | 4 | 190 | 303 | 58 |
+Divisions: AT – Atlantic, NE – Northeast, SE – Southeast
+Z – Clinched conference; Y – Clinched division; X – Clinched playoff spot
+Schedule and results
+[edit]
+{{cite web |title=2003-04 Pittsburgh Penguins Schedule and Results |url=https://www.hockey-reference.com/teams/PIT/2004_games.html |website=Hockey-Reference.com |access-date=August 10, 2022}}</ref>"}},"i":0}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":" #"},"style":{"wt":"background:#FFFFFF; border-top:#000000 2px solid; border-bottom:#CFC493 2px solid;"},"2":{"wt":" Oct"},"title":{"wt":"October: 2–4–3–0 (home: 1–2–2–0; road: 1–2–1–0), 7 Points"},"3":{"wt":" Visitor"},"4":{"wt":" Score"},"5":{"wt":" Home"},"6":{"wt":" Location"},"7":{"wt":" Record"},"8":{"wt":" Points "},"9":{"wt":"Recap"}},"i":1}},"\n|- {{Game-lost}}\n| 1 || 10 || [[2003–04 Los Angeles Kings season|Los Angeles Kings]] || 3–0 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (16,986) || 0–1–0–0 || 0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020013"},"2":{"wt":"L"}},"i":2}},"\n|- {{Game-tied}}\n| 2 || 11 || Pittsburgh Penguins || 3–3 <small>OT</small> || [[2003–04 Philadelphia Flyers season|Philadelphia Flyers]] || [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]] (19,035) || 0–1–1–0 || 1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020021"},"2":{"wt":"T"}},"i":3}},"\n|- {{Game-lost}}\n| 3 || 16 || Pittsburgh Penguins || 1–4 || [[2003–04 Montreal Canadiens season|Montreal Canadiens]] || [[Bell Centre]] (18,859) || 0–2–1–0 || 1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020046"},"2":{"wt":"L"}},"i":4}},"\n|- {{Game-won}}\n| 4 || 18 || [[2003–04 Detroit Red Wings season|Detroit Red Wings]] || 3–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (13,421) || 1–2–1–0 || 3 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020060"},"2":{"wt":"W"}},"i":5}},"\n|- {{Game-tied}}\n| 5 || 22 || [[2003–04 Carolina Hurricanes season|Carolina Hurricanes]] || 1–1 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,425) || 1–2–2–0 || 4 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020083"},"2":{"wt":"T"}},"i":6}},"\n|- {{Game-lost}}\n| 6 || 24 || [[2003–04 New Jersey Devils season|New Jersey Devils]] || 2–1 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,281) || 1–3–2–0 || 4 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020097"},"2":{"wt":"L"}},"i":7}},"\n|- {{Game-lost}}\n| 7 || 25 || Pittsburgh Penguins || 2–7 || [[2003–04 New York Islanders season|New York Islanders]] || [[Nassau Coliseum]] (11,746) || 1–4–2–0 || 4 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020104"},"2":{"wt":"L"}},"i":8}},"\n|- {{Game-tied}}\n| 8 || 29 || [[2003–04 New York Islanders season|New York Islanders]] || 4–4 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,377) || 1–4–3–0 || 5 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020131"},"2":{"wt":"T"}},"i":9}},"\n|- {{Game-won}}\n| 9 || 30 || Pittsburgh Penguins || 1–0 || [[2003–04 Chicago Blackhawks season|Chicago Blackhawks]] || [[United Center]] (15,121) || 2–4–3–0 || 7 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020142"},"2":{"wt":"W"}},"i":10}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":11}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":" #"},"style":{"wt":"background:#FFFFFF; border-top:#000000 2px solid; border-bottom:#CFC493 2px solid;"},"2":{"wt":" Nov"},"title":{"wt":"November: 3–8–1–1 (home: 2–3–1–0; road: 1–5–0–1), 8 Points"},"3":{"wt":" Visitor"},"4":{"wt":" Score"},"5":{"wt":" Home"},"6":{"wt":" Location"},"7":{"wt":" Record"},"8":{"wt":" Points "},"9":{"wt":"Recap"}},"i":12}},"\n|- {{Game-won}}\n| 10 || 1 || [[2003–04 Boston Bruins season|Boston Bruins]] || 2–3 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,226) || 3–4–3–0 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020149"},"2":{"wt":"W"}},"i":13}},"\n|- {{Game-lost}}\n| 11 || 4 || Pittsburgh Penguins || 2–4 || [[2003–04 Toronto Maple Leafs season|Toronto Maple Leafs]] || [[Air Canada Centre]] (19,237) || 3–5–3–0 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020170"},"2":{"wt":"L"}},"i":14}},"\n|- {{Game-lost}}\n| 12 || 7 || Pittsburgh Penguins || 3–6 || [[2003–04 Florida Panthers season|Florida Panthers]] || [[BB&T Center (Sunrise, Florida)|BB&T Center]] (18,161) || 3–6–3–0 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020189"},"2":{"wt":"L"}},"i":15}},"\n|- {{Game-lost}}\n| 13 || 8 || Pittsburgh Penguins || 0–9 || [[2003–04 Tampa Bay Lightning season|Tampa Bay Lightning]] || [[Amalie Arena]] (18,262) || 3–7–3–0 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020201"},"2":{"wt":"L"}},"i":16}},"\n|- {{Game-lost}}\n| 14 || 12 || Pittsburgh Penguins || 2–6 || [[2003–04 New York Rangers season|New York Rangers]] || [[Madison Square Garden]] (17,960) || 3–8–3–0 || 9 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020221"},"2":{"wt":"L"}},"i":17}},"\n|- {{Game-won}}\n| 15 || 14 || Pittsburgh Penguins || 2–1 <small>OT</small> || [[2003–04 Buffalo Sabres season|Buffalo Sabres]] || [[First Niagara Center]] (18,002) || 4–8–3–0 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020238"},"2":{"wt":"W"}},"i":18}},"\n|- {{Game-lost}}\n| 16 || 15 || [[2003–04 Florida Panthers season|Florida Panthers]] || 3–2 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,004) || 4–9–3–0 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020247"},"2":{"wt":"L"}},"i":19}},"\n|- {{Game-lost}}\n| 17 || 19 || [[2003–04 Minnesota Wild season|Minnesota Wild]] || 6–2 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,957) || 4–10–3–0 || 11 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020265"},"2":{"wt":"L"}},"i":20}},"\n|- {{Game-otl}}\n| 18 || 21 || Pittsburgh Penguins || 1–2 <small>OT</small> || [[2003–04 New Jersey Devils season|New Jersey Devils]] || [[Izod Center]] (16,810) || 4–10–3–1 || 12 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020281"},"2":{"wt":"OTL"}},"i":21}},"\n|- {{Game-won}}\n| 19 || 22 || [[2003–04 Ottawa Senators season|Ottawa Senators]] || 1–2 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,233) || 5–10–3–1 || 14 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020291"},"2":{"wt":"W"}},"i":22}},"\n|- {{Game-tied}}\n| 20 || 26 || [[2003–04 Philadelphia Flyers season|Philadelphia Flyers]] || 1–1 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,014) || 5–10–4–1 || 15 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020315"},"2":{"wt":"T"}},"i":23}},"\n|- {{Game-lost}}\n| 21 || 28 || [[2003–04 New York Rangers season|New York Rangers]] || 4–1 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (15,908) || 5–11–4–1 || 15 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020331"},"2":{"wt":"L"}},"i":24}},"\n|- {{Game-lost}}\n| 22 || 29 || Pittsburgh Penguins || 3–4 || [[2003–04 Carolina Hurricanes season|Carolina Hurricanes]] || [[PNC Arena]] (14,881) || 5–12–4–1 || 15 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020341"},"2":{"wt":"L"}},"i":25}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":26}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":" #"},"style":{"wt":"background:#FFFFFF; border-top:#000000 2px solid; border-bottom:#CFC493 2px solid;"},"2":{"wt":" Dec"},"title":{"wt":"December: 4–8–1–2 (home: 4–3–0–0; road: 0–5–1–2), 11 Points"},"3":{"wt":" Visitor"},"4":{"wt":" Score"},"5":{"wt":" Home"},"6":{"wt":" Location"},"7":{"wt":" Record"},"8":{"wt":" Points "},"9":{"wt":"Recap"}},"i":27}},"\n|- {{Game-won}}\n| 23 || 1 || [[2003–04 Atlanta Thrashers season|Atlanta Thrashers]] || 3–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (9,576) || 6–12–4–1 || 17 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020354"},"2":{"wt":"W"}},"i":28}},"\n|- {{Game-lost}}\n| 24 || 3 || Pittsburgh Penguins || 2–5 || [[2003–04 Philadelphia Flyers season|Philadelphia Flyers]] || [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]] (18,972) || 6–13–4–1 || 17 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020362"},"2":{"wt":"L"}},"i":29}},"\n|- {{Game-lost}}\n| 25 || 6 || Pittsburgh Penguins || 3–4 || [[2003–04 Edmonton Oilers season|Edmonton Oilers]] || [[Skyreach Centre]] (16,839) || 6–14–4–1 || 17 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020392"},"2":{"wt":"L"}},"i":30}},"\n|- {{Game-lost}}\n| 26 || 7 || Pittsburgh Penguins || 1–6 || [[2003–04 Calgary Flames season|Calgary Flames]] || [[Scotiabank Saddledome]] (15,009) || 6–15–4–1 || 17 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020398"},"2":{"wt":"L"}},"i":31}},"\n|- {{Game-otl}}\n| 27 || 9 || Pittsburgh Penguins || 3–4 <small>OT</small> || [[2003–04 Vancouver Canucks season|Vancouver Canucks]] || [[Rogers Arena]] (18,630) || 6–15–4–2 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020408"},"2":{"wt":"OTL"}},"i":32}},"\n|- {{Game-lost}}\n| 28 || 12 || Pittsburgh Penguins || 3–6 || [[2003–04 Atlanta Thrashers season|Atlanta Thrashers]] || [[Philips Arena]] (15,039) || 6–16–4–2 || 18 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020427"},"2":{"wt":"L"}},"i":33}},"\n|- {{Game-won}}\n| 29 || 13 || [[2003–04 Columbus Blue Jackets season|Columbus Blue Jackets]] || 3–5 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,989) || 7–16–4–2 || 20 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020437"},"2":{"wt":"W"}},"i":34}},"\n|- {{Game-won}}\n| 30 || 16 || [[2003–04 Buffalo Sabres season|Buffalo Sabres]] || 1–2 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,554) || 8–16–4–2 || 22 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020453"},"2":{"wt":"W"}},"i":35}},"\n|- {{Game-otl}}\n| 31 || 18 || Pittsburgh Penguins || 1–2 <small>OT</small> || [[2003–04 Carolina Hurricanes season|Carolina Hurricanes]] || [[PNC Arena]] (11,028) || 8–16–4–3 || 23 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020464"},"2":{"wt":"OTL"}},"i":36}},"\n|- {{Game-lost}}\n| 32 || 20 || [[2003–04 Atlanta Thrashers season|Atlanta Thrashers]] || 7–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (13,683) || 8–17–4–3 || 23 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020482"},"2":{"wt":"L"}},"i":37}},"\n|- {{Game-lost}}\n| 33 || 22 || Pittsburgh Penguins || 1–4 || [[2003–04 Montreal Canadiens season|Montreal Canadiens]] || [[Bell Centre]] (21,273) || 8–18–4–3 || 23 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020495"},"2":{"wt":"L"}},"i":38}},"\n|- {{Game-tied}}\n| 34 || 26 || Pittsburgh Penguins || 3–3 <small>OT</small> || [[2003–04 Ottawa Senators season|Ottawa Senators]] || [[Canadian Tire Centre]] (18,316) || 8–18–5–3 || 24 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020511"},"2":{"wt":"T"}},"i":39}},"\n|- {{Game-lost}}\n| 35 || 27 || [[2003–04 New Jersey Devils season|New Jersey Devils]] || 2–0 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (12,139) || 8–19–5–3 || 24 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020525"},"2":{"wt":"L"}},"i":40}},"\n|- {{Game-won}}\n| 36 || 29 || [[2003–04 Chicago Blackhawks season|Chicago Blackhawks]] || 0–1 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (16,120) || 9–19–5–3 || 26 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020540"},"2":{"wt":"W"}},"i":41}},"\n|- {{Game-lost}}\n| 37 || 31 || [[2003–04 New York Islanders season|New York Islanders]] || 6–1 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,939) || 9–20–5–3 || 26 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020552"},"2":{"wt":"L"}},"i":42}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":43}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":" #"},"style":{"wt":"background:#FFFFFF; border-top:#000000 2px solid; border-bottom:#CFC493 2px solid;"},"2":{"wt":" Jan"},"title":{"wt":"January: 2–14–0–0 (home: 0–8–0–0; road: 2–6–0–0), 4 Points"},"3":{"wt":" Visitor"},"4":{"wt":" Score"},"5":{"wt":" Home"},"6":{"wt":" Location"},"7":{"wt":" Record"},"8":{"wt":" Points "},"9":{"wt":"Recap"}},"i":44}},"\n|- {{Game-lost}}\n| 38 || 1 || Pittsburgh Penguins || 2–3 || [[2003–04 Nashville Predators season|Nashville Predators]] || [[Bridgestone Arena]] (16,238) || 9–21–5–3 || 26 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020562"},"2":{"wt":"L"}},"i":45}},"\n|- {{Game-lost}}\n| 39 || 3 || [[2003–04 New York Rangers season|New York Rangers]] || 4–1 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,078) || 9–22–5–3 || 26 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020575"},"2":{"wt":"L"}},"i":46}},"\n|- {{Game-lost}}\n| 40 || 5 || [[2003–04 Toronto Maple Leafs season|Toronto Maple Leafs]] || 5–0 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,216) || 9–23–5–3 || 26 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020593"},"2":{"wt":"L"}},"i":47}},"\n|- {{Game-won}}\n| 41 || 7 || Pittsburgh Penguins || 4–2 || [[2003–04 New Jersey Devils season|New Jersey Devils]] || [[Izod Center]] (11,948) || 10–23–5–3 || 28 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020606"},"2":{"wt":"W"}},"i":48}},"\n|- {{Game-lost}}\n| 42 || 8 || Pittsburgh Penguins || 1–3 || [[2003–04 Boston Bruins season|Boston Bruins]] || [[TD Garden]] (12,914) || 10–24–5–3 || 28 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020610"},"2":{"wt":"L"}},"i":49}},"\n|- {{Game-lost}}\n| 43 || 10 || [[2003–04 Montreal Canadiens season|Montreal Canadiens]] || 8–0 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (15,286) || 10–25–5–3 || 28 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020627"},"2":{"wt":"L"}},"i":50}},"\n|- {{Game-won}}\n| 44 || 12 || Pittsburgh Penguins || 2–1 || [[2003–04 Philadelphia Flyers season|Philadelphia Flyers]] || [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]] (19,542) || 11–25–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020643"},"2":{"wt":"W"}},"i":51}},"\n|- {{Game-lost}}\n| 45 || 13 || [[2003–04 Tampa Bay Lightning season|Tampa Bay Lightning]] || 3–1 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,039) || 11–26–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020651"},"2":{"wt":"L"}},"i":52}},"\n|- {{Game-lost}}\n| 46 || 16 || Pittsburgh Penguins || 2–4 || [[2003–04 Minnesota Wild season|Minnesota Wild]] || [[Xcel Energy Center]] (18,568) || 11–27–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020674"},"2":{"wt":"L"}},"i":53}},"\n|- {{Game-lost}}\n| 47 || 18 || Pittsburgh Penguins || 3–4 || [[2003–04 Washington Capitals season|Washington Capitals]] || [[Capital One Arena|Verizon Center]] (16,168) || 11–28–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020686"},"2":{"wt":"L"}},"i":54}},"\n|- {{Game-lost}}\n| 48 || 20 || [[2003–04 New Jersey Devils season|New Jersey Devils]] || 3–0 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,146) || 11–29–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020702"},"2":{"wt":"L"}},"i":55}},"\n|- {{Game-lost}}\n| 49 || 22 || Pittsburgh Penguins || 5–6 || [[2003–04 Ottawa Senators season|Ottawa Senators]] || [[Canadian Tire Centre]] (16,777) || 11–30–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020715"},"2":{"wt":"L"}},"i":56}},"\n|- {{Game-lost}}\n| 50 || 24 || [[2003–04 Colorado Avalanche season|Colorado Avalanche]] || 5–3 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (16,704) || 11–31–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020734"},"2":{"wt":"L"}},"i":57}},"\n|- {{Game-lost}}\n| 51 || 27 || [[2003–04 Tampa Bay Lightning season|Tampa Bay Lightning]] || 6–2 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (9,391) || 11–32–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020752"},"2":{"wt":"L"}},"i":58}},"\n|- {{Game-lost}}\n| 52 || 29 || Pittsburgh Penguins || 1–5 || [[2003–04 Tampa Bay Lightning season|Tampa Bay Lightning]] || [[Amalie Arena]] (15,847) || 11–33–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020763"},"2":{"wt":"L"}},"i":59}},"\n|- {{Game-lost}}\n| 53 || 31 || [[2003–04 Philadelphia Flyers season|Philadelphia Flyers]] || 5–3 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (12,965) || 11–34–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020777"},"2":{"wt":"L"}},"i":60}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":61}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":" #"},"style":{"wt":"background:#FFFFFF; border-top:#000000 2px solid; border-bottom:#CFC493 2px solid;"},"2":{"wt":" Feb"},"title":{"wt":"February: 2–9–0–1 (home: 0–5–0–0; road: 2–4–0–1), 5 Points"},"3":{"wt":" Visitor"},"4":{"wt":" Score"},"5":{"wt":" Home"},"6":{"wt":" Location"},"7":{"wt":" Record"},"8":{"wt":" Points "},"9":{"wt":"Recap"}},"i":62}},"\n|- {{Game-lost}}\n| 54 || 1 || Pittsburgh Penguins || 1–4 || [[2003–04 Boston Bruins season|Boston Bruins]] || [[TD Garden]] (15,692) || 11–35–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020790"},"2":{"wt":"L"}},"i":63}},"\n|- {{Game-lost}}\n| 55 || 3 || [[2003–04 Montreal Canadiens season|Montreal Canadiens]] || 4–3 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,041) || 11–36–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020803"},"2":{"wt":"L"}},"i":64}},"\n|- {{Game-lost}}\n| 56 || 10 || [[2003–04 Boston Bruins season|Boston Bruins]] || 6–3 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,741) || 11–37–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020827"},"2":{"wt":"L"}},"i":65}},"\n|- {{Game-lost}}\n| 57 || 12 || Pittsburgh Penguins || 1–5 || [[2003–04 Florida Panthers season|Florida Panthers]] || [[BB&T Center (Sunrise, Florida)|BB&T Center]] (15,863) || 11–38–5–3 || 30 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020845"},"2":{"wt":"L"}},"i":66}},"\n|- {{Game-otl}}\n| 58 || 14 || Pittsburgh Penguins || 2–3 <small>OT</small> || [[2003–04 St. Louis Blues season|St. Louis Blues]] || [[Scottrade Center]] (19,812) || 11–38–5–4 || 31 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020861"},"2":{"wt":"OTL"}},"i":67}},"\n|- {{Game-lost}}\n| 59 || 16 || [[2003–04 Toronto Maple Leafs season|Toronto Maple Leafs]] || 8–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,527) || 11–39–5–4 || 31 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020874"},"2":{"wt":"L"}},"i":68}},"\n|- {{Game-lost}}\n| 60 || 18 || Pittsburgh Penguins || 3–4 || [[2003–04 New York Islanders season|New York Islanders]] || [[Nassau Coliseum]] (13,570) || 11–40–5–4 || 31 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020885"},"2":{"wt":"L"}},"i":69}},"\n|- {{Game-lost}}\n| 61 || 20 || [[2003–04 Florida Panthers season|Florida Panthers]] || 2–0 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,917) || 11–41–5–4 || 31 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020900"},"2":{"wt":"L"}},"i":70}},"\n|- {{Game-lost}}\n| 62 || 22 || [[2003–04 Ottawa Senators season|Ottawa Senators]] || 6–3 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (11,780) || 11–42–5–4 || 31 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020917"},"2":{"wt":"L"}},"i":71}},"\n|- {{Game-won}}\n| 63 || 25 || Pittsburgh Penguins || 4–3 <small>OT</small> || [[2003–04 Phoenix Coyotes season|Phoenix Coyotes]] || [[America West Arena]] (14,712) || 12–42–5–4 || 33 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020940"},"2":{"wt":"W"}},"i":72}},"\n|- {{Game-lost}}\n| 64 || 27 || Pittsburgh Penguins || 2–4 || [[2003–04 San Jose Sharks season|San Jose Sharks]] || [[SAP Center at San Jose]] (17,496) || 12–43–5–4 || 33 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020956"},"2":{"wt":"L"}},"i":73}},"\n|- {{Game-won}}\n| 65 || 29 || Pittsburgh Penguins || 3–2 <small>OT</small> || [[2003–04 New York Islanders season|New York Islanders]] || [[Nassau Coliseum]] (15,218) || 13–43–5–4 || 35 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020969"},"2":{"wt":"W"}},"i":74}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":75}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":" #"},"style":{"wt":"background:#FFFFFF; border-top:#000000 2px solid; border-bottom:#CFC493 2px solid;"},"2":{"wt":" Mar"},"title":{"wt":"March: 8–4–3–0 (home: 5–1–3–0; road: 3–3–0–0), 19 Points"},"3":{"wt":" Visitor"},"4":{"wt":" Score"},"5":{"wt":" Home"},"6":{"wt":" Location"},"7":{"wt":" Record"},"8":{"wt":" Points "},"9":{"wt":"Recap"}},"i":76}},"\n|- {{Game-tied}}\n| 66 || 2 || [[2003–04 New York Islanders season|New York Islanders]] || 3–3 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,821) || 13–43–6–4 || 36 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020983"},"2":{"wt":"T"}},"i":77}},"\n|- {{Game-lost}}\n| 67 || 4 || [[2003–04 Nashville Predators season|Nashville Predators]] || 9–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (9,507) || 13–44–6–4 || 36 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003020996"},"2":{"wt":"L"}},"i":78}},"\n|- {{Game-won}}\n| 68 || 6 || [[2003–04 Mighty Ducks of Anaheim season|Mighty Ducks of Anaheim]] || 1–2 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (14,286) || 14–44–6–4 || 38 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021015"},"2":{"wt":"W"}},"i":79}},"\n|- {{Game-won}}\n| 69 || 7 || Pittsburgh Penguins || 7–4 || [[2003–04 New York Rangers season|New York Rangers]] || [[Madison Square Garden]] (18,200) || 15–44–6–4 || 40 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021022"},"2":{"wt":"W"}},"i":80}},"\n|- {{Game-won}}\n| 70 || 9 || [[2003–04 Dallas Stars season|Dallas Stars]] || 0–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,302) || 16–44–6–4 || 42 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021032"},"2":{"wt":"W"}},"i":81}},"\n|- {{Game-won}}\n| 71 || 11 || Pittsburgh Penguins || 3–2 || [[2003–04 Toronto Maple Leafs season|Toronto Maple Leafs]] || [[Air Canada Centre]] (19,411) || 17–44–6–4 || 44 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021047"},"2":{"wt":"W"}},"i":82}},"\n|- {{Game-tied}}\n| 72 || 14 || [[2003–04 Philadelphia Flyers season|Philadelphia Flyers]] || 3–3 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,907) || 17–44–7–4 || 45 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021070"},"2":{"wt":"T"}},"i":83}},"\n|- {{Game-won}}\n| 73 || 16 || [[2003–04 Washington Capitals season|Washington Capitals]] || 1–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,982) || 18–44–7–4 || 47 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021084"},"2":{"wt":"W"}},"i":84}},"\n|- {{Game-lost}}\n| 74 || 17 || Pittsburgh Penguins || 1–6 || [[2003–04 New Jersey Devils season|New Jersey Devils]] || [[Izod Center]] (13,239) || 18–45–7–4 || 47 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021092"},"2":{"wt":"L"}},"i":85}},"\n|- {{Game-won}}\n| 75 || 19 || [[2003–04 Carolina Hurricanes season|Carolina Hurricanes]] || 3–4 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (10,098) || 19–45–7–4 || 49 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021108"},"2":{"wt":"W"}},"i":86}},"\n|- {{Game-won}}\n| 76 || 21 || [[2003–04 New York Rangers season|New York Rangers]] || 3–4 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (12,307) || 20–45–7–4 || 51 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021124"},"2":{"wt":"W"}},"i":87}},"\n|- {{Game-won}}\n| 77 || 23 || Pittsburgh Penguins || 5–2 || [[2003–04 New York Rangers season|New York Rangers]] || [[Madison Square Garden]] (17,902) || 21–45–7–4 || 53 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021136"},"2":{"wt":"W"}},"i":88}},"\n|- {{Game-lost}}\n| 78 || 26 || Pittsburgh Penguins || 1–5 || [[2003–04 Buffalo Sabres season|Buffalo Sabres]] || [[First Niagara Center]] (18,333) || 21–46–7–4 || 53 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021159"},"2":{"wt":"L"}},"i":89}},"\n|- {{Game-tied}}\n| 79 || 27 || [[2003–04 Buffalo Sabres season|Buffalo Sabres]] || 2–2 <small>OT</small> || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (12,964) || 21–46–8–4 || 54 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021169"},"2":{"wt":"T"}},"i":90}},"\n|- {{Game-lost}}\n| 80 || 30 || Pittsburgh Penguins || 2–4 || [[2003–04 Washington Capitals season|Washington Capitals]] || [[Capital One Arena|Verizon Center]] (13,417) || 21–47–8–4 || 54 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021186"},"2":{"wt":"L"}},"i":91}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":92}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":" #"},"style":{"wt":"background:#FFFFFF; border-top:#000000 2px solid; border-bottom:#CFC493 2px solid;"},"2":{"wt":" Apr"},"title":{"wt":"April: 2–0–0–0 (home: 1–0–0–0; road: 1–0–0–0), 4 Points"},"3":{"wt":" Visitor"},"4":{"wt":" Score"},"5":{"wt":" Home"},"6":{"wt":" Location"},"7":{"wt":" Record"},"8":{"wt":" Points "},"9":{"wt":"Recap"}},"i":93}},"\n|- {{Game-won}}\n| 81 || 2 || Pittsburgh Penguins || 3–2 || [[2003–04 Atlanta Thrashers season|Atlanta Thrashers]] || [[Philips Arena]] (18,854) || 22–47–8–4 || 56 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021208"},"2":{"wt":"W"}},"i":94}},"\n|- {{Game-won}}\n| 82 || 4 || [[2003–04 Washington Capitals season|Washington Capitals]] || 3–4 || Pittsburgh Penguins || [[Civic Arena (Pittsburgh)|Civic Arena]] (16,124) || 23–47–8–4 || 58 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"2003021224"},"2":{"wt":"W"}},"i":95}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":96}},"\n|-\n|\n'''''Legend''''':\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#cfc"},"2":{"wt":"Win (2 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"W"}},"i":97}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#fcc"},"2":{"wt":"Loss (0 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"L"}},"i":98}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#ffc"},"2":{"wt":"Tie (1 point)"},"border":{"wt":"1px solid black"},"text":{"wt":"T"}},"i":99}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#fff"},"2":{"wt":"Overtime loss (1 point)"},"border":{"wt":"1px solid black"},"text":{"wt":"OTL"}},"i":100}},"\n",{"template":{"target":{"wt":"Game log end","href":"./Template:Game_log_end"},"params":{},"i":101}}]}'>
+2003–04 regular season[7] |
+October: 2–4–3–0 (home: 1–2–2–0; road: 1–2–1–0), 7 Points
+# | Oct | Visitor | Score | Home | Location | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+1 | 10 | Los Angeles Kings | 3–0 | Pittsburgh Penguins | Civic Arena (16,986) | 0–1–0–0 | 0 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+2 | 11 | Pittsburgh Penguins | 3–3 OT | Philadelphia Flyers | Wells Fargo Center (19,035) | 0–1–1–0 | 1 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+3 | 16 | Pittsburgh Penguins | 1–4 | Montreal Canadiens | Bell Centre (18,859) | 0–2–1–0 | 1 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+4 | 18 | Detroit Red Wings | 3–4 | Pittsburgh Penguins | Civic Arena (13,421) | 1–2–1–0 | 3 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+5 | 22 | Carolina Hurricanes | 1–1 OT | Pittsburgh Penguins | Civic Arena (10,425) | 1–2–2–0 | 4 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+6 | 24 | New Jersey Devils | 2–1 | Pittsburgh Penguins | Civic Arena (11,281) | 1–3–2–0 | 4 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+7 | 25 | Pittsburgh Penguins | 2–7 | New York Islanders | Nassau Coliseum (11,746) | 1–4–2–0 | 4 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+8 | 29 | New York Islanders | 4–4 OT | Pittsburgh Penguins | Civic Arena (10,377) | 1–4–3–0 | 5 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+9 | 30 | Pittsburgh Penguins | 1–0 | Chicago Blackhawks | United Center (15,121) | 2–4–3–0 | 7 | W |
+|
+November: 3–8–1–1 (home: 2–3–1–0; road: 1–5–0–1), 8 Points
+# | Nov | Visitor | Score | Home | Location | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+10 | 1 | Boston Bruins | 2–3 OT | Pittsburgh Penguins | Civic Arena (10,226) | 3–4–3–0 | 9 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+11 | 4 | Pittsburgh Penguins | 2–4 | Toronto Maple Leafs | Air Canada Centre (19,237) | 3–5–3–0 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+12 | 7 | Pittsburgh Penguins | 3–6 | Florida Panthers | BB&T Center (18,161) | 3–6–3–0 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+13 | 8 | Pittsburgh Penguins | 0–9 | Tampa Bay Lightning | Amalie Arena (18,262) | 3–7–3–0 | 9 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+14 | 12 | Pittsburgh Penguins | 2–6 | New York Rangers | Madison Square Garden (17,960) | 3–8–3–0 | 9 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+15 | 14 | Pittsburgh Penguins | 2–1 OT | Buffalo Sabres | First Niagara Center (18,002) | 4–8–3–0 | 11 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+16 | 15 | Florida Panthers | 3–2 | Pittsburgh Penguins | Civic Arena (11,004) | 4–9–3–0 | 11 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+17 | 19 | Minnesota Wild | 6–2 | Pittsburgh Penguins | Civic Arena (10,957) | 4–10–3–0 | 11 | L |
+style=\"background: #fff;color:black;\"</span>"},{"html":""}]]}'>
+18 | 21 | Pittsburgh Penguins | 1–2 OT | New Jersey Devils | Izod Center (16,810) | 4–10–3–1 | 12 | OTL |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+19 | 22 | Ottawa Senators | 1–2 OT | Pittsburgh Penguins | Civic Arena (11,233) | 5–10–3–1 | 14 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+20 | 26 | Philadelphia Flyers | 1–1 OT | Pittsburgh Penguins | Civic Arena (11,014) | 5–10–4–1 | 15 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+21 | 28 | New York Rangers | 4–1 | Pittsburgh Penguins | Civic Arena (15,908) | 5–11–4–1 | 15 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+22 | 29 | Pittsburgh Penguins | 3–4 | Carolina Hurricanes | PNC Arena (14,881) | 5–12–4–1 | 15 | L |
+|
+December: 4–8–1–2 (home: 4–3–0–0; road: 0–5–1–2), 11 Points
+# | Dec | Visitor | Score | Home | Location | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+23 | 1 | Atlanta Thrashers | 3–4 | Pittsburgh Penguins | Civic Arena (9,576) | 6–12–4–1 | 17 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+24 | 3 | Pittsburgh Penguins | 2–5 | Philadelphia Flyers | Wells Fargo Center (18,972) | 6–13–4–1 | 17 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+25 | 6 | Pittsburgh Penguins | 3–4 | Edmonton Oilers | Skyreach Centre (16,839) | 6–14–4–1 | 17 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+26 | 7 | Pittsburgh Penguins | 1–6 | Calgary Flames | Scotiabank Saddledome (15,009) | 6–15–4–1 | 17 | L |
+style=\"background: #fff;color:black;\"</span>"},{"html":""}]]}'>
+27 | 9 | Pittsburgh Penguins | 3–4 OT | Vancouver Canucks | Rogers Arena (18,630) | 6–15–4–2 | 18 | OTL |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+28 | 12 | Pittsburgh Penguins | 3–6 | Atlanta Thrashers | Philips Arena (15,039) | 6–16–4–2 | 18 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+29 | 13 | Columbus Blue Jackets | 3–5 | Pittsburgh Penguins | Civic Arena (11,989) | 7–16–4–2 | 20 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+30 | 16 | Buffalo Sabres | 1–2 | Pittsburgh Penguins | Civic Arena (10,554) | 8–16–4–2 | 22 | W |
+style=\"background: #fff;color:black;\"</span>"},{"html":""}]]}'>
+31 | 18 | Pittsburgh Penguins | 1–2 OT | Carolina Hurricanes | PNC Arena (11,028) | 8–16–4–3 | 23 | OTL |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+32 | 20 | Atlanta Thrashers | 7–4 | Pittsburgh Penguins | Civic Arena (13,683) | 8–17–4–3 | 23 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+33 | 22 | Pittsburgh Penguins | 1–4 | Montreal Canadiens | Bell Centre (21,273) | 8–18–4–3 | 23 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+34 | 26 | Pittsburgh Penguins | 3–3 OT | Ottawa Senators | Canadian Tire Centre (18,316) | 8–18–5–3 | 24 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+35 | 27 | New Jersey Devils | 2–0 | Pittsburgh Penguins | Civic Arena (12,139) | 8–19–5–3 | 24 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+36 | 29 | Chicago Blackhawks | 0–1 | Pittsburgh Penguins | Civic Arena (16,120) | 9–19–5–3 | 26 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+37 | 31 | New York Islanders | 6–1 | Pittsburgh Penguins | Civic Arena (11,939) | 9–20–5–3 | 26 | L |
+|
+January: 2–14–0–0 (home: 0–8–0–0; road: 2–6–0–0), 4 Points
+# | Jan | Visitor | Score | Home | Location | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+38 | 1 | Pittsburgh Penguins | 2–3 | Nashville Predators | Bridgestone Arena (16,238) | 9–21–5–3 | 26 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+39 | 3 | New York Rangers | 4–1 | Pittsburgh Penguins | Civic Arena (10,078) | 9–22–5–3 | 26 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+40 | 5 | Toronto Maple Leafs | 5–0 | Pittsburgh Penguins | Civic Arena (10,216) | 9–23–5–3 | 26 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+41 | 7 | Pittsburgh Penguins | 4–2 | New Jersey Devils | Izod Center (11,948) | 10–23–5–3 | 28 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+42 | 8 | Pittsburgh Penguins | 1–3 | Boston Bruins | TD Garden (12,914) | 10–24–5–3 | 28 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+43 | 10 | Montreal Canadiens | 8–0 | Pittsburgh Penguins | Civic Arena (15,286) | 10–25–5–3 | 28 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+44 | 12 | Pittsburgh Penguins | 2–1 | Philadelphia Flyers | Wells Fargo Center (19,542) | 11–25–5–3 | 30 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+45 | 13 | Tampa Bay Lightning | 3–1 | Pittsburgh Penguins | Civic Arena (10,039) | 11–26–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+46 | 16 | Pittsburgh Penguins | 2–4 | Minnesota Wild | Xcel Energy Center (18,568) | 11–27–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+47 | 18 | Pittsburgh Penguins | 3–4 | Washington Capitals | Verizon Center (16,168) | 11–28–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+48 | 20 | New Jersey Devils | 3–0 | Pittsburgh Penguins | Civic Arena (10,146) | 11–29–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+49 | 22 | Pittsburgh Penguins | 5–6 | Ottawa Senators | Canadian Tire Centre (16,777) | 11–30–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+50 | 24 | Colorado Avalanche | 5–3 | Pittsburgh Penguins | Civic Arena (16,704) | 11–31–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+51 | 27 | Tampa Bay Lightning | 6–2 | Pittsburgh Penguins | Civic Arena (9,391) | 11–32–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+52 | 29 | Pittsburgh Penguins | 1–5 | Tampa Bay Lightning | Amalie Arena (15,847) | 11–33–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+53 | 31 | Philadelphia Flyers | 5–3 | Pittsburgh Penguins | Civic Arena (12,965) | 11–34–5–3 | 30 | L |
+|
+February: 2–9–0–1 (home: 0–5–0–0; road: 2–4–0–1), 5 Points
+# | Feb | Visitor | Score | Home | Location | Record | Points | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+54 | 1 | Pittsburgh Penguins | 1–4 | Boston Bruins | TD Garden (15,692) | 11–35–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+55 | 3 | Montreal Canadiens | 4–3 | Pittsburgh Penguins | Civic Arena (10,041) | 11–36–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+56 | 10 | Boston Bruins | 6–3 | Pittsburgh Penguins | Civic Arena (10,741) | 11–37–5–3 | 30 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+57 | 12 | Pittsburgh Penguins | 1–5 | Florida Panthers | BB&T Center (15,863) | 11–38–5–3 | 30 | L |
+style=\"background: #fff;color:black;\"</span>"},{"html":""}]]}'>
+58 | 14 | Pittsburgh Penguins | 2–3 OT | St. Louis Blues | Scottrade Center (19,812) | 11–38–5–4 | 31 | OTL |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+59 | 16 | Toronto Maple Leafs | 8–4 | Pittsburgh Penguins | Civic Arena (10,527) | 11–39–5–4 | 31 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+60 | 18 | Pittsburgh Penguins | 3–4 | New York Islanders | Nassau Coliseum (13,570) | 11–40–5–4 | 31 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+61 | 20 | Florida Panthers | 2–0 | Pittsburgh Penguins | Civic Arena (11,917) | 11–41–5–4 | 31 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+62 | 22 | Ottawa Senators | 6–3 | Pittsburgh Penguins | Civic Arena (11,780) | 11–42–5–4 | 31 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+63 | 25 | Pittsburgh Penguins | 4–3 OT | Phoenix Coyotes | America West Arena (14,712) | 12–42–5–4 | 33 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+64 | 27 | Pittsburgh Penguins | 2–4 | San Jose Sharks | SAP Center at San Jose (17,496) | 12–43–5–4 | 33 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+65 | 29 | Pittsburgh Penguins | 3–2 OT | New York Islanders | Nassau Coliseum (15,218) | 13–43–5–4 | 35 | W |
+|
+March: 8–4–3–0 (home: 5–1–3–0; road: 3–3–0–0), 19 Points
+# | Mar | Visitor | Score | Home | Location | Record | Points | Recap |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+66 | 2 | New York Islanders | 3–3 OT | Pittsburgh Penguins | Civic Arena (10,821) | 13–43–6–4 | 36 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+67 | 4 | Nashville Predators | 9–4 | Pittsburgh Penguins | Civic Arena (9,507) | 13–44–6–4 | 36 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+68 | 6 | Mighty Ducks of Anaheim | 1–2 | Pittsburgh Penguins | Civic Arena (14,286) | 14–44–6–4 | 38 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+69 | 7 | Pittsburgh Penguins | 7–4 | New York Rangers | Madison Square Garden (18,200) | 15–44–6–4 | 40 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+70 | 9 | Dallas Stars | 0–4 | Pittsburgh Penguins | Civic Arena (10,302) | 16–44–6–4 | 42 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+71 | 11 | Pittsburgh Penguins | 3–2 | Toronto Maple Leafs | Air Canada Centre (19,411) | 17–44–6–4 | 44 | W |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+72 | 14 | Philadelphia Flyers | 3–3 OT | Pittsburgh Penguins | Civic Arena (10,907) | 17–44–7–4 | 45 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+73 | 16 | Washington Capitals | 1–4 | Pittsburgh Penguins | Civic Arena (10,982) | 18–44–7–4 | 47 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+74 | 17 | Pittsburgh Penguins | 1–6 | New Jersey Devils | Izod Center (13,239) | 18–45–7–4 | 47 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+75 | 19 | Carolina Hurricanes | 3–4 OT | Pittsburgh Penguins | Civic Arena (10,098) | 19–45–7–4 | 49 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+76 | 21 | New York Rangers | 3–4 OT | Pittsburgh Penguins | Civic Arena (12,307) | 20–45–7–4 | 51 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+77 | 23 | Pittsburgh Penguins | 5–2 | New York Rangers | Madison Square Garden (17,902) | 21–45–7–4 | 53 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+78 | 26 | Pittsburgh Penguins | 1–5 | Buffalo Sabres | First Niagara Center (18,333) | 21–46–7–4 | 53 | L |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+79 | 27 | Buffalo Sabres | 2–2 OT | Pittsburgh Penguins | Civic Arena (12,964) | 21–46–8–4 | 54 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+80 | 30 | Pittsburgh Penguins | 2–4 | Washington Capitals | Verizon Center (13,417) | 21–47–8–4 | 54 | L |
+|
+April: 2–0–0–0 (home: 1–0–0–0; road: 1–0–0–0), 4 Points
+# | Apr | Visitor | Score | Home | Location | Record | Points | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+81 | 2 | Pittsburgh Penguins | 3–2 | Atlanta Thrashers | Philips Arena (18,854) | 22–47–8–4 | 56 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+82 | 4 | Washington Capitals | 3–4 | Pittsburgh Penguins | Civic Arena (16,124) | 23–47–8–4 | 58 | W |
+|
+Legend:
+W Win (2 points)
+L Loss (0 points)
+T Tie (1 point)
+OTL Overtime loss (1 point)
+|
+Player statistics
+[edit]
+Skaters
+{{cite web|title=2003–2004 – Regular Season – Pittsburgh Penguins – All Skaters – Summary – Points – NHL.com – Stats|url=https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20032004&seasonTo=20032004&gameType=2&playerPlayedFor=franchise.17&filter=gamesPlayed,gte,1&sort=points,goals,assists&page=0&pageSize=50|publisher=NHL}}</ref>\n|- align=center\n! Player\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games Played"}},"i":2}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":3}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":4}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"Pts"},"2":{"wt":"Points"}},"i":5}},"\n! data-sort-type=\"number\" | ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"+/−"},"2":{"wt":"Plus/Minus"}},"i":6}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty Minutes"}},"i":7}},"\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Dick"},"2":{"wt":"Tarnstrom"},"3":{"wt":"Dick Tärnström"}},"i":8}}," || 80 || 16 || 36 || 52 || -37 || 38\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Aleksey"},"2":{"wt":"Morozov"},"3":{"wt":"Alexei Morozov"}},"i":9}}," || 75 || 16 || 34 || 50 || -24 || 24\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Ryan"},"2":{"wt":"Malone"}},"i":10}}," || 81 || 22 || 21 || 43 || -23 || 64\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Milan"},"2":{"wt":"Kraft"}},"i":11}}," || 66 || 19 || 21 || 40 || -22 || 18\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Rico"},"2":{"wt":"Fata"}},"i":12}}," || 73 || 16 || 18 || 34 || -46 || 54\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Konstantin"},"2":{"wt":"Koltsov"}},"i":13}}," || 82 || 9 || 20 || 29 || -30 || 30\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Ric"},"2":{"wt":"Jackman"}},"i":14}},"<sup>†</sup> || 25 || 7 || 17 || 24 || -5 || 14\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Tomas"},"2":{"wt":"Surovy"},"3":{"wt":"Tomáš Surový"}},"i":15}}," || 47 || 11 || 12 || 23 || -8 || 16\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Tom"},"2":{"wt":"Kostopoulos"}},"i":16}}," || 60 || 9 || 13 || 22 || -14 || 67\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Brian"},"2":{"wt":"Holzinger"}},"i":17}},"<sup>‡</sup> || 61 || 6 || 15 || 21 || -27 || 38\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Drake"},"2":{"wt":"Berehowsky"}},"i":18}},"<sup>‡</sup> || 47 || 5 || 16 || 21 || -16 || 50\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Mike"},"2":{"wt":"Eastwood"}},"i":19}}," || 82 || 4 || 15 || 19 || -18 || 40\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Matt"},"2":{"wt":"Bradley"},"dab":{"wt":"ice hockey, born 1978"}},"i":20}}," || 82 || 7 || 9 || 16 || -27 || 65\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Martin"},"2":{"wt":"Strbak"},"3":{"wt":"Martin Štrbák"}},"i":21}},"<sup>†</sup> || 44 || 3 || 11 || 14 || -11 || 38\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Lasse"},"2":{"wt":"Pirjeta"},"3":{"wt":"Lasse Pirjetä"}},"i":22}},"<sup>†</sup> || 13 || 6 || 6 || 12 || 3 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Martin"},"2":{"wt":"Straka"}},"i":23}},"<sup>‡</sup> || 22 || 4 || 8 || 12 || -16 || 16\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Eric"},"2":{"wt":"Meloche"},"3":{"wt":"Éric Meloche"}},"i":24}}," || 25 || 3 || 7 || 10 || -6 || 20\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Brooks"},"2":{"wt":"Orpik"}},"i":25}}," || 79 || 1 || 9 || 10 || -36 || 127\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Marc"},"2":{"wt":"Bergevin"}},"i":26}},"<sup>‡</sup> || 52 || 1 || 8 || 9 || -8 || 27\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Mario"},"2":{"wt":"Lemieux"}},"i":27}}," || 10 || 1 || 8 || 9 || -2 || 6\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Josef"},"2":{"wt":"Melichar"}},"i":28}}," || 82 || 3 || 5 || 8 || -17 || 62\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Patrick"},"2":{"wt":"Boileau"}},"i":29}}," || 16 || 3 || 4 || 7 || -16 || 8\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Landon"},"2":{"wt":"Wilson"}},"i":30}},"<sup>†</sup> || 19 || 5 || 1 || 6 || 0 || 31\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Ramzi"},"2":{"wt":"Abid"}},"i":31}}," || 16 || 3 || 2 || 5 || -5 || 27\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Dan"},"2":{"wt":"Focht"}},"i":32}}," || 52 || 2 || 3 || 5 || -23 || 105\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Jon"},"2":{"wt":"Sim"}},"i":33}},"<sup>†</sup> || 15 || 2 || 3 || 5 || -4 || 6\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Kelly"},"2":{"wt":"Buchberger"}},"i":34}}," || 71 || 1 || 3 || 4 || -19 || 109\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Matt"},"2":{"wt":"Hussey"}},"i":35}}," || 3 || 2 || 1 || 3 || -1 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Steve"},"2":{"wt":"McKenna"}},"i":36}}," || 49 || 1 || 2 || 3 || -10 || 85\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Rob"},"2":{"wt":"Scuderi"}},"i":37}}," || 13 || 1 || 2 || 3 || 2 || 4\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Matt"},"2":{"wt":"Murley"}},"i":38}}," || 18 || 1 || 1 || 2 || -6 || 14\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Kris"},"2":{"wt":"Beech"}},"i":39}}," || 4 || 0 || 1 || 1 || 0 || 6\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Reid"},"2":{"wt":"Simpson"}},"i":40}}," || 2 || 0 || 0 || 0 || 0 || 17\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Nolan"},"2":{"wt":"Baumgartner"}},"i":41}}," || 5 || 0 || 0 || 0 || -7 || 2\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Steve"},"2":{"wt":"Webb"},"3":{"wt":"Steve Webb (ice hockey)"}},"i":42}}," || 5 || 0 || 0 || 0 || -3 || 2\n|- class=\"sortbottom\"\n! colspan=2 | Total || 190 || 332 || 522 || — || 1,230\n|}\n",{"template":{"target":{"wt":"col-2","href":"./Template:Col-2"},"params":{},"i":43}},"\n",{"template":{"target":{"wt":"col-end","href":"./Template:Col-end"},"params":{},"i":44}}]}'>
+Regular season[8]
+Player |
+Games Played</span>"}]]}'>GP |
+Goals</span>"}]]}'>G |
+Assists</span>"}]]}'>A |
+Points</span>"}]]}'>Pts |
+Plus/Minus</span>"}]]}'>+/− |
+Penalty Minutes</span>"}]]}'>PIM |
+Dick Tarnstrom | 80 | 16 | 36 | 52 | -37 | 38 |
+Aleksey Morozov | 75 | 16 | 34 | 50 | -24 | 24 |
+Ryan Malone | 81 | 22 | 21 | 43 | -23 | 64 |
+Milan Kraft | 66 | 19 | 21 | 40 | -22 | 18 |
+Rico Fata | 73 | 16 | 18 | 34 | -46 | 54 |
+Konstantin Koltsov | 82 | 9 | 20 | 29 | -30 | 30 |
+Ric Jackman† | 25 | 7 | 17 | 24 | -5 | 14 |
+Tomas Surovy | 47 | 11 | 12 | 23 | -8 | 16 |
+Tom Kostopoulos | 60 | 9 | 13 | 22 | -14 | 67 |
+Brian Holzinger‡ | 61 | 6 | 15 | 21 | -27 | 38 |
+Drake Berehowsky‡ | 47 | 5 | 16 | 21 | -16 | 50 |
+Mike Eastwood | 82 | 4 | 15 | 19 | -18 | 40 |
+Matt Bradley | 82 | 7 | 9 | 16 | -27 | 65 |
+Martin Strbak† | 44 | 3 | 11 | 14 | -11 | 38 |
+Lasse Pirjeta† | 13 | 6 | 6 | 12 | 3 | 0 |
+Martin Straka‡ | 22 | 4 | 8 | 12 | -16 | 16 |
+Eric Meloche | 25 | 3 | 7 | 10 | -6 | 20 |
+Brooks Orpik | 79 | 1 | 9 | 10 | -36 | 127 |
+Marc Bergevin‡ | 52 | 1 | 8 | 9 | -8 | 27 |
+Mario Lemieux | 10 | 1 | 8 | 9 | -2 | 6 |
+Josef Melichar | 82 | 3 | 5 | 8 | -17 | 62 |
+Patrick Boileau | 16 | 3 | 4 | 7 | -16 | 8 |
+Landon Wilson† | 19 | 5 | 1 | 6 | 0 | 31 |
+Ramzi Abid | 16 | 3 | 2 | 5 | -5 | 27 |
+Dan Focht | 52 | 2 | 3 | 5 | -23 | 105 |
+Jon Sim† | 15 | 2 | 3 | 5 | -4 | 6 |
+Kelly Buchberger | 71 | 1 | 3 | 4 | -19 | 109 |
+Matt Hussey | 3 | 2 | 1 | 3 | -1 | 0 |
+Steve McKenna | 49 | 1 | 2 | 3 | -10 | 85 |
+Rob Scuderi | 13 | 1 | 2 | 3 | 2 | 4 |
+Matt Murley | 18 | 1 | 1 | 2 | -6 | 14 |
+Kris Beech | 4 | 0 | 1 | 1 | 0 | 6 |
+Reid Simpson | 2 | 0 | 0 | 0 | 0 | 17 |
+Nolan Baumgartner | 5 | 0 | 0 | 0 | -7 | 2 |
+Steve Webb | 5 | 0 | 0 | 0 | -3 | 2 |
+Total | 190 | 332 | 522 | — | 1,230 |
+|
+|
+Goaltenders
+Regular season[9]
+Player |
+Games Played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games Played"}},"i":0}}]}'>GP |
+Games Started</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GS"},"2":{"wt":"Games Started"}},"i":0}}]}'>GS |
+Time on Ice</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"TOI"},"2":{"wt":"Time on Ice"}},"i":0}}]}'>TOI |
+Win</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"W"},"2":{"wt":"Win"}},"i":0}}]}'>W |
+Loss</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"L"},"2":{"wt":"Loss"}},"i":0}}]}'>L |
+Tie</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"T"},"2":{"wt":"Tie"}},"i":0}}]}'>T |
+Goals Against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GA"},"2":{"wt":"Goals Against"}},"i":0}}]}'>GA |
+Goals Against Average</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GAA"},"2":{"wt":"Goals Against Average"}},"i":0}}]}'>GAA |
+Shots Against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SA"},"2":{"wt":"Shots Against"}},"i":0}}]}'>SA |
+Save Percentage</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SV%"},"2":{"wt":"Save Percentage"}},"i":0}}]}'>SV% |
+Shutouts</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SO"},"2":{"wt":"Shutouts"}},"i":0}}]}'>SO |
+Goals</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":0}}]}'>G |
+Assists</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":0}}]}'>A |
+Penalty Minutes</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty Minutes"}},"i":0}}]}'>PIM |
+Sebastien Caron | 40 | 37 | 2212:35 | 9 | 24 | 5 | 138 | 3.74 | 1179 | 0.883 | 1 | 0 | 0 | 6 |
+Jean-Sebastien Aubin | 22 | 17 | 1067:03 | 7 | 9 | 0 | 53 | 2.98 | 574 | 0.908 | 1 | 0 | 0 | 2 |
+Marc-Andre Fleury | 21 | 20 | 1154:02 | 4 | 14 | 2 | 70 | 3.64 | 675 | 0.896 | 1 | 0 | 0 | 0 |
+Andy Chiodo | 8 | 8 | 485:37 | 3 | 4 | 1 | 28 | 3.46 | 260 | 0.892 | 0 | 0 | 0 | 0 |
+Martin Brochu | 1 | 0 | 32:40 | 0 | 0 | 0 | 1 | 1.84 | 19 | 0.947 | 0 | 0 | 0 | 0 |
+Total | 82 | 4951:57 | 23 | 51 | 8 | 290 | 3.51 | 2707 | 0.893 | 3 | 0 | 0 | 8 |
+†Denotes player spent time with another team before joining the Penguins. Stats reflect time with the Penguins only.
+‡Denotes player was traded mid-season. Stats reflect time with the Penguins only.
+Awards and records
+[edit]
+Mario Lemieux became the first person to score 1700 points for the Penguins. He did so in a 4–4 tie with the New York Islanders on October 29.
+Awards
+[edit]
+Type |
+Award/honor |
+Recipient |
+Ref |
+League(annual) |
+NHL All-Rookie Team |
+Ryan Malone (Forward) |
+[10] |
+League(in-season) |
+NHL Rookie of the Month |
+Marc-Andre Fleury (October) |
+[11] |
+NHL YoungStars Game selection |
+Ryan Malone |
+[12] |
+Brooks Orpik |
+Team |
+A. T. Caggiano Memorial Booster Club Award |
+Ryan Malone |
+[13] |
+Aldege "Baz" Bastien Memorial Good Guy Award |
+Brooks Orpik |
+[13] |
+Leading Scorer Award |
+Dick Tarnstrom |
+[13] |
+Michel Briere Memorial Rookie of the Year Trophy |
+Ryan Malone |
+[13] |
+Most Valuable Player Award |
+Dick Tarnstrom |
+[13] |
+Players' Player Award |
+Kelly Buchberger |
+[13] |
+The Edward J. DeBartolo Community Service Award |
+Rico Fata |
+[13] |
+Steve McKenna |
+Records
+[edit]
+The team also set the NHL record for longest home losing streak, with 14 home losses.
+Milestones
+[edit]
+Milestone |
+Player |
+Date |
+Ref |
+First game |
+Marc-Andre Fleury |
+October 10, 2003 |
+[14] |
+Ryan Malone |
+Matt Murley |
+Rob Scuderi |
+February 12, 2004 |
+Andy Chiodo |
+February 18, 2004 |
+Matt Hussey |
+March 16, 2004 |
+Transactions
+[edit]
+The Penguins were involved in the following transactions from June 10, 2003, the day after the deciding game of the 2003 Stanley Cup Finals, through June 7, 2004, the day of the deciding game of the 2004 Stanley Cup Finals.[15][16]
+Trades
+[edit]
+Date |
+Details |
+Ref |
+June 21, 2003 (2003-06-21) |
+To Florida Panthers Mikael Samuelsson
+1st-round pick in 2003
+2nd-round pick in 2003
+|
+To Pittsburgh Penguins 1st-round pick in 2003
+3rd-round pick in 2003
+|
+[17] |
+August 25, 2003 (2003-08-25) |
+To Vancouver Canucks Johan Hedberg
+|
+To Pittsburgh Penguins 2nd-round pick in 2004
+|
+[18] |
+November 30, 2003 (2003-11-30) |
+To Los Angeles Kings Martin Straka
+|
+To Pittsburgh Penguins Sergei Anshakov
+Martin Strbak
+|
+[19] |
+February 10, 2004 (2004-02-10) |
+To Columbus Blue Jackets Brendan Buckley
+|
+To Pittsburgh Penguins Pauli Levokari
+|
+[20] |
+February 11, 2004 (2004-02-11) |
+To Toronto Maple Leafs Drake Berehowsky
+|
+To Pittsburgh Penguins Ric Jackman
+|
+[21] |
+February 22, 2004 (2004-02-22) |
+To Phoenix Coyotes Future considerations
+|
+To Pittsburgh Penguins Landon Wilson
+|
+[22] |
+March 8, 2004 (2004-03-08) |
+To New York Islanders Steve Webb
+|
+To Pittsburgh Penguins Alain Nasreddine
+|
+[23] |
+March 9, 2004 (2004-03-09) |
+To Columbus Blue Jackets Brian Holzinger
+|
+To Pittsburgh Penguins Lasse Pirjeta
+|
+[24] |
+To Vancouver Canucks Marc Bergevin
+|
+To Pittsburgh Penguins 7th-round pick in 2004
+|
+[25] |
+Players acquired
+[edit]
+Date | Player | Former team | Term | Via | Ref |
+July 31, 2003 (2003-07-31) |
+Kelly Buchberger | Phoenix Coyotes | | Free agency | [26] |
+Mike Eastwood | Chicago Blackhawks | | Free agency | [26] |
+August 22, 2003 (2003-08-22) |
+Martin Brochu | Severstal Cherepovets (RSL) | | Free agency | [27] |
+August 28, 2003 (2003-08-28) |
+Patrick Boileau | Detroit Red Wings | | Free agency | [28] |
+August 29, 2003 (2003-08-29) |
+Drake Berehowsky | Phoenix Coyotes | | Free agency | [29] |
+Reid Simpson | Nashville Predators | | Free agency | [29] |
+October 3, 2003 (2003-10-03) |
+Nolan Baumgartner | Vancouver Canucks | | Waiver draft | [30] |
+October 22, 2003 (2003-10-22) |
+Steve Webb | Philadelphia Flyers | | Waivers | [31] |
+March 4, 2004 (2004-03-04) |
+Jon Sim | Los Angeles Kings | | Waivers | [32] |
+Players lost
+[edit]
+Date | Player | New team | Via{{cite web |title=2003 NHL free agent list |url=http://a.espncdn.com/nhl/news/2003/0701/1575272.html |website=ESPN.com |access-date=May 8, 2022 |date=July 1, 2003}}</ref>"}},"i":0}}]}'>[a] | Ref |
+June 23, 2003 (2003-06-23) |
+Vladimir Vujtek | HPK (Liiga) | Free agency (UFA) | [34] |
+July 12, 2003 (2003-07-12) |
+Joel Bouchard | Buffalo Sabres | Free agency (UFA) | [35] |
+July 26, 2003 (2003-07-26) |
+Rob Tallas | HPK (Liiga) | Free agency (UFA) | [36] |
+July 29, 2003 (2003-07-29) |
+Ville Nieminen | Chicago Blackhawks | Free agency (UFA) | [37] |
+August 4, 2003 (2003-08-04) |
+Micki DuPont | Eisbaren Berlin (DEL) | Free agency (II){{cite web |title=PENGUINS RE-SIGN DEFENSEMAN MICKI DUPONT |url=https://www.nhl.com/penguins/news/penguins-re-sign-defenseman-micki-dupont/c-494698 |website=NHL.com |access-date=November 26, 2023 |archive-url=https://web.archive.org/web/20220529075427/https://www.nhl.com/penguins/news/penguins-re-sign-defenseman-micki-dupont/c-494698 |archive-date=May 29, 2022 |date=June 15, 2006}}</ref>"}},"i":0}}]}'>[b] | [39] |
+August 7, 2003 (2003-08-07) |
+Mathias Johansson | Farjestad BK (SHL) | Free agency (UFA) | [40] |
+August 20, 2003 (2003-08-20) |
+Richard Lintner | Djurgardens IF (SHL) | Free agency (II){{cite web |title=NHL Releases Free Agent List |url=https://www.nhl.com/avalanche/news/nhl-releases-free-agent-list/c-426863 |website=NHL.com |access-date=November 25, 2023 |archive-url=https://web.archive.org/web/20220306210846/https://www.nhl.com/avalanche/news/nhl-releases-free-agent-list/c-426863 |archive-date=March 6, 2022 |date=July 1, 2007}}</ref>"}},"i":0}}]}'>[c] | [42] |
+September 10, 2003 (2003-09-10) |
+Shawn Heins | Atlanta Thrashers | Free agency (UFA) | [43] |
+Jason MacDonald | Hartford Wolf Pack (AHL) | Free agency | [44] |
+September 30, 2003 (2003-09-30) |
+Alexandre Daigle | Minnesota Wild | Free agency (UFA) | [45] |
+October 8, 2003 (2003-10-08) |
+Hans Jonsson | Modo Hockey (SHL) | Free agency (UFA) | [46] |
+November 1, 2003 (2003-11-01) |
+Nolan Baumgartner | Vancouver Canucks | Waivers | [47] |
+November 18, 2003 (2003-11-18) |
+Jamie Pushor | Syracuse Crunch (AHL) | Free agency (UFA) | [48] |
+November 23, 2003 (2003-11-23) |
+Kent Manderville | Timra IK (SHL) | Free agency (III) | [49] |
+May 13, 2004 (2004-05-13) |
+Patrick Boileau | Lausanne HC (NLA) | Free agency | [50] |
+May 19, 2004 (2004-05-19) |
+Michal Sivek | HC Sparta Praha (ELH) | Free agency{{cite web |title=2008 NHL Free Agent List |url=http://www.nhl.com/ice/page.htm?id=26183 |archive-url=https://web.archive.org/web/20220501205723/http://www.nhl.com/ice/page.htm?id=26183 |url-status=dead |archive-date=May 1, 2022 |website=NHL.com |access-date=June 1, 2022 |date=July 1, 2008}}</ref>"}},"i":0}}]}'>[d] | [52] |
+Signings
+[edit]
+Date | Player | Term | Contract type | Ref |
+July 14, 2003 (2003-07-14) |
+Ryan Malone | 2-year | Entry-level | [53] |
+July 29, 2003 (2003-07-29) |
+Dick Tarnstrom | 2-year | Re-signing | [54] |
+July 31, 2003 (2003-07-31) |
+Rico Fata | | Re-signing | [55] |
+Mario Lemieux | 1-year | Re-signing | [55] |
+Toby Petersen | | Re-signing | [55] |
+Rob Scuderi | | Re-signing | [55] |
+August 1, 2003 (2003-08-01) |
+Matt Bradley | 1-year | Re-signing | [56] |
+Milan Kraft | 1-year | Re-signing | [56] |
+August 21, 2003 (2003-08-21) |
+Andy Chiodo | | Entry-level | [57] |
+August 22, 2003 (2003-08-22) |
+Sebastien Caron | 4-year | Re-signing | [58] |
+September 11, 2003 (2003-09-11) |
+Ramzi Abid | 1-year | Re-signing | [59] |
+October 3, 2003 (2003-10-03) |
+Cam Paddock | | Entry-level | [30] |
+October 6, 2003 (2003-10-06) |
+Marc-Andre Fleury | 3-year | Entry-level | [60] |
+April 7, 2004 (2004-04-07) |
+Ryan Whitney | 3-year | Entry-level | [61] |
+May 26, 2004 (2004-05-26) |
+Maxime Talbot | 3-year | Entry-level | [62] |
+June 1, 2004 (2004-06-01) |
+Erik Christensen | | Entry-level | [63] |
+Other
+[edit]
+Player | Date | Details |
+Eddie Olczyk | June 11, 2003 | Hired as head coach |
+Tom Barrasso | June 18, 2003 | Retired{{cite web |title=BARRASSO SIGNS WITH PENGUINS, THEN RETIRES |url=http://pittsburghpenguins.com/team/features/arts/387.0.php |website=Pittsburgh Penguins |access-date=May 29, 2022 |archive-url=https://web.archive.org/web/20040110230818/http://pittsburghpenguins.com/team/features/arts/387.0.php |archive-date=January 10, 2004 |date=June 18, 2003}}</ref>"}},"i":0}}]}'>[e] |
+Draft picks
+[edit]
+Pittsburgh had 11 picks in the 2003 NHL entry draft.[65]
+Round |
+# |
+Player |
+Pos |
+Nationality |
+College/Junior/Club team (League) |
+1 | 1 [a] | Marc-Andre Fleury | Goaltender | Canada | Cape Breton Screaming Eagles (QMJHL) |
+2 | 32 | Ryan Stone | Center | Canada | Brandon Wheat Kings (WHL) |
+3 | 70 | Jonathan Filewich | Right winger | Canada | Prince George Cougars (WHL) |
+3 | 73[b] | Daniel Carcillo | Left winger | Canada | Sarnia Sting (OHL) |
+4 | 121[c] | Paul Bissonnette | Defence | Canada | Saginaw Spirit (OHL) |
+5 | 161[d] | Evgeni Isakov | Left wing | Russia | Severstal Cherepovets (RSL) |
+6 | 169 | Lukas Bolf | Defence | Czech Republic | Sparta Prague (Czech Extraliga Jr.) |
+7 | 199 | Andy Chiodo | Goaltender | Canada | Toronto St. Michael's Majors (OHL) |
+7 | 229[e] | Stephen Dixon | Center | Canada | Cape Breton Screaming Eagles (QMJHL) |
+8 | 232 | Joe Jensen | Center | United States | St. Cloud State University (WCHA) |
+9 | 263 | Matt Moulson | Left wings | Canada | Cornell University (ECAC) |
+Draft notes[66]
+a The Florida Panthers' first-round pick went to the Pittsburgh Penguins as a result of a June 21, 2003 trade that sent a 2003 first-round pick and a 2003 second round pick to the Panthers in exchange for a 2003 third-round pick and this pick.
+The Penguins' first-round pick went to the Florida Panthers as the result of a June 21, 2003 trade that sent a 2003 first-round pick and a 2003 third-round pick to the Penguins in exchange for Mikael Samuelsson, a 2003 first-round pick and this pick.
+The Penguins' third-round pick went to the Florida Panthers as the result of a June 21, 2003 trade that sent a 2003 first-round pick and a 2003 third-round pick to the Penguins in exchange for Mikael Samuelsson, a 2003 first-round pick and this pick.
+b The Florida Panthers' third-round pick went to the Pittsburgh Penguins as a result of a June 21, 2003 trade that sent Mikael Samuelsson, a 2003 first-round pick and a 2003 second round pick to the Panthers in exchange for a 2003 first-round pick and this pick.
+The Penguins' fourth-round pick went to the Columbus Blue Jackets as the result of a March 15, 2002 trade that sent Jamie Pushor to the Penguins in exchange for this pick.
+c The Boston Bruins' fourth-round pick went to the Pittsburgh Penguins as a result of a March 11, 2003 trade that sent Ian Moran the Bruins in exchange for this pick.
+The Penguins' fifth-round pick went to the San Jose Sharks as the result of a February 9, 2003 trade that sent Shawn Heins to the Penguins in exchange for this conditional pick.
+d The New York Islanders' fifth-round pick (from Philadelphia Flyers) went to the Pittsburgh Penguins as a result of a March 9, 2003 trade that sent Randy Robitaille the Islanders in exchange for this pick.
+e The New Jersey Devils' seventh-round pick went to the Pittsburgh Penguins as a result of a March 19, 2002 trade that sent Stephane Richer to the Devils in exchange for this pick.
+Farm teams
+[edit]
+The AHL's Wilkes-Barre/Scranton Penguins finished third in the East Division with a 34–28–10–8 record. They defeated the Bridgeport Sound Tigers, Philadelphia Phantoms and the Hartford Wolf Pack to win the Richard F. Canning Trophy as Eastern Conference Champions. They were swept by the Milwaukee Admirals in the Calder Cup Finals.
+The ECHL's Wheeling Nailers won the Northern Division and the Eastern Conference with a record of 51–17–4. They lost to the Reading Royals in the first round of the playoffs. Pat Bingham won the John Brophy Award as the ECHL's coach of the year.
+See also
+[edit]
+2003–04 NHL season
+Notes
+[edit]
+↑ In parentheses is the player's free agency group on July 1 if applicable.[33]
+↑ Pittsburgh retained DuPont’s NHL rights and re-signed him on June 15, 2006.[38]
+↑ Pittsburgh retained Lintner’s NHL rights through the 2006–07 season.[41]
+↑ Pittsburgh retained Sivek’s NHL rights through the 2007–08 season.[51]
+↑ Barrasso signed a one-day contract in order to retire as a member of the Penguins.[64]
+References
+[edit]
+"Pittsburgh Penguins 2003–04 roster and statistics". The Internet Hockey Database. Retrieved August 8, 2022.
+"2003–04 Pittsburgh Penguins Roster and Statistics". Hockey-Reference.com. Sports Reference LLC. Retrieved August 8, 2022.
+↑ "NHL attendance". ESPN. Archived from the original on October 30, 2007. Retrieved August 8, 2022.
+↑ "Penguins fire Kehoe". UPI. April 15, 2003. Retrieved August 14, 2022.
+↑ "Press Release: OLCZYK NAMED HEAD COACH". Pittsburgh Penguins. June 11, 2003. Archived from the original on August 24, 2003. Retrieved August 14, 2022.
+↑ "2003-04 NHL Summary".
+↑ "2003-2004 Division Standings". National Hockey League. Retrieved March 26, 2012.
+↑ "2003–2004 Standings by Conference". National Hockey League. Retrieved March 26, 2012.
+↑ "2003-04 Pittsburgh Penguins Schedule and Results". Hockey-Reference.com. Retrieved August 10, 2022.
+↑ "2003–2004 – Regular Season – Pittsburgh Penguins – All Skaters – Summary – Points – NHL.com – Stats". NHL.
+↑ "2003–2004 – Regular Season – Pittsburgh Penguins – Goalie – Summary – Wins – NHL.com – Stats". NHL.
+↑ "Postseason All-Star Teams". records.nhl.com. Retrieved August 8, 2022.
+↑ "FLEURY NAMED NHL ROOKIE OF THE MONTH". Pittsburgh Penguins. November 4, 2003. Archived from the original on February 25, 2004. Retrieved August 12, 2022.
+↑ "2004 YoungStars Game rosters". ESPN.com. January 24, 2004. Retrieved August 10, 2022.
+1 2 3 4 5 6 7 "Press Release: PENGUINS END OF SEASON AWARDS ANNOUNCED". Pittsburgh Penguins. April 4, 2004. Archived from the original on August 16, 2004. Retrieved August 9, 2022.
+↑ "2003-04 NHL Debuts". Hockey-Reference.com. Retrieved October 13, 2024.
+↑ "Hockey Transactions Search Results". Pro Sports Transactions. Retrieved May 8, 2022.
+↑ "History of NHL trades by the Pittsburgh Penguins for 2003-04". NHL Trade Tracker. Retrieved June 24, 2012.
+↑ "Fleury overall No. 1 pick at NHL entry draft". ESPN.com. June 21, 2003. Retrieved May 29, 2022.
+↑ "PENGUINS ACQUIRE A SECOND ROUND CHOICE IN 2004 ENTRY DRAFT FROM VANCOUVER IN EXCHANGE FOR GOALTENDER JOHAN HEDBERG". Pittsburgh Penguins. August 25, 2003. Archived from the original on October 11, 2003. Retrieved May 29, 2022.
+↑ "STRAKA SENT TO KINGS". Pittsburgh Penguins. November 30, 2003. Archived from the original on December 3, 2003. Retrieved May 29, 2022.
+↑ "PENS SWAP DEFENSEMEN WITH BLUE JACKETS". Pittsburgh Penguins. February 10, 2004. Archived from the original on June 22, 2004. Retrieved May 29, 2022.
+↑ "PENS ACQUIRE JACKMAN FROM MAPLE LEAFS". Pittsburgh Penguins. February 11, 2004. Archived from the original on June 10, 2004. Retrieved May 29, 2022.
+↑ "PENGUINS ACQUIRE WILSON FROM PHOENIX". Pittsburgh Penguins. February 22, 2004. Archived from the original on June 16, 2004. Retrieved May 29, 2022.
+↑ "PENS PICK UP NASREDDINE FOR WEBB". Pittsburgh Penguins. March 8, 2004. Archived from the original on June 17, 2004. Retrieved May 29, 2022.
+↑ "PENS AND JACKETS SWAP FORWARDS". Pittsburgh Penguins. March 9, 2004. Archived from the original on June 17, 2004. Retrieved May 29, 2022.
+↑ "BERGEVIN TRADED TO VANCOUVER". Pittsburgh Penguins. March 9, 2004. Archived from the original on June 14, 2004. Retrieved May 29, 2022.
+1 2 "Penguins sign Buchberger, Eastwood". ESPN. July 31, 2003. Retrieved June 24, 2012.
+↑ "Penguins re-sign G Caron, add G Brochu to mix". ESPN. August 22, 2012. Retrieved June 24, 2012.
+↑ "PENGUINS SIGN DEFENSEMAN PATRICK BOILEAU". Pittsburgh Penguins. August 28, 2003. Archived from the original on January 10, 2004. Retrieved May 29, 2022.
+1 2 "Penguins sign Berehowsky, Simpson". ESPN. August 29, 2003. Retrieved June 24, 2012.
+1 2 "PENS CLAIM BAUMGARTNER, SIGN PADDOCK". Pittsburgh Penguins. October 3, 2003. Archived from the original on October 5, 2003. Retrieved May 29, 2022.
+↑ "PENGUINS CLAIM RIGHT WING STEVE WEBB OFF WAIVERS". Pittsburgh Penguins. October 22, 2003. Archived from the original on February 12, 2004. Retrieved May 29, 2022.
+↑ "PENGUINS CLAIM JON SIM OFF WAIVERS". Pittsburgh Penguins. March 4, 2004. Archived from the original on June 19, 2004. Retrieved May 29, 2022.
+↑ "2003 NHL free agent list". ESPN.com. July 1, 2003. Retrieved May 8, 2022.
+↑ "Vladimir Vujtek palaa Hämeenlinnaan!". hpk.fi (in Finnish). June 23, 2003. Archived from the original on August 6, 2003. Retrieved December 16, 2022.
+↑ "SABRES SIGN FREE AGENT DEFENSEMAN JOEL BOUCHARD". Buffalo Sabres. July 12, 2003. Archived from the original on October 10, 2003. Retrieved May 11, 2022.
+↑ "Rob Tallas ja Mika Skyttä täydentävät joukkueen". hpk.fi (in Finnish). July 26, 2003. Archived from the original on August 8, 2003. Retrieved May 29, 2022.
+↑ "Blackhawks sign LW Nieminen". UPI. July 29, 2003. Retrieved May 29, 2022.
+↑ "PENGUINS RE-SIGN DEFENSEMAN MICKI DUPONT". NHL.com. June 15, 2006. Archived from the original on May 29, 2022. Retrieved November 26, 2023.
+↑ "Eisbären verpflichten Verteidiger Micki DuPont". Eisbären Berlin (in German). August 4, 2003. Archived from the original on November 28, 2003. Retrieved May 29, 2022.
+↑ "Mathias återvänder till Färjestad". www.expressen.se (in Swedish). August 7, 2003. Retrieved May 29, 2022.
+↑ "NHL Releases Free Agent List". NHL.com. July 1, 2007. Archived from the original on March 6, 2022. Retrieved November 25, 2023.
+↑ "Richard Lintner till Djurgården". difhockey.se (in Swedish). August 20, 2003. Archived from the original on October 6, 2003. Retrieved May 29, 2022.
+↑ "Thrashers Agree to Terms with Unrestricted Free Agent Defenseman Shawn Heins". Atlanta Thrashers. September 10, 2003. Archived from the original on March 25, 2006. Retrieved May 10, 2022.
+↑ "Wolf Pack Sign Pair". Hartford Wolf Pack. September 10, 2003. Archived from the original on December 7, 2003. Retrieved May 29, 2022.
+↑ "Wild sign Daigle, former No. 1 draft pick". ESPN.com. September 30, 2003. Retrieved May 29, 2022.
+↑ "Hasse Jonsson åter till MODO Hockey - har skrivit på ett fyraårskontrakt". MODO Hockey (in Swedish). October 8, 2003. Archived from the original on October 15, 2003. Retrieved May 29, 2022.
+↑ "Canucks claim Baumgartner off waivers". UPI. November 2, 2003. Retrieved May 29, 2022.
+↑ "Syracuse Signs Defenseman Jamie Pushor". OurSports Central. November 18, 2003. Retrieved May 29, 2022.
+↑ "PRESSMEDDELANDE". Timrå IK (in Swedish). November 23, 2003. Archived from the original on March 12, 2004. Retrieved May 29, 2022.
+↑ Patrick Boileau at Hockey-Reference.com, retrieved May 29, 2022
+↑ "2008 NHL Free Agent List". NHL.com. July 1, 2008. Archived from the original on May 1, 2022. Retrieved June 1, 2022.
+↑ Michal Sivek at Hockey-Reference.com, retrieved May 29, 2022
+↑ Dejan Kovacevic (July 15, 2003). "Penguins sign South Hills native Malone". Post-Gazette. Archived from the original on March 4, 2016. Retrieved June 24, 2012.
+↑ Kovacevic, Dejan (July 30, 2003). "Penguins, Tarnstrom settle". old.post-gazette.com. Archived from the original on May 29, 2022. Retrieved May 29, 2022.
+1 2 3 4 "Lemieux to return, Pens agree to terms with five others". ESPN. July 31, 2003. Retrieved June 24, 2012.
+1 2 "Penguins sign Bradley, Kraft". ESPN. August 1, 2003. Retrieved June 24, 2012.
+↑ "PENGUINS SIGN ANDY CHIODO". Pittsburgh Penguins. August 21, 2003. Archived from the original on January 10, 2004. Retrieved May 29, 2022.
+↑ "Surprisingly, term is one of longest in NHL". ESPN. August 22, 2012. Retrieved June 24, 2012.
+↑ "Penguins re-sign LW Abid". ESPN. September 11, 2003. Retrieved June 24, 2012.
+↑ "Penguins reach contract terms with No. 1 pick Fleury". ESPN. October 6, 2003. Retrieved June 24, 2012.
+↑ "Minn.-Duluth plays Frozen Four for title only". USA Today. April 10, 2004. Retrieved June 24, 2012.
+↑ Dejan Kovacevic (May 27, 2004). "Pittsburgh Post-Gazette - May 27, 2004". Retrieved June 24, 2012.
+↑ "PENGUINS SIGN 2002 DRAFTEE CHRISTENSEN". Pittsburgh Penguins. June 1, 2004. Archived from the original on June 3, 2004. Retrieved May 29, 2022.
+↑ "BARRASSO SIGNS WITH PENGUINS, THEN RETIRES". Pittsburgh Penguins. June 18, 2003. Archived from the original on January 10, 2004. Retrieved May 29, 2022.
+↑ "NHL Entry Draft Year by Year Results". NHL. Archived from the original on January 7, 2016. Retrieved June 18, 2012.
+↑ "2003 NHL Entry Draft Pick Transactions". Pro Sports Transactions. Retrieved June 18, 2012.
+v
+t
+e
+Pittsburgh Penguins
+|
+Founded in 1967
+Based in Pittsburgh, Pennsylvania
+|
+Franchise |
+Team
+General managers
+Coaches
+Players
+Captains
+Draft picks
+expansion draft
+Seasons
+Current season
+|
+History |
+1967 expansion
+Owners
+Records
+Award winners
+Retired numbers
+Broadcasters
+|
+Personnel |
+Owner(s)
+Fenway Sports Group (majority)
+Ronald Burkle
+Mario Lemieux
+General manager
+Kyle Dubas
+Head coach
+Dan Muse
+Team captain
+Sidney Crosby
+Current roster
+|
+Arenas |
+Civic Arena
+PPG Paints Arena
+|
+Rivalries |
+Philadelphia Flyers
+Washington Capitals
+|
+Affiliates |
+AHL
+Wilkes-Barre/Scranton Penguins
+ECHL
+Florida Everblades
+|
+Media |
+TV
+SportsNet Pittsburgh
+Radio
+Pittsburgh Penguins Radio Network
+WXDX
+WBGG
+|
+Culture and lore |
+Bob Gessner
+Vince Lascheid
+Jeff Jimerson
+Penguin Pete
+Iceburgh
+Russian Penguins
+YinzCam
+Foundation
+Mullet (haircut)
+Sudden Death
+She's Out of My League
+"Black and Yellow"
+Penguins–Islanders brawl
+2008 Winter Classic
+2011 Winter Classic
+2014 Stadium Series
+2017 Stadium Series
+2019 Stadium Series
+2023 Winter Classic
+|
+Category
+Commons
+|
+v
+t
+e
+Pittsburgh Penguins seasons
+|
+1960s |
+1960–61 . 1961–62 . 1962–63 . 1963–64 . 1964–65 . 1965–66 . 1966–67 . 1967–68
+1968–69
+1969–70
+|
+1970s |
+1970–71
+1971–72
+1972–73
+1973–74
+1974–75
+1975–76
+1976–77
+1977–78
+1978–79
+1979–80
+|
+1980s |
+1980–81
+1981–82
+1982–83
+1983–84
+1984–85
+1985–86
+1986–87
+1987–88
+1988–89
+1989–90
+|
+1990s |
+1990–91
+1991–92
+1992–93
+1993–94
+1994–95
+1995–96
+1996–97
+1997–98
+1998–99
+1999–00
+|
+2000s |
+2000–01
+2001–02
+2002–03
+2003–04
+2004–05
+2005–06
+2006–07
+2007–08
+2008–09
+2009–10
+|
+2010s |
+2010–11
+2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+2018–19
+2019–20
+|
+2020s |
+2020–21
+2021–22
+2022–23
+2023–24
+2024–25
+2025–26
+2026–27
+|
+Highlighted seasons indicate Stanley Cup championship
+|
+v
+t
+e
+2003–04 NHL season
+|
+Atlantic |
+New Jersey
+NY Islanders
+NY Rangers
+Philadelphia
+Pittsburgh
+|
+Northeast |
+Boston
+Buffalo
+Montreal
+Ottawa
+Toronto
+|
+Southeast |
+Atlanta
+Carolina
+Florida
+Tampa Bay
+Washington
+|
+Central |
+Chicago
+Columbus
+Detroit
+Nashville
+St. Louis
+|
+Northwest |
+Calgary
+Colorado
+Edmonton
+Minnesota
+Vancouver
+|
+Pacific |
+Anaheim
+Dallas
+Los Angeles
+Phoenix
+San Jose
+|
+See also |
+Draft
+Waiver draft
+NHL Challenge
+All-Star Game
+Heritage Classic
+Bertuzzi–Moore incident
+Flyers–Senators brawl
+West Coast Express
+Playoffs
+Stanley Cup Final
+Transactions
+|
+Retrieved from "https://en.wikipedia.org/w/index.php?title=2003–04_Pittsburgh_Penguins_season&oldid=1366738577"
+Categories: 2003–04 NHL season by team
+Pittsburgh Penguins seasons
+2003 in sports in Pennsylvania
+2004 in sports in Pennsylvania
+Hidden categories: Articles with short description
+Short description matches Wikidata
+Use American English from March 2026
+All Wikipedia articles written in American English
+Use mdy dates from August 2023
+Articles with hCards
+CS1 Finnish-language sources (fi)
+CS1 German-language sources (de)
+CS1 Swedish-language sources (sv)
+This page was last edited on 29 July 2026, at 22:26 (UTC).
+Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+2003–04 Pittsburgh Penguins season
+Add languages
+Add topic

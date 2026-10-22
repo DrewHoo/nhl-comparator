@@ -1,0 +1,23 @@
+URL: https://query.wikidata.org/sparql?format=json&query=SELECT%20(COUNT(DISTINCT%20%3Fp)%20AS%20%3Fhr)%20(COUNT(DISTINCT%20%3Fb)%20AS%20%3FhrAndNhl)%20WHERE%20%7B%20%3Fp%20wdt%3AP3598%20%3Fx%20.%20OPTIONAL%20%7B%20%3Fp%20wdt%3AP3522%20%3Fn%20.%20BIND(%3Fp%20AS%20%3Fb)%20%7D%20%7D
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+{
+  "head" : {
+    "vars" : [ "hr", "hrAndNhl" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "hr" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8828"
+      },
+      "hrAndNhl" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8523"
+      }
+    } ]
+  }
+}

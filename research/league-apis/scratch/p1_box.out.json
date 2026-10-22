@@ -1,0 +1,4200 @@
+{
+ "19171918": {
+  "season": "19171918",
+  "team": "MTL",
+  "reg": {
+   "id": 1917020001,
+   "date": "1917-12-19",
+   "venue": "Laurier Avenue Arena",
+   "status": 200,
+   "teams": {
+    "SEN": {
+     "skaters": 8,
+     "goalies": 1,
+     "zeroToi": 8,
+     "score": 4
+    },
+    "MTL": {
+     "skaters": 8,
+     "goalies": 1,
+     "zeroToi": 8,
+     "score": 7
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(5/16)",
+    "assists": "pop(6/16)",
+    "points": "pop(8/16)",
+    "plusMinus": "zero",
+    "pim": "pop(5/16)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "absent",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "C. Benedict",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 7,
+     "dec": "L"
+    },
+    {
+     "n": "G. Vezina",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 4,
+     "dec": "W"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8447594,
+   "name": "J. Malone",
+   "log2": {
+    "status": 200,
+    "games": 20,
+    "fields": {
+     "goals": "pop(17/20)",
+     "assists": "pop(3/20)",
+     "points": "pop(17/20)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "pop(4/20)",
+     "otGoals": "pop(1/20)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(7/20)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 2,
+    "fields": {
+     "goals": "pop(1/2)",
+     "assists": "zero",
+     "points": "pop(1/2)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(1/2)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8450137,
+   "name": "G. Vezina",
+   "log2": {
+    "status": 200,
+    "games": 21,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(21/21)",
+     "decision": "pop(21/21)",
+     "goalsAgainst": "pop(20/21)",
+     "shutouts": "pop(1/21)",
+     "pim": "zero",
+     "toi": "pop(21/21)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 2,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(2/2)",
+     "decision": "pop(2/2)",
+     "goalsAgainst": "pop(2/2)",
+     "shutouts": "zero",
+     "pim": "zero",
+     "toi": "pop(2/2)"
+    }
+   }
+  },
+  "po": {
+   "id": 1917030111,
+   "date": "1918-03-11",
+   "venue": "Mutual Street Arena",
+   "status": 200,
+   "teams": {
+    "TAN": {
+     "skaters": 9,
+     "goalies": 1,
+     "zeroToi": 9,
+     "score": 7
+    },
+    "MTL": {
+     "skaters": 9,
+     "goalies": 1,
+     "zeroToi": 9,
+     "score": 3
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(7/18)",
+    "assists": "pop(6/18)",
+    "points": "pop(10/18)",
+    "plusMinus": "zero",
+    "pim": "pop(13/18)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "zero",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "H. Holmes",
+     "toi": "60:00",
+     "starter": true,
+     "sv": 0,
+     "ga": 3,
+     "dec": "W"
+    },
+    {
+     "n": "G. Vezina",
+     "toi": "60:00",
+     "starter": true,
+     "sv": 0,
+     "ga": 7,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19261927": {
+  "season": "19261927",
+  "team": "MTL",
+  "reg": {
+   "id": 1926020002,
+   "date": "1926-11-16",
+   "venue": "Boston Arena",
+   "status": 200,
+   "teams": {
+    "BOS": {
+     "skaters": 11,
+     "goalies": 1,
+     "zeroToi": 11,
+     "score": 4,
+     "sog": 42
+    },
+    "MTL": {
+     "skaters": 11,
+     "goalies": 1,
+     "zeroToi": 11,
+     "score": 1,
+     "sog": 20
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/22)",
+    "assists": "pop(1/22)",
+    "points": "pop(3/22)",
+    "plusMinus": "zero",
+    "pim": "pop(7/22)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "absent",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "C. Stewart",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "G. Hainsworth",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 4,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8447888,
+   "name": "H. Morenz",
+   "log2": {
+    "status": 200,
+    "games": 44,
+    "fields": {
+     "goals": "pop(21/44)",
+     "assists": "pop(7/44)",
+     "points": "pop(23/44)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "pop(5/44)",
+     "otGoals": "zero",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(15/44)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 4,
+    "fields": {
+     "goals": "pop(1/4)",
+     "assists": "zero",
+     "points": "pop(1/4)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "pop(1/4)",
+     "otGoals": "pop(1/4)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(2/4)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8449987,
+   "name": "G. Hainsworth",
+   "log2": {
+    "status": 200,
+    "games": 44,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(44/44)",
+     "decision": "pop(44/44)",
+     "goalsAgainst": "pop(30/44)",
+     "shutouts": "pop(14/44)",
+     "pim": "zero",
+     "toi": "pop(44/44)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 4,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(4/4)",
+     "decision": "pop(4/4)",
+     "goalsAgainst": "pop(3/4)",
+     "shutouts": "pop(1/4)",
+     "pim": "zero",
+     "toi": "pop(4/4)"
+    }
+   }
+  },
+  "po": {
+   "id": 1926030111,
+   "date": "1927-03-29",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MMR": {
+     "skaters": 11,
+     "goalies": 1,
+     "zeroToi": 11,
+     "score": 1
+    },
+    "MTL": {
+     "skaters": 11,
+     "goalies": 1,
+     "zeroToi": 11,
+     "score": 1
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(2/22)",
+    "assists": "zero",
+    "points": "pop(2/22)",
+    "plusMinus": "zero",
+    "pim": "pop(10/22)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "zero",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "C. Benedict",
+     "toi": "60:00",
+     "starter": true,
+     "sv": 0,
+     "ga": 1,
+     "dec": "T"
+    },
+    {
+     "n": "G. Hainsworth",
+     "toi": "60:00",
+     "starter": true,
+     "sv": 0,
+     "ga": 1,
+     "dec": "T"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG",
+    "tie": true
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19331934": {
+  "season": "19331934",
+  "team": "MTL",
+  "reg": {
+   "id": 1933020001,
+   "date": "1933-11-09",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 14,
+     "goalies": 1,
+     "zeroToi": 14,
+     "score": 2,
+     "sog": 26
+    },
+    "DET": {
+     "skaters": 13,
+     "goalies": 1,
+     "zeroToi": 13,
+     "score": 1,
+     "sog": 27
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/27)",
+    "assists": "pop(3/27)",
+    "points": "pop(6/27)",
+    "plusMinus": "zero",
+    "pim": "pop(7/27)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "absent",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "L. Chabot",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "J. Roach",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 2,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8447110,
+   "name": "A. Joliat",
+   "log2": {
+    "status": 200,
+    "games": 48,
+    "fields": {
+     "goals": "pop(17/48)",
+     "assists": "pop(14/48)",
+     "points": "pop(23/48)",
+     "powerPlayGoals": "pop(4/48)",
+     "powerPlayPoints": "pop(7/48)",
+     "gameWinningGoals": "pop(7/48)",
+     "otGoals": "pop(1/48)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "pop(1/48)",
+     "pim": "pop(10/48)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 2,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "points": "zero",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(2/2)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8449850,
+   "name": "L. Chabot",
+   "log2": {
+    "status": 200,
+    "games": 47,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(47/47)",
+     "decision": "pop(47/47)",
+     "goalsAgainst": "pop(39/47)",
+     "shutouts": "pop(8/47)",
+     "pim": "pop(1/47)",
+     "toi": "pop(47/47)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 2,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(2/2)",
+     "decision": "pop(2/2)",
+     "goalsAgainst": "pop(2/2)",
+     "shutouts": "zero",
+     "pim": "zero",
+     "toi": "pop(2/2)"
+    }
+   }
+  },
+  "po": {
+   "id": 1933030121,
+   "date": "1934-03-22",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 14,
+     "goalies": 1,
+     "zeroToi": 14,
+     "score": 2
+    },
+    "CHI": {
+     "skaters": 14,
+     "goalies": 1,
+     "zeroToi": 14,
+     "score": 3
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(4/28)",
+    "assists": "pop(6/28)",
+    "points": "pop(8/28)",
+    "plusMinus": "zero",
+    "pim": "pop(6/28)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "zero",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "L. Chabot",
+     "toi": "60:00",
+     "starter": true,
+     "sv": 0,
+     "ga": 3,
+     "dec": "L"
+    },
+    {
+     "n": "C. Gardiner",
+     "toi": "60:00",
+     "starter": true,
+     "sv": 0,
+     "ga": 2,
+     "dec": "W"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19421943": {
+  "season": "19421943",
+  "team": "MTL",
+  "reg": {
+   "id": 1942020001,
+   "date": "1942-10-31",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 14,
+     "goalies": 1,
+     "zeroToi": 14,
+     "score": 3
+    },
+    "BOS": {
+     "skaters": 13,
+     "goalies": 1,
+     "zeroToi": 13,
+     "score": 2
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(4/27)",
+    "assists": "pop(8/27)",
+    "points": "pop(11/27)",
+    "plusMinus": "zero",
+    "pim": "pop(6/27)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(1/27)",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "absent",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "P. Bibeault",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 2,
+     "dec": "W"
+    },
+    {
+     "n": "F. Brimsek",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 3,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8445868,
+   "name": "T. Demers",
+   "log2": {
+    "status": 200,
+    "games": 9,
+    "fields": {
+     "goals": "pop(1/9)",
+     "assists": "pop(4/9)",
+     "points": "pop(5/9)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "pop(1/9)",
+     "otGoals": "zero",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "zero"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 0,
+    "fields": {}
+   }
+  },
+  "goalie": {
+   "id": 8449823,
+   "name": "P. Bibeault",
+   "log2": {
+    "status": 200,
+    "games": 50,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(50/50)",
+     "decision": "pop(50/50)",
+     "goalsAgainst": "pop(49/50)",
+     "shutouts": "pop(1/50)",
+     "pim": "zero",
+     "toi": "pop(50/50)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 5,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(5/5)",
+     "decision": "pop(5/5)",
+     "goalsAgainst": "pop(4/5)",
+     "shutouts": "pop(1/5)",
+     "pim": "zero",
+     "toi": "pop(5/5)"
+    }
+   }
+  },
+  "po": {
+   "id": 1942030121,
+   "date": "1943-03-21",
+   "venue": "Boston Garden",
+   "status": 200,
+   "teams": {
+    "BOS": {
+     "skaters": 13,
+     "goalies": 1,
+     "zeroToi": 13,
+     "score": 5
+    },
+    "MTL": {
+     "skaters": 13,
+     "goalies": 1,
+     "zeroToi": 13,
+     "score": 4
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(7/26)",
+    "assists": "pop(7/26)",
+    "points": "pop(13/26)",
+    "plusMinus": "zero",
+    "pim": "pop(8/26)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(3/26)",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "zero",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "F. Brimsek",
+     "toi": "72:30",
+     "starter": true,
+     "sv": 0,
+     "ga": 4,
+     "dec": "W"
+    },
+    {
+     "n": "P. Bibeault",
+     "toi": "72:30",
+     "starter": true,
+     "sv": 0,
+     "ga": 5,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "OT",
+    "otPeriods": 1
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19501951": {
+  "season": "19501951",
+  "team": "MTL",
+  "reg": {
+   "id": 1950020002,
+   "date": "1950-10-12",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 17,
+     "goalies": 1,
+     "zeroToi": 17,
+     "score": 3
+    },
+    "CHI": {
+     "skaters": 15,
+     "goalies": 1,
+     "zeroToi": 15,
+     "score": 3
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(6/32)",
+    "assists": "pop(8/32)",
+    "points": "pop(13/32)",
+    "plusMinus": "zero",
+    "pim": "pop(8/32)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(4/32)",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "absent",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "G. McNeil",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 3,
+     "dec": "T"
+    },
+    {
+     "n": "H. Lumley",
+     "toi": "60:00",
+     "starter": true,
+     "ga": 3,
+     "dec": "T"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG",
+    "tie": true
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8447901,
+   "name": "K. Mosdell",
+   "log2": {
+    "status": 200,
+    "games": 66,
+    "fields": {
+     "goals": "pop(12/66)",
+     "assists": "pop(13/66)",
+     "points": "pop(23/66)",
+     "powerPlayGoals": "pop(2/66)",
+     "powerPlayPoints": "pop(2/66)",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shorthandedGoals": "pop(2/66)",
+     "shorthandedPoints": "pop(3/66)",
+     "pim": "pop(12/66)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 11,
+    "fields": {
+     "goals": "pop(1/11)",
+     "assists": "pop(1/11)",
+     "points": "pop(2/11)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "pop(1/11)",
+     "otGoals": "zero",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(2/11)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8450041,
+   "name": "G. McNeil",
+   "log2": {
+    "status": 200,
+    "games": 70,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(70/70)",
+     "decision": "pop(70/70)",
+     "goalsAgainst": "pop(64/70)",
+     "shutouts": "pop(6/70)",
+     "pim": "zero",
+     "toi": "pop(70/70)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 11,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(11/11)",
+     "decision": "pop(11/11)",
+     "goalsAgainst": "pop(10/11)",
+     "shutouts": "pop(1/11)",
+     "pim": "zero",
+     "toi": "pop(11/11)"
+    }
+   }
+  },
+  "po": {
+   "id": 1950030111,
+   "date": "1951-03-27",
+   "venue": "Detroit Olympia",
+   "status": 200,
+   "teams": {
+    "DET": {
+     "skaters": 17,
+     "goalies": 1,
+     "zeroToi": 17,
+     "score": 2
+    },
+    "MTL": {
+     "skaters": 17,
+     "goalies": 1,
+     "zeroToi": 17,
+     "score": 3
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(5/34)",
+    "assists": "pop(6/34)",
+    "points": "pop(8/34)",
+    "plusMinus": "zero",
+    "pim": "pop(5/34)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "zero",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "absent",
+    "saveShotsAgainst": "absent",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "absent",
+    "saves": "zero",
+    "savePctg": "absent",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "T. Sawchuk",
+     "toi": "121:09",
+     "starter": true,
+     "sv": 0,
+     "ga": 3,
+     "dec": "L"
+    },
+    {
+     "n": "G. McNeil",
+     "toi": "121:09",
+     "starter": true,
+     "sv": 0,
+     "ga": 2,
+     "dec": "W"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "OT",
+    "otPeriods": 4
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19591960": {
+  "season": "19591960",
+  "team": "MTL",
+  "reg": {
+   "id": 1959020002,
+   "date": "1959-10-08",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 18,
+     "goalies": 1,
+     "zeroToi": 18,
+     "score": 4,
+     "sog": 35
+    },
+    "BOS": {
+     "skaters": 17,
+     "goalies": 1,
+     "zeroToi": 17,
+     "score": 1,
+     "sog": 21
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(4/35)",
+    "assists": "pop(7/35)",
+    "points": "pop(11/35)",
+    "plusMinus": "pop(24/35)",
+    "pim": "pop(16/35)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(1/35)",
+    "sog": "pop(24/35)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/2)",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "pop(2/2)",
+    "saves": "pop(2/2)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "J. Plante",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 21,
+     "sv": 20,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "H. Lumley",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 35,
+     "sv": 31,
+     "ga": 4,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8446623,
+   "name": "P. Goyette",
+   "log2": {
+    "status": 200,
+    "games": 65,
+    "fields": {
+     "goals": "pop(12/65)",
+     "assists": "pop(17/65)",
+     "points": "pop(29/65)",
+     "plusMinus": "pop(41/65)",
+     "powerPlayGoals": "pop(1/65)",
+     "powerPlayPoints": "pop(2/65)",
+     "gameWinningGoals": "pop(5/65)",
+     "otGoals": "zero",
+     "shots": "pop(50/65)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(2/65)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 8,
+    "fields": {
+     "goals": "pop(1/8)",
+     "assists": "pop(1/8)",
+     "points": "pop(2/8)",
+     "plusMinus": "pop(5/8)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shots": "pop(7/8)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(2/8)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8450066,
+   "name": "J. Plante",
+   "log2": {
+    "status": 200,
+    "games": 69,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(69/69)",
+     "decision": "pop(69/69)",
+     "shotsAgainst": "pop(69/69)",
+     "goalsAgainst": "pop(66/69)",
+     "savePctg": "pop(69/69)",
+     "shutouts": "pop(3/69)",
+     "pim": "pop(1/69)",
+     "toi": "pop(69/69)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 8,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(8/8)",
+     "decision": "pop(8/8)",
+     "shotsAgainst": "pop(8/8)",
+     "goalsAgainst": "pop(5/8)",
+     "savePctg": "pop(8/8)",
+     "shutouts": "pop(3/8)",
+     "pim": "zero",
+     "toi": "pop(8/8)"
+    }
+   }
+  },
+  "po": {
+   "id": 1959030111,
+   "date": "1960-03-24",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 17,
+     "goalies": 1,
+     "zeroToi": 17,
+     "score": 4,
+     "sog": 32
+    },
+    "CHI": {
+     "skaters": 17,
+     "goalies": 1,
+     "zeroToi": 17,
+     "score": 3,
+     "sog": 22
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(7/34)",
+    "assists": "pop(9/34)",
+    "points": "pop(14/34)",
+    "plusMinus": "pop(22/34)",
+    "pim": "pop(6/34)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(1/34)",
+    "sog": "pop(22/34)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/2)",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/2)",
+    "shotsAgainst": "pop(2/2)",
+    "saves": "pop(2/2)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "J. Plante",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 22,
+     "sv": 19,
+     "ga": 3,
+     "dec": "W"
+    },
+    {
+     "n": "G. Hall",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 32,
+     "sv": 28,
+     "ga": 4,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19671968": {
+  "season": "19671968",
+  "team": "MTL",
+  "reg": {
+   "id": 1967020001,
+   "date": "1967-10-11",
+   "venue": "Civic Arena",
+   "status": 200,
+   "teams": {
+    "PIT": {
+     "skaters": 15,
+     "goalies": 2,
+     "zeroToi": 15,
+     "score": 1,
+     "sog": 36
+    },
+    "MTL": {
+     "skaters": 16,
+     "goalies": 2,
+     "zeroToi": 16,
+     "score": 2,
+     "sog": 39
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/31)",
+    "assists": "pop(3/31)",
+    "points": "pop(6/31)",
+    "plusMinus": "pop(16/31)",
+    "pim": "pop(8/31)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "pop(27/31)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "H. Bassen",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 39,
+     "sv": 37,
+     "ga": 2,
+     "dec": "L"
+    },
+    {
+     "n": "L. Binkley",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "E. Wakely",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "R. Vachon",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 36,
+     "sv": 35,
+     "ga": 1,
+     "dec": "W"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8445408,
+   "name": "J. Beliveau",
+   "log2": {
+    "status": 200,
+    "games": 59,
+    "fields": {
+     "goals": "pop(24/59)",
+     "assists": "pop(27/59)",
+     "points": "pop(37/59)",
+     "plusMinus": "pop(36/59)",
+     "powerPlayGoals": "pop(8/59)",
+     "powerPlayPoints": "pop(16/59)",
+     "gameWinningGoals": "pop(3/59)",
+     "otGoals": "zero",
+     "shots": "pop(58/59)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(12/59)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 10,
+    "fields": {
+     "goals": "pop(5/10)",
+     "assists": "pop(3/10)",
+     "points": "pop(5/10)",
+     "plusMinus": "pop(7/10)",
+     "powerPlayGoals": "pop(2/10)",
+     "powerPlayPoints": "pop(2/10)",
+     "gameWinningGoals": "pop(1/10)",
+     "otGoals": "zero",
+     "shots": "pop(10/10)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(3/10)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8452122,
+   "name": "R. Vachon",
+   "log2": {
+    "status": 200,
+    "games": 39,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(36/39)",
+     "decision": "pop(38/38)",
+     "shotsAgainst": "pop(39/39)",
+     "goalsAgainst": "pop(35/39)",
+     "savePctg": "pop(39/39)",
+     "shutouts": "pop(4/39)",
+     "pim": "pop(1/39)",
+     "toi": "pop(39/39)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 2,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(1/2)",
+     "decision": "pop(2/2)",
+     "shotsAgainst": "pop(2/2)",
+     "goalsAgainst": "pop(2/2)",
+     "savePctg": "pop(2/2)",
+     "shutouts": "zero",
+     "pim": "zero",
+     "toi": "pop(2/2)"
+    }
+   }
+  },
+  "po": {
+   "id": 1967030111,
+   "date": "1968-04-04",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 2,
+     "sog": 35
+    },
+    "BOS": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 1,
+     "sog": 22
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/34)",
+    "assists": "pop(5/34)",
+    "points": "pop(8/34)",
+    "plusMinus": "pop(4/34)",
+    "pim": "pop(11/34)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(1/34)",
+    "sog": "pop(21/34)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "pop(1/4)"
+   },
+   "goalieSample": [
+    {
+     "n": "L. Worsley",
+     "toi": "59:57",
+     "starter": true,
+     "sa": 22,
+     "sv": 21,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "R. Vachon",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "E. Johnston",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "G. Cheevers",
+     "toi": "59:37",
+     "starter": true,
+     "sa": 35,
+     "sv": 33,
+     "ga": 2,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19721973": {
+  "season": "19721973",
+  "team": "MTL",
+  "reg": {
+   "id": 1972020001,
+   "date": "1972-10-07",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 3,
+     "sog": 36
+    },
+    "MNS": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 0,
+     "sog": 33
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/34)",
+    "assists": "pop(5/34)",
+    "points": "pop(8/34)",
+    "plusMinus": "pop(25/34)",
+    "pim": "pop(5/34)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "pop(31/34)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(1/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "M. Plasse",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "K. Dryden",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 33,
+     "sv": 33,
+     "ga": 0,
+     "dec": "W"
+    },
+    {
+     "n": "L. Worsley",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "C. Maniago",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 36,
+     "sv": 33,
+     "ga": 3,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8451856,
+   "name": "M. Tardif",
+   "log2": {
+    "status": 200,
+    "games": 76,
+    "fields": {
+     "goals": "pop(21/76)",
+     "assists": "pop(24/76)",
+     "points": "pop(39/76)",
+     "plusMinus": "pop(40/76)",
+     "powerPlayGoals": "pop(3/76)",
+     "powerPlayPoints": "pop(8/76)",
+     "gameWinningGoals": "pop(4/76)",
+     "otGoals": "zero",
+     "shots": "pop(61/76)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(16/76)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 14,
+    "fields": {
+     "goals": "pop(6/14)",
+     "assists": "pop(6/14)",
+     "points": "pop(8/14)",
+     "plusMinus": "pop(7/14)",
+     "powerPlayGoals": "pop(2/14)",
+     "powerPlayPoints": "pop(5/14)",
+     "gameWinningGoals": "pop(2/14)",
+     "otGoals": "zero",
+     "shots": "pop(13/14)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(3/14)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8446490,
+   "name": "K. Dryden",
+   "log2": {
+    "status": 200,
+    "games": 54,
+    "fields": {
+     "goals": "zero",
+     "assists": "pop(4/54)",
+     "gamesStarted": "pop(53/54)",
+     "decision": "pop(53/53)",
+     "shotsAgainst": "pop(54/54)",
+     "goalsAgainst": "pop(48/54)",
+     "savePctg": "pop(54/54)",
+     "shutouts": "pop(6/54)",
+     "pim": "pop(1/54)",
+     "toi": "pop(54/54)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 17,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(17/17)",
+     "decision": "pop(17/17)",
+     "shotsAgainst": "pop(17/17)",
+     "goalsAgainst": "pop(16/17)",
+     "savePctg": "pop(17/17)",
+     "shutouts": "pop(1/17)",
+     "pim": "pop(1/17)",
+     "toi": "pop(17/17)"
+    }
+   }
+  },
+  "po": {
+   "id": 1972030111,
+   "date": "1973-04-04",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 2,
+     "sog": 36
+    },
+    "BUF": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 1,
+     "sog": 32
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/34)",
+    "assists": "pop(5/34)",
+    "points": "pop(6/34)",
+    "plusMinus": "pop(12/34)",
+    "pim": "pop(10/34)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(1/34)",
+    "sog": "pop(30/34)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "M. Plasse",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "K. Dryden",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 32,
+     "sv": 31,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "R. Crozier",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "D. Dryden",
+     "toi": "59:19",
+     "starter": true,
+     "sa": 36,
+     "sv": 34,
+     "ga": 2,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19791980": {
+  "season": "19791980",
+  "team": "MTL",
+  "reg": {
+   "id": 1979020008,
+   "date": "1979-10-11",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 3,
+     "sog": 36
+    },
+    "AFM": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 1,
+     "sog": 15
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(4/34)",
+    "assists": "pop(5/34)",
+    "points": "pop(9/34)",
+    "plusMinus": "pop(18/34)",
+    "pim": "pop(8/34)",
+    "hits": "zero",
+    "powerPlayGoals": "zero",
+    "sog": "pop(24/34)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "pop(1/4)"
+   },
+   "goalieSample": [
+    {
+     "n": "M. Larocque",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 15,
+     "sv": 14,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "D. Herron",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "D. Bouchard",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 36,
+     "sv": 33,
+     "ga": 3,
+     "dec": "L"
+    },
+    {
+     "n": "P. Riggin",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8447988,
+   "name": "R. Houle",
+   "log2": {
+    "status": 200,
+    "games": 60,
+    "fields": {
+     "goals": "pop(14/60)",
+     "assists": "pop(22/60)",
+     "points": "pop(31/60)",
+     "plusMinus": "pop(40/60)",
+     "powerPlayGoals": "pop(2/60)",
+     "powerPlayPoints": "pop(10/60)",
+     "gameWinningGoals": "pop(3/60)",
+     "otGoals": "zero",
+     "shots": "pop(52/60)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(24/60)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 10,
+    "fields": {
+     "goals": "pop(3/10)",
+     "assists": "pop(4/10)",
+     "points": "pop(5/10)",
+     "plusMinus": "pop(6/10)",
+     "powerPlayGoals": "pop(1/10)",
+     "powerPlayPoints": "pop(2/10)",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shots": "pop(8/10)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "pop(1/10)",
+     "pim": "pop(6/10)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8448700,
+   "name": "M. Larocque",
+   "log2": {
+    "status": 200,
+    "games": 39,
+    "fields": {
+     "goals": "zero",
+     "assists": "pop(2/39)",
+     "gamesStarted": "pop(37/39)",
+     "decision": "pop(38/38)",
+     "shotsAgainst": "pop(39/39)",
+     "goalsAgainst": "pop(36/39)",
+     "savePctg": "pop(39/39)",
+     "shutouts": "pop(3/39)",
+     "pim": "pop(2/39)",
+     "toi": "pop(39/39)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 5,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(5/5)",
+     "decision": "pop(5/5)",
+     "shotsAgainst": "pop(5/5)",
+     "goalsAgainst": "pop(4/5)",
+     "savePctg": "pop(5/5)",
+     "shutouts": "pop(1/5)",
+     "pim": "zero",
+     "toi": "pop(5/5)"
+    }
+   }
+  },
+  "po": {
+   "id": 1979030131,
+   "date": "1980-04-08",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 6,
+     "sog": 37
+    },
+    "HFD": {
+     "skaters": 17,
+     "goalies": 2,
+     "zeroToi": 17,
+     "score": 1,
+     "sog": 21
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(6/34)",
+    "assists": "pop(9/34)",
+    "points": "pop(13/34)",
+    "plusMinus": "pop(21/34)",
+    "pim": "pop(5/34)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(1/34)",
+    "sog": "pop(26/34)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "M. Larocque",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "D. Herron",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 21,
+     "sv": 20,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "A. Smith",
+     "toi": "59:52",
+     "starter": true,
+     "sa": 37,
+     "sv": 31,
+     "ga": 6,
+     "dec": "L"
+    },
+    {
+     "n": "J. Garrett",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19871988": {
+  "season": "19871988",
+  "team": "MTL",
+  "reg": {
+   "id": 1987020004,
+   "date": "1987-10-08",
+   "venue": "Spectrum",
+   "status": 200,
+   "teams": {
+    "PHI": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 18,
+     "score": 2,
+     "sog": 27
+    },
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 18,
+     "score": 2,
+     "sog": 24
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(4/36)",
+    "assists": "pop(7/36)",
+    "points": "pop(10/36)",
+    "plusMinus": "pop(16/36)",
+    "pim": "pop(16/36)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(2/36)",
+    "sog": "pop(26/36)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/2)",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/2)",
+    "saves": "pop(2/2)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "W. Young",
+     "starter": false
+    },
+    {
+     "n": "M. Laforest",
+     "toi": "65:00",
+     "starter": true,
+     "sa": 24,
+     "sv": 22,
+     "ga": 2,
+     "dec": "T"
+    },
+    {
+     "n": "B. Hayward",
+     "starter": false
+    },
+    {
+     "n": "P. Roy",
+     "toi": "65:00",
+     "starter": true,
+     "sa": 27,
+     "sv": 25,
+     "ga": 2,
+     "dec": "T"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "OT",
+    "tie": true,
+    "otPeriods": 1
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8448772,
+   "name": "C. Lemieux",
+   "log2": {
+    "status": 200,
+    "games": 78,
+    "fields": {
+     "goals": "pop(28/78)",
+     "assists": "pop(25/78)",
+     "points": "pop(45/78)",
+     "plusMinus": "pop(56/78)",
+     "powerPlayGoals": "pop(6/78)",
+     "powerPlayPoints": "pop(11/78)",
+     "gameWinningGoals": "pop(3/78)",
+     "otGoals": "zero",
+     "shots": "pop(74/78)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(40/78)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 11,
+    "fields": {
+     "goals": "pop(2/11)",
+     "assists": "pop(2/11)",
+     "points": "pop(4/11)",
+     "plusMinus": "pop(8/11)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "pop(2/11)",
+     "otGoals": "zero",
+     "shots": "pop(11/11)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(6/11)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8451033,
+   "name": "P. Roy",
+   "log2": {
+    "status": 200,
+    "games": 45,
+    "fields": {
+     "goals": "zero",
+     "assists": "pop(2/45)",
+     "gamesStarted": "pop(43/45)",
+     "decision": "pop(44/44)",
+     "shotsAgainst": "pop(45/45)",
+     "goalsAgainst": "pop(42/45)",
+     "savePctg": "pop(45/45)",
+     "shutouts": "pop(3/45)",
+     "pim": "pop(3/45)",
+     "toi": "pop(45/45)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 8,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(7/8)",
+     "decision": "pop(7/7)",
+     "shotsAgainst": "pop(7/8)",
+     "goalsAgainst": "pop(7/8)",
+     "savePctg": "pop(7/7)",
+     "shutouts": "zero",
+     "pim": "zero",
+     "toi": "pop(8/8)"
+    }
+   }
+  },
+  "po": {
+   "id": 1987030111,
+   "date": "1988-04-06",
+   "venue": "Montreal Forum",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 18,
+     "score": 4,
+     "sog": 35
+    },
+    "HFD": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 18,
+     "score": 3,
+     "sog": 24
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(7/36)",
+    "assists": "pop(10/36)",
+    "points": "pop(13/36)",
+    "plusMinus": "pop(21/36)",
+    "pim": "pop(13/36)",
+    "hits": "zero",
+    "powerPlayGoals": "pop(2/36)",
+    "sog": "pop(27/36)",
+    "faceoffWinningPctg": "zero",
+    "toi": "absent",
+    "blockedShots": "zero",
+    "shifts": "zero",
+    "giveaways": "zero",
+    "takeaways": "zero"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(3/3)",
+    "goalsAgainst": "pop(3/3)",
+    "toi": "pop(3/3)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(3/3)",
+    "saves": "pop(3/3)",
+    "savePctg": "pop(3/3)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "B. Hayward",
+     "starter": false
+    },
+    {
+     "n": "P. Roy",
+     "toi": "59:49",
+     "starter": true,
+     "sa": 24,
+     "sv": 21,
+     "ga": 3,
+     "dec": "W"
+    },
+    {
+     "n": "M. Liut",
+     "toi": "40:00",
+     "starter": true,
+     "sa": 24,
+     "sv": 22,
+     "ga": 2
+    },
+    {
+     "n": "R. Brodeur",
+     "toi": "19:12",
+     "starter": false,
+     "sa": 11,
+     "sv": 9,
+     "ga": 2,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "19971998": {
+  "season": "19971998",
+  "team": "MTL",
+  "reg": {
+   "id": 1997020002,
+   "date": "1997-10-01",
+   "venue": "Centre Molson",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 2,
+     "sog": 25
+    },
+    "OTT": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 2,
+     "sog": 30
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/36)",
+    "assists": "pop(7/36)",
+    "points": "pop(9/36)",
+    "plusMinus": "pop(15/36)",
+    "pim": "pop(8/36)",
+    "hits": "pop(29/36)",
+    "powerPlayGoals": "pop(2/36)",
+    "sog": "pop(26/36)",
+    "faceoffWinningPctg": "pop(10/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(16/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(21/36)",
+    "takeaways": "pop(9/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "zero",
+    "saveShotsAgainst": "pop(2/2)",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/2)",
+    "saves": "pop(2/2)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "A. Moog",
+     "toi": "65:00",
+     "starter": true,
+     "sa": 30,
+     "sv": 28,
+     "ga": 2,
+     "dec": "T"
+    },
+    {
+     "n": "J. Thibault",
+     "starter": false
+    },
+    {
+     "n": "D. Rhodes",
+     "toi": "65:00",
+     "starter": true,
+     "sa": 25,
+     "sv": 23,
+     "ga": 2,
+     "dec": "T"
+    },
+    {
+     "n": "R. Tugnutt",
+     "starter": false
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "OT",
+    "tie": true,
+    "otPeriods": 1
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8450825,
+   "name": "S. Richer",
+   "log2": {
+    "status": 200,
+    "games": 40,
+    "fields": {
+     "goals": "pop(10/40)",
+     "assists": "pop(11/40)",
+     "points": "pop(18/40)",
+     "plusMinus": "pop(23/40)",
+     "powerPlayGoals": "pop(4/40)",
+     "powerPlayPoints": "pop(7/40)",
+     "gameWinningGoals": "pop(2/40)",
+     "otGoals": "zero",
+     "shots": "pop(35/40)",
+     "shifts": "pop(39/40)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "pop(3/40)",
+     "pim": "pop(7/40)",
+     "toi": "pop(39/39)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 0,
+    "fields": {}
+   }
+  },
+  "goalie": {
+   "id": 8449681,
+   "name": "A. Moog",
+   "log2": {
+    "status": 200,
+    "games": 42,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(40/42)",
+     "decision": "pop(40/40)",
+     "shotsAgainst": "pop(42/42)",
+     "goalsAgainst": "pop(39/42)",
+     "savePctg": "pop(42/42)",
+     "shutouts": "pop(3/42)",
+     "pim": "pop(2/42)",
+     "toi": "pop(42/42)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 9,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(9/9)",
+     "decision": "pop(9/9)",
+     "shotsAgainst": "pop(9/9)",
+     "goalsAgainst": "pop(8/9)",
+     "savePctg": "pop(9/9)",
+     "shutouts": "pop(1/9)",
+     "pim": "zero",
+     "toi": "pop(9/9)"
+    }
+   }
+  },
+  "po": {
+   "id": 1997030121,
+   "date": "1998-04-23",
+   "venue": "Civic Arena",
+   "status": 200,
+   "teams": {
+    "PIT": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 2,
+     "sog": 36
+    },
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 3,
+     "sog": 40
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(5/36)",
+    "assists": "pop(6/36)",
+    "points": "pop(11/36)",
+    "plusMinus": "pop(19/36)",
+    "pim": "pop(13/36)",
+    "hits": "pop(22/36)",
+    "powerPlayGoals": "pop(1/36)",
+    "sog": "pop(29/36)",
+    "faceoffWinningPctg": "pop(11/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(12/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(19/36)",
+    "takeaways": "pop(18/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/2)",
+    "saveShotsAgainst": "pop(2/2)",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/2)",
+    "saves": "pop(2/2)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "K. Wregget",
+     "starter": false
+    },
+    {
+     "n": "T. Barrasso",
+     "toi": "78:31",
+     "starter": true,
+     "sa": 40,
+     "sv": 37,
+     "ga": 3,
+     "dec": "L"
+    },
+    {
+     "n": "A. Moog",
+     "toi": "78:39",
+     "starter": true,
+     "sa": 36,
+     "sv": 34,
+     "ga": 2,
+     "dec": "W"
+    },
+    {
+     "n": "J. Thibault",
+     "starter": false
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "OT",
+    "otPeriods": 1
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "20052006": {
+  "season": "20052006",
+  "team": "MTL",
+  "reg": {
+   "id": 2005020001,
+   "date": "2005-10-05",
+   "venue": "TD Banknorth Garden",
+   "status": 200,
+   "teams": {
+    "BOS": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 1,
+     "sog": 30
+    },
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 2,
+     "sog": 21
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(3/36)",
+    "assists": "pop(6/36)",
+    "points": "pop(9/36)",
+    "plusMinus": "pop(16/36)",
+    "pim": "pop(8/36)",
+    "hits": "pop(15/36)",
+    "powerPlayGoals": "pop(1/36)",
+    "sog": "pop(27/36)",
+    "faceoffWinningPctg": "pop(11/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(12/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(6/36)",
+    "takeaways": "pop(6/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/2)",
+    "saveShotsAgainst": "pop(2/2)",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/2)",
+    "saves": "pop(2/2)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "A. Raycroft",
+     "toi": "59:36",
+     "starter": true,
+     "sa": 21,
+     "sv": 19,
+     "ga": 2,
+     "dec": "L"
+    },
+    {
+     "n": "H. Toivonen",
+     "starter": false
+    },
+    {
+     "n": "J. Theodore",
+     "toi": "59:51",
+     "starter": true,
+     "sa": 30,
+     "sv": 29,
+     "ga": 1,
+     "dec": "W"
+    },
+    {
+     "n": "Y. Danis",
+     "starter": false
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8458529,
+   "name": "A. Kovalev",
+   "log2": {
+    "status": 200,
+    "games": 69,
+    "fields": {
+     "goals": "pop(19/69)",
+     "assists": "pop(30/69)",
+     "points": "pop(44/69)",
+     "plusMinus": "pop(38/69)",
+     "powerPlayGoals": "pop(8/69)",
+     "powerPlayPoints": "pop(26/69)",
+     "gameWinningGoals": "pop(5/69)",
+     "otGoals": "pop(1/69)",
+     "shots": "pop(65/69)",
+     "shifts": "pop(69/69)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(23/69)",
+     "toi": "pop(69/69)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 6,
+    "fields": {
+     "goals": "pop(3/6)",
+     "assists": "pop(3/6)",
+     "points": "pop(4/6)",
+     "plusMinus": "pop(4/6)",
+     "powerPlayGoals": "pop(1/6)",
+     "powerPlayPoints": "pop(2/6)",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shots": "pop(5/6)",
+     "shifts": "pop(6/6)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(2/6)",
+     "toi": "pop(6/6)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8460535,
+   "name": "J. Theodore",
+   "log2": {
+    "status": 200,
+    "games": 43,
+    "fields": {
+     "goals": "zero",
+     "assists": "pop(1/43)",
+     "gamesStarted": "pop(41/43)",
+     "decision": "pop(42/42)",
+     "shotsAgainst": "pop(43/43)",
+     "goalsAgainst": "pop(43/43)",
+     "savePctg": "pop(43/43)",
+     "shutouts": "zero",
+     "pim": "pop(1/43)",
+     "toi": "pop(43/43)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 9,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(9/9)",
+     "decision": "pop(9/9)",
+     "shotsAgainst": "pop(9/9)",
+     "goalsAgainst": "pop(9/9)",
+     "savePctg": "pop(9/9)",
+     "shutouts": "zero",
+     "pim": "zero",
+     "toi": "pop(9/9)"
+    }
+   }
+  },
+  "po": {
+   "id": 2005030121,
+   "date": "2006-04-22",
+   "venue": "RBC Center",
+   "status": 200,
+   "teams": {
+    "CAR": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 1,
+     "sog": 43
+    },
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 6,
+     "sog": 21
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(6/36)",
+    "assists": "pop(10/36)",
+    "points": "pop(13/36)",
+    "plusMinus": "pop(23/36)",
+    "pim": "pop(8/36)",
+    "hits": "pop(20/36)",
+    "powerPlayGoals": "pop(2/36)",
+    "sog": "pop(28/36)",
+    "faceoffWinningPctg": "pop(9/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(16/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(11/36)",
+    "takeaways": "pop(9/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/2)",
+    "saveShotsAgainst": "pop(2/2)",
+    "goalsAgainst": "pop(2/2)",
+    "toi": "pop(2/2)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/2)",
+    "saves": "pop(2/2)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "pop(1/2)"
+   },
+   "goalieSample": [
+    {
+     "n": "M. Gerber",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 21,
+     "sv": 15,
+     "ga": 6,
+     "dec": "L"
+    },
+    {
+     "n": "C. Ward",
+     "starter": false
+    },
+    {
+     "n": "D. Aebischer",
+     "starter": false
+    },
+    {
+     "n": "C. Huet",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 43,
+     "sv": 42,
+     "ga": 1,
+     "dec": "W"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "20102011": {
+  "season": "20102011",
+  "team": "MTL",
+  "reg": {
+   "id": 2010020001,
+   "date": "2010-10-07",
+   "venue": "Air Canada Centre",
+   "status": 200,
+   "teams": {
+    "TOR": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 3,
+     "sog": 24
+    },
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 2,
+     "sog": 28
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(5/36)",
+    "assists": "pop(7/36)",
+    "points": "pop(12/36)",
+    "plusMinus": "pop(15/36)",
+    "pim": "pop(6/36)",
+    "hits": "pop(33/36)",
+    "powerPlayGoals": "zero",
+    "sog": "pop(26/36)",
+    "faceoffWinningPctg": "pop(9/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(22/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(13/36)",
+    "takeaways": "pop(13/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/4)",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "J. Giguere",
+     "toi": "58:49",
+     "starter": true,
+     "sa": 28,
+     "sv": 26,
+     "ga": 2,
+     "dec": "W"
+    },
+    {
+     "n": "J. Gustavsson",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "C. Price",
+     "toi": "58:59",
+     "starter": true,
+     "sa": 24,
+     "sv": 21,
+     "ga": 3,
+     "dec": "L"
+    },
+    {
+     "n": "A. Auld",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "specialEvent",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8471310,
+   "name": "D. Boyd",
+   "log2": {
+    "status": 200,
+    "games": 10,
+    "fields": {
+     "goals": "pop(1/10)",
+     "assists": "zero",
+     "points": "pop(1/10)",
+     "plusMinus": "pop(6/10)",
+     "powerPlayGoals": "zero",
+     "powerPlayPoints": "zero",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shots": "pop(4/10)",
+     "shifts": "pop(10/10)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(1/10)",
+     "toi": "pop(10/10)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 0,
+    "fields": {}
+   }
+  },
+  "goalie": {
+   "id": 8471679,
+   "name": "C. Price",
+   "log2": {
+    "status": 200,
+    "games": 72,
+    "fields": {
+     "goals": "zero",
+     "assists": "pop(2/72)",
+     "gamesStarted": "pop(70/72)",
+     "decision": "pop(72/72)",
+     "shotsAgainst": "pop(72/72)",
+     "goalsAgainst": "pop(63/72)",
+     "savePctg": "pop(72/72)",
+     "shutouts": "pop(8/72)",
+     "pim": "pop(3/72)",
+     "toi": "pop(72/72)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 7,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(7/7)",
+     "decision": "pop(7/7)",
+     "shotsAgainst": "pop(7/7)",
+     "goalsAgainst": "pop(6/7)",
+     "savePctg": "pop(7/7)",
+     "shutouts": "pop(1/7)",
+     "pim": "zero",
+     "toi": "pop(7/7)"
+    }
+   }
+  },
+  "po": {
+   "id": 2010030131,
+   "date": "2011-04-14",
+   "venue": "TD Garden",
+   "status": 200,
+   "teams": {
+    "BOS": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 0,
+     "sog": 31
+    },
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 2,
+     "sog": 20
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(1/36)",
+    "assists": "pop(1/36)",
+    "points": "pop(2/36)",
+    "plusMinus": "pop(13/36)",
+    "pim": "pop(7/36)",
+    "hits": "pop(26/36)",
+    "powerPlayGoals": "zero",
+    "sog": "pop(25/36)",
+    "faceoffWinningPctg": "pop(13/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(16/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(10/36)",
+    "takeaways": "pop(7/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/4)",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(1/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "T. Thomas",
+     "toi": "59:55",
+     "starter": true,
+     "sa": 20,
+     "sv": 18,
+     "ga": 2,
+     "dec": "L"
+    },
+    {
+     "n": "T. Rask",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "C. Price",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 31,
+     "sv": 31,
+     "ga": 0,
+     "dec": "W"
+    },
+    {
+     "n": "A. Auld",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "20172018": {
+  "season": "20172018",
+  "team": "WSH",
+  "reg": {
+   "id": 2017020008,
+   "date": "2017-10-05",
+   "venue": "Canadian Tire Centre",
+   "status": 200,
+   "teams": {
+    "OTT": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 4,
+     "sog": 32
+    },
+    "WSH": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 5,
+     "sog": 28
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(5/36)",
+    "assists": "pop(8/36)",
+    "points": "pop(11/36)",
+    "plusMinus": "pop(30/36)",
+    "pim": "pop(4/36)",
+    "hits": "pop(23/36)",
+    "powerPlayGoals": "zero",
+    "sog": "pop(30/36)",
+    "faceoffWinningPctg": "pop(16/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(20/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(10/36)",
+    "takeaways": "pop(12/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/4)",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "M. Condon",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "C. Anderson",
+     "toi": "65:00",
+     "starter": true,
+     "sa": 28,
+     "sv": 24,
+     "ga": 4,
+     "dec": "O"
+    },
+    {
+     "n": "P. Grubauer",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "B. Holtby",
+     "toi": "65:00",
+     "starter": true,
+     "sa": 32,
+     "sv": 28,
+     "ga": 4,
+     "dec": "W"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "SO"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8475744,
+   "name": "E. Kuznetsov",
+   "log2": {
+    "status": 200,
+    "games": 79,
+    "fields": {
+     "goals": "pop(22/79)",
+     "assists": "pop(39/79)",
+     "points": "pop(50/79)",
+     "plusMinus": "pop(55/79)",
+     "powerPlayGoals": "pop(6/79)",
+     "powerPlayPoints": "pop(25/79)",
+     "gameWinningGoals": "pop(8/79)",
+     "otGoals": "pop(2/79)",
+     "shots": "pop(73/79)",
+     "shifts": "pop(79/79)",
+     "shorthandedGoals": "pop(1/79)",
+     "shorthandedPoints": "pop(1/79)",
+     "pim": "pop(22/79)",
+     "toi": "pop(79/79)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 24,
+    "fields": {
+     "goals": "pop(11/24)",
+     "assists": "pop(12/24)",
+     "points": "pop(19/24)",
+     "plusMinus": "pop(15/24)",
+     "powerPlayGoals": "pop(2/24)",
+     "powerPlayPoints": "pop(9/24)",
+     "gameWinningGoals": "pop(2/24)",
+     "otGoals": "pop(1/24)",
+     "shots": "pop(21/24)",
+     "shifts": "pop(24/24)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(7/24)",
+     "toi": "pop(24/24)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8474651,
+   "name": "B. Holtby",
+   "log2": {
+    "status": 200,
+    "games": 54,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(54/54)",
+     "decision": "pop(54/54)",
+     "shotsAgainst": "pop(54/54)",
+     "goalsAgainst": "pop(54/54)",
+     "savePctg": "pop(54/54)",
+     "shutouts": "zero",
+     "pim": "pop(1/54)",
+     "toi": "pop(54/54)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 23,
+    "fields": {
+     "goals": "zero",
+     "assists": "pop(1/23)",
+     "gamesStarted": "pop(22/23)",
+     "decision": "pop(23/23)",
+     "shotsAgainst": "pop(23/23)",
+     "goalsAgainst": "pop(21/23)",
+     "savePctg": "pop(23/23)",
+     "shutouts": "pop(2/23)",
+     "pim": "pop(1/23)",
+     "toi": "pop(23/23)"
+    }
+   }
+  },
+  "po": {
+   "id": 2017030131,
+   "date": "2018-04-12",
+   "venue": "Verizon Center",
+   "status": 200,
+   "teams": {
+    "WSH": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 3,
+     "sog": 30
+    },
+    "CBJ": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 4,
+     "sog": 27
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(6/36)",
+    "assists": "pop(9/36)",
+    "points": "pop(13/36)",
+    "plusMinus": "pop(16/36)",
+    "pim": "pop(8/36)",
+    "hits": "pop(26/36)",
+    "powerPlayGoals": "pop(3/36)",
+    "sog": "pop(25/36)",
+    "faceoffWinningPctg": "pop(12/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(22/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(10/36)",
+    "takeaways": "pop(14/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/4)",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "P. Grubauer",
+     "toi": "65:33",
+     "starter": true,
+     "sa": 27,
+     "sv": 23,
+     "ga": 4,
+     "dec": "L"
+    },
+    {
+     "n": "B. Holtby",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "J. Korpisalo",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "S. Bobrovsky",
+     "toi": "65:56",
+     "starter": true,
+     "sa": 30,
+     "sv": 27,
+     "ga": 3,
+     "dec": "W"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "OT",
+    "otPeriods": 1
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ },
+ "20242025": {
+  "season": "20242025",
+  "team": "MTL",
+  "reg": {
+   "id": 2024020006,
+   "date": "2024-10-09",
+   "venue": "Centre Bell",
+   "status": 200,
+   "teams": {
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 1,
+     "sog": 27
+    },
+    "TOR": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 0,
+     "sog": 48
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(1/36)",
+    "assists": "pop(2/36)",
+    "points": "pop(3/36)",
+    "plusMinus": "zero",
+    "pim": "pop(9/36)",
+    "hits": "pop(26/36)",
+    "powerPlayGoals": "pop(1/36)",
+    "sog": "pop(31/36)",
+    "faceoffWinningPctg": "pop(10/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(22/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(20/36)",
+    "takeaways": "pop(7/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/4)",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(1/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "C. Primeau",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "S. Montembeault",
+     "toi": "60:00",
+     "starter": true,
+     "sa": 48,
+     "sv": 48,
+     "ga": 0,
+     "dec": "W"
+    },
+    {
+     "n": "D. Hildeby",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "A. Stolarz",
+     "toi": "57:14",
+     "starter": true,
+     "sa": 27,
+     "sv": 26,
+     "ga": 1,
+     "dec": "L"
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "REG"
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  },
+  "skater": {
+   "id": 8483515,
+   "name": "J. Slafkovský",
+   "log2": {
+    "status": 200,
+    "games": 79,
+    "fields": {
+     "goals": "pop(16/79)",
+     "assists": "pop(27/79)",
+     "points": "pop(38/79)",
+     "plusMinus": "pop(51/79)",
+     "powerPlayGoals": "pop(5/79)",
+     "powerPlayPoints": "pop(10/79)",
+     "gameWinningGoals": "pop(1/79)",
+     "otGoals": "zero",
+     "shots": "pop(69/79)",
+     "shifts": "pop(79/79)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(19/79)",
+     "toi": "pop(79/79)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 5,
+    "fields": {
+     "goals": "pop(2/5)",
+     "assists": "zero",
+     "points": "pop(2/5)",
+     "plusMinus": "pop(5/5)",
+     "powerPlayGoals": "pop(1/5)",
+     "powerPlayPoints": "pop(1/5)",
+     "gameWinningGoals": "zero",
+     "otGoals": "zero",
+     "shots": "pop(4/5)",
+     "shifts": "pop(5/5)",
+     "shorthandedGoals": "zero",
+     "shorthandedPoints": "zero",
+     "pim": "pop(2/5)",
+     "toi": "pop(5/5)"
+    }
+   }
+  },
+  "goalie": {
+   "id": 8478470,
+   "name": "S. Montembeault",
+   "log2": {
+    "status": 200,
+    "games": 62,
+    "fields": {
+     "goals": "zero",
+     "assists": "pop(1/62)",
+     "gamesStarted": "pop(60/62)",
+     "decision": "pop(62/62)",
+     "shotsAgainst": "pop(62/62)",
+     "goalsAgainst": "pop(57/62)",
+     "savePctg": "pop(62/62)",
+     "shutouts": "pop(4/62)",
+     "pim": "zero",
+     "toi": "pop(62/62)"
+    }
+   },
+   "log3": {
+    "status": 200,
+    "games": 3,
+    "fields": {
+     "goals": "zero",
+     "assists": "zero",
+     "gamesStarted": "pop(3/3)",
+     "shotsAgainst": "pop(3/3)",
+     "goalsAgainst": "pop(3/3)",
+     "savePctg": "pop(3/3)",
+     "shutouts": "zero",
+     "pim": "zero",
+     "toi": "pop(3/3)"
+    }
+   }
+  },
+  "po": {
+   "id": 2024030131,
+   "date": "2025-04-21",
+   "venue": "Capital One Arena",
+   "status": 200,
+   "teams": {
+    "WSH": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 3,
+     "sog": 32
+    },
+    "MTL": {
+     "skaters": 18,
+     "goalies": 2,
+     "zeroToi": 0,
+     "score": 2,
+     "sog": 35
+    }
+   },
+   "skaterFields": {
+    "goals": "pop(4/36)",
+    "assists": "pop(7/36)",
+    "points": "pop(9/36)",
+    "plusMinus": "pop(20/36)",
+    "pim": "pop(7/36)",
+    "hits": "pop(26/36)",
+    "powerPlayGoals": "pop(2/36)",
+    "sog": "pop(27/36)",
+    "faceoffWinningPctg": "pop(11/36)",
+    "toi": "pop(36/36)",
+    "blockedShots": "pop(16/36)",
+    "shifts": "pop(36/36)",
+    "giveaways": "pop(17/36)",
+    "takeaways": "pop(6/36)"
+   },
+   "goalieFields": {
+    "evenStrengthShotsAgainst": "pop(2/4)",
+    "saveShotsAgainst": "pop(2/4)",
+    "goalsAgainst": "pop(2/4)",
+    "toi": "pop(2/4)",
+    "starter": "pop(2/4)",
+    "shotsAgainst": "pop(2/4)",
+    "saves": "pop(2/4)",
+    "savePctg": "pop(2/2)",
+    "decision": "pop(2/2)",
+    "pim": "zero"
+   },
+   "goalieSample": [
+    {
+     "n": "L. Thompson",
+     "toi": "62:26",
+     "starter": true,
+     "sa": 35,
+     "sv": 33,
+     "ga": 2,
+     "dec": "W"
+    },
+    {
+     "n": "C. Lindgren",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    },
+    {
+     "n": "S. Montembeault",
+     "toi": "62:21",
+     "starter": true,
+     "sa": 32,
+     "sv": 29,
+     "ga": 3,
+     "dec": "L"
+    },
+    {
+     "n": "J. Dobes",
+     "toi": "00:00",
+     "starter": false,
+     "sa": 0,
+     "sv": 0,
+     "ga": 0
+    }
+   ],
+   "outcome": {
+    "lastPeriodType": "OT",
+    "otPeriods": 1
+   },
+   "keys": [
+    "id",
+    "season",
+    "gameType",
+    "limitedScoring",
+    "gameDate",
+    "venue",
+    "venueLocation",
+    "startTimeUTC",
+    "easternUTCOffset",
+    "venueUTCOffset",
+    "tvBroadcasts",
+    "gameState",
+    "gameScheduleState",
+    "periodDescriptor",
+    "regPeriods",
+    "awayTeam",
+    "homeTeam",
+    "clock",
+    "playerByGameStats",
+    "gameOutcome"
+   ]
+  }
+ }
+}

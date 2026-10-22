@@ -1,0 +1,799 @@
+URL: https://en.wikipedia.org/wiki/1992–93_San_Jose_Sharks_season
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+1992–93 San Jose Sharks season - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Offseason
+2
+Regular season
+Toggle Regular season subsection
+2.1
+Season standings
+3
+Schedule and results
+4
+Player statistics
+Toggle Player statistics subsection
+4.1
+Forwards
+4.2
+Defensemen
+4.3
+Goaltending
+5
+Transactions
+Toggle Transactions subsection
+5.1
+Trades
+5.2
+Free agency
+5.3
+Waivers
+5.4
+Released
+6
+Draft picks
+Toggle Draft picks subsection
+6.1
+NHL entry draft
+6.2
+NHL supplemental draft
+7
+References
+Toggle the table of contents
+1992–93 San Jose Sharks season
+1 language
+Čeština
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+National Hockey League season
+[[Dean Lombardi]]"},"Coach":{"wt":"[[George Kingston (ice hockey)|George Kingston]]"},"Captain":{"wt":"[[Doug Wilson (ice hockey)|Doug Wilson]]"},"AltCaptain":{"wt":"[[Kelly Kisio]]<br>[[Rob Zettler]]"},"Arena":{"wt":"[[Cow Palace]]"},"Attendance":{"wt":"11,045"},"MinorLeague":{"wt":"[[Kansas City Blades]]"},"GoalsLeader":{"wt":"[[Kelly Kisio]] (26)"},"AssistsLeader":{"wt":"Kelly Kisio (52)"},"PointsLeader":{"wt":"Kelly Kisio (78)"},"PlusMinusLeader":{"wt":"[[Lyndon Byers]] (–2)"},"PIMLeader":{"wt":"[[Jeff Odgers]] (253)"},"WinsLeader":{"wt":"[[Artūrs Irbe|Arturs Irbe]] (7)"},"GAALeader":{"wt":"Arturs Irbe (4.11)"}},"i":0}}]}'> 1992–93 San Jose Sharks |
+Division | 6th Smythe |
+Conference | 12th Campbell |
+1992–93 record | 11–71–2 |
+Home record | 8–33–1 |
+Road record | 3–38–1 |
+Goals for | 218 |
+Goals against | 414 |
+Team information |
+General manager | Chuck Grillo
+Dean Lombardi |
+Coach | George Kingston |
+Captain | Doug Wilson |
+Alternate captains | Kelly Kisio
+Rob Zettler |
+Arena | Cow Palace |
+Average attendance | 11,045 |
+Minor league affiliate | Kansas City Blades |
+Team leaders |
+Goals | Kelly Kisio (26) |
+Assists | Kelly Kisio (52) |
+Points | Kelly Kisio (78) |
+Penalty minutes | Jeff Odgers (253) |
+Plus/minus | Lyndon Byers (–2) |
+Wins | Arturs Irbe (7) |
+Goals against average | Arturs Irbe (4.11) |
+← 1991–92
+1993–94 →
+|
+The 1992–93 San Jose Sharks season was the team's second in the NHL. They set league records for most losses in a season with 71 losses, most consecutive losses, with 17 in a row, and fewest ties in a season since the 1949-50 season with 2. Their worst defeat of the season was a 13–1 loss to the Calgary Flames, a game where after the Sharks scored first, the Flames countered by scoring 13 unanswered goals.
+The team had recorded its first shutout, attained by rookie goaltender Arturs Irbe, and Rob Gaudreau scored the first hat-trick in franchise history. Head coach George Kingston, the first head coach in the history of the Sharks, was fired following this tumultuous season and replaced by Kevin Constantine. It was the last season the Sharks played in the Cow Palace in Daly City.
+Offseason
+[edit]
+The Sharks chose Mike Rathje with their first-round pick in the entry draft, third overall.
+Regular season
+[edit]
+The Sharks allowed the most goals (414) and most even-strength goals (286) of all 24 teams during the regular season. They were also shut out a league-high 6 times[1] and tied the Edmonton Oilers and Ottawa Senators for the fewest power-play goals scored, with 66.[1]
+On Tuesday, November 17, 1992, Arturs Irbe recorded the first shutout in Sharks history, as San Jose blanked the Los Angeles Kings 6–0 at home.[2]
+On Thursday, December 3, 1992, in a 7–5 home loss against the Hartford Whalers, Rob Gaudreau scored the first hat trick in Sharks history. In that same game, Kelly Kisio and Johan Garpenlov each recorded 4 points (1 goal, 3 assists).[3]
+In 2004, ESPN ranked the 1992–93 Sharks as the sixth worst team in the first 25 years of the ESPN era.
+Season standings
+[edit]
+Smythe Division
+|
+GP |
+W |
+L |
+T |
+Pts |
+GF |
+GA |
+Vancouver Canucks | 84 | 46 | 29 | 9 | 101 | 346 | 278 |
+Calgary Flames | 84 | 43 | 30 | 11 | 97 | 322 | 282 |
+Los Angeles Kings | 84 | 39 | 35 | 10 | 88 | 338 | 340 |
+Winnipeg Jets | 84 | 40 | 37 | 7 | 87 | 322 | 320 |
+Edmonton Oilers | 84 | 26 | 50 | 8 | 60 | 242 | 337 |
+San Jose Sharks | 84 | 11 | 71 | 2 | 24 | 218 | 414 |
+[4]Note: GP = Games played, W = Wins, L = Losses, T = Ties, Pts = Points, GF = Goals for, GA = Goals against
+Note: Teams that qualified for the playoffs are highlighted in bold.
+Schedule and results
+[edit]
+{{cite web |title=1992-93 San Jose Sharks Schedule |url=https://www.hockey-reference.com/teams/SJS/1993_games.html |website=Hockey-Reference.com |access-date=March 5, 2025}}</ref>"}},"i":0}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":"Game "},"style":{"wt":"background:#fff; border-top:#00677F 2px solid; border-bottom:#A2AAAD 2px solid;"},"2":{"wt":"Date "},"title":{"wt":"October: 2–9–0 (home: 1–3–0; road: 1–6–0)"},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Record "},"6":{"wt":"Recap"}},"i":1}},"\n|- {{Game-won}}\n|1||October 8, 1992||4–3 OT|| align=\"left\"| [[Winnipeg Jets (1972–1996)|Winnipeg Jets]] <small>([[1992–93 Winnipeg Jets season|1992–93]])</small> ||1–0–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020016"},"2":{"wt":"W"}},"i":2}},"\n|- {{Game-lost}}\n|2||October 10, 1992||3–6 || align=\"left\"| [[Detroit Red Wings]] <small>([[1992–93 Detroit Red Wings season|1992–93]])</small> ||1–1–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020027"},"2":{"wt":"L"}},"i":3}},"\n|- {{Game-lost}}\n|3||October 13, 1992||1–2 || align=\"left\"| @ [[Los Angeles Kings]] <small>([[1992–93 Los Angeles Kings season|1992–93]])</small> ||1–2–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020043"},"2":{"wt":"L"}},"i":4}},"\n|- {{Game-lost}}\n|4||October 15, 1992||2–8 || align=\"left\"| [[Boston Bruins]] <small>([[1992–93 Boston Bruins season|1992–93]])</small> ||1–3–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020047"},"2":{"wt":"L"}},"i":5}},"\n|- {{Game-lost}}\n|5||October 17, 1992||2–6 || align=\"left\"| [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||1–4–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020067"},"2":{"wt":"L"}},"i":6}},"\n|- {{Game-lost}}\n|6||October 21, 1992||4–8 || align=\"left\"| @ [[Montreal Canadiens]] <small>([[1992–93 Montreal Canadiens season|1992–93]])</small> ||1–5–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020081"},"2":{"wt":"L"}},"i":7}},"\n|- {{Game-lost}}\n|7||October 23, 1992||4–5 || align=\"left\"| @ [[Buffalo Sabres]] <small>([[1992–93 Buffalo Sabres season|1992–93]])</small> ||1–6–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020092"},"2":{"wt":"L"}},"i":8}},"\n|- {{Game-lost}}\n|8||October 24, 1992||1–5 || align=\"left\"| @ [[Toronto Maple Leafs]] <small>([[1992–93 Toronto Maple Leafs season|1992–93]])</small> ||1–7–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020101"},"2":{"wt":"L"}},"i":9}},"\n|- {{Game-lost}}\n|9||October 26, 1992||1–4 || align=\"left\"| @ [[St. Louis Blues]] <small>([[1992–93 St. Louis Blues season|1992–93]])</small> ||1–8–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020109"},"2":{"wt":"L"}},"i":10}},"\n|- {{Game-lost}}\n|10||October 28, 1992||3–4 || align=\"left\"| @ [[Detroit Red Wings]] <small>([[1992–93 Detroit Red Wings season|1992–93]])</small> ||1–9–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020117"},"2":{"wt":"L"}},"i":11}},"\n|- {{Game-won}}\n|11||October 30, 1992||2–1 || align=\"left\"| @ [[Tampa Bay Lightning]] <small>([[1992–93 Tampa Bay Lightning season|1992–93]])</small> ||2–9–0 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020128"},"2":{"wt":"W"}},"i":12}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":13}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":"Game "},"style":{"wt":"background:#fff; border-top:#00677F 2px solid; border-bottom:#A2AAAD 2px solid;"},"2":{"wt":"Date "},"title":{"wt":"November: 3–9–1 (home: 2–6–0; road: 1–3–1)"},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Record "},"6":{"wt":"Recap"}},"i":14}},"\n|- {{Game-tied}}\n|12||November 1, 1992||4–4 OT|| align=\"left\"| @ [[Chicago Blackhawks]] <small>([[1992–93 Chicago Blackhawks season|1992–93]])</small> ||2–9–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020141"},"2":{"wt":"T"}},"i":15}},"\n|- {{Game-won}}\n|13||November 5, 1992||7–5 || align=\"left\"| [[Buffalo Sabres]] <small>([[1992–93 Buffalo Sabres season|1992–93]])</small> ||3–9–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020154"},"2":{"wt":"W"}},"i":16}},"\n|- {{Game-lost}}\n|14||November 7, 1992||1–6 || align=\"left\"| [[New Jersey Devils]] <small>([[1992–93 New Jersey Devils season|1992–93]])</small> ||3–10–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020170"},"2":{"wt":"L"}},"i":17}},"\n|- {{Game-lost}}\n|15||November 8, 1992||4–11 || align=\"left\"| [[Los Angeles Kings]] <small>([[1992–93 Los Angeles Kings season|1992–93]])</small> ||3–11–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020177"},"2":{"wt":"L"}},"i":18}},"\n|- {{Game-lost}}\n|16||November 10, 1992||2–6 || align=\"left\"| @ [[Vancouver Canucks]] <small>([[1992–93 Vancouver Canucks season|1992–93]])</small> ||3–12–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020184"},"2":{"wt":"L"}},"i":19}},"\n|- {{Game-lost}}\n|17||November 12, 1992||3–4 || align=\"left\"| [[Edmonton Oilers]] <small>([[1992–93 Edmonton Oilers season|1992–93]])</small> ||3–13–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020196"},"2":{"wt":"L"}},"i":20}},"\n|- {{Game-lost}}\n|18||November 14, 1992||2–5 || align=\"left\"| [[Vancouver Canucks]] <small>([[1992–93 Vancouver Canucks season|1992–93]])</small> ||3–14–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020212"},"2":{"wt":"L"}},"i":21}},"\n|- {{Game-won}}\n|19||November 17, 1992||6–0 || align=\"left\"| [[Los Angeles Kings]] <small>([[1992–93 Los Angeles Kings season|1992–93]])</small> ||4–14–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020223"},"2":{"wt":"W"}},"i":22}},"\n|- {{Game-lost}}\n|20||November 19, 1992||0–2 || align=\"left\"| [[Toronto Maple Leafs]] <small>([[1992–93 Toronto Maple Leafs season|1992–93]])</small> ||4–15–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020232"},"2":{"wt":"L"}},"i":23}},"\n|- {{Game-lost}}\n|21||November 21, 1992||1–2 || align=\"left\"| [[Chicago Blackhawks]] <small>([[1992–93 Chicago Blackhawks season|1992–93]])</small> ||4–16–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020248"},"2":{"wt":"L"}},"i":24}},"\n|- {{Game-won}}\n|22||November 25, 1992||4–3 OT|| align=\"left\"| @ [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||5–16–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020267"},"2":{"wt":"W"}},"i":25}},"\n|- {{Game-lost}}\n|23||November 27, 1992||2–3 OT|| align=\"left\"| @ [[Winnipeg Jets (1972–1996)|Winnipeg Jets]] <small>([[1992–93 Winnipeg Jets season|1992–93]])</small> ||5–17–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020279"},"2":{"wt":"L"}},"i":26}},"\n|- {{Game-lost}}\n|24||November 28, 1992||3–10 || align=\"left\"| @ [[Minnesota North Stars]] <small>([[1992–93 Minnesota North Stars season|1992–93]])</small> ||5–18–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020289"},"2":{"wt":"L"}},"i":27}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":28}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":"Game "},"style":{"wt":"background:#fff; border-top:#00677F 2px solid; border-bottom:#A2AAAD 2px solid;"},"2":{"wt":"Date "},"title":{"wt":"December: 1–13–0 (home: 1–8–0; road: 0–5–0)"},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Record "},"6":{"wt":"Recap"}},"i":29}},"\n|- {{Game-lost}}\n|25||December 1, 1992||1–3 || align=\"left\"| [[Edmonton Oilers]] <small>([[1992–93 Edmonton Oilers season|1992–93]])</small> ||5–19–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020300"},"2":{"wt":"L"}},"i":30}},"\n|- {{Game-lost}}\n|26||December 3, 1992||5–7 || align=\"left\"| [[Hartford Whalers]] <small>([[1992–93 Hartford Whalers season|1992–93]])</small> ||5–20–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020304"},"2":{"wt":"L"}},"i":31}},"\n|- {{Game-lost}}\n|27||December 5, 1992||4–9 || align=\"left\"| [[Pittsburgh Penguins]] <small>([[1992–93 Pittsburgh Penguins season|1992–93]])</small> ||5–21–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020320"},"2":{"wt":"L"}},"i":32}},"\n|- {{Game-lost}}\n|28||December 9, 1992||3–8 || align=\"left\"| @ [[Vancouver Canucks]] <small>([[1992–93 Vancouver Canucks season|1992–93]])</small> ||5–22–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020342"},"2":{"wt":"L"}},"i":33}},"\n|- {{Game-lost}}\n|29||December 10, 1992||2–3 || align=\"left\"| [[St. Louis Blues]] <small>([[1992–93 St. Louis Blues season|1992–93]])</small> ||5–23–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020346"},"2":{"wt":"L"}},"i":34}},"\n|- {{Game-lost}}\n|30||December 12, 1992||7–8 OT|| align=\"left\"| [[Quebec Nordiques]] <small>([[1992–93 Quebec Nordiques season|1992–93]])</small> ||5–24–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020357"},"2":{"wt":"L"}},"i":35}},"\n|- {{Game-lost}}\n|31||December 16, 1992||4–5 OT|| align=\"left\"| [[Tampa Bay Lightning]] <small>([[1992–93 Tampa Bay Lightning season|1992–93]])</small> ||5–25–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020378"},"2":{"wt":"L"}},"i":36}},"\n|- {{Game-lost}}\n|32||December 18, 1992||1–8 || align=\"left\"| @ [[Vancouver Canucks]] <small>([[1992–93 Vancouver Canucks season|1992–93]])</small> ||5–26–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020389"},"2":{"wt":"L"}},"i":37}},"\n|- {{Game-lost}}\n|33||December 19, 1992||3–6 || align=\"left\"| [[Vancouver Canucks]] <small>([[1992–93 Vancouver Canucks season|1992–93]])</small> ||5–27–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020399"},"2":{"wt":"L"}},"i":38}},"\n|- {{Game-lost}}\n|34||December 21, 1992||4–5 || align=\"left\"| @ [[Winnipeg Jets (1972–1996)|Winnipeg Jets]] <small>([[1992–93 Winnipeg Jets season|1992–93]])</small> ||5–28–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020408"},"2":{"wt":"L"}},"i":39}},"\n|- {{Game-lost}}\n|35||December 23, 1992||2–4 || align=\"left\"| @ [[Edmonton Oilers]] <small>([[1992–93 Edmonton Oilers season|1992–93]])</small> ||5–29–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020421"},"2":{"wt":"L"}},"i":40}},"\n|- {{Game-won}}\n|36||December 26, 1992||7–2 || align=\"left\"| [[Los Angeles Kings]] <small>([[1992–93 Los Angeles Kings season|1992–93]])</small> ||6–29–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020429"},"2":{"wt":"W"}},"i":41}},"\n|- {{Game-lost}}\n|37||December 29, 1992||5–7 || align=\"left\"| @ [[Vancouver Canucks]] <small>([[1992–93 Vancouver Canucks season|1992–93]])</small> ||6–30–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020447"},"2":{"wt":"L"}},"i":42}},"\n|- {{Game-lost}}\n|38||December 30, 1992||2–6 || align=\"left\"| [[Philadelphia Flyers]] <small>([[1992–93 Philadelphia Flyers season|1992–93]])</small> ||6–31–1 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020448"},"2":{"wt":"L"}},"i":43}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":44}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":"Game "},"style":{"wt":"background:#fff; border-top:#00677F 2px solid; border-bottom:#A2AAAD 2px solid;"},"2":{"wt":"Date "},"title":{"wt":"January: 0–13–1 (home: 0–3–1; road: 0–10–0)"},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Record "},"6":{"wt":"Recap"}},"i":45}},"\n|- {{Game-tied}}\n|39||January 2, 1993||2–2 OT|| align=\"left\"| [[Vancouver Canucks]] <small>([[1992–93 Vancouver Canucks season|1992–93]])</small> ||6–31–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020471"},"2":{"wt":"T"}},"i":46}},"\n|- {{Game-lost}}\n|40||January 4, 1993||1–4 || align=\"left\"| @ [[Montreal Canadiens]] <small>([[1992–93 Montreal Canadiens season|1992–93]])</small> ||6–32–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020477"},"2":{"wt":"L"}},"i":47}},"\n|- {{Game-lost}}\n|41||January 5, 1993||1–2 || align=\"left\"| [[Montreal Canadiens]] <small>([[1992–93 Montreal Canadiens season|1992–93]])</small> ||6–33–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020481"},"2":{"wt":"L"}},"i":48}},"\n|- {{Game-lost}}\n|42||January 8, 1993||1–5 || align=\"left\"| @ [[Toronto Maple Leafs]] <small>([[1992–93 Toronto Maple Leafs season|1992–93]])</small> ||6–34–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020497"},"2":{"wt":"L"}},"i":49}},"\n|- {{Game-lost}}\n|43||January 10, 1993||2–3 || align=\"left\"| @ [[Ottawa Senators]] <small>([[1992–93 Ottawa Senators season|1992–93]])</small> ||6–35–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020511"},"2":{"wt":"L"}},"i":50}},"\n|- {{Game-lost}}\n|44||January 12, 1993||1–4 || align=\"left\"| @ [[Winnipeg Jets (1972–1996)|Winnipeg Jets]] <small>([[1992–93 Winnipeg Jets season|1992–93]])</small> ||6–36–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020523"},"2":{"wt":"L"}},"i":51}},"\n|- {{Game-lost}}\n|45||January 15, 1993||3–6 || align=\"left\"| @ [[Detroit Red Wings]] <small>([[1992–93 Detroit Red Wings season|1992–93]])</small> ||6–37–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020538"},"2":{"wt":"L"}},"i":52}},"\n|- {{Game-lost}}\n|46||January 16, 1993||1–4 || align=\"left\"| @ [[Quebec Nordiques]] <small>([[1992–93 Quebec Nordiques season|1992–93]])</small> ||6–38–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020543"},"2":{"wt":"L"}},"i":53}},"\n|- {{Game-lost}}\n|47||January 18, 1993||3–4 || align=\"left\"| @ [[Boston Bruins]] <small>([[1992–93 Boston Bruins season|1992–93]])</small> ||6–39–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020554"},"2":{"wt":"L"}},"i":54}},"\n|- {{Game-lost}}\n|48||January 21, 1993||2–4 || align=\"left\"| @ [[Hartford Whalers]] <small>([[1992–93 Hartford Whalers season|1992–93]])</small> ||6–40–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020567"},"2":{"wt":"L"}},"i":55}},"\n|- {{Game-lost}}\n|49||January 23, 1993||1–5 || align=\"left\"| @ [[Tampa Bay Lightning]] <small>([[1992–93 Tampa Bay Lightning season|1992–93]])</small> ||6–41–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020586"},"2":{"wt":"L"}},"i":56}},"\n|- {{Game-lost}}\n|50||January 26, 1993||1–7 || align=\"left\"| @ [[Los Angeles Kings]] <small>([[1992–93 Los Angeles Kings season|1992–93]])</small> ||6–42–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020600"},"2":{"wt":"L"}},"i":57}},"\n|- {{Game-lost}}\n|51||January 29, 1993||2–4 || align=\"left\"| [[Chicago Blackhawks]] <small>([[1992–93 Chicago Blackhawks season|1992–93]])</small> ||6–43–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020615"},"2":{"wt":"L"}},"i":58}},"\n|- {{Game-lost}}\n|52||January 30, 1993||4–5 || align=\"left\"| [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||6–44–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020625"},"2":{"wt":"L"}},"i":59}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":60}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":"Game "},"style":{"wt":"background:#fff; border-top:#00677F 2px solid; border-bottom:#A2AAAD 2px solid;"},"2":{"wt":"Date "},"title":{"wt":"February: 2–11–0 (home: 1–7–0; road: 1–4–0)"},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Record "},"6":{"wt":"Recap"}},"i":61}},"\n|- {{Game-lost}}\n|53||February 1, 1993||4–5 || align=\"left\"| [[Tampa Bay Lightning]] <small>([[1992–93 Tampa Bay Lightning season|1992–93]])</small> ||6–45–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020632"},"2":{"wt":"L"}},"i":62}},"\n|- {{Game-lost}}\n|54||February 3, 1993||3–7 || align=\"left\"| [[Minnesota North Stars]] <small>([[1992–93 Minnesota North Stars season|1992–93]])</small> ||6–46–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020647"},"2":{"wt":"L"}},"i":63}},"\n|- {{Game-lost}}\n|55||February 10, 1993||1–13 || align=\"left\"| @ [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||6–47–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020661"},"2":{"wt":"L"}},"i":64}},"\n|- {{Game-lost}}\n|56||February 12, 1993||0–6 || align=\"left\"| @ [[Edmonton Oilers]] <small>([[1992–93 Edmonton Oilers season|1992–93]])</small> ||6–48–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020672"},"2":{"wt":"L"}},"i":65}},"\n|- {{Game-won}}\n|57||February 14, 1993||3–2 || align=\"left\"| @ [[Winnipeg Jets (1972–1996)|Winnipeg Jets]] <small>([[1992–93 Winnipeg Jets season|1992–93]])</small> ||7–48–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020687"},"2":{"wt":"W"}},"i":66}},"\n|- {{Game-lost}}\n|58||February 16, 1993||3–4 || align=\"left\"| [[Washington Capitals]] <small>([[1992–93 Washington Capitals season|1992–93]])</small> ||7–49–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020692"},"2":{"wt":"L"}},"i":67}},"\n|- {{Game-won}}\n|59||February 18, 1993||5–3 || align=\"left\"| [[Winnipeg Jets (1972–1996)|Winnipeg Jets]] <small>([[1992–93 Winnipeg Jets season|1992–93]])</small> ||8–49–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020704"},"2":{"wt":"W"}},"i":68}},"\n|- {{Game-lost}}\n|60||February 20, 1993||4–6 || align=\"left\"| [[New York Rangers]] <small>([[1992–93 New York Rangers season|1992–93]])</small> ||8–50–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020713"},"2":{"wt":"L"}},"i":69}},"\n|- {{Game-lost}}\n|61||February 22, 1993||0–4 || align=\"left\"| [[New York Rangers]] <small>([[1992–93 New York Rangers season|1992–93]])</small> ||8–51–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020724"},"2":{"wt":"L"}},"i":70}},"\n|- {{Game-lost}}\n|62||February 23, 1993||3–6 || align=\"left\"| [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||8–52–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020733"},"2":{"wt":"L"}},"i":71}},"\n|- {{Game-lost}}\n|63||February 25, 1993||0–5 || align=\"left\"| [[Toronto Maple Leafs]] <small>([[1992–93 Toronto Maple Leafs season|1992–93]])</small> ||8–53–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020741"},"2":{"wt":"L"}},"i":72}},"\n|- {{Game-lost}}\n|64||February 27, 1993||4–5 || align=\"left\"| @ [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||8–54–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020757"},"2":{"wt":"L"}},"i":73}},"\n|- {{Game-lost}}\n|65||February 28, 1993||1–4 || align=\"left\"| @ [[Edmonton Oilers]] <small>([[1992–93 Edmonton Oilers season|1992–93]])</small> ||8–55–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020764"},"2":{"wt":"L"}},"i":74}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":75}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":"Game "},"style":{"wt":"background:#fff; border-top:#00677F 2px solid; border-bottom:#A2AAAD 2px solid;"},"2":{"wt":"Date "},"title":{"wt":"March: 2–10–0 (home: 2–2–0; road: 0–8–0)"},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Record "},"6":{"wt":"Recap"}},"i":76}},"\n|- {{Game-won}}\n|66||March 2, 1993||3–2 OT|| align=\"left\"| [[Ottawa Senators]] <small>([[1992–93 Ottawa Senators season|1992–93]])</small> ||9–55–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020767"},"2":{"wt":"W"}},"i":77}},"\n|- {{Game-won}}\n|67||March 7, 1993||6–3 || align=\"left\"| [[Edmonton Oilers]] <small>([[1992–93 Edmonton Oilers season|1992–93]])</small> ||10–55–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020799"},"2":{"wt":"W"}},"i":78}},"\n|- {{Game-lost}}\n|68||March 9, 1993||2–4 || align=\"left\"| @ [[Minnesota North Stars]] <small>([[1992–93 Minnesota North Stars season|1992–93]])</small> ||10–56–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020807"},"2":{"wt":"L"}},"i":79}},"\n|- {{Game-lost}}\n|69||March 11, 1993||2–5 || align=\"left\"| @ [[St. Louis Blues]] <small>([[1992–93 St. Louis Blues season|1992–93]])</small> ||10–57–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020817"},"2":{"wt":"L"}},"i":80}},"\n|- {{Game-lost}}\n|70||March 14, 1993||1–4 || align=\"left\"| [[Detroit Red Wings]] <small>([[1992–93 Detroit Red Wings season|1992–93]])</small> ||10–58–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020833"},"2":{"wt":"L"}},"i":81}},"\n|- {{Game-lost}}\n|71||March 16, 1993||0–6 || align=\"left\"| [[New York Islanders]] <small>([[1992–93 New York Islanders season|1992–93]])</small> ||10–59–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020843"},"2":{"wt":"L"}},"i":82}},"\n|- {{Game-lost}}\n|72||March 19, 1993||1–8 || align=\"left\"| @ [[New York Rangers]] <small>([[1992–93 New York Rangers season|1992–93]])</small> ||10–60–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020858"},"2":{"wt":"L"}},"i":83}},"\n|- {{Game-lost}}\n|73||March 21, 1993||3–5 || align=\"left\"| @ [[Washington Capitals]] <small>([[1992–93 Washington Capitals season|1992–93]])</small> ||10–61–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020869"},"2":{"wt":"L"}},"i":84}},"\n|- {{Game-lost}}\n|74||March 23, 1993||2–7 || align=\"left\"| @ [[Pittsburgh Penguins]] <small>([[1992–93 Pittsburgh Penguins season|1992–93]])</small> ||10–62–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020880"},"2":{"wt":"L"}},"i":85}},"\n|- {{Game-lost}}\n|75||March 25, 1993||2–5 || align=\"left\"| @ [[Philadelphia Flyers]] <small>([[1992–93 Philadelphia Flyers season|1992–93]])</small> ||10–63–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020891"},"2":{"wt":"L"}},"i":86}},"\n|- {{Game-lost}}\n|76||March 27, 1993||3–7 || align=\"left\"| @ [[New York Islanders]] <small>([[1992–93 New York Islanders season|1992–93]])</small> ||10–64–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020902"},"2":{"wt":"L"}},"i":87}},"\n|- {{Game-lost}}\n|77||March 29, 1993||0–5 || align=\"left\"| @ [[New Jersey Devils]] <small>([[1992–93 New Jersey Devils season|1992–93]])</small> ||10–65–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020912"},"2":{"wt":"L"}},"i":88}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":89}},"\n",{"template":{"target":{"wt":"Game log section start","href":"./Template:Game_log_section_start"},"params":{"hide":{"wt":"y"},"1":{"wt":"Game "},"style":{"wt":"background:#fff; border-top:#00677F 2px solid; border-bottom:#A2AAAD 2px solid;"},"2":{"wt":"Date "},"title":{"wt":"April: 1–6–0 (home: 1–4–0; road: 0–2–0)"},"3":{"wt":"Score "},"4":{"wt":"Opponent "},"5":{"wt":"Record "},"6":{"wt":"Recap"}},"i":90}},"\n|- {{Game-lost}}\n|78||April 1, 1993||5–9 || align=\"left\"| [[Winnipeg Jets (1972–1996)|Winnipeg Jets]] <small>([[1992–93 Winnipeg Jets season|1992–93]])</small> ||10–66–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020929"},"2":{"wt":"L"}},"i":91}},"\n|- {{Game-lost}}\n|79||April 3, 1993||2–3 OT|| align=\"left\"| [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||10–67–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020942"},"2":{"wt":"L"}},"i":92}},"\n|- {{Game-lost}}\n|80||April 4, 1993||3–4 || align=\"left\"| [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||10–68–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020948"},"2":{"wt":"L"}},"i":93}},"\n|- {{Game-won}}\n|81||April 6, 1993||5–2 || align=\"left\"| [[Edmonton Oilers]] <small>([[1992–93 Edmonton Oilers season|1992–93]])</small> ||11–68–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020956"},"2":{"wt":"W"}},"i":94}},"\n|- {{Game-lost}}\n|82||April 8, 1993||1–2 || align=\"left\"| @ [[Los Angeles Kings]] <small>([[1992–93 Los Angeles Kings season|1992–93]])</small> ||11–69–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020966"},"2":{"wt":"L"}},"i":95}},"\n|- {{Game-lost}}\n|83||April 10, 1993||2–3 OT|| align=\"left\"| [[Los Angeles Kings]] <small>([[1992–93 Los Angeles Kings season|1992–93]])</small> ||11–70–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992020978"},"2":{"wt":"L"}},"i":96}},"\n|- {{Game-lost}}\n|84||April 15, 1993||3–7 || align=\"left\"| @ [[Calgary Flames]] <small>([[1992–93 Calgary Flames season|1992–93]])</small> ||11–71–2 || ",{"template":{"target":{"wt":"NHL recap","href":"./Template:NHL_recap"},"params":{"1":{"wt":"1992021007"},"2":{"wt":"L"}},"i":97}},"\n|-\n",{"template":{"target":{"wt":"Game log section end","href":"./Template:Game_log_section_end"},"params":{},"i":98}},"\n|-\n|\n'''''Legend''''':\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#cfc"},"2":{"wt":"Win (2 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"W"}},"i":99}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#fcc"},"2":{"wt":"Loss (0 points)"},"border":{"wt":"1px solid black"},"text":{"wt":"L"}},"i":100}},"\n",{"template":{"target":{"wt":"legend2","href":"./Template:Legend2"},"params":{"1":{"wt":"#ffc"},"2":{"wt":"Tie (1 point)"},"border":{"wt":"1px solid black"},"text":{"wt":"T"}},"i":101}},"\n",{"template":{"target":{"wt":"Game log end","href":"./Template:Game_log_end"},"params":{},"i":102}}]}'>
+1992–93 regular season[5] |
+October: 2–9–0 (home: 1–3–0; road: 1–6–0)
+Game | Date | Score | Opponent | Record | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+1 | October 8, 1992 | 4–3 OT | Winnipeg Jets (1992–93) | 1–0–0 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+2 | October 10, 1992 | 3–6 | Detroit Red Wings (1992–93) | 1–1–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+3 | October 13, 1992 | 1–2 | @ Los Angeles Kings (1992–93) | 1–2–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+4 | October 15, 1992 | 2–8 | Boston Bruins (1992–93) | 1–3–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+5 | October 17, 1992 | 2–6 | Calgary Flames (1992–93) | 1–4–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+6 | October 21, 1992 | 4–8 | @ Montreal Canadiens (1992–93) | 1–5–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+7 | October 23, 1992 | 4–5 | @ Buffalo Sabres (1992–93) | 1–6–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+8 | October 24, 1992 | 1–5 | @ Toronto Maple Leafs (1992–93) | 1–7–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+9 | October 26, 1992 | 1–4 | @ St. Louis Blues (1992–93) | 1–8–0 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+10 | October 28, 1992 | 3–4 | @ Detroit Red Wings (1992–93) | 1–9–0 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+11 | October 30, 1992 | 2–1 | @ Tampa Bay Lightning (1992–93) | 2–9–0 | W |
+|
+November: 3–9–1 (home: 2–6–0; road: 1–3–1)
+Game | Date | Score | Opponent | Record | Recap |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+12 | November 1, 1992 | 4–4 OT | @ Chicago Blackhawks (1992–93) | 2–9–1 | T |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+13 | November 5, 1992 | 7–5 | Buffalo Sabres (1992–93) | 3–9–1 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+14 | November 7, 1992 | 1–6 | New Jersey Devils (1992–93) | 3–10–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+15 | November 8, 1992 | 4–11 | Los Angeles Kings (1992–93) | 3–11–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+16 | November 10, 1992 | 2–6 | @ Vancouver Canucks (1992–93) | 3–12–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+17 | November 12, 1992 | 3–4 | Edmonton Oilers (1992–93) | 3–13–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+18 | November 14, 1992 | 2–5 | Vancouver Canucks (1992–93) | 3–14–1 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+19 | November 17, 1992 | 6–0 | Los Angeles Kings (1992–93) | 4–14–1 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+20 | November 19, 1992 | 0–2 | Toronto Maple Leafs (1992–93) | 4–15–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+21 | November 21, 1992 | 1–2 | Chicago Blackhawks (1992–93) | 4–16–1 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+22 | November 25, 1992 | 4–3 OT | @ Calgary Flames (1992–93) | 5–16–1 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+23 | November 27, 1992 | 2–3 OT | @ Winnipeg Jets (1992–93) | 5–17–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+24 | November 28, 1992 | 3–10 | @ Minnesota North Stars (1992–93) | 5–18–1 | L |
+|
+December: 1–13–0 (home: 1–8–0; road: 0–5–0)
+Game | Date | Score | Opponent | Record | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+25 | December 1, 1992 | 1–3 | Edmonton Oilers (1992–93) | 5–19–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+26 | December 3, 1992 | 5–7 | Hartford Whalers (1992–93) | 5–20–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+27 | December 5, 1992 | 4–9 | Pittsburgh Penguins (1992–93) | 5–21–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+28 | December 9, 1992 | 3–8 | @ Vancouver Canucks (1992–93) | 5–22–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+29 | December 10, 1992 | 2–3 | St. Louis Blues (1992–93) | 5–23–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+30 | December 12, 1992 | 7–8 OT | Quebec Nordiques (1992–93) | 5–24–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+31 | December 16, 1992 | 4–5 OT | Tampa Bay Lightning (1992–93) | 5–25–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+32 | December 18, 1992 | 1–8 | @ Vancouver Canucks (1992–93) | 5–26–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+33 | December 19, 1992 | 3–6 | Vancouver Canucks (1992–93) | 5–27–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+34 | December 21, 1992 | 4–5 | @ Winnipeg Jets (1992–93) | 5–28–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+35 | December 23, 1992 | 2–4 | @ Edmonton Oilers (1992–93) | 5–29–1 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+36 | December 26, 1992 | 7–2 | Los Angeles Kings (1992–93) | 6–29–1 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+37 | December 29, 1992 | 5–7 | @ Vancouver Canucks (1992–93) | 6–30–1 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+38 | December 30, 1992 | 2–6 | Philadelphia Flyers (1992–93) | 6–31–1 | L |
+|
+January: 0–13–1 (home: 0–3–1; road: 0–10–0)
+Game | Date | Score | Opponent | Record | Recap |
+style=\"background: #ffc;color:black;\"</span>"},{"html":""}]]}'>
+39 | January 2, 1993 | 2–2 OT | Vancouver Canucks (1992–93) | 6–31–2 | T |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+40 | January 4, 1993 | 1–4 | @ Montreal Canadiens (1992–93) | 6–32–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+41 | January 5, 1993 | 1–2 | Montreal Canadiens (1992–93) | 6–33–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+42 | January 8, 1993 | 1–5 | @ Toronto Maple Leafs (1992–93) | 6–34–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+43 | January 10, 1993 | 2–3 | @ Ottawa Senators (1992–93) | 6–35–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+44 | January 12, 1993 | 1–4 | @ Winnipeg Jets (1992–93) | 6–36–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+45 | January 15, 1993 | 3–6 | @ Detroit Red Wings (1992–93) | 6–37–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+46 | January 16, 1993 | 1–4 | @ Quebec Nordiques (1992–93) | 6–38–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+47 | January 18, 1993 | 3–4 | @ Boston Bruins (1992–93) | 6–39–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+48 | January 21, 1993 | 2–4 | @ Hartford Whalers (1992–93) | 6–40–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+49 | January 23, 1993 | 1–5 | @ Tampa Bay Lightning (1992–93) | 6–41–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+50 | January 26, 1993 | 1–7 | @ Los Angeles Kings (1992–93) | 6–42–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+51 | January 29, 1993 | 2–4 | Chicago Blackhawks (1992–93) | 6–43–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+52 | January 30, 1993 | 4–5 | Calgary Flames (1992–93) | 6–44–2 | L |
+|
+February: 2–11–0 (home: 1–7–0; road: 1–4–0)
+Game | Date | Score | Opponent | Record | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+53 | February 1, 1993 | 4–5 | Tampa Bay Lightning (1992–93) | 6–45–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+54 | February 3, 1993 | 3–7 | Minnesota North Stars (1992–93) | 6–46–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+55 | February 10, 1993 | 1–13 | @ Calgary Flames (1992–93) | 6–47–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+56 | February 12, 1993 | 0–6 | @ Edmonton Oilers (1992–93) | 6–48–2 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+57 | February 14, 1993 | 3–2 | @ Winnipeg Jets (1992–93) | 7–48–2 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+58 | February 16, 1993 | 3–4 | Washington Capitals (1992–93) | 7–49–2 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+59 | February 18, 1993 | 5–3 | Winnipeg Jets (1992–93) | 8–49–2 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+60 | February 20, 1993 | 4–6 | New York Rangers (1992–93) | 8–50–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+61 | February 22, 1993 | 0–4 | New York Rangers (1992–93) | 8–51–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+62 | February 23, 1993 | 3–6 | Calgary Flames (1992–93) | 8–52–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+63 | February 25, 1993 | 0–5 | Toronto Maple Leafs (1992–93) | 8–53–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+64 | February 27, 1993 | 4–5 | @ Calgary Flames (1992–93) | 8–54–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+65 | February 28, 1993 | 1–4 | @ Edmonton Oilers (1992–93) | 8–55–2 | L |
+|
+March: 2–10–0 (home: 2–2–0; road: 0–8–0)
+Game | Date | Score | Opponent | Record | Recap |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+66 | March 2, 1993 | 3–2 OT | Ottawa Senators (1992–93) | 9–55–2 | W |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+67 | March 7, 1993 | 6–3 | Edmonton Oilers (1992–93) | 10–55–2 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+68 | March 9, 1993 | 2–4 | @ Minnesota North Stars (1992–93) | 10–56–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+69 | March 11, 1993 | 2–5 | @ St. Louis Blues (1992–93) | 10–57–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+70 | March 14, 1993 | 1–4 | Detroit Red Wings (1992–93) | 10–58–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+71 | March 16, 1993 | 0–6 | New York Islanders (1992–93) | 10–59–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+72 | March 19, 1993 | 1–8 | @ New York Rangers (1992–93) | 10–60–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+73 | March 21, 1993 | 3–5 | @ Washington Capitals (1992–93) | 10–61–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+74 | March 23, 1993 | 2–7 | @ Pittsburgh Penguins (1992–93) | 10–62–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+75 | March 25, 1993 | 2–5 | @ Philadelphia Flyers (1992–93) | 10–63–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+76 | March 27, 1993 | 3–7 | @ New York Islanders (1992–93) | 10–64–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+77 | March 29, 1993 | 0–5 | @ New Jersey Devils (1992–93) | 10–65–2 | L |
+|
+April: 1–6–0 (home: 1–4–0; road: 0–2–0)
+Game | Date | Score | Opponent | Record | Recap |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+78 | April 1, 1993 | 5–9 | Winnipeg Jets (1992–93) | 10–66–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+79 | April 3, 1993 | 2–3 OT | Calgary Flames (1992–93) | 10–67–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+80 | April 4, 1993 | 3–4 | Calgary Flames (1992–93) | 10–68–2 | L |
+style=\"background: #cfc;color:black;\"</span>"},{"html":""}]]}'>
+81 | April 6, 1993 | 5–2 | Edmonton Oilers (1992–93) | 11–68–2 | W |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+82 | April 8, 1993 | 1–2 | @ Los Angeles Kings (1992–93) | 11–69–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+83 | April 10, 1993 | 2–3 OT | Los Angeles Kings (1992–93) | 11–70–2 | L |
+style=\"background-color: #fcc;color:black;\"</span>"},{"html":""}]]}'>
+84 | April 15, 1993 | 3–7 | @ Calgary Flames (1992–93) | 11–71–2 | L |
+|
+Legend:
+W Win (2 points)
+L Loss (0 points)
+T Tie (1 point)
+|
+Player statistics
+[edit]
+Forwards
+[edit]
+Note: GP= Games played; G= Goals; AST= Assists; PTS = Points; PIM = Points
+Player |
+GP |
+G |
+AST |
+PTS |
+PIM |
+Dean Evason | 84 | 12 | 19 | 31 | 132 |
+Mike Sullivan | 81 | 6 | 8 | 14 | 30 |
+Johan Garpenlov | 79 | 22 | 44 | 66 | 56 |
+Kelly Kisio | 78 | 26 | 52 | 78 | 90 |
+Jeff Odgers | 66 | 12 | 15 | 27 | 253 |
+Rob Gaudreau | 59 | 23 | 20 | 43 | 18 |
+John Carter | 55 | 7 | 9 | 16 | 81 |
+David Maley | 43 | 1 | 6 | 7 | 126 |
+Robin Bawa | 42 | 5 | 0 | 5 | 47 |
+Pat Falloon | 41 | 14 | 14 | 28 | 12 |
+Ed Courtenay | 39 | 7 | 13 | 20 | 10 |
+Hubie McDonough | 30 | 6 | 2 | 8 | 6 |
+Perry Berezan | 28 | 3 | 4 | 7 | 28 |
+Mark Pederson | 27 | 7 | 3 | 10 | 22 |
+Ray Whitney | 26 | 4 | 6 | 10 | 4 |
+Michel Picard | 25 | 4 | 0 | 4 | 24 |
+Dave Snuggerud | 25 | 4 | 5 | 9 | 14 |
+Brian Lawton | 21 | 2 | 8 | 10 | 12 |
+Yvon Corriveau | 20 | 3 | 7 | 10 | 0 |
+Larry DePalma | 20 | 2 | 6 | 8 | 41 |
+Lyndon Byers | 18 | 4 | 1 | 5 | 122 |
+David Bruce | 17 | 2 | 3 | 5 | 33 |
+Petri Skriko | 17 | 4 | 3 | 7 | 6 |
+J. F. Quintin | 14 | 2 | 5 | 7 | 4 |
+Jon Morris | 13 | 0 | 3 | 3 | 6 |
+Dody Wood | 13 | 1 | 1 | 2 | 71 |
+Dale Craigwell | 8 | 3 | 1 | 4 | 4 |
+Jaroslav Otevrel | 7 | 0 | 2 | 2 | 0 |
+Mark Beaufait | 5 | 1 | 0 | 1 | 0 |
+Mikhail Kravets | 1 | 0 | 0 | 0 | 0 |
+Defensemen
+[edit]
+Note: GP= Games played; G= Goals; AST= Assists; PTS = Points; PIM = Points
+Player |
+GP |
+G |
+AST |
+PTS |
+PIM |
+Doug Zmolek | 84 | 5 | 10 | 15 | 229 |
+Rob Zettler | 80 | 0 | 7 | 7 | 150 |
+Jayson More | 73 | 5 | 6 | 11 | 179 |
+Neil Wilkinson | 59 | 1 | 7 | 8 | 96 |
+Tom Pederson | 44 | 7 | 13 | 20 | 31 |
+Doug Wilson | 42 | 3 | 17 | 20 | 40 |
+David Williams | 40 | 1 | 11 | 12 | 49 |
+Sandis Ozolinsh | 37 | 7 | 16 | 23 | 40 |
+Peter Ahola | 20 | 2 | 3 | 5 | 16 |
+Pat MacLeod | 13 | 0 | 1 | 1 | 10 |
+Dean Kolstad | 10 | 0 | 2 | 2 | 12 |
+Claudio Scremin | 4 | 0 | 1 | 1 | 4 |
+Goaltending
+[edit]
+Note: GP= Games played; W= Wins; L= Losses; T = Ties; SO = Shutouts; GAA = Goals Against
+Player |
+GP |
+W |
+L |
+T |
+SO |
+GAA |
+Jeff Hackett | 36 | 2 | 30 | 1 | 0 | 5.28 |
+Arturs Irbe | 36 | 7 | 26 | 0 | 1 | 4.11 |
+Brian Hayward | 18 | 2 | 14 | 1 | 0 | 5.55 |
+Wade Flaherty | 1 | 0 | 1 | 0 | 0 | 5.02 |
+Transactions
+[edit]
+Trades
+[edit]
+June 15, 1992 |
+To Toronto Maple Leafs Jarmo Myllys |
+To San Jose Sharks Future considerations |
+August 24, 1992 |
+To New York Islanders Brian Mullen |
+To San Jose Sharks rights to Markus Thuresson |
+August 28, 1992 |
+To New York Islanders Cash |
+To San Jose Sharks Hubie McDonough |
+October 9, 1992 |
+To Hartford Whalers Future considerations |
+To San Jose Sharks Michel Picard |
+December 15, 1992 |
+To Vancouver Canucks Rick Lessard |
+To San Jose Sharks Robin Bawa |
+December 18, 1992 |
+To Philadelphia Flyers Dave Snuggerud |
+To San Jose Sharks Mark Pederson Future considerations |
+January 22, 1993 |
+To New Jersey Devils Brian Lawton |
+To San Jose Sharks Future considerations |
+February 26, 1993 |
+To Pittsburgh Penguins Future considerations |
+To San Jose Sharks Peter Ahola |
+Free agency
+[edit]
+Date |
+Player |
+Previous team |
+August 27, 1992 | Petri Skriko | Winnipeg Jets |
+November 7, 1992 | Lyndon Byers | Boston Bruins |
+|
+Date |
+Player |
+New team |
+July 1, 1992 | Kevin Evans | Kalamazoo Wings (IHL) |
+September 1, 1992 | Peter Lappin | |
+|
+Waivers
+[edit]
+Date | Player | Team |
+October 4, 1992 | Yvon Corriveau | from Washington Capitals in waiver draft |
+October 4, 1992 | Igor Larionov | from Vancouver Canucks in waiver draft |
+January 1, 1993 | David Maley | from Edmonton Oilers |
+March 13, 1993 | Jon Morris | from New Jersey Devils |
+Released
+[edit]
+Date | Player | New Team |
+July 23, 1992 | Perry Anderson | San Diego Gulls (IHL) |
+July 23, 1992 | Steve Bozek | HC Bolzano (ITA) |
+July 23, 1992 | Paul Fenton | |
+September 21, 1992 | Craig Coxe | Kalamazoo Wings (IHL) |
+November 30, 1992 | Petri Skriko | Kiekko-Espoo (SM-l) |
+January 15, 1993 | Don Barber | Kansas City Blades (IHL) |
+February 19, 1993 | Lyndon Byers | Kansas City Blades (IHL) |
+Draft picks
+[edit]
+NHL entry draft
+[edit]
+San Jose's draft picks at the 1992 NHL entry draft held at the Montreal Forum in Montreal, Quebec.[6]
+Round |
+# |
+Player |
+Position |
+Nationality |
+College/Junior/Club team |
+1 |
+3 |
+Mike Rathje |
+Defense |
+Canada |
+Medicine Hat Tigers (WHL) |
+1 |
+10 |
+Andrei Nazarov |
+Left wing |
+Russia |
+HC Dynamo Moscow (Russia) |
+3 |
+51 |
+Alexander Cherbayev |
+Right wing |
+Russia |
+Voskresensk Khimik (Russia) |
+4 |
+75 |
+Jan Caloun |
+Right wing |
+Czechoslovakia |
+Litvinov Chemopetrol (Czech) |
+5 |
+99 |
+Marcus Ragnarsson |
+Defense |
+Sweden |
+Djurgardens IF Stockholm (SEL) |
+6 |
+123 |
+Michal Sykora |
+Defense |
+Czechoslovakia |
+Tacoma Rockets (WHL) |
+7 |
+147 |
+Eric Bellerose |
+Left wing |
+Canada |
+Trois-Rivières Draveurs (QMJHL) |
+8 |
+171 |
+Ryan Smith |
+Defense |
+Canada |
+Brandon Wheat Kings (WHL) |
+9 |
+195 |
+Chris Burns |
+Goalie |
+Canada |
+U. of Denver (NCAA) |
+10 |
+219 |
+Alex Kholomeyev |
+Right wing |
+Russia |
+Fort Worth Fire (CHL) |
+11 |
+243 |
+Victor Ignatjev |
+Defense |
+Latvia |
+Riga Pardaugava (Russia) |
+NHL supplemental draft
+[edit]
+Round |
+# |
+Player |
+Position |
+Nationality |
+College/Junior/Club team |
+1 |
+3 |
+Brian Konowalchuk |
+Center |
+United States |
+U. of Denver (NCAA) |
+References
+[edit]
+2021–22 San Jose Sharks Media Guide Archived December 3, 2022, at the Wayback Machine
+Sharks' 1992-1993 Roster
+The Internet Hockey Database
+1 2 "1992-93 NHL Summary".
+↑ "Los Angeles Kings at San Jose Sharks Box Score — November 17, 1992".
+↑ "Hartford Whalers at San Jose Sharks Box Score — December 3, 1992".
+↑ Dinger, Ralph, ed. (2011). The National Hockey League Official Guide & Record Book 2012. Dan Diamond & Associates. p. 154. ISBN 9781894801225.
+↑ "1992-93 San Jose Sharks Schedule". Hockey-Reference.com. Retrieved March 5, 2025.
+↑ "1992 NHL Entry Draft Picks at hockeydb.com". www.hockeydb.com. Retrieved March 5, 2025.
+v
+t
+e
+1992–93 NHL season
+|
+Norris |
+Chicago
+Detroit
+Minnesota
+St. Louis
+Tampa Bay
+Toronto
+|
+Smythe |
+Calgary
+Edmonton
+Los Angeles
+San Jose
+Vancouver
+Winnipeg
+|
+Adams |
+Boston
+Buffalo
+Hartford
+Montreal
+Ottawa
+Quebec
+|
+Patrick |
+New Jersey
+NY Islanders
+NY Rangers
+Philadelphia
+Pittsburgh
+Washington
+|
+See also |
+Entry draft
+Expansion draft
+Supplemental draft
+Waiver draft
+All-Star Game
+Stanley Cup playoffs
+Stanley Cup Final
+|
+v
+t
+e
+San Jose Sharks
+|
+Founded in 1991
+Based in San Jose, California
+|
+Franchise |
+Team
+General managers
+Coaches
+Players
+Captains
+Draft picks
+expansion draft
+Seasons
+Current season
+|
+History |
+Records
+Award winners
+Broadcasters
+|
+Personnel |
+Owner(s)
+San Jose Sports & Entertainment Enterprises (Hasso Plattner, governor)
+General manager
+Mike Grier
+Head coach
+Ryan Warsofsky
+Team captain
+Macklin Celebrini
+Current roster
+|
+Arenas |
+Cow Palace
+SAP Center
+|
+Rivalries |
+Los Angeles Kings
+|
+Affiliates |
+AHL
+San Jose Barracuda
+ECHL
+Wichita Thunder
+|
+Media |
+TV
+NBC Sports California
+Radio
+Sharks Audio Network
+Commentators
+Randy Hahn, Drew Remenda
+|
+Culture/Lore |
+S. J. Sharkie
+2015 Stadium Series
+"Seek and Destroy" (Metallica song)
+Sharks Ice San Jose
+|
+Category
+|
+v
+t
+e
+San Jose Sharks seasons
+|
+1990s |
+1990–91 . 1991–92
+1992–93
+1993–94
+1994–95
+1995–96
+1996–97
+1997–98
+1998–99
+1999–00
+|
+2000s |
+2000–01
+2001–02
+2002–03
+2003–04
+2004–05
+2005–06
+2006–07
+2007–08
+2008–09
+2009–10
+|
+2010s |
+2010–11
+2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+2018–19
+2019–20
+|
+2020s |
+2020–21
+2021–22
+2022–23
+2023–24
+2024–25
+2025–26
+2026–27
+|
+Retrieved from "https://en.wikipedia.org/w/index.php?title=1992–93_San_Jose_Sharks_season&oldid=1367318215"
+Categories: 1992–93 NHL season by team
+San Jose Sharks seasons
+1992 in sports in California
+1993 in sports in California
+1990s in San Jose, California
+Hidden categories: Articles with short description
+Short description matches Wikidata
+Use American English from March 2026
+All Wikipedia articles written in American English
+Use mdy dates from August 2023
+Webarchive template wayback links
+This page was last edited on 2 August 2026, at 10:17 (UTC).
+Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+1992–93 San Jose Sharks season
+1 language
+Add topic

@@ -1,0 +1,585 @@
+{
+  "schema": "nhl-comparator/conventions/v0",
+  "doc": "data/gates/README.md",
+  "generated": "2026-10-22",
+  "rows": [
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL.com / NHL PR",
+      "question": "1 games unit",
+      "answer": "Career \"fastest to\" uses the player's own games played.",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/connor-mcdavid-closing-in-on-1000-nhl-points",
+          "quote": "with 995 career points (339 goals, 656 assists) in 657 NHL games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL.com / NHL PR",
+      "question": "9 through-N counts own GP",
+      "answer": "Points \"through N games\" count only games the player played; missed team games are not in N.",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/oilers-connor-mcdavid-scores-1000th-nhl-point",
+          "quote": "accomplishing the feat in 659 games (341 goals, 660 assists)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL Records (as carried by Wikipedia; records.nhl.com is a JS app and its API host is off-limits)",
+      "question": "6 season bound for fastest-from-start",
+      "answer": "\"Fastest 50/100 from start of season\" and \"50 in 50\" are counted in team games; the 50-in-50 is official only inside the team's first 50 games.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "By definition, the 50-in-50 is an official achievement only because a player completes it within their team's first 50 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "While not an official record, the following players scored fifty goals in or before the 50th game they played in a single season, but outside of their team's first 50 games",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most goals, 50 games from start of season: Wayne Gretzky (1981–82 and 1983–84), 61",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL Records (via Wikipedia)",
+      "question": "2 regular season vs playoffs",
+      "answer": "Regular season is the default; playoff records are separate lists; \"including playoffs\" exists only as its own labeled record.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points regular season career: Wayne Gretzky, 2,857",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most points career, including playoffs: Wayne Gretzky, 3,239",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL.com / NHL PR",
+      "question": "3 WHA",
+      "answer": "NHL-only. When NHL.com combines leagues it says so and calls it \"professional\" (NHL + WHA, regular season + playoffs).",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/alex-ovechkin-wayne-gretzky-nhl-goals-record-chase",
+          "quote": "his 1,071st professional goal (NHL and World Hockey Association, regular season and playoffs), tying Gordie Howe’s record",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL (league stance, via Wikipedia)",
+      "question": "3 WHA",
+      "answer": "The NHL does not recognize WHA records; the 1979 arrivals were treated as expansion.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1979_NHL_expansion",
+          "quote": "Although popularly called a merger, the NHL did not and does not recognize the WHA's records or history as being any part of its own.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL.com / NHL PR",
+      "question": "4 age",
+      "answer": "Age is given as years + days on the game date; \"teenager\" means before the 20th birthday.",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/this-date-in-nhl-history-april-17-280320680",
+          "quote": "(18 years, 253 days) becomes the youngest NHL player to reach 100 points in a season.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://nhl.com/news/jets-patrik-laine-turns-20-happy-with-numbers-298130784",
+          "quote": "I'm happy what I was able to do before my 20th birthday",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL Records (via Wikipedia)",
+      "question": "5 appearance unit",
+      "answer": "A goalie appearance of any length is a game played (7.6 seconds is the record low); goalie records count appearances, not starts. An emergency backup gets a game and a win.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Least time played by a goaltender, career Jorge Alves Dec 31, 2016, 7.6 sec",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most games appeared in by a goaltender, career regular season: Martin Brodeur, 1,265",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Ayres",
+          "quote": "He is the first emergency backup goaltender to be credited with a win in the National Hockey League (NHL).",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL.com / NHL PR",
+      "question": "5 appearance unit",
+      "answer": "NHL.com distinguishes goalie games from starts when it matters.",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/alex-ovechkin-wayne-gretzky-nhl-goals-record-chase",
+          "quote": "It was Ovechkin's 28th goal in 47 games (46 starts) against Fleury",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL (via AP/SI)",
+      "question": "7 early assists",
+      "answer": "The NHL itself says its 1917-1987 records needed 6,000+ fixes, and that in some years up to four assists were awarded on a goal.",
+      "receipts": [
+        {
+          "url": "https://www.si.com/nhl/2017/09/26/ap-hkn-canadiens-rocket-assist",
+          "quote": "Six years of poring over scoresheets and summaries of games between 1917 and 1987 by an NHL statistics team has found and fixed more than 6,000 bits of information that were overlooked or miscounted in the league's early eras.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.si.com/nhl/2017/09/26/ap-hkn-canadiens-rocket-assist",
+          "quote": "There were years when up to four assists were awarded on a goal.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Daily Faceoff",
+      "question": "7 early assists",
+      "answer": "Early assists were scarce and rules-dependent: offensive-zone only, secondary assists not full-time until 1945-46.",
+      "receipts": [
+        {
+          "url": "https://www.dailyfaceoff.com/news/the-10-greatest-cy-young-seasons-in-nhl-history",
+          "quote": "Assists were also originally awarded only on passes within the offensive zone, and, after some on and off experimenting, secondary assists weren’t handed out full-time until the 1945-46 season onward.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "TSN / The Canadian Press (AP)",
+      "question": "7 early assists",
+      "answer": "AP/CP bound some \"fastest\" lists at 1943-44; NHL.com does not (its Makar list includes Harry Cameron, 1921-22).",
+      "receipts": [
+        {
+          "url": "https://www.tsn.ca/nhl/colorado-avalanche-s-cale-makar-becomes-fifth-fastest-defensemen-to-reach-100-goals-in-nhl-history-1.2238676",
+          "quote": "he became the fifth-fastest defenseman since 1943-44 to reach that particular mark",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.nhl.com/news/makar-records-100th-career-point-327355166",
+          "quote": "Harry Cameron (88 games in 1921-22)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "NHL standings / ESPN",
+      "question": "8 ties/OTL/SO",
+      "answer": "NHL standings count only regulation defeats as losses, so an OT/SO run is a \"winless streak\"; ESPN pushes back and counts all defeats.",
+      "receipts": [
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/31166656/the-buffalo-sabres-epic-winless-streak-continues-most-fault-how-do-get-back-track",
+          "quote": "because the NHL only considers it a loss when the defeat occurs in regulation",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/31166656/the-buffalo-sabres-epic-winless-streak-continues-most-fault-how-do-get-back-track",
+          "quote": "I know this is a real wacky concept, but a loss is a loss, and the Sabres have 18 of them in a row.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Wikipedia (List of NHL records (team))",
+      "question": "8 ties/OTL/SO",
+      "answer": "Streak definitions: undefeated = wins + ties; winless = regulation, OT, SO losses and ties; losing = regulation losses (plus OT losses 1983-99). Point totals are not comparable across 1983, 1999 and 2005.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "A winless streak includes losses in regulation, overtime, shootouts, or ties.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(team)",
+          "quote": "These changes in points awarded therefore make strict comparisons in wins, losses, and ties (after overtime, 1983–99, and in regulation, 1999–present) before and after these dates slightly problematic.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Wikipedia (List of NHL statistical leaders / head coaches)",
+      "question": "8 ties/OTL/SO",
+      "answer": "Points percentage = (2W + T + OTL) / 2GP; a 0-0 game decided by shootout gives both goalies a shutout; a shootout win counts as a goalie win (Brodeur's 48 included 10 SO wins).",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_statistical_leaders",
+          "quote": "Points percentage is determined by the number of points a team earns (equal to the number of ties and overtime losses, plus twice the number of wins) divided by the total possible points (equal to twice the number of games).",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_statistical_leaders",
+          "quote": "Since 2005-06, if the game ends in a shootout after a 0-0 scoreless tie, both teams' goaltenders are credited with a shutout, regardless of how many shots are conceded during the shootout.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Most ties, career: Terry Sawchuk, 172",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Hockey-Reference",
+      "question": "3 WHA",
+      "answer": "Leader pages print NHL and WHA as separate tables under one \"NHL & WHA\" title; Howe is 1,850 in the NHL table and 508 in the WHA table, never summed.",
+      "receipts": [
+        {
+          "url": "https://www.hockey-reference.com/leaders/points_career.html",
+          "quote": "NHL & WHA Career Leaders and Records for Points",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.hockey-reference.com/leaders/points_career.html",
+          "quote": "WHA Leaders Table",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Hockey-Reference (Sports Reference blog)",
+      "question": "5 appearance unit",
+      "answer": "H-R game logs (the GP basis for any \"through N games\" count) cover every regular-season game back to 1917-18 since July 2021.",
+      "receipts": [
+        {
+          "url": "https://sports-reference.com/blog/2021/07/hockey-reference-adds-nhl-game-logs-back-to-1917-18-2",
+          "quote": "we now have all NHL regular season box scores available back to the beginning of the NHL, the 1917-18 season",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Wikipedia (List of NHL records; 300-win list)",
+      "question": "3 WHA",
+      "answer": "NHL-only; WHA totals appear only as a combined aside.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_goaltenders_with_300_wins",
+          "quote": "If one combines both their NHL and World Hockey Association (WHA) statistics, Gerry Cheevers (329), Mike Liut (325), and Bernie Parent (304) would have at least 300 wins as well.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "Bobby Hull recorded 50 goals in the first 50 games of the 1974–75 WHA season",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Wikipedia (1,000-point list)",
+      "question": "1 games unit",
+      "answer": "The \"fastest\" column is the player's career game number.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_players_with_1,000_points",
+          "quote": "Game No. – Number of career games played when 1,000th point was scored",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "ESPN Stats & Info",
+      "question": "8 ties/OTL/SO",
+      "answer": "ESPN bounds a winless record at the shootout era when the definition changed.",
+      "receipts": [
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/31166656/the-buffalo-sabres-epic-winless-streak-continues-most-fault-how-do-get-back-track",
+          "quote": "They own the record for the longest winless streak of the shootout era (since 2005-06)",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "TSN",
+      "question": "1 games unit",
+      "answer": "TSN counts \"fastest to\" in the player's games.",
+      "receipts": [
+        {
+          "url": "https://www.tsn.ca/nhl/by-the-numbers-mcdavid-chasing-history-in-pursuit-of-1-000-points-1.2056657",
+          "quote": "after scoring a goal and four assists in his 602nd game",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Sportsnet",
+      "question": "1 games unit",
+      "answer": "Not checked: sportsnet.ca refuses our search agent. theScore (a Sportsnet peer) uses the player's games and years + days ages.",
+      "receipts": [
+        {
+          "url": "https://thescore.com/news/3127526",
+          "quote": "He's the fourth-fastest player to get there, doing so in his 659th game",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://thescore.com/news/3127526",
+          "quote": "McDavid is also the fourth-youngest player to hit 1,000 points at 27 years, 306 days.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "QuantHockey",
+      "question": "2 regular season vs playoffs",
+      "answer": "Regular season by default, with playoffs, Final and Game 7 on separate tabs; rate leaders need a minimum (200 goals).",
+      "receipts": [
+        {
+          "url": "https://www.quanthockey.com/nhl/records/nhl-players-all-time-goals-per-game-leaders.html",
+          "quote": "Regular SeasonPlayoffsStanley Cup FinalsGame SevenAll PositionsForwardsDefensemenGoaliesAll PlayersActive Players",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.quanthockey.com/nhl/records/nhl-players-all-time-goals-per-game-leaders.html",
+          "quote": "-At least 200 career goals",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Guinness World Records",
+      "question": "4 age",
+      "answer": "Age is given in years + months, a coarser grain than the NHL's years + days.",
+      "receipts": [
+        {
+          "url": "https://guinnessworldrecords.com/world-records/youngest-player-to-play-in-nhl",
+          "quote": "At 16 years 11 months, Armand \"Bep\" Guidolin (Canada, b. 9 December 1925) became the youngest player to skate in an NHL game",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Guinness World Records",
+      "question": "2 regular season vs playoffs",
+      "answer": "Regular season only for goalie win records.",
+      "receipts": [
+        {
+          "url": "https://guinnessworldrecords.com/world-records/most-consecutive-30-win-seasons-to-start-an-nhl-goaltender-career",
+          "quote": "seven straight regular seasons with 30-plus wins",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "kind": "convention",
+      "grade": "V",
+      "publisher": "Elias Sports Bureau (as cited)",
+      "question": "2 regular season vs playoffs",
+      "answer": "Elias appears as an outside fact-checker, not as the NHL's record keeper: it caught a Jagr GWG error because NHL.com only tracks game-winners from 1967-68.",
+      "receipts": [
+        {
+          "url": "https://thehockeywriters.com/jagr-breaks-nhl-gwg-record/",
+          "quote": "Multiple news outlets ran stories about Jagr’s new record before Bob Waterman of the Elias Sports Bureau discovered a critical error.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://thehockeywriters.com/jagr-breaks-nhl-gwg-record/",
+          "quote": "The NHL’s website only has GWG info dating back to the 1967-68 season",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    }
+  ],
+  "rejections": [
+    {
+      "claim": "Kucherov's 144 points (2023-24) is a record",
+      "reason": "Not a record of any kind; the viral hook is his 100 assists (fifth player ever). Seeded as glory in the brief; keep only as the 100-assist claim.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nikita_Kucherov",
+          "quote": "Kucherov ended the season with a career high in goals (44), assists (100), and points (144) in 81 games played."
+        }
+      ]
+    },
+    {
+      "claim": "McDavid became fastest active player to 1,000 points in 2025",
+      "reason": "Wrong year: the 1,000th point was Nov. 14, 2024 (659th game).",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/news/oilers-connor-mcdavid-scores-1000th-nhl-point",
+          "quote": "accomplishing the feat in 659 games (341 goals, 660 assists)"
+        }
+      ]
+    },
+    {
+      "claim": "Penguins 17 straight losses (2003-04)",
+      "reason": "The Penguins' streak was 18 (0-17-1); the 17-loss figure belongs to the 1992-93 Sharks under the pre-1999 definition.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2003–04_Pittsburgh_Penguins_season",
+          "quote": "In an 18-game losing streak, they went 0–17–1 (one overtime loss)."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1992–93_San_Jose_Sharks_season",
+          "quote": "most consecutive losses, with 17 in a row"
+        }
+      ]
+    },
+    {
+      "claim": "The NHL record book lists \"fastest 50 from start of season\" as Gretzky 39, Gretzky 42, Lemieux 46, Bossy 50, Richard 50",
+      "reason": "Partly confirmed: Gretzky 39 and Lemieux team game 46 confirmed; the full NHL list could not be opened (records.nhl.com renders client-side; its API host is off-limits to this slice). Gretzky 42 is UNVERIFIED.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_NHL_records_(individual)",
+          "quote": "Fastest 50 goals from start of season: Wayne Gretzky (December 30, 1981), 39 games"
+        }
+      ]
+    },
+    {
+      "claim": "Lemieux was second-fastest to 1,000 points in 513 games, and the brief's seed \"Lemieux 50 in 44 games played\" is the official framing",
+      "reason": "513 confirmed. \"50 in 44\" is the player-GP framing; the official record book counts team game 46.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/50_goals_in_50_games",
+          "quote": "which was Lemieux's 44th game of the season"
+        }
+      ]
+    }
+  ],
+  "unverified": [
+    {
+      "claim": "Jon Cooper reached 600 wins in 1,005 games against Bowman's 1,002",
+      "what_i_tried": "THN article saved (no game counts in it); counts seen only in a search snippet (wearegreenbay)."
+    },
+    {
+      "claim": "McDavid fastest active player to 1,000 points (ahead of Crosby's 757)",
+      "what_i_tried": "Daily Hive snippet only; NHL.com article does not say \"active\"."
+    },
+    {
+      "claim": "NHL ruled no asterisk for Brodeur's 48 wins (shootout wins included)",
+      "what_i_tried": "nysun.com returned 429; search snippet only."
+    },
+    {
+      "claim": "Most wins by a goalie through first 100 starts (any publisher list)",
+      "what_i_tried": "Searches found no list."
+    },
+    {
+      "claim": "Fewest wins through first N games of a season (ranked publisher list)",
+      "what_i_tried": "Searches found game-N records only (Sharks 0-10-1), no ranked list."
+    },
+    {
+      "claim": "Gretzky 42 games in the NHL \"fastest 50 from start of season\" list",
+      "what_i_tried": "records.nhl.com is a JS app; its API host is off-limits to this slice."
+    },
+    {
+      "claim": "1992-93 Sharks final record 11-71-2",
+      "what_i_tried": "Seen only in a search snippet (sanjosehockeynow)."
+    }
+  ]
+}

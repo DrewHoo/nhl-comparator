@@ -1,0 +1,3000 @@
+{
+ "rows": [
+  {
+   "section": "stat-floors",
+   "fact": "Goals, assists, points, PIM and GWG are carried for 1917-18 skaters on Hockey-Reference; no +/-, shots, PP/SH or TOI columns are populated for that season",
+   "value": "G/A/PTS/PIM: 1917-18",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.hockey-reference.com/leagues/NHL_1918_skaters.html",
+     "quote": "Rk | Player | Age | Team | Pos | GP | G | A | PTS | PIM | GWG | TOI | ATOI | Awards |",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.hockey-reference.com/leagues/NHL_1918_skaters.html",
+     "quote": "1 | Joe Malone | 27 | MTL | LW | 20 | 44 | 4 | 48 | 30 | 4 |",
+     "note": "Malone 20 GP of a 22-game schedule; GWG populated (retroactively computed, a derived stat)",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Early assists were sparse and the per-goal maximum changed in the 1930s; the two secondary sources (both citing Total Hockey 1998, Ron Andrews) disagree on the year of the three-assist season",
+   "value": "max 1 assist/goal before ~1936; up to 3 in 1935-36 or 1936-37; max 2 since",
+   "grade": "S",
+   "receipts": [
+    {
+     "url": "https://thehockeywriters.com/nhl-highest-goal-to-assist-ratios/",
+     "quote": "Prior to 1936, only one assist was recorded for each goal. If an assist was recorded at all. During the 1936-37 season, up to three assists per goal were awarded. Since then, a maximum of two assists per goal has been the standard.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://dobberhockey.com/?p=29830",
+     "quote": "However, in 1935-36 for some inexplicable reason three assists could be awarded on a goal",
+     "note": "quotes the same Total Hockey chapter but names 1935-36",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Plus-minus: the NHL started counting it in 1967(-68); the NHL has compiled it back to 1959(-60)",
+   "value": "official 1967-68; compiled 1959-60+",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/NHL_Plus-Minus_Award",
+     "quote": "The NHL started counting the statistics in 1967, while records have been compiled by the NHL for plus-minus back to 1959.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/NHL_Plus-Minus_Award",
+     "quote": "The plus/minus statistic was first established during the 1967–68 NHL season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Skater shots on goal were not officially recorded until 1967-68; Hockey-Reference underlines pre-1967-68 career totals as incomplete",
+   "value": "skater shots official: 1967-68",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.hockey-reference.com/about/glossary.html",
+     "quote": "shots on goal were not officially recorded for skaters until the \n1967-68 NHL season",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Game-level time on ice was first recorded in 1997-98 (Hockey-Reference extended season TOI back to 1997-98 in Sept 2023; before that its floor was 1998-99)",
+   "value": "TOI: 1997-98",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.sports-reference.com/blog/2023/09/",
+     "quote": "Our season-level TOI now matches the sum of our game-level TOI, which was first recorded in 1997-98.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.sports-reference.com/blog/2023/09/",
+     "quote": "Before this update, our coverage went back to the 1998-99 season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Hits, blocked shots, giveaways and takeaways were distributed under the Real-Time Scoring System for two seasons around 2000-02 and then scrubbed from player summaries because of building-to-building subjectivity; the public series used today restarts later (2005-06 per common reference, not re-checked)",
+   "value": "RTSS hits/blocks/GV/TK: early 2000s, dropped, return ~2005-06",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.espn.com.au/nhl/columns/frei_terry/1435985.html",
+     "quote": "Blocked shots, hits, giveways and takeaways, all part of the statistical package distributed the past two seasons under the league's generally well-received \"Real-Time Scoring System,\" have been scrubbed on each player's summary line this season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.espn.com.au/nhl/columns/frei_terry/1435985.html",
+     "quote": "involved subjective judgments that could vary from building to building",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "RTSS event counts (hits, shots, faceoffs) carry documented rink-to-rink recording bias",
+   "value": "arena-scorer bias",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://arxiv.org/abs/1412.1035",
+     "quote": "Several previous studies have found that there are inconsistencies in the recording of these events from rink to rink.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Goalie save percentage on Hockey-Reference reaches back into the 1950s (Johnny Bower 1953-70 ranks 2nd career), so HR carries shots against before any official floor; the NHL's own official floor for shots against is not verified here",
+   "value": "goalie SA/SV%: HR has 1950s data; official floor unverified",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.hockey-reference.com/leaders/save_pct_career.html",
+     "quote": "Johnny Bower* | \n1953-70 | .9219 |",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Regular-season overtime: 10-minute non-sudden-death OT ended Nov 21, 1942; ties stood through 1982-83; 5-minute sudden-death OT from 1983-84",
+   "value": "ties 1942-83; OT returns 1983-84",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Overtime_(ice_hockey)",
+     "quote": "From November 21, 1942,[1] when overtime (a non-sudden death extra period of 10 minutes duration) was eliminated due to war time restrictions and continuing through the 1982–83 season, all NHL regular-season games tied after 60 minutes of play ended as ties. On June 23, 1983, the NHL introduced a regular-season sudden death overtime period of five minutes.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Overtime-loss standings point since 1999-2000",
+   "value": "OTL: 1999-00",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Overtime_(ice_hockey)",
+     "quote": "Since 1999–00, the team losing in overtime in the NHL (and in most other leagues) receives one point in the standings.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Shootout (and the end of ties) from 2005-06; 3-on-3 overtime from 2015-16",
+   "value": "SO 2005-06; 3v3 2015-16",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Overtime_(ice_hockey)",
+     "quote": "in the NHL's first post-lockout season of 2005–06, the league ends exhibition and regular season games still tied after a five-minute-length, three-skaters-per-side overtime period (as of the 2015–16 NHL season onwards) with a shootout.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "stat-floors",
+   "fact": "Shootout goals earn players no goals or points",
+   "value": "SO goals excluded from player G/PTS",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://dobberhockey.com/?p=29830",
+     "quote": "a shootout goal earn a player no points",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1917–18 (first season at this length unless noted)",
+   "value": "22",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1917–18 | 1918[1] | 1918 | 4/3[5] | 22",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1918–19 (first season at this length unless noted)",
+   "value": "18",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1918–19 | 1919 | 1919 | 3 | 18",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1919–20 (first season at this length unless noted)",
+   "value": "24",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1919–20 | 1920 | 1920 | 4[6] | 24",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1924–25 (first season at this length unless noted)",
+   "value": "30",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1924–25 | 1925 | 1925 | 6[8] | 30",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1925–26 (first season at this length unless noted)",
+   "value": "36",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1925–26 | 1926 | 1926 | 7[9] | 36",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1926–27 (first season at this length unless noted)",
+   "value": "44",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1926–27 | 1927 | 1927 | 10[10] | 44",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1931–32 (first season at this length unless noted)",
+   "value": "48",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1931–32 | 1932 | 1932 | 8[11] | 48",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1942–43 (first season at this length unless noted)",
+   "value": "50",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1942–43 | 1943 | 1943 | 50 | October 31",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1946–47 (first season at this length unless noted)",
+   "value": "60",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1946–47 | 1947 | 1947 | 60 | October 16",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1949–50 (first season at this length unless noted)",
+   "value": "70",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1949–50 | 1950 | 1950 | 70 | October 12",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1967–68 (first season at this length unless noted)",
+   "value": "74",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1967–68 | 1968 | 1968 | 12[15] | 74",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1968–69 (first season at this length unless noted)",
+   "value": "76",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1968–69 | 1969 | 1969 | 12 | 76",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1970–71 (first season at this length unless noted)",
+   "value": "78",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1970–71 | 1971 | 1971 | 14[16] | 78",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1974–75 (first season at this length unless noted)",
+   "value": "80",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1974–75 | 1975 | 1975 | 18[18] | 80",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1992–93 (first season at this length unless noted)",
+   "value": "84",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1992–93 | 1993 | 1993 | 24[25] | 84",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1994–95 (first season at this length unless noted)",
+   "value": "48",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1994–95 | 1995 | 1995 | 26 | 48[27]",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 1995–96 (first season at this length unless noted)",
+   "value": "82",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1995–96 | 1996 | 1996 | 26[28] | 82",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 2012–13 (first season at this length unless noted)",
+   "value": "48",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2012–13 | 2013 | 2013 | 30 | 48[36]",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 2019–20 (first season at this length unless noted)",
+   "value": "68–71",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2019–20 | 2020 | 2020 | 31 | 68–71[40]",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 2020–21 (first season at this length unless noted)",
+   "value": "56",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2020–21 | 2021 | 2021 | 31 | 56[41]",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 2021–22 (first season at this length unless noted)",
+   "value": "82",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2021–22 | 2022 | 2022 | 32[42] | 82",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "Regular-season games per team, 2026–27 (first season at this length unless noted)",
+   "value": "84",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2026–27 | 2027 | 2027 | 32 | 84",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "2004-05 season not played (lockout)",
+   "value": "cancelled",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2004–05 | Season not played due to lockout",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "1917-18: Wanderers withdrew after six games (four played, two defaulted); the two defaults stand as wins for the Canadiens and Toronto in the standings though never played",
+   "value": "team W-L includes 2 unplayed games",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "Wanderers withdrew after six games (four completed, two forfeited).",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/1917%E2%80%9318_NHL_season",
+     "quote": "these appear as losses in the standings, but the games were not played.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "1918-19: scheduled 20 games, stopped at 18 when the Arenas withdrew; the Stanley Cup Final (Canadiens vs PCHA Seattle) was cancelled by influenza at 2–2–1",
+   "value": "18 games; Cup Final cancelled",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/1918%E2%80%9319_NHL_season",
+     "quote": "With the NHL reduced to two teams eighteen games into its 20-game season",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/1918%E2%80%9319_NHL_season",
+     "quote": "With the series tied after five games (with one tie), the sixth game was slated for April 1, 1919, when the Spanish Flu epidemic forced the cancellation of the series.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "1992-93 and 1993-94: 84 games including two \"home\" games per team at neutral sites",
+   "value": "84 incl. 2 neutral-site",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/1992%E2%80%9393_NHL_season",
+     "quote": "each team began playing 84 games per season, including two home games at neutral sites.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "2019-20 paused March 12, 2020; remaining regular season scrapped, teams finished on 68–71 games, standings by points percentage; 24-team return-to-play",
+   "value": "unequal GP 68-71",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_NHL_season",
+     "quote": "The seeds would be based on each club's points percentage when the season paused on March 12",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "Due to the uneven schedule, the Boston Bruins were awarded the top record in the regular season by points percentage.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "2020-21: 56 games, divisional-only realignment with an all-Canadian North Division",
+   "value": "56",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/2020%E2%80%9321_NHL_season",
+     "quote": "Due to the COVID-19 pandemic, the regular season was reduced to 56 games and began on January 13, 2021.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "season-lengths",
+   "fact": "2026-27: 84-game regular season under the CBA ratified July 2025 (Wikipedia lists 84; the press report says \"reportedly\"; NHL primary not fetched)",
+   "value": "84",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2026–27 | 2027 | 2027 | 32 | 84",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://russianmachineneverbreaks.com/2025/07/08/nhl-nhlpa-ratify-cba-through-2029-30-season/",
+     "quote": "the agreement reportedly includes a transition to an 84-game season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Under the NHL constitution a franchise outlives its city; e.g. Kansas City Scouts, Colorado Rockies and New Jersey Devils are one franchise",
+   "value": "franchise = entity across moves",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "The franchise can out-live teams located in different cities. For example, the Kansas City Scouts, Colorado Rockies, and New Jersey Devils are one franchise.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Sept 24, 2026: the NHL consolidated Winnipeg Jets statistical history: Jets 1.0 (1979-96) + Atlanta Thrashers (1999-2011) + Jets 2.0 (2011-); the inactive Coyotes franchise keeps only Arizona 1996-2024. Statistical franchise history is therefore an NHL ruling that can be revised, not a fixed legal fact",
+   "value": "WPG = 1979-96 + ATL 1999-2011 + WPG 2011-; ARI = 1996-2024",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.nhl.com/news/jets-and-nhl-announce-consolidation-of-winnipeg-jets-history",
+     "quote": "the Jets’ history now encompasses their first stint in Winnipeg (1979-96) as well as their years as the Atlanta Thrashers (1999-2011) and their seasons in Winnipeg since 2011-12.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.nhl.com/news/jets-and-nhl-announce-consolidation-of-winnipeg-jets-history",
+     "quote": "The statistical history of the inactive Coyotes franchise only will encompass its years in Arizona (1996-2024) and therefore will not be included in the Jets’ history.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.nhl.com/news/jets-and-nhl-announce-consolidation-of-winnipeg-jets-history",
+     "quote": "These changes are reflected in the statistical sections of NHL.com, the NHL app and the Jets’ official website.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Utah (2024) is a new franchise, not a relocation: the Coyotes were rendered inactive and transferred their hockey assets",
+   "value": "UTA = expansion 2024-25; ARI inactive",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.nhl.com/news/board-approves-establishment-of-new-franchise-in-utah-2024",
+     "quote": "approved the establishment of a franchise beginning with the 2024-25 season in Utah",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.nhl.com/news/board-approves-establishment-of-new-franchise-in-utah-2024",
+     "quote": "the Board approved a plan that renders the Arizona Coyotes franchise inactive",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Utah Hockey Club renamed Utah Mammoth, unveiled May 7, 2025, for 2025-26",
+   "value": "Utah Mammoth (2025-26-)",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "The temporarily named Utah Hockey Club changed its name to the Utah Mammoth for the 2025–26 season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Montreal Wanderers 1917-18, defunct",
+   "value": "Montreal Wanderers 1917-18, defunct",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Montreal Wanderers^ | 1917 | 1918 [g] | Defunct",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Quebec Bulldogs (1919-20) -> Hamilton Tigers (1920-25), defunct",
+   "value": "Quebec Bulldogs (1919-20) -> Hamilton Tigers (1920-25), defunct",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Quebec Bulldogs^ | 1919 | 1920 | Hamilton Tigers",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Hamilton Tigers defunct 1925; players bought by NY Americans",
+   "value": "Hamilton Tigers defunct 1925; players bought by NY Americans",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Ceased operations due to players' strike; players were bought by the New York Americans.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Pittsburgh Pirates -> Philadelphia Quakers 1930, defunct 1931",
+   "value": "Pittsburgh Pirates -> Philadelphia Quakers 1930, defunct 1931",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Pittsburgh Pirates^[a] | 1925 | 1930 | Philadelphia Quakers",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Ottawa Senators (original) -> St. Louis Eagles 1934, defunct 1935",
+   "value": "Ottawa Senators (original) -> St. Louis Eagles 1934, defunct 1935",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Ottawa Senators^[b] | 1917 | 1934 | St. Louis Eagles",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "New York/Brooklyn Americans 1925-42",
+   "value": "New York/Brooklyn Americans 1925-42",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Brooklyn Americans^[c] | 1925 | 1942 | Defunct",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Montreal Maroons 1924-38",
+   "value": "Montreal Maroons 1924-38",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Montreal Maroons | 1924 | 1938 | Defunct",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "California (Golden) Seals -> Cleveland Barons 1976",
+   "value": "California (Golden) Seals -> Cleveland Barons 1976",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "California Golden Seals^[d] | 1967 | 1976 | Cleveland Barons",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Cleveland Barons merged with Minnesota North Stars 1978",
+   "value": "Cleveland Barons merged with Minnesota North Stars 1978",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Cleveland Barons | 1976 | 1978 | DefunctMerged with Minnesota North Stars",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Kansas City Scouts -> Colorado Rockies 1976",
+   "value": "Kansas City Scouts -> Colorado Rockies 1976",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Kansas City Scouts | 1974 | 1976 | Colorado Rockies",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Colorado Rockies -> New Jersey Devils 1982",
+   "value": "Colorado Rockies -> New Jersey Devils 1982",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Colorado Rockies^[e] | 1976 | 1982 | New Jersey Devils*",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Atlanta Flames -> Calgary Flames 1980",
+   "value": "Atlanta Flames -> Calgary Flames 1980",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Atlanta Flames^ | 1972 | 1980 | Calgary Flames*",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Minnesota North Stars -> Dallas Stars 1993",
+   "value": "Minnesota North Stars -> Dallas Stars 1993",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Minnesota North Stars^ | 1967 | 1993 | Dallas Stars*",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Quebec Nordiques -> Colorado Avalanche 1995",
+   "value": "Quebec Nordiques -> Colorado Avalanche 1995",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Quebec Nordiques | 1979 | 1995 | Colorado Avalanche*",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Winnipeg Jets (1.0) -> Phoenix Coyotes 1996",
+   "value": "Winnipeg Jets (1.0) -> Phoenix Coyotes 1996",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Winnipeg Jets^[f] | 1979 | 1996 | Phoenix Coyotes",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Hartford Whalers -> Carolina Hurricanes 1997",
+   "value": "Hartford Whalers -> Carolina Hurricanes 1997",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Hartford Whalers | 1979 | 1997 | Carolina Hurricanes*",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Atlanta Thrashers -> Winnipeg Jets 2011",
+   "value": "Atlanta Thrashers -> Winnipeg Jets 2011",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Atlanta Thrashers[f] | 1999 | 2011 | Winnipeg Jets*",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Arizona Coyotes 1996-2024, suspended; assets to Utah",
+   "value": "Arizona Coyotes 1996-2024, suspended; assets to Utah",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "Arizona Coyotes[j] | 1996 | 2024 | SuspendedHockey assets transferred to Utah Mammoth",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Toronto (Arenas) -> Toronto St. Patricks 1919-20",
+   "value": "Toronto (Arenas) -> Toronto St. Patricks 1919-20",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "Toronto changed its name to Toronto St. Patricks.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "St. Patricks -> Maple Leafs mid-1926-27 (league made them finish as St. Patricks)",
+   "value": "St. Patricks -> Maple Leafs mid-1926-27 (league made them finish as St. Patricks)",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "Midway through the 1926–27 season, the Toronto St. Patricks were sold and renamed the Toronto Maple Leafs, however the league ruled the team must use the St. Patricks name until season's end.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Detroit Cougars -> Falcons 1930-31",
+   "value": "Detroit Cougars -> Falcons 1930-31",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "Detroit was renamed the Detroit Falcons.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Detroit Falcons -> Red Wings 1932-33",
+   "value": "Detroit Falcons -> Red Wings 1932-33",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "the Detroit Falcons were renamed the Detroit Red Wings.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "New York Americans -> Brooklyn Americans 1941-42",
+   "value": "New York Americans -> Brooklyn Americans 1941-42",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "The New York Americans changed their name to the Brooklyn Americans for the 1941–42 season, their last.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Oakland Seals -> Bay Area Seals -> California Golden Seals 1970-71",
+   "value": "Oakland Seals -> Bay Area Seals -> California Golden Seals 1970-71",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "The Oakland Seals were renamed the Bay Area Seals for two games before changing their name to the California Golden Seals for their fourth season in 1970–71.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Chicago Black Hawks -> Blackhawks 1986-87",
+   "value": "Chicago Black Hawks -> Blackhawks 1986-87",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "The Chicago Black Hawks changed their name to Chicago Blackhawks for the 1986–87 season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Mighty Ducks of Anaheim -> Anaheim Ducks 2006-07",
+   "value": "Mighty Ducks of Anaheim -> Anaheim Ducks 2006-07",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "The Mighty Ducks of Anaheim changed their name to the Anaheim Ducks in the 2006–07 season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Phoenix Coyotes -> Arizona Coyotes 2014-15",
+   "value": "Phoenix Coyotes -> Arizona Coyotes 2014-15",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/History_of_organizational_changes_in_the_NHL",
+     "quote": "The Phoenix Coyotes changed their name to Arizona Coyotes for the 2014–15 season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Seals/Barons franchise ended in the 1978 merger; the San Jose Sharks are officially a separate franchise",
+   "value": "CGS/CLE != SJS",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Cleveland_Barons_(NHL)",
+     "quote": "Although the Sharks are officially a separate franchise from the Seals/Golden Seals/Barons",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "franchise",
+   "fact": "Hartford moved first to Greensboro (1997), then to Raleigh (1999)",
+   "value": "CAR",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "The Carolina Hurricanes moved to their intended home of Raleigh, North Carolina.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "counts",
+   "fact": "WHA statistics are kept separate from NHL statistics (Howe: 801 NHL goals, 174 WHA; 975 only as a combined figure). The NHL's Jets consolidation starts Jets history in 1979, excluding the WHA Jets 1972-79",
+   "value": "WHA excluded",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "WHA totals\\n! 419 !! 174",
+     "note": "Howe article: separate NHL / WHA / combined rows",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.nhl.com/news/jets-and-nhl-announce-consolidation-of-winnipeg-jets-history",
+     "quote": "their first stint in Winnipeg (1979-96)",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "counts",
+   "fact": "NHA seasons (1910-17) are a predecessor league, listed separately from NHL seasons",
+   "value": "NHA excluded",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "The list also includes the seasons of the National Hockey Association (NHA), the predecessor organization of the NHL",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "counts",
+   "fact": "All-Star games are their own game type (04) in the NHL game id, separate from regular season (02) and playoffs (03)",
+   "value": "exclude type 04",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://raw.githubusercontent.com/dword4/nhlapi/master/README.md",
+     "quote": "The next 2 digits give the type of game, where 01 = preseason, 02 = regular season, 03 = playoffs, 04 = all-star.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "counts",
+   "fact": "Emergency backup goalie David Ayres (Feb 22, 2020) is credited with an NHL game and a win",
+   "value": "EBUG counts as GP/W",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/David_Ayres",
+     "quote": "He is the first emergency backup goaltender to be credited with a win in the National Hockey League (NHL).",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "counts",
+   "fact": "A suspended game can be replayed from scratch: Blues–Ducks Feb 11, 2020 suspended at 1–1 in the first period (Bouwmeester collapse) and made up March 11",
+   "value": "suspended-game stats",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_NHL_season",
+     "quote": "The game was made up on March 11.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "dates-venues",
+   "fact": "NHL game id = SSSS TT GGGG: 4-digit season start year, 2-digit game type, 4-digit game number; playoff GGGG encodes round / matchup / game",
+   "value": "SSSSTTGGGG",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://raw.githubusercontent.com/dword4/nhlapi/master/README.md",
+     "quote": "The first 4 digits identify the season of the game (ie. 2017 for the 2017-2018 season).",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/dword4/nhlapi/master/README.md",
+     "quote": "For playoff games, the 2nd digit of the specific number gives the round of the playoffs, the 3rd digit specifies the matchup, and the 4th digit specifies the game (out of 7).",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "dates-venues",
+   "fact": "First regular-season games outside North America: Anaheim vs Vancouver in Japan, Oct 3-4, 1997",
+   "value": "Global Series 1997-",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/NHL_Global_Series",
+     "quote": "the first ones to count towards the league's regular seasons standings were held in October 3–4, 1997, when the Mighty Ducks of Anaheim and the Vancouver Canucks played a two-game series in Japan",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "dates-venues",
+   "fact": "Outdoor regular-season games since 2003-04 (Heritage Classic), annually since 2007-08",
+   "value": "outdoor games",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/NHL_outdoor_games",
+     "quote": "The National Hockey League (NHL) first held an outdoor ice hockey game during the 2003–04 season, and has scheduled at least one such game per season since the 2007–08 season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "dates-venues",
+   "fact": "2020 playoffs in two hub cities, Toronto and Edmonton, at neutral sites; home ice given to the higher seed",
+   "value": "bubble home/away by seed",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_NHL_season",
+     "quote": "Toronto's Scotiabank Arena and Edmonton's Rogers Place",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_NHL_season",
+     "quote": "The higher-seeded team is awarded home ice advantage.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "dates-venues",
+   "fact": "Neutral-site \"home\" games 1992-94 (e.g. Dallas played one in Minneapolis)",
+   "value": "neutral sites 1992-94",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/1993%E2%80%9394_NHL_season",
+     "quote": "The Dallas Stars played a neutral-site game in their previous market of Minnesota at the Target Center in Minneapolis",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "ids",
+   "fact": "NHL.com player id (Wikidata P3522): 7 digits matching 84[4-9]\\d{4}",
+   "value": "84xxxxx",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=P3522|P3567|P2481|P3598&format=json&props=labels|descriptions|claims&languages=en",
+     "quote": "84[4-9]\\\\d{4}",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "ids",
+   "fact": "Hockey-Reference player id is Wikidata P3598, pattern letter/ + surname-prefix + firstname-prefix + 2 digits (e.g. m/malonjo01)",
+   "value": "P3598",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=P3522|P3567|P2481|P3598&format=json&props=labels|descriptions|claims&languages=en",
+     "quote": "Hockey-Reference.com player ID",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "ids",
+   "fact": "Wikidata P3567 is the HHOF.com NHL player id, not Hockey-Reference",
+   "value": "P3567 = HHOF",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=P3522|P3567|P2481|P3598&format=json&props=labels|descriptions|claims&languages=en",
+     "quote": "HHOF.com NHL player ID",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "ids",
+   "fact": "Elite Prospects player id is Wikidata P2481 (1-7 digit integer)",
+   "value": "P2481",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=P3522|P3567|P2481|P3598&format=json&props=labels|descriptions|claims&languages=en",
+     "quote": "Elite Prospects player ID",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "ids",
+   "fact": "Name collision: two Sebastian Ahos (Finnish forward b. 1997, Carolina; Swedish defenceman b. 1996)",
+   "value": "disambiguate by id/DOB",
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Sebastian_Aho",
+     "quote": "For the Swedish ice hockey defenceman, see Sebastian Aho (ice hockey, born 1996).",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Wayne Gretzky",
+   "value": {
+    "nhlFirst": "1979-80",
+    "nhlLast": "1998-99",
+    "nhlGP": 1487,
+    "playoffOnlyDebut": null,
+    "wha": {
+     "first": "1978-79",
+     "last": "1978-79",
+     "gp": 80
+    },
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,487",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Maurice Richard",
+   "value": {
+    "nhlFirst": "1942-43",
+    "nhlLast": "1959-60",
+    "nhlGP": 978,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "none",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 978",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Bobby Orr",
+   "value": {
+    "nhlFirst": "1966-67",
+    "nhlLast": "1978-79",
+    "nhlGP": 657,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 657",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Bobby Hull",
+   "value": {
+    "nhlFirst": "1957-58",
+    "nhlLast": "1979-80",
+    "nhlGP": 1063,
+    "playoffOnlyDebut": null,
+    "wha": {
+     "first": "1972-73",
+     "last": "1978-79",
+     "gp": 411
+    },
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,063",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Gordie Howe",
+   "value": {
+    "nhlFirst": "1946-47",
+    "nhlLast": "1979-80",
+    "nhlGP": 1767,
+    "playoffOnlyDebut": null,
+    "wha": {
+     "first": "1973-74",
+     "last": "1978-79",
+     "gp": 419
+    },
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,767",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Mario Lemieux",
+   "value": {
+    "nhlFirst": "1984-85",
+    "nhlLast": "2005-06",
+    "nhlGP": 915,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 915",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Steve Yzerman",
+   "value": {
+    "nhlFirst": "1983-84",
+    "nhlLast": "2005-06",
+    "nhlGP": 1514,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,514",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Jacques Plante",
+   "value": {
+    "nhlFirst": "1952-53",
+    "nhlLast": "1972-73",
+    "nhlGP": 837,
+    "playoffOnlyDebut": null,
+    "wha": {
+     "first": "1974-75",
+     "last": "1974-75",
+     "gp": 31
+    },
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 837",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Jaromír Jágr",
+   "value": {
+    "nhlFirst": "1990-91",
+    "nhlLast": "2017-18",
+    "nhlGP": 1733,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,733",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Teemu Selänne",
+   "value": {
+    "nhlFirst": "1992-93",
+    "nhlLast": "2013-14",
+    "nhlGP": 1451,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,451",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Ken Dryden",
+   "value": {
+    "nhlFirst": "1970-71",
+    "nhlLast": "1978-79",
+    "nhlGP": 397,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 397",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Phil Esposito",
+   "value": {
+    "nhlFirst": "1963-64",
+    "nhlLast": "1980-81",
+    "nhlGP": 1282,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,282",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Martin Brodeur",
+   "value": {
+    "nhlFirst": "1991-92",
+    "nhlLast": "2014-15",
+    "nhlGP": 1266,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! ''1,266",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Guy Lafleur",
+   "value": {
+    "nhlFirst": "1971-72",
+    "nhlLast": "1990-91",
+    "nhlGP": 1126,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,126",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Patrick Roy",
+   "value": {
+    "nhlFirst": "1984-85",
+    "nhlLast": "2002-03",
+    "nhlGP": 1029,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,029",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Jean Béliveau",
+   "value": {
+    "nhlFirst": "1950-51",
+    "nhlLast": "1970-71",
+    "nhlGP": 1125,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,125",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Stan Mikita",
+   "value": {
+    "nhlFirst": "1958-59",
+    "nhlLast": "1979-80",
+    "nhlGP": 1394,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,394",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Dominik Hašek",
+   "value": {
+    "nhlFirst": "1990-91",
+    "nhlLast": "2007-08",
+    "nhlGP": 735,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 735",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Doug Harvey",
+   "value": {
+    "nhlFirst": "1947-48",
+    "nhlLast": "1968-69",
+    "nhlGP": 1113,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,113",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Terry Sawchuk",
+   "value": {
+    "nhlFirst": "1949-50",
+    "nhlLast": "1969-70",
+    "nhlGP": 971,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "part",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 971",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Brett Hull",
+   "value": {
+    "nhlFirst": "1986-87",
+    "nhlLast": "2005-06",
+    "nhlGP": 1269,
+    "playoffOnlyDebut": "1985-86",
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,269",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Joe Sakic",
+   "value": {
+    "nhlFirst": "1988-89",
+    "nhlLast": "2008-09",
+    "nhlGP": 1378,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,378",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Joe Thornton",
+   "value": {
+    "nhlFirst": "1997-98",
+    "nhlLast": "2021-22",
+    "nhlGP": 1714,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,714",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Mark Messier",
+   "value": {
+    "nhlFirst": "1979-80",
+    "nhlLast": "2003-04",
+    "nhlGP": 1756,
+    "playoffOnlyDebut": null,
+    "wha": {
+     "first": "1978-79",
+     "last": "1978-79",
+     "gp": 52
+    },
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,756",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Jarome Iginla",
+   "value": {
+    "nhlFirst": "1996-97",
+    "nhlLast": "2016-17",
+    "nhlGP": 1554,
+    "playoffOnlyDebut": "1995-96",
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,554",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Roberto Luongo",
+   "value": {
+    "nhlFirst": "1999-00",
+    "nhlLast": "2018-19",
+    "nhlGP": 1044,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,044",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Nicklas Lidström",
+   "value": {
+    "nhlFirst": "1991-92",
+    "nhlLast": "2011-12",
+    "nhlGP": 1564,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "part",
+     "2005-06": "part",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,564",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Grant Fuhr",
+   "value": {
+    "nhlFirst": "1981-82",
+    "nhlLast": "1999-00",
+    "nhlGP": 868,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 868",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Ray Bourque",
+   "value": {
+    "nhlFirst": "1979-80",
+    "nhlLast": "2000-01",
+    "nhlGP": 1612,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,612",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Mike Bossy",
+   "value": {
+    "nhlFirst": "1977-78",
+    "nhlLast": "1986-87",
+    "nhlGP": 752,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "none",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 752",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Marcel Dionne",
+   "value": {
+    "nhlFirst": "1971-72",
+    "nhlLast": "1988-89",
+    "nhlGP": 1348,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,348",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Paul Coffey",
+   "value": {
+    "nhlFirst": "1980-81",
+    "nhlLast": "2000-01",
+    "nhlGP": 1409,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "part",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,409",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Bryan Trottier",
+   "value": {
+    "nhlFirst": "1975-76",
+    "nhlLast": "1993-94",
+    "nhlGP": 1279,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "part",
+     "1997-98": "none",
+     "2005-06": "none",
+     "2007-08": "none",
+     "2010-11": "none"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,279",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Alexander Ovechkin",
+   "value": {
+    "nhlFirst": "2005-06",
+    "nhlLast": "2025-26",
+    "nhlGP": 1573,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,573",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Sidney Crosby",
+   "value": {
+    "nhlFirst": "2005-06",
+    "nhlLast": "2025-26",
+    "nhlGP": 1420,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,420",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Henrik Lundqvist",
+   "value": {
+    "nhlFirst": "2005-06",
+    "nhlLast": "2019-20",
+    "nhlGP": 887,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 887",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Evgeni Malkin",
+   "value": {
+    "nhlFirst": "2006-07",
+    "nhlLast": "2025-26",
+    "nhlGP": 1269,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "part",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,269",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Patrick Kane",
+   "value": {
+    "nhlFirst": "2007-08",
+    "nhlLast": "2025-26",
+    "nhlGP": 1369,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,369",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Steven Stamkos",
+   "value": {
+    "nhlFirst": "2008-09",
+    "nhlLast": "2025-26",
+    "nhlGP": 1246,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "part"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 1,246",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Nathan MacKinnon",
+   "value": {
+    "nhlFirst": "2013-14",
+    "nhlLast": "2025-26",
+    "nhlGP": 950,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 950",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Connor McDavid",
+   "value": {
+    "nhlFirst": "2015-16",
+    "nhlLast": "2025-26",
+    "nhlGP": 794,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 794",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Connor Hellebuyck",
+   "value": {
+    "nhlFirst": "2015-16",
+    "nhlLast": "2025-26",
+    "nhlGP": 625,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 625",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Auston Matthews",
+   "value": {
+    "nhlFirst": "2016-17",
+    "nhlLast": "2025-26",
+    "nhlGP": 689,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 689",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Cale Makar",
+   "value": {
+    "nhlFirst": "2019-20",
+    "nhlLast": "2025-26",
+    "nhlGP": 470,
+    "playoffOnlyDebut": "2018-19",
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 470",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Quinn Hughes",
+   "value": {
+    "nhlFirst": "2018-19",
+    "nhlLast": "2025-26",
+    "nhlGP": 507,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 507",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Jack Hughes",
+   "value": {
+    "nhlFirst": "2019-20",
+    "nhlLast": "2025-26",
+    "nhlGP": 429,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 429",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Connor Bedard",
+   "value": {
+    "nhlFirst": "2023-24",
+    "nhlLast": "2025-26",
+    "nhlGP": 219,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 219",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "legends",
+   "fact": "Macklin Celebrini",
+   "value": {
+    "nhlFirst": "2024-25",
+    "nhlLast": "2025-26",
+    "nhlGP": 152,
+    "playoffOnlyDebut": null,
+    "wha": null,
+    "floors": {
+     "1917-18": "full",
+     "1967-68": "full",
+     "1987-88": "full",
+     "1997-98": "full",
+     "2005-06": "full",
+     "2007-08": "full",
+     "2010-11": "full"
+    }
+   },
+   "grade": "V",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=revisions&rvprop=content&rvslots=main&titles=Gordie%20Howe%7CMaurice%20Richard%7CDoug%20Harvey%20(ice%20hockey)%7CJean%20B%C3%A9liveau%7CBobby%20Hull%7CStan%20Mikita%7CBobby%20Orr%7CPhil%20Esposito%7CGuy%20Lafleur%7CMarcel%20Dionne%7CBryan%20Trottier%7CMike%20Bossy%7CWayne%20Gretzky%7CMark%20Messier%7CPaul%20Coffey%7CRay%20Bourque%7CMario%20Lemieux%7CSteve%20Yzerman%7CBrett%20Hull%7CJarom%C3%ADr%20J%C3%A1gr%7CJoe%20Sakic%7CNicklas%20Lidstr%C3%B6m%7CTeemu%20Sel%C3%A4nne%7CPatrick%20Roy%7CDominik%20Ha%C5%A1ek%7CMartin%20Brodeur%7CJoe%20Thornton%7CJarome%20Iginla%7CAlexander%20Ovechkin%7CSidney%20Crosby%7CEvgeni%20Malkin%7CSteven%20Stamkos%7CPatrick%20Kane%7CNathan%20MacKinnon%7CConnor%20McDavid%7CAuston%20Matthews%7CCale%20Makar%7CJack%20Hughes%20(ice%20hockey)%7CQuinn%20Hughes%7CConnor%20Bedard%7CMacklin%20Celebrini%7CTerry%20Sawchuk%7CJacques%20Plante%7CKen%20Dryden%7CGrant%20Fuhr%7CRoberto%20Luongo%7CHenrik%20Lundqvist%7CConnor%20Hellebuyck",
+     "quote": "NHL totals\\n! 152",
+     "note": "Wikipedia career-stats table via one batched MediaWiki API request; seasons parsed from the same table; active careers counted through 2025-26",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  }
+ ],
+ "rejections": [
+  {
+   "claim": "The NHL gave no assists in its first season (Total Hockey 1998, quoted by Dobber Hockey)",
+   "reason": "Hockey-Reference carries 1917-18 assists: Malone 4, four players tied at 10. Assists were sparse, not absent.",
+   "receipts": [
+    {
+     "url": "https://dobberhockey.com/?p=29830",
+     "quote": "In the league's first season, no assists were given on goals.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.hockey-reference.com/leagues/NHL_1918_skaters.html",
+     "quote": "Assists Leaders: Harry Cameron (10), Corb Denneny (10), Cy Denneny (10), Reg Noble (10)",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "Plus-minus became an official NHL statistic in 1959-60 (Wikipedia, Plus–minus (sports))",
+   "reason": "The NHL started counting it in 1967(-68); 1959-on figures are a later NHL compilation. Treat 1959-66 +/- as reconstructed.",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Plus%E2%80%93minus_(sports)",
+     "quote": "Plus-minus was hockey's first enhanced statistic, becoming an official NHL statistic in 1959-60.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/NHL_Plus-Minus_Award",
+     "quote": "The NHL started counting the statistics in 1967, while records have been compiled by the NHL for plus-minus back to 1959.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "The NHL awarded the original Jets' records from 1972 to 1996 to the present Jets (Wikipedia relocation list)",
+   "reason": "NHL release says 1979-96 only; the WHA Jets years (1972-79) are not NHL history.",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "On September 24, 2026, the NHL awarded the franchise records of the original Jets from 1972 to 1996 to the present-day Winnipeg Jets.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.nhl.com/news/jets-and-nhl-announce-consolidation-of-winnipeg-jets-history",
+     "quote": "their first stint in Winnipeg (1979-96)",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "The Coyotes/Utah franchise history includes the original Winnipeg Jets",
+   "reason": "Since Sept 24, 2026 the Coyotes franchise covers Arizona 1996-2024 only, and Utah is a 2024 expansion franchise with none of it.",
+   "receipts": [
+    {
+     "url": "https://www.nhl.com/news/jets-and-nhl-announce-consolidation-of-winnipeg-jets-history",
+     "quote": "The statistical history of the inactive Coyotes franchise only will encompass its years in Arizona (1996-2024)",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.nhl.com/news/board-approves-establishment-of-new-franchise-in-utah-2024",
+     "quote": "renders the Arizona Coyotes franchise inactive",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "Utah is the relocated Arizona Coyotes",
+   "reason": "The NHL Board approved a new franchise; the Coyotes franchise was made inactive and transferred hockey assets.",
+   "receipts": [
+    {
+     "url": "https://www.nhl.com/news/board-approves-establishment-of-new-franchise-in-utah-2024",
+     "quote": "approved the establishment of a franchise beginning with the 2024-25 season in Utah",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "Wikidata P3567 is the Hockey-Reference id (brief guess)",
+   "reason": "P3567 is the HHOF.com NHL player ID; Hockey-Reference is P3598.",
+   "receipts": [
+    {
+     "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=P3522|P3567|P2481|P3598&format=json&props=labels|descriptions|claims&languages=en",
+     "quote": "HHOF.com NHL player ID",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=P3522|P3567|P2481|P3598&format=json&props=labels|descriptions|claims&languages=en",
+     "quote": "Hockey-Reference.com player ID",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "Hockey-Reference TOI starts in 1998-99",
+   "reason": "HR extended season TOI to 1997-98 in Sept 2023 and reconciled 1998-99 to 2007-08 season totals to game totals.",
+   "receipts": [
+    {
+     "url": "https://www.sports-reference.com/blog/2023/09/",
+     "quote": "Hockey Reference recently extended its season-level Time on Ice coverage back through the 1997-98 season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "Hits, blocks, giveaways and takeaways did not exist before 2005-06",
+   "reason": "They were distributed under RTSS around 2000-02 and then scrubbed for subjectivity; the gap is a league choice, not a non-existence.",
+   "receipts": [
+    {
+     "url": "https://www.espn.com.au/nhl/columns/frei_terry/1435985.html",
+     "quote": "have been scrubbed on each player's summary line this season.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "An NHL season is 82 games",
+   "reason": "84 in 1992-94 and again from 2026-27; 48 in 1994-95 and 2012-13; 68-71 in 2019-20; 56 in 2020-21.",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "2026–27 | 2027 | 2027 | 32 | 84",
+     "note": "",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_NHL_seasons",
+     "quote": "1992–93 | 1993 | 1993 | 24[25] | 84",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "The 1918-19 NHL final was cancelled by influenza",
+   "reason": "The NHL final was completed (Canadiens beat Ottawa); the cancelled series was the Stanley Cup Final against PCHA Seattle.",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/1918%E2%80%9319_NHL_season",
+     "quote": "Montreal won the fifth game in Montreal to take the series four games to one and the right to face Seattle Metropolitans for the Stanley Cup.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "claim": "The 1917-18 Wanderers went 1-5 in six games",
+   "reason": "They played four; two defaulted games are recorded as losses but were never played. Team GP from standings will not equal games actually played.",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/List_of_defunct_and_relocated_National_Hockey_League_teams",
+     "quote": "The Wanderers played four games during the 1917–18 season before becoming defunct; a further two games were defaulted before the club folded.",
+     "note": "",
+     "retrieved": "2026-10-21"
+    }
+   ]
+  }
+ ],
+ "tried": [
+  {
+   "source": "faq.stathead.com/knowledge/hockey-data (HR coverage note)",
+   "outcome": "nothing usable (404 / portal unauthorized)"
+  },
+  {
+   "source": "Wikipedia Assist (ice hockey)",
+   "outcome": "nothing usable: no early-era crediting history"
+  },
+  {
+   "source": "Hockey-Reference leaders pages (save_pct_career, goals_pp_career)",
+   "outcome": "no coverage-floor statement; only leader tables"
+  },
+  {
+   "source": "Zmalski NHL-API-Reference README",
+   "outcome": "nothing usable for gameDate vs startTimeUTC semantics"
+  },
+  {
+   "source": "WebSearch for an nhl.com statement that WHA stats are excluded",
+   "outcome": "nothing usable (no nhl.com page found)"
+  }
+ ],
+ "leads": [
+  {
+   "note": "Confirm in the API: gameDate is local date and startTimeUTC is UTC (late Pacific games cross midnight UTC); confirm 1917-18 game numbering",
+   "why_out_of_scope": "api-web.nhle.com belongs to the league-apis agent"
+  },
+  {
+   "note": "Check whether the NHL API now returns Jets 1.0 seasons under WPG and ARI from 1996 (post Sept 24, 2026 consolidation), and the team abbreviations per era (WPG/ATL/PHX/ARI/UTA, QUE/COL, HFD/CAR, MNS/DAL, KCS/CLR/NJD, AFM/CGY, OAK/CGS/CLE)",
+   "why_out_of_scope": "API host owned by league-apis"
+  },
+  {
+   "note": "Check the API for 1959-60..1966-67 plusMinus and skater shots: present (NHL compilation) or null?",
+   "why_out_of_scope": "API host owned by league-apis"
+  },
+  {
+   "note": "Hockey Databank (Master table with birth dates, Coaches table) and Wikidata as birthdate sources for pre-2010 players",
+   "why_out_of_scope": "open-datasets slice"
+  },
+  {
+   "note": "Total Hockey (1998) ch. \"The Evolution of NHL Statistics\" by Ron Andrews is the primary for assist rules and stat floors",
+   "why_out_of_scope": "print source; not fetched"
+  }
+ ],
+ "unverified": [
+  {
+   "claim": "Official first season for power-play and short-handed goals (commonly 1933-34)",
+   "what_i_tried": "WebSearch; HR goals_pp_career page has no floor note; HR 1917-18 table has no PP/SH columns"
+  },
+  {
+   "claim": "Faceoffs official from 1997-98; hits/blocks/GV/TK public series from 2005-06",
+   "what_i_tried": "WebSearch; ESPN RTSS column confirms only early-2000s distribution and removal"
+  },
+  {
+   "claim": "Empty-net goal flag start season; goalie games-started (GS) floor",
+   "what_i_tried": "not found in saved pages"
+  },
+  {
+   "claim": "4-on-4 overtime introduced 1999-2000 together with the OTL point",
+   "what_i_tried": "Overtime (ice hockey) page covers the OTL point but no NHL 4-on-4 date"
+  },
+  {
+   "claim": "No NHL doubleheaders (a team playing twice in a day)",
+   "what_i_tried": "not searched to a receipt"
+  },
+  {
+   "claim": "1919-20-era games-played quirks; whether a dressed skater without a shift is credited with GP",
+   "what_i_tried": "not found"
+  },
+  {
+   "claim": "Ovechkin/Crosby/Malkin/Kane/Stamkos activity in 2026-27 (table counts through 2025-26)",
+   "what_i_tried": "Wikipedia rows end 2025-26; not cross-checked"
+  },
+  {
+   "claim": "Wikipedia: 2019-20 was the first season with unequal games without a team folding",
+   "what_i_tried": "not cross-checked against every 1920s-30s season"
+  }
+ ]
+}

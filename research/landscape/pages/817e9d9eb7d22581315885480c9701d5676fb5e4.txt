@@ -1,0 +1,356 @@
+URL: https://www.hockey-reference.com/about/glossary.html
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+ NHL Stats Glossary | Hockey-Reference.com
+ Sports Reference &reg; Hub
+ Baseball
+ Football (college)
+ Basketball (college)
+ Hockey
+ Soccer
+ Blog
+ Stathead &reg;
+ Immaculate Grid &reg;
+ Questions or Comments?
+ Welcome · Your Account
+Logout
+Ad-Free Login
+Create Account
+MENU
+ Players
+Teams
+Seasons
+Leaders
+NHL Scores
+Playoffs
+HubNEW
+Stathead
+Newsletter
+Full Site Menu Below
+ You are here: HR Home Page > About > NHL Stats Glossary
+ Welcome · Your Account
+Logout
+Ad-Free Login
+Create Account
+ About Menu
+ About Hockey Reference Overview
+ Keyboard Shortcuts
+ \ to toggle sidebar navigation
+ / to toggle search input
+ More about this update
+ NHL Stats Glossary
+/A
+Indicates that the statistic is adjusted.
+/G
+Indicates that the statistic is per game played.
++/-
+Plus/minus; calculated by subtracting the total number of goals allowed by
+a player's team while the player is on the ice (at even strength or on the
+power play) from the total number of goals scored by the player's team
+while the player is on the ice (at even strength or short-handed).
+123
+An underline indicates that a career figure is based on incomplete data. 
+For example, shots on goal were not officially recorded for skaters until the 
+1967-68 NHL season, so Bobby Hull's 
+career total is incomplete.
+5-on-5 Close
+Statistics in 5-on-5 situations in a "close" game. A game is considered "close" if the game is within 1 goal (1st and 2nd periods) or tied (3rd period or overtime).
+A
+Assists
+ATOI
+Average time on ice (in minutes:seconds per game)
+Age
+Age; player age as of end of January 31 of the given season. Age is Years-Days.
+DPS
+Defensive point shares; an estimate of the number of points contributed by
+a player due to his defense. Please see the article Calculating Points Shares for more
+information.
+EV
+Even strength goals
+G
+Goals scored
+GA
+Goals against
+GAA
+Goals against average; calculated by dividing goals against by minutes
+played, then multiplying by 60 (the length of a regulation game).
+GC
+Goals created; calculated by adding goals scored to 0.5 times assists,
+then multiplying by team goals divided by team goals plus 0.5 times team
+assists. For example in 2006-07, Sidney Crosby had 36 goals and 84
+assists. The Penguins as a team had 267 goals and 468 assists. Thus
+Crosby is credited with (36 + 0.5 * 84) * (267 / (267 + 0.5 * 468)) =
+41.57 goals created. Note that the sum of player goals created is equal
+to the sum of player goals scored for all teams.
+GF
+Goals for
+GP
+Games played
+GPS
+Goalie point shares; an estimate of the number of points contributed by
+a player due to his play in goal. Please see the article Calculating Points Shares for more
+information.
+GW
+Game-winning goals
+L
+Losses
+Lg
+League
+MIN
+Minutes played (as goaltender)
+OL
+Overtime/shootout losses
+OPS
+Offensive point shares; an estimate of the number of points contributed by
+a player due to his offense. Please see the article Calculating Points Shares for more
+information.
+Opp
+Opponent
+PGA
+Power play goals on-ice against; the total number of power play goals 
+scored against a player's team while he was on the ice.
+PGF
+Power play goals on-ice for; the total number of power play goals scored 
+by a player's team while he was on the ice.
+PIM
+Penalties in minutes
+PK%
+Penalty killing percentage; calculated by subtracting power play goals 
+against from power play opportunities against, then dividing by power play 
+opportunities against.
+PP%
+Power play percentage; calculated by dividing power play goals by power 
+play opportunities.
+PP
+Power play goals
+PPA
+Power play goals against
+PPO
+Power play opportunities
+PPOA
+Power play opportunities against
+PS
+Point shares; an estimate of the number of points contributed by a player.
+Please see the article Calculating
+Points Shares for more information.
+PTS
+Points; for players, calculated by adding goals to assists; for teams and 
+goalies, calculated by adding two times wins to ties plus overtime/shootout 
+losses.
+PTS%
+Points percentage; for teams and goalies, calculated by dividing points by maximum possible points.
+RPt%
+"Real" Points percentage. It counts 0 points for an OT loss, and any shootout game as a tie (1 point). In other words, the pre-2000 situation
+S
+Shots
+S%
+Shooting percentage; calculated by dividing goals by shots on goal.
+SA
+Shots Against
+SH
+Short-handed goals
+SHA
+Short-handed goals against
+SO
+Shutouts
+SOS
+Strength of Schedule; a rating of strength of schedule. The rating is 
+denominated in goals above/below average, where zero is average. 
+Doug Drinen of Pro-Football-Reference.com 
+has written a great 
+explanation of this method.
+SRS
+Simple Rating System; a rating that takes into account average goal 
+differential and strength of schedule. The rating is denominated in goals 
+above/below average, where zero is average. Doug Drinen of Pro-Football-Reference.com 
+has written a great 
+explanation of this method.
+SV
+Saves; calculated by subtracting goals against from shots against.
+SV%
+Save percentage; calculated by dividing saves by shots against.
+T
+Ties
+T/O
+Ties plus overtime/shootout losses.
+TOI
+Time on ice (in minutes)
+TGA
+Total goals on-ice against; the total number of goals scored against a 
+player's team while he was on the ice.
+TGF
+Total goals on-ice for; the total number of goals scored by a player's 
+team while he was on the ice.
+Tm
+Team
+W
+Wins
+W%
+Winning percentage; calculated by adding wins to one-half ties, then 
+dividing by games played.
+Win Probability
+The estimated probability that Team A will defeat Team B in a given 
+matchup.
+Year
+Year that the season occurred. Since the NHL season is split over two
+calendar years, the year given is the last year for that season. For
+example, the year for the 2008-09 season would be 2009.
+ Welcome · Your Account
+Logout
+Ad-Free Login
+Create Account
+ You are here: HR Home Page > About > NHL Stats Glossary
+ Full Site Menu
+ Return to Top
+ Players
+ In the News: J. Toews, D. Keith, J. Benn, R. Getzlaf, C. Perry, A. Ovechkin ...
+ All-Time Greats: W. Gretzky, R. Bourque, G. Howe, N. Lidstrom, M. Brodeur, J. Jagr ...
+ Active Greats: A. Ovechkin, N. MacKinnon, S. Crosby, C. McDavid, N. Kucherov, C. Hellebuyck ...
+ Teams
+ Atlantic:
+ Boston, 
+ Buffalo, 
+ Detroit, 
+ Florida, 
+ Montreal, 
+ Ottawa, 
+ Tampa Bay, 
+ Toronto
+ Metropolitan:
+ Carolina,
+ Columbus, 
+ New Jersey, 
+ NY Rangers, 
+ NY Islanders, 
+ Philadelphia, 
+ Pittsburgh,
+ Washington
+ Central:
+ Chicago, 
+ Colorado,
+ Dallas, 
+ Minnesota, 
+ Nashville, 
+ St. Louis, 
+ Utah,
+ Winnipeg
+ Pacific:
+ Anaheim,
+ Calgary, 
+ Edmonton, 
+ Los Angeles, 
+ San Jose, 
+ Seattle, 
+ Vancouver,
+ Vegas
+ Seasons
+ Current Summary/Standings, 
+ Current Schedule/Results, 
+ Current Leaders, 
+ Current Stats
+ 2026-27, 
+ 2025-26, 
+ 2024-25, 
+ 2023-24, 
+ ...
+ NHL Leaders
+ Goals, Assists, Plus/Minus, Penalty Minutes, ...
+ NHL Scores
+ Yesterday's Games, 
+ Search All Games in History, 
+ Season Results
+ NHL Schedules
+ Today's Games, 
+ Season Schedule
+ NHL Standings
+ Today's Standings
+ Stathead
+ Player Finders:
+ Season Finder,
+ Game Finder,
+ Streak Finder,
+ Span Finder
+ Team Finders:
+ Season Finder,
+ Game Finder,
+ Streak Finder
+ Span Finder
+ Other Finders:
+ Versus Finder
+ Coaches
+ Active: Todd McLellan, Jeff Blashill, Jon Cooper
+ Retired: Wayne Gretzky, Mike Keenan, Punch Imlach
+ NHL Awards
+ Hart, Lady Byng, Vezina, Calder, Art Ross, Norris, Conn Smythe, Hall of Fame, ...
+ NHL Playoffs
+ 2027 Stanley Cup,
+ 2026 Stanley Cup,
+ 2025 Stanley Cup,
+ 2024 Stanley Cup,
+ All Overtime Playoff Goals, ...
+ Amateurs
+ Analytics
+ All-Star Games
+ 2015 All-Star Game, 2014 All-Star Game, 2013 All-Star Game, 2012 All-Star Game, ...
+ -->
+ Frivolities
+ Players who played for multiple teams, Birthdays, Uniform Number Tracker, ...
+ NHL Draft
+ 2026 Draft,
+ 2025 Draft,
+ 2024 Draft,
+ 2023 Draft,
+ ...
+ Linker
+ About
+ Frequently Asked Questions about the NHL and Hockey ...
+ Immaculate Grid
+ Put your hockey knowledge to the test with our daily hockey trivia game. Can you complete the grid?
+ Hockey-Reference.com Blog and Articles
+ We're Social...for Statheads
+Site Last Updated: Wednesday, October 21, 4:34AM
+Question, Comment, Feedback, or Correction?
+Subscribe to our Free Email Newsletter
+Subscribe to Stathead Hockey: Get your first month FREE
+Your All-Access Ticket to the Hockey Reference Database
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+ FAQs, Tips & Tricks
+ Do you have a blog? Join our linker program.
+ Watch our How-To Videos to Become a Stathead
+ Subscribe to Stathead and get access to more data than you can imagine
+ All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes.
+ Our reasoning for presenting offensive logos.
+ Logos were compiled by the amazing SportsLogos.net.
+Data Provided By
+ the official stats partner of the NBA, NHL and MLB.
+ Hockey-Reference utilizes Official NHL data for current NHL seasons.
+ Copyright &copy; 2000-2026 Sports Reference LLC. All rights reserved.
+ The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+Most historical data provided by Dan Diamond and Associates.
+WHA hat tricks courtesy Scott Surgent. Buy his book.
+Some hockey portraits on this site are licensed from Images on Ice, Hockey’s Photo Agency
+ Sports Reference &reg; Hub
+ Baseball
+ Football (college)
+ Basketball (college)
+ Hockey
+ Soccer
+ Blog
+ Stathead &reg;
+ Immaculate Grid &reg;
+ About &bull;
+ Conditions & Terms of Service &bull;
+ Advertise With Us
+ &bull;
+ Jobs at SR
+ &bull;
+ Hockey-Reference.com T-Shirts & Store
+ &bull;
+ Your Privacy Choices
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+ Privacy Policy &bull;
+ Gambling Revenue Policy &bull;
+ Accessibility Policy &bull;
+ Use of Data

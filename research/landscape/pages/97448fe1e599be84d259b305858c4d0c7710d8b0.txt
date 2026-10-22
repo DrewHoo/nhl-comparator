@@ -1,0 +1,329 @@
+URL: https://en.wikipedia.org/wiki/Assist_(ice_hockey)
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+Assist (ice hockey) - Wikipedia
+Jump to content
+Main menu
+ Main menu
+ move to sidebar
+ hide
+ Navigation
+ Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+ Contribute
+ Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+ Search
+Appearance
+ Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+ Contents
+ move to sidebar
+ hide
+ (Top)
+ 1
+ Special cases
+ 2
+ See also
+ 3
+ Notes
+ 4
+ References
+ 5
+ External links
+Toggle the table of contents
+ Assist (ice hockey)
+10 languages
+ Čeština
+Eesti
+Suomi
+Français
+עברית
+Latviešu
+Русский
+Simple English
+Svenska
+Українська
+ Edit links
+ Article
+Talk
+ English
+ Read
+Edit
+View history
+Tools
+ Tools
+ move to sidebar
+ hide
+ Actions
+Read
+Edit
+View history
+ General
+ What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+ Print/export
+ Download as PDF
+Printable version
+ In other projects
+ Wikimedia Commons
+Wikidata item
+ Appearance
+ move to sidebar
+ hide
+ From Wikipedia, the free encyclopedia
+ Point awarded to players whose passes enabled a goal
+In this diagram, the blue player on the right would be credited with an assist, while the blue player on the left would score the goal.In ice hockey, an assist is attributed to up to two players of the scoring team who shot, passed or deflected the puck towards the scoring teammate, or touched it in any other way which enabled the goal, meaning that they were "assisting" in the goal. There can be a maximum of two assists per goal. The assists will be awarded in the order of play, with the last player to pass the puck to the goal scorer getting the primary assist and the player who passed it to the primary assister getting the secondary assist.[1] Players who gain an assist will get one point added to their player statistics.[2] When a player scores a goal or is awarded a primary or secondary assist, they will be given a point. The leader of total points throughout an NHL season will be awarded the Art Ross trophy.[3]
+Despite the use of the terms "primary assist" and "secondary assist", neither is worth more than the other, and neither is worth more or less than a goal. An assist is awarded to the player or players (maximum of two) who touched the puck prior to the goal, provided no defender plays or possesses the puck in between.[4] Assists and goals are added together on a player's scoresheet to display that player's total points.[5]
+Although there are different rulebooks present for all countries that participate in the national level, the awarding of an assist point is universal. Based on the Hockey Canada rulebook, Rule 6.6 Goals and Assists Hockey Canada; "Each goal and assist will count one point in the scoring records. A maximum of two assists will be credited on any one goal."[6] There are also specifics that must be considered on certain assist points, such as assists on rebound shots. According to the USA Hockey Officiating Rulebook, A1 shoots the puck which hits the goalkeeper and rebounds out to teammate A2. A2 then shoots the puck into the goal. Does the player who took the initial shot (A1) deserve an assist? Yes. Rule Reference 617(a). In the case of a rebound, only one assist can be given to the player who took the original shot.[7]
+Special cases
+[edit]
+If a player scores off a rebound given up by a goaltender, assists are still awarded, as long as there is no re-possession by that goaltender i.e. they did not gain complete control of the puck.
+However, a rule says that only one point can be credited to any one player on a goal scored.[8] This means one player cannot be credited with a goal and an assist for the same goal scored; instead the player would only get credit for a goal and a different player may get credit for an assist, if applicable. It also means that one player cannot be credited with two assists for the same goal scored; instead the player would only get credit for one assist and a different player may get credit for the other assist, if applicable.
+Additionally, if a player passes the puck to another player who then completes a give-and-go with a different player for a goal, the player who made the pass that set up the goal gets the primary assist, and the player who passed to the eventual goal scorer before the give-and-go took place gets the secondary assist. This is essentially because assists are to be awarded to the last (up to) two players of the scoring team who had possession of the puck before the eventual goal scorer had possession and ultimately scored, regardless of whether that eventual goal scorer had possession at any time in between the two other players. This also means that possession of the puck can go from and in between the eventual goal scorer and eventual assist getters an unlimited number of times, and this scoring standard will still be applied.
+See also
+[edit]
+List of NHL career assists leaders
+Assist (disambiguation)
+One timer
+Notes
+[edit]
+↑ Brace, p. 22
+↑ NHL. "NHL Rulebook, Rule No. 78". NHL. Archived from the original on April 14, 2009. Retrieved June 14, 2010.
+↑ "What Is a Point in Hockey? Player Points Explained In-Depth - Big Shot Hockey". April 24, 2024. Retrieved April 28, 2024.
+↑ "Go Figure". www.nhl.com. Archived from the original on January 7, 2010. Retrieved April 28, 2024.
+↑ "Goals and Assists". USA Hockey Officiating Rulebook Mobile Site. Retrieved April 28, 2024.
+↑ "Rule 6.6 – Goals and Assists » Rule Book Admin". rulebook.hockeycanada.ca. Retrieved April 28, 2024.
+↑ "Casebook". USA Hockey Officiating Rulebook Mobile Site. Retrieved April 28, 2024.
+↑ "NHL Official Rules – Rule 78 – Goals". Archived from the original on April 14, 2009. Retrieved January 5, 2012.
+References
+[edit]
+Brace, Ian (1995). Play The Game: Ice Hockey. Ward Lock Limited. ISBN 0-7137-2517-6.
+External links
+[edit]
+NHL Rulebook, Rule #78 – Goals and Assists
+ v
+t
+e
+Ice hockey
+ | 
+History
+Leagues
+Teams
+ | 
+Equipment | 
+Cooperalls
+Goaltending equipment
+Blocker
+Mask
+Trapper
+Glove
+Puck
+Skate
+Stick
+Tape
+T-Blades
+Uniform
+Helmet
+Jersey
+Pants
+Socks
+Skate guard
+ | 
+ | 
+Positions | 
+Main | 
+Goaltender
+Defenceman
+Centre
+Forward
+Power
+Two-way
+Winger
+ | 
+Other | 
+Captain
+Coach
+Enforcer
+Grinder
+Pest
+Rover
+ | 
+ | 
+Rules | 
+Arena
+Awarded goal
+Face-off
+Goal
+Halifax
+Officials
+Overtime
+Penalty shot
+Rink
+Short-handed
+Shot
+Slot
+Tuck rule
+Penalties and infractions | 
+Boarding
+Charging
+Clipping
+Cross-checking
+Delay of game
+High-sticking
+Holding the stick
+Hooking
+Icing
+Offside
+Roughing
+Tripping
+ | 
+ | 
+Skills | 
+Butterfly style
+Deke
+One timer
+Pass
+Saucer pass
+Snap shot
+Wrist shot
+ | 
+Levels of play | 
+College
+Junior
+Minor
+Minor league
+Olympic
+Professional
+Senior
+ | 
+Variations | 
+Broomball
+Fantasy
+Pond
+Power‎
+Rink bandy
+Shinny
+Sledge
+Special
+Table
+Underwater
+ | 
+Strategy | 
+Analytics
+Backcheck
+Breakaway
+Checking
+Cycling
+Dump and chase
+Extra attacker
+Forecheck
+Left wing lock
+Line
+Loafing
+Neutral zone trap
+Screen
+Torpedo system
+ | 
+Terminology | 
+Gameplay | 
+200-foot game
+Assist
+Diving
+Empty net goal
+Five-hole
+Full strength
+Gordie Howe hat trick
+Michigan goal
+Point
+Save
+Scoring chance
+Scramble style
+Shot on goal
+Skatemill
+Slapshot
+Stop
+ | 
+Culture | 
+Ceremonial first puck
+Hockey butt
+Hockeytown
+Playoff beard
+Puck bunny
+Three stars
+Towel Power
+ | 
+ | 
+Statistics | 
+Analytics
+Arenas by capacity
+Outdoor games
+Games with highest attendance
+Fenwick
+Point
+Shot quality
+ | 
+In popular culture | 
+Films
+Video games
+ | 
+Related topics | 
+Broadcasting
+Fighting
+Nicknames
+Violence
+Misogyny
+Transgender people
+ | 
+ Category
+ Commons
+ | 
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Assist_(ice_hockey)&oldid=1380760537"
+ Categories: Assist (sport)
+Ice hockey records and statistics
+Ice hockey terminology
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Use mdy dates from June 2012
+ This page was last edited on 17 October 2026, at 18:23 (UTC).
+ Page was rendered with Parsoid.
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ Privacy policy
+ About Wikipedia
+ Disclaimers
+ Contact Wikipedia
+ Legal & safety contacts
+ Code of Conduct
+ Developers
+ Statistics
+ Cookie statement
+ Mobile view
+Search
+ Search
+Toggle the table of contents
+ Assist (ice hockey)
+10 languages
+Add topic

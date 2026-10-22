@@ -1,0 +1,191 @@
+URL: https://en.wikipedia.org/wiki/Ice_hockey_statistics
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+Ice hockey statistics - Wikipedia
+Jump to content
+Main menu
+ Main menu
+ move to sidebar
+ hide
+ Navigation
+ Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+ Contribute
+ Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+ Search
+Appearance
+ Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+ Contents
+ move to sidebar
+ hide
+ (Top)
+ 1
+ Team statistics
+ 2
+ Individual statistics
+ 3
+ Goaltender statistics
+ 4
+ See also
+ 5
+ References
+ 6
+ External links
+Toggle the table of contents
+ Ice hockey statistics
+8 languages
+ Deutsch
+Français
+Hrvatski
+Italiano
+Русский
+Slovenščina
+Српски / srpski
+Українська
+ Edit links
+ Article
+Talk
+ English
+ Read
+Edit
+View history
+Tools
+ Tools
+ move to sidebar
+ hide
+ Actions
+Read
+Edit
+View history
+ General
+ What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+ Print/export
+ Download as PDF
+Printable version
+ In other projects
+ Wikidata item
+ Appearance
+ move to sidebar
+ hide
+ From Wikipedia, the free encyclopedia
+The following are statistics commonly tracked in ice hockey.
+Team statistics
+[edit]
+STK – winning or losing streak
+GD – Goal Difference (used as standings tie breaker)
+GP – Games played – Number of games the team has played
+W – Wins – Games the team has won in regulation.
+L – Losses – Games the team has lost in regulation.
+T – Ties – Games that have ended in a tie (Note: The NHL no longer uses ties. Instead games are determined by OT or SO.)
+OTL – Overtime losses – Games the team has lost in overtime
+SOL – Shootout losses – Games the team has lost in a shootout (Note: Many leagues, most notably the NHL, do not separate overtime losses and shootout losses, including all losses past regulation in the overtime losses statistic.)
+P or PTS – Points – Team points, calculated from W, OTW, OTL, L, SOL and SOW. As 2 points for a W, 2 points for an OTW or SOW, 1 point for a T or OTL or SOL, and zero for a L.
+GF – Goals for – Number of goals the team has scored
+GA – Goals against – Number of goals scored against the team
+OTW – Overtime Win
+SOW – Shoot Out Win
+ROW – Regulation plus Overtime Wins, not including shootouts. Used as a secondary tie-breaker.
+Individual statistics
+[edit]
+GP – Games played – Number of games the player has set foot on the ice in the current season.
+G – Goals – Total number of goals the player has scored in the current season.
+A – Assists – Number of goals the player has assisted in the current season.
+P or PTS – Points – Scoring points, calculated as the sum of G and A.
+S – Shots on Goal[1] – Total number of shots taken on net in the current season.
+PN – Penalties – Number of penalties the player has been assessed.
+PIM – Penalty Infraction Minutes,[2] Penalties in minutes, or Penalty Minutes[3] – Number of penalty minutes the player has been assessed. For statistical purposes, ten minutes are recorded for a game misconduct, gross misconduct, or match penalty.
+PPG – Power play goals – Number of goals the player has scored while his team was on the power play.
+PPA – Power play assists – Number of goals the player has assisted in while his team was on the power play.[4]
+SHG – Shorthanded goals – Number of goals the player has scored while his team was shorthanded.
+SHA – Shorthanded assists – Number of goals the player has assisted in while his team was shorthanded.
+GWG – Game-winning goals – Number of game-winning goals the player has scored (a goal is considered game winning when the team would win the game without scoring any more goals, for example, the winning team's third goal in a 5–2 win).
+GTG – Game-tying goals – Number of game-tying goals (that is, the last goal scored in a tie game) the player has scored.
+ENG – Empty net goals – Number of goals scored on an empty net.
+OTG – Overtime goals – Number of goals scored after regulation time ends in a tie.
++/- or P/M – Plus/minus – The number of team even strength or shorthanded goals for minus the number of team even strength or shorthanded goals against while the player is on the ice (see plus/minus).
+TOI (or TOT) – Time on ice – Total time on ice in the current season.
+ATOI – Average time on ice – The average amount of time the player spent on the ice in the games he played (total time on ice divided by games played)
+HIT or H or HT – Hits – Intentionally initiated contact with the player possessing the puck that causes that player to lose possession of the puck. Loss of possession may or may not involve a turnover. If the contact results in a penalty, no hit is awarded.[5]
+AAV – Average Annual Value[6] – It's computed by dividing the contract's total value by its duration or term and then applying that amount to the team's salary cap. For instance, a player's AAV would be five million dollars if he signed a four-year, $20 million contract.
+Some other terms that are used somewhat less often include faceoff wins (FW, FOW), faceoff losses (FL, FOL), faceoff win percentage (FW%, FO%), takeaways (TK, TKA), giveaways (GV, GVA), shots on goal (SOG), missed shots (MS, SM), blocked shots (BS, BKS, BLK), shifts (SHF, SHFT), power play time on ice (PP, PP TOI), short-handed time on ice (SH, SH TOI), even-strength time on ice (EV, EV TOI), goals created (GC), and point shares (PS).
+Goaltender statistics
+[edit]
+GP, G, A – Same as player statistics. Note: +/- is not recorded for goaltenders.
+GS – Games started – The number of games the goaltender has started the current season.
+MIN – Total number of minutes the goaltender has been on the ice the current season.
+GA – Goals against – Number of goals scored against the goaltender the current season.
+GAA – Goals against average – Mean goals-per-60 minutes scored on the goaltender (see goals against average)
+W – Wins – Games the goaltender has won the current season.
+L – Losses – Games the goaltender has lost (A goaltender is credited with a win or loss when he is either on the ice when – or was pulled for an extra attacker immediately before – the game-winning goal was scored).
+T – Ties – Games the goaltender has tied (a goaltender is credited with a tie when he was on the ice for – or was pulled for an extra attacker immediately before – the game-tying goal was scored. In the case of 0–0 ties, the starting goaltender is credited with the tie).
+SOG – Total number of shots on goal the goaltender has faced in the current season.
+SV – Saves – Number of shots on goal the goaltender has saved in the current season.
+SVP, SV%, or PCT – Save percentage – Percentage of the total shots faced the goaltender has saved (see save percentage)
+SO – Shutouts – Number of games where the goaltender had no goals against him and was the only goaltender from his team to play in the game
+ENG – Empty net goals – Number of goals scored while the goaltender was off the ice for an extra attacker
+See also
+[edit]
+Analytics (ice hockey)
+Shot quality
+References
+[edit]
+↑ "What does SOG mean in hockey? (Explained) – PlayedOnIce". Retrieved September 6, 2021.
+↑ Jones, Wayne. "What's PIM in hockey?". HockeyAnswered.com. Retrieved April 14, 2021.
+↑ "NHL Player Major Penalties Statistics". ESPN. Retrieved April 14, 2021.
+↑ "What is a Power Play in Hockey? (Fully Explained) | Histoky". February 15, 2022. Retrieved February 15, 2022.
+↑ "o Hit or Not to Hit: A Statistic That Misses The Mark". SB Nation The Cannon. Retrieved October 8, 2021.
+↑ "What does AAV mean in hockey? All you need to know | Histoky". February 19, 2022. Retrieved February 19, 2022.
+External links
+[edit]
+NCAA Ice Hockey Statisticians Manuals (PDF)
+Introduction to ice hockey
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ice_hockey_statistics&oldid=1380760520"
+ Category: Ice hockey records and statistics
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Use mdy dates from March 2025
+ This page was last edited on 17 October 2026, at 18:23 (UTC).
+ Page was rendered with Parsoid.
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ Privacy policy
+ About Wikipedia
+ Disclaimers
+ Contact Wikipedia
+ Legal & safety contacts
+ Code of Conduct
+ Developers
+ Statistics
+ Cookie statement
+ Mobile view
+Search
+ Search
+Toggle the table of contents
+ Ice hockey statistics
+8 languages
+Add topic

@@ -1,0 +1,32 @@
+URL: https://relational.fel.cvut.cz/dataset/Hockey
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+ 
+ CTU Relational | Dataset Hockey 
+CTU Relational Dataset Repository
+ Browse Datasets 
+ Statistics 
+ Contact 
+ About 
+Hockey
+The Hockey Database follows the same general design as the Lahman Baseball Database. In addition to the NHL, the Hockey DB covers the following early and alternative leagues: NHA, PCHA, WCHL and WHA. It contains individual and team statistics from 1909-10 through the 2011-12 season.
+ Original source: www.opensourcesports.com 
+Versions
+ Hockey (by Jan Motl ) 
+Added foreign key constraints. Deleted duplicate field in HOF table (hofID="bucklfr01h", name="William Jennings"). Primary keys are still not set properly.
+Dataset details
+ Associated task : Classification Domain : Sport Data types : 
+ Numeric 
+ String 
+ Size : 15.6 MB Count of tables : 22 Count of rows : 96,403 Count of columns : 300 Missing values : Yes Compound keys : Yes Loops : Yes Type : Real Instance count : 7,579 Target table : Master Target column : shootCatch Target ID : playerId Target timestamp : ? 
+How to download the dataset
+The datasets are publicly available directly from MariaDB database.
+ Open your favourite MariaDB client ( MySQL Workbench works, but see FAQ ) 
+ Use following credentials: 
+ hostname: relational.fel.cvut.cz 
+ port: 3306 
+ username: guest 
+ password: ctu-relational 
+ Export " Hockey " database (or other version of the dataset, if available) in your favourite format (e.g. CSV or SQL dump). 
+ 

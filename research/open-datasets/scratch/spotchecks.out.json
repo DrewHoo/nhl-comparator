@@ -1,0 +1,501 @@
+{
+ "player_box_2010": {
+  "rows": 52720,
+  "cols": [
+   "home_away",
+   "team_id",
+   "team_abbrev",
+   "player_id",
+   "player_name",
+   "sweater_number",
+   "position",
+   "goals",
+   "assists",
+   "points",
+   "plus_minus",
+   "pim",
+   "hits",
+   "power_play_goals",
+   "shots_on_goal",
+   "faceoff_winning_pctg",
+   "toi",
+   "blocked_shots",
+   "shifts",
+   "giveaways",
+   "takeaways",
+   "even_strength_shots_against",
+   "power_play_shots_against",
+   "shorthanded_shots_against",
+   "save_shots_against",
+   "save_pctg",
+   "even_strength_goals_against",
+   "power_play_goals_against",
+   "shorthanded_goals_against",
+   "goals_against",
+   "starter",
+   "decision",
+   "shots_against",
+   "saves"
+  ],
+  "S. Crosby": {
+   "rows": 94,
+   "goals": 57,
+   "points": 128
+  },
+  "A. Ovechkin": {
+   "rows": 79,
+   "goals": 55,
+   "points": 119
+  },
+  "C. McDavid": {
+   "rows": 0,
+   "goals": 0,
+   "points": 0
+  }
+ },
+ "player_box_2011": {
+  "rows": 52708,
+  "cols": [
+   "home_away",
+   "team_id",
+   "team_abbrev",
+   "player_id",
+   "player_name",
+   "sweater_number",
+   "position",
+   "goals",
+   "assists",
+   "points",
+   "plus_minus",
+   "pim",
+   "hits",
+   "power_play_goals",
+   "shots_on_goal",
+   "faceoff_winning_pctg",
+   "toi",
+   "blocked_shots",
+   "shifts",
+   "giveaways",
+   "takeaways",
+   "even_strength_shots_against",
+   "power_play_shots_against",
+   "shorthanded_shots_against",
+   "save_shots_against",
+   "save_pctg",
+   "even_strength_goals_against",
+   "power_play_goals_against",
+   "shorthanded_goals_against",
+   "goals_against",
+   "starter",
+   "decision",
+   "shots_against",
+   "saves"
+  ],
+  "S. Crosby": {
+   "rows": 41,
+   "goals": 32,
+   "points": 66
+  },
+  "A. Ovechkin": {
+   "rows": 88,
+   "goals": 37,
+   "points": 95
+  },
+  "C. McDavid": {
+   "rows": 0,
+   "goals": 0,
+   "points": 0
+  }
+ },
+ "player_box_2018": {
+  "rows": 54320,
+  "cols": [
+   "home_away",
+   "team_id",
+   "team_abbrev",
+   "player_id",
+   "player_name",
+   "sweater_number",
+   "position",
+   "goals",
+   "assists",
+   "points",
+   "plus_minus",
+   "pim",
+   "hits",
+   "power_play_goals",
+   "shots_on_goal",
+   "faceoff_winning_pctg",
+   "toi",
+   "blocked_shots",
+   "shifts",
+   "giveaways",
+   "takeaways",
+   "even_strength_shots_against",
+   "power_play_shots_against",
+   "shorthanded_shots_against",
+   "save_shots_against",
+   "save_pctg",
+   "even_strength_goals_against",
+   "power_play_goals_against",
+   "shorthanded_goals_against",
+   "goals_against",
+   "starter",
+   "decision",
+   "shots_against",
+   "saves"
+  ],
+  "S. Crosby": {
+   "rows": 83,
+   "goals": 35,
+   "points": 101
+  },
+  "A. Ovechkin": {
+   "rows": 88,
+   "goals": 55,
+   "points": 98
+  },
+  "C. McDavid": {
+   "rows": 78,
+   "goals": 41,
+   "points": 116
+  }
+ },
+ "player_box_2019": {
+  "rows": 54320,
+  "cols": [
+   "home_away",
+   "team_id",
+   "team_abbrev",
+   "player_id",
+   "player_name",
+   "sweater_number",
+   "position",
+   "goals",
+   "assists",
+   "points",
+   "plus_minus",
+   "pim",
+   "hits",
+   "power_play_goals",
+   "shots_on_goal",
+   "faceoff_winning_pctg",
+   "toi",
+   "blocked_shots",
+   "shifts",
+   "giveaways",
+   "takeaways",
+   "even_strength_shots_against",
+   "power_play_shots_against",
+   "shorthanded_shots_against",
+   "save_shots_against",
+   "save_pctg",
+   "even_strength_goals_against",
+   "power_play_goals_against",
+   "shorthanded_goals_against",
+   "goals_against",
+   "starter",
+   "decision",
+   "shots_against",
+   "saves"
+  ],
+  "S. Crosby": {
+   "rows": 83,
+   "goals": 35,
+   "points": 101
+  },
+  "A. Ovechkin": {
+   "rows": 88,
+   "goals": 55,
+   "points": 98
+  },
+  "C. McDavid": {
+   "rows": 78,
+   "goals": 41,
+   "points": 116
+  }
+ },
+ "skater_box_2011": {
+  "rows": 47436,
+  "cols": [
+   "home_away",
+   "team_id",
+   "team_abbrev",
+   "player_id",
+   "player_name",
+   "sweater_number",
+   "position",
+   "goals",
+   "assists",
+   "points",
+   "plus_minus",
+   "pim",
+   "hits",
+   "power_play_goals",
+   "shots_on_goal",
+   "faceoff_winning_pctg",
+   "toi",
+   "blocked_shots",
+   "shifts",
+   "giveaways",
+   "takeaways",
+   "game_id",
+   "season",
+   "game_date"
+  ],
+  "games": 1318,
+  "dates": [
+   "2010-10-07",
+   "2011-06-15"
+  ],
+  "S. Crosby": {
+   "rows": 41,
+   "goals": 32,
+   "points": 66
+  },
+  "A. Ovechkin": {
+   "rows": 88,
+   "goals": 37,
+   "points": 95
+  },
+  "C. McDavid": {
+   "rows": 0,
+   "goals": 0,
+   "points": 0
+  }
+ },
+ "skater_box_2018": {
+  "rows": 48780,
+  "cols": [
+   "home_away",
+   "team_id",
+   "team_abbrev",
+   "player_id",
+   "player_name",
+   "sweater_number",
+   "position",
+   "goals",
+   "assists",
+   "points",
+   "plus_minus",
+   "pim",
+   "hits",
+   "power_play_goals",
+   "shots_on_goal",
+   "faceoff_winning_pctg",
+   "toi",
+   "blocked_shots",
+   "shifts",
+   "giveaways",
+   "takeaways",
+   "game_id",
+   "season",
+   "game_date"
+  ],
+  "games": 1355,
+  "dates": [
+   "2017-10-04",
+   "2018-06-07"
+  ],
+  "S. Crosby": {
+   "rows": 94,
+   "goals": 38,
+   "points": 110
+  },
+  "A. Ovechkin": {
+   "rows": 106,
+   "goals": 64,
+   "points": 114
+  },
+  "C. McDavid": {
+   "rows": 82,
+   "goals": 41,
+   "points": 108
+  }
+ },
+ "identical_player_box_2018_2019": true,
+ "identical_team_box_2018_2019": true,
+ "goalie_box_2011": {
+  "rows": 5272,
+  "starter_values": {
+   "true": 2636,
+   "false": 2636
+  },
+  "R. Luongo rows": 107,
+  "R. Luongo starts": 84
+ },
+ "schedule_master": {
+  "rows": 22002,
+  "first_date": "2009-10-01",
+  "season_labels": [
+   [
+    [
+     "2010",
+     "20092010"
+    ],
+    1318
+   ],
+   [
+    [
+     "2011",
+     "20102011"
+    ],
+    1318
+   ],
+   [
+    [
+     "2012",
+     "20112012"
+    ],
+    1316
+   ]
+  ]
+ },
+ "schedule_2011": {
+  "rows": 1423,
+  "season_labels": {
+   "2010|20102011": 1423
+  },
+  "playoff_venues": {
+   "Honda Center": 89
+  }
+ },
+ "rosters_2011_cols": [
+  "player_id",
+  "full_name",
+  "first_name",
+  "last_name",
+  "team_abbr",
+  "team_id",
+  "position_code",
+  "sweater_number",
+  "season"
+ ],
+ "game_rosters_2011": {
+  "rows": 52708,
+  "cols": [
+   "player_id",
+   "full_name",
+   "first_name",
+   "last_name",
+   "team_abbr",
+   "team_id",
+   "position_code",
+   "sweater_number",
+   "game_id",
+   "season",
+   "game_date",
+   "shoots_catches"
+  ]
+ },
+ "databank_scoring_leagues": {
+  "NHL": [
+   1917,
+   2017,
+   48514
+  ],
+  "WHA": [
+   1972,
+   1978,
+   2436
+  ],
+  "PCHA": [
+   1911,
+   1923,
+   404
+  ],
+  "WCHL": [
+   1921,
+   1925,
+   321
+  ],
+  "NHA": [
+   1909,
+   1916,
+   586
+  ]
+ },
+ "databank_master": {
+  "rows": 8670,
+  "cols": [
+   "playerID",
+   "coachID",
+   "hofID",
+   "firstName",
+   "lastName",
+   "nameNote",
+   "nameGiven",
+   "nameNick",
+   "height",
+   "weight",
+   "shootCatch",
+   "legendsID",
+   "ihdbID",
+   "hrefID",
+   "firstNHL",
+   "lastNHL",
+   "firstWHA",
+   "lastWHA",
+   "pos",
+   "birthYear",
+   "birthMon",
+   "birthDay",
+   "birthCountry",
+   "birthState",
+   "birthCity",
+   "deathYear",
+   "deathMon",
+   "deathDay",
+   "deathCountry",
+   "deathState",
+   "deathCity"
+  ],
+  "with_full_dob": 8543,
+  "with_hrefID": 8355
+ },
+ "databank_howego01": {
+  "GP": 1767,
+  "G": 801,
+  "Pts": 1850,
+  "PostGP": 157,
+  "PostG": 68
+ },
+ "databank_richama01": {
+  "GP": 978,
+  "G": 544,
+  "Pts": 966,
+  "PostGP": 133,
+  "PostG": 82
+ },
+ "databank_gretzwa01": {
+  "GP": 1487,
+  "G": 894,
+  "Pts": 2857,
+  "PostGP": 208,
+  "PostG": 122
+ },
+ "databank_malonjo01": {
+  "GP": 126,
+  "G": 143,
+  "Pts": 175,
+  "PostGP": 9,
+  "PostG": 6
+ },
+ "databank_howego01_WHA": {
+  "GP": 419,
+  "G": 174,
+  "Pts": 508,
+  "PostGP": 78,
+  "PostG": 28
+ },
+ "databank_malonjo01_1917": [
+  {
+   "year": "1917",
+   "tmID": "MTL",
+   "GP": "20",
+   "G": "44",
+   "A": "4",
+   "Pts": "48"
+  }
+ ]
+}

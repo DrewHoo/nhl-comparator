@@ -1,0 +1,39 @@
+URL: https://www.kaggle.com/api/v1/datasets/view/martinellis/nhl-game-data
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+title: NHL Game Data
+licenseName: Other (specified in description)
+lastUpdated: 2020-12-11T08:45:20.167Z
+totalBytes: 1669579082
+
+### Context
+
+For some, statistical analysis increases the enjoyment of sport. My long-term aim is to build an automated database driven advanced stats website like many that have come and gone before however that first starts with statistical analysis of the game to assess what and how much individual actions contribute to the outcome of the game. 
+
+The data represents all the official metrics measured for each game in the NHL in the past 6 years. I intend to update it semi-regularly depending on development progress of my database server.
+
+
+### Content
+
+This is a mostly rational database, please refer to the "table_realtionships.jpg" for details on how the tables can be joined. This is not just the results and player stats of NHL games  but also details on individual plays such as shots, goals and stoppages including date & time and x,y coordinates. 
+
+The dataset is incomplete, there are some games where no plays information is available on NHL.com. It is rare and I do not know the reasons.
+
+
+### Acknowledgements
+
+Thanks to Kevin Sidwar who began [documenting the still un-documented NHL stats API][1] which was used to gather this data.
+
+
+### Inspiration
+
+Compared to other sports, advanced statistics in Hockey are still in infancy. It has been suggested that the best models [can only predict the winner 62% of the time][2] due to variances in talent and "puck luck". 
+
+I would like to believe feature engineering and a suitably trained model can account for some of this variance and beat this seemingly low target.
+
+Otherwise, what metrics can be developed to provide better indications than Corsi & Fenwick?
+
+
+  [1]: https://www.kevinsidwar.com/iot/2017/7/1/the-undocumented-nhl-stats-api
+  [2]: https://www.nhlnumbers.com/2013/08/01/machine-learning-and-hockey-is-there-a-theoretical-limit-on-predictions

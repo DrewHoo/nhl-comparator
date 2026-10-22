@@ -1,0 +1,1242 @@
+URL: https://en.wikipedia.org/wiki/2022–23_Boston_Bruins_season
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+2022–23 Boston Bruins season - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Standings
+Toggle Standings subsection
+1.1
+Divisional standings
+1.2
+Conference standings
+2
+Schedule and results
+Toggle Schedule and results subsection
+2.1
+Regular season
+2.2
+Playoffs
+3
+Player statistics
+Toggle Player statistics subsection
+3.1
+Skaters
+3.2
+Goaltenders
+4
+Transactions
+Toggle Transactions subsection
+4.1
+Trades
+4.2
+Players acquired
+4.3
+Players lost
+4.4
+Signings
+5
+Draft picks
+6
+See also
+7
+References
+Toggle the table of contents
+2022–23 Boston Bruins season
+Add languages
+Add links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+National Hockey League season
+[[Brad Marchand]]"},"Arena":{"wt":"[[TD Garden]]"},"Attendance":{"wt":"18,372<ref>{{cite web |last1=Salvian |first1=Hailey |last2=Mendes |first2=Ian |title=2022-23 NHL team attendance tracker: Risers, fallers, surprises and trends |url=https://www.nytimes.com/athletic/4625953/2023/06/21/nhl-team-attendance-results-2023/ |website=The New York Times |access-date=September 6, 2023 |archive-url=https://web.archive.org/web/20230629215829/https://theathletic.com/4625953/2023/06/21/nhl-team-attendance-results-2023/ |archive-date=June 29, 2023 |url-status=live |date=June 21, 2023}}</ref>"},"MinorLeague":{"wt":"[[Providence Bruins]] ([[American Hockey League|AHL]])<br>[[Maine Mariners (ECHL)|Maine Mariners]] ([[ECHL]])"},"GoalsLeader":{"wt":"[[David Pastrňák|David Pastrnak]] (61)"},"AssistsLeader":{"wt":"David Pastrnak (52)"},"PointsLeader":{"wt":"David Pastrnak (113)"},"PlusMinusLeader":{"wt":"[[Hampus Lindholm]] (+49)"},"PIMLeader":{"wt":"[[A. J. Greer]] (114)"},"WinsLeader":{"wt":"[[Linus Ullmark]] (40)"},"GAALeader":{"wt":"[[Keith Kinkaid]] (1.00)"},"DivisionWin":{"wt":"yes"},"PresidentsTrophy":{"wt":"yes"}},"i":0}}]}'> 2022–23 Boston Bruins |
+Presidents' Trophy winners
+|
+Atlantic Division champions
+|
+Division | 1st Atlantic |
+Conference | 1st Eastern |
+2022–23 record | 65–12–5 |
+Home record | 34–4–3 |
+Road record | 31–8–2 |
+Goals for | 305 |
+Goals against | 177 |
+Team information |
+General manager | Don Sweeney |
+Coach | Jim Montgomery |
+Captain | Patrice Bergeron |
+Alternate captains | David Krejci
+Brad Marchand |
+Arena | TD Garden |
+Average attendance | 18,372[1] |
+Minor league affiliates | Providence Bruins (AHL)
+Maine Mariners (ECHL) |
+Team leaders |
+Goals | David Pastrnak (61) |
+Assists | David Pastrnak (52) |
+Points | David Pastrnak (113) |
+Penalty minutes | A. J. Greer (114) |
+Plus/minus | Hampus Lindholm (+49) |
+Wins | Linus Ullmark (40) |
+Goals against average | Keith Kinkaid (1.00) |
+← 2021–22
+2023–24 →
+|
+The 2022–23 Boston Bruins season was the 99th season for the National Hockey League (NHL) franchise that was established on November 1, 1924.[2] In the offseason, the organization fired Bruce Cassidy, the team's head coach for the previous six seasons, and replaced him with Jim Montgomery. The season also saw the return of long-time Bruin David Krejci, who spent the previous season playing in the Czech Extraliga. The Bruins acquired players such as Pavel Zacha, via trade, and Tomas Nosek, via free agency, during the offseason, while also making trades for Dmitry Orlov, Garnet Hathaway, and Tyler Bertuzzi near the mid-season trade deadline to bolster their roster.
+Regarded as one of the most, if not the most, successful regular season an NHL team has ever experienced, the Bruins finished the season as Atlantic Division winners, their third such title,[3] and Presidents' Trophy winners for the fourth time in franchise history with a record-setting 135 points from 65 wins, 12 losses, and 5 overtime losses, with their 65 wins also serving as a new NHL win record.[4] The Bruins set many additional records during the season, including the most consecutive home wins to start the season (14),[5] the fastest team to reach both 80 and 100 points,[6][7][8][9][10] and the fastest team to reach 50 wins.[11] The Bruins also went 22 straight home games without a regulation loss to start the season before losing 3–0 to the Seattle Kraken.[12][13][14]
+Despite having an impressive regular season and securing home-ice advantage for the playoffs, the Bruins were upset in the first round by the eighth-seeded Florida Panthers in seven games after surrendering a 3–1 lead. Thus they joined the 2007 New England Patriots, 2001 Seattle Mariners, 1906 Chicago Cubs, and 2015–16 Golden State Warriors as all-time winningest regular season teams not to win their respective league's championship. Unlike those teams, however, the Bruins lost in the first round of the playoffs, while the Mariners reached the ALCS and the Patriots, Cubs, and Warriors all reached their respective championship series or game.[15] This season served as the last for Krejci and fellow long-time Bruin Patrice Bergeron as they would retire during the ensuing offseason.
+Standings
+[edit]
+Divisional standings
+[edit]
+Atlantic Division
+Pos |
+Team v
+t
+e
+|
+Games played</span>"}]]}'>GP |
+W |
+L |
+OTL |
+Regulation wins</span>"}]]}'>RW |
+GF |
+GA |
+GD |
+Pts |
+1 |
+p – Boston Bruins |
+82 |
+65 |
+12 |
+5 |
+54 |
+305 |
+177 |
++128 |
+135 |
+2 |
+x – Toronto Maple Leafs |
+82 |
+50 |
+21 |
+11 |
+42 |
+279 |
+222 |
++57 |
+111 |
+3 |
+x – Tampa Bay Lightning |
+82 |
+46 |
+30 |
+6 |
+38 |
+283 |
+254 |
++29 |
+98 |
+4 |
+x – Florida Panthers |
+82 |
+42 |
+32 |
+8 |
+36 |
+290 |
+273 |
++17 |
+92 |
+5 |
+Buffalo Sabres |
+82 |
+42 |
+33 |
+7 |
+30 |
+296 |
+300 |
+−4 |
+91 |
+6 |
+Ottawa Senators |
+82 |
+39 |
+35 |
+8 |
+31 |
+261 |
+271 |
+−10 |
+86 |
+7 |
+Detroit Red Wings |
+82 |
+35 |
+37 |
+10 |
+28 |
+240 |
+279 |
+−39 |
+80 |
+8 |
+Montreal Canadiens |
+82 |
+31 |
+45 |
+6 |
+21 |
+232 |
+307 |
+−75 |
+68 |
+Source: National Hockey League[16]
+Rules for classification: 1) Fewer number of games played (GP, only during regular season); 2) Greater number of regulation wins (RW); 3) Greater number of wins in regulation and overtime, excluding shootout wins (ROW); 4) Greater number of total wins, including shootouts (W); 5) Greater number of points earned in head-to-head play; if teams played an uneven number of head-to-head games, the result of the first game on the home ice of the team with the extra home game is discarded; 6) Greater goal differential (GD); 7) Greater number of goals scored (GF)
+p – Clinched Presidents' Trophy; x – Clinched playoff spot
+Conference standings
+[edit]
+Eastern Conference Wild Card
+Pos |
+Div |
+Team v
+t
+e
+|
+Games played</span>"}]]}'>GP |
+W |
+L |
+OTL |
+Regulation wins</span>"}]]}'>RW |
+GF |
+GA |
+GD |
+Pts |
+1 |
+ME |
+x – New York Islanders |
+82 |
+42 |
+31 |
+9 |
+36 |
+243 |
+222 |
++21 |
+93 |
+2 |
+AT |
+x – Florida Panthers |
+82 |
+42 |
+32 |
+8 |
+36 |
+290 |
+273 |
++17 |
+92 |
+| | | | | | | | | | | |
+3 |
+ME |
+Pittsburgh Penguins |
+82 |
+40 |
+31 |
+11 |
+31 |
+262 |
+264 |
+−2 |
+91 |
+4 |
+AT |
+Buffalo Sabres |
+82 |
+42 |
+33 |
+7 |
+30 |
+296 |
+300 |
+−4 |
+91 |
+5 |
+AT |
+Ottawa Senators |
+82 |
+39 |
+35 |
+8 |
+31 |
+261 |
+271 |
+−10 |
+86 |
+6 |
+AT |
+Detroit Red Wings |
+82 |
+35 |
+37 |
+10 |
+28 |
+240 |
+279 |
+−39 |
+80 |
+7 |
+ME |
+Washington Capitals |
+82 |
+35 |
+37 |
+10 |
+27 |
+255 |
+265 |
+−10 |
+80 |
+8 |
+ME |
+Philadelphia Flyers |
+82 |
+31 |
+38 |
+13 |
+26 |
+222 |
+277 |
+−55 |
+75 |
+9 |
+AT |
+Montreal Canadiens |
+82 |
+31 |
+45 |
+6 |
+21 |
+232 |
+307 |
+−75 |
+68 |
+10 |
+ME |
+Columbus Blue Jackets |
+82 |
+25 |
+48 |
+9 |
+15 |
+214 |
+330 |
+−116 |
+59 |
+Source: National Hockey League[17]
+Rules for classification: 1) Fewer number of games played (GP, only during regular season); 2) Greater number of regulation wins (RW); 3) Greater number of wins in regulation and overtime, excluding shootout wins (ROW); 4) Greater number of total wins, including shootouts (W); 5) Greater number of points earned in head-to-head play; if teams played an uneven number of head-to-head games, the result of the first game on the home ice of the team with the extra home game is discarded; 6) Greater goal differential (GD); 7) Greater number of goals scored (GF)
+x – Clinched playoff spot
+Schedule and results
+[edit]
+Regular season
+[edit]
+2022–23 game log |
+October: 8–1–0 (home: 6–0–0; road: 2–1–0) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+1 | October 12 | Boston | 5–2 | Washington | | Ullmark | 18,573 | 1–0–0 | 2 | [18] |
+2 | October 15 | Arizona | 3–6 | Boston | | Swayman | 17,850 | 2–0–0 | 4 | [19] |
+3 | October 17 | Florida | 3–5 | Boston | | Ullmark | 17,850 | 3–0–0 | 6 | [20] |
+4 | October 18 | Boston | 5–7 | Ottawa | | Swayman | 19,811 | 3–1–0 | 6 | [21] |
+5 | October 20 | Anaheim | 1–2 | Boston | SO | Ullmark | 17,850 | 4–1–0 | 8 | [22] |
+6 | October 22 | Minnesota | 3–4 | Boston | OT | Ullmark | 17,850 | 5–1–0 | 10 | [23] |
+7 | October 25 | Dallas | 1–3 | Boston | | Ullmark | 17,850 | 6–1–0 | 12 | [24] |
+8 | October 27 | Detroit | 1–5 | Boston | | Swayman | 17,850 | 7–1–0 | 14 | [25] |
+9 | October 28 | Boston | 4–0 | Columbus | | Ullmark | 16,162 | 8–1–0 | 16 | [26] |
+|
+November: 11–2–0 (home: 7–0–0; road: 4–2–0) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+10 | November 1 | Boston | 6–5 | Pittsburgh | OT | Ullmark | 17,629 | 9–1–0 | 18 | [27] |
+11 | November 3 | Boston | 5–2 | NY Rangers | | Ullmark | 18,006 | 10–1–0 | 20 | [28] |
+12 | November 5 | Boston | 1–2 | Toronto | | Ullmark | 18,926 | 10–2–0 | 20 | [29] |
+13 | November 7 | St. Louis | 1–3 | Boston | | Ullmark | 17,850 | 11–2–0 | 22 | [30] |
+14 | November 10 | Calgary | 1–3 | Boston | | Ullmark | 17,850 | 12–2–0 | 24 | [31] |
+15 | November 12 | Boston | 3–1 | Buffalo | | Kinkaid | 19,070 | 13–2–0 | 26 | [32] |
+16 | November 13 | Vancouver | 2–5 | Boston | | Ullmark | 17,850 | 14–2–0 | 28 | [33] |
+17 | November 17 | Philadelphia | 1–4 | Boston | | Ullmark | 17,850 | 15–2–0 | 30 | [34] |
+18 | November 19 | Chicago | 1–6 | Boston | | Swayman | 17,850 | 16–2–0 | 32 | [35] |
+19 | November 21 | Boston | 5–3 | Tampa Bay | | Ullmark | 19,092 | 17–2–0 | 34 | [36] |
+20 | November 23 | Boston | 2–5 | Florida | | Swayman | 17,511 | 17–3–0 | 34 | [37] |
+21 | November 25 | Carolina | 2–3 | Boston | OT | Swayman | 17,850 | 18–3–0 | 36 | [38] |
+22 | November 29 | Tampa Bay | 1–3 | Boston | | Swayman | 17,850 | 19–3–0 | 38 | [39] |
+|
+December: 9–1–4 (home: 5–0–3; road: 4–1–1) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+23 | December 3 | Colorado | 1–5 | Boston | | Ullmark | 17,850 | 20–3–0 | 40 | [40] |
+24 | December 5 | Vegas | 4–3 | Boston | SO | Swayman | 17,850 | 20–3–1 | 41 | [41] |
+25 | December 7 | Boston | 4–0 | Colorado | | Ullmark | 18,119 | 21–3–1 | 43 | [42] |
+26 | December 9 | Boston | 3–4 | Arizona | | Swayman | 4,600 | 21–4–1 | 43 | [43] |
+27 | December 11 | Boston | 3–1 | Vegas | | Ullmark | 18,114 | 22–4–1 | 45 | [44] |
+28 | December 13 | NY Islanders | 3–4 | Boston | SO | Ullmark | 17,850 | 23–4–1 | 47 | [45] |
+29 | December 15 | Los Angeles | 3–2 | Boston | SO | Ullmark | 17,850 | 23–4–2 | 48 | [46] |
+30 | December 17 | Columbus | 2–4 | Boston | | Swayman | 17,850 | 24–4–2 | 50 | [47] |
+31 | December 19 | Florida | 3–7 | Boston | | Ullmark | 17,850 | 25–4–2 | 52 | [48] |
+32 | December 22 | Winnipeg | 2–3 | Boston | | Swayman | 17,850 | 26–4–2 | 54 | [49] |
+33 | December 23 | Boston | 4–3 | New Jersey | | Ullmark | 16,514 | 27–4–2 | 56 | [50] |
+34 | December 27 | Boston | 2–3 | Ottawa | SO | Swayman | 20,016 | 27–4–3 | 57 | [51] |
+35 | December 28 | Boston | 3–1 | New Jersey | | Ullmark | 16,514 | 28–4–3 | 59 | [52] |
+36 | December 31 | Buffalo | 4–3 | Boston | OT | Swayman | 17,850 | 28–4–4 | 60 | [53] |
+|
+January: 10–3–1 (home: 4–1–0; road: 6–2–1) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+37 | January 2 | Pittsburgh | 1–2 | Boston | | Ullmark | 39,243(outdoors) | 29–4–4 | 62 | [54] |
+38 | January 5 | Boston | 5–2 | Los Angeles | | Swayman | 18,230 | 30–4–4 | 64 | [55] |
+39 | January 7 | Boston | 4–2 | San Jose | | Ullmark | 17,562 | 31–4–4 | 66 | [56] |
+40 | January 8 | Boston | 7–1 | Anaheim | | Swayman | 16,127 | 32–4–4 | 68 | [57] |
+41 | January 12 | Seattle | 3–0 | Boston | | Ullmark | 17,850 | 32–5–4 | 68 | [58] |
+42 | January 14 | Toronto | 3–4 | Boston | | Ullmark | 17,850 | 33–5–4 | 70 | [59] |
+43 | January 16 | Philadelphia | 0–6 | Boston | | Swayman | 17,850 | 34–5–4 | 72 | [60] |
+44 | January 18 | Boston | 4–1 | NY Islanders | | Ullmark | 17,255 | 35–5–4 | 74 | [61] |
+45 | January 19 | Boston | 3–1 | NY Rangers | | Swayman | 18,006 | 36–5–4 | 76 | [62] |
+46 | January 22 | San Jose | 0–4 | Boston | | Ullmark | 17,850 | 37–5–4 | 78 | [63] |
+47 | January 24 | Boston | 4–2 | Montreal | | Swayman | 21,105 | 38–5–4 | 80 | [64] |
+48 | January 26 | Boston | 2–3 | Tampa Bay | | Ullmark | 19,092 | 38–6–4 | 80 | [65] |
+49 | January 28 | Boston | 3–4 | Florida | OT | Swayman | 18,058 | 38–6–5 | 81 | [66] |
+50 | January 29 | Boston | 1–4 | Carolina | | Ullmark | 18,959 | 38–7–5 | 81 | [67] |
+|
+February: 9–1–0 (home: 2–1–0; road: 7–0–0) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+51 | February 1 | Boston | 5–2 | Toronto | | Ullmark | 18,973 | 39–7–5 | 83 | [68] |
+52 | February 11 | Washington | 2–1 | Boston | | Swayman | 17,850 | 39–8–5 | 83 | [69] |
+53 | February 14 | Boston | 3–2 | Dallas | OT | Ullmark | 18,532 | 40–8–5 | 85 | [70] |
+54 | February 16 | Boston | 5–0 | Nashville | | Swayman | 17,159 | 41–8–5 | 87 | [71] |
+55 | February 18 | NY Islanders | 2–6 | Boston | | Ullmark | 17,850 | 42–8–5 | 89 | [72] |
+56 | February 20 | Ottawa | 1–3 | Boston | | Ullmark | 17,850 | 43–8–5 | 91 | [73] |
+57 | February 23 | Boston | 6–5 | Seattle | | Swayman | 17,151 | 44–8–5 | 93 | [74] |
+58 | February 25 | Boston | 3–1 | Vancouver | | Ullmark | 18,722 | 45–8–5 | 95 | [75] |
+59 | February 27 | Boston | 3–2 | Edmonton | | Swayman | 18,347 | 46–8–5 | 97 | [76] |
+60 | February 28 | Boston | 4–3 | Calgary | OT | Ullmark | 18,420 | 47–8–5 | 99 | [77] |
+|
+March: 11–4–0 (home: 7–2–0; road: 4–2–0) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+61 | March 2 | Buffalo | 1–7 | Boston | | Swayman | 17,850 | 48–8–5 | 101 | [78] |
+62 | March 4 | NY Rangers | 2–4 | Boston | | Ullmark | 17,850 | 49–8–5 | 103 | [79] |
+63 | March 9 | Edmonton | 3–2 | Boston | | Swayman | 17,850 | 49–9–5 | 103 | [80] |
+64 | March 11 | Detroit | 2–3 | Boston | | Ullmark | 17,850 | 50–9–5 | 105 | [81] |
+65 | March 12 | Boston | 3–5 | Detroit | | Swayman | 19,515 | 50–10–5 | 105 | [82] |
+66 | March 14 | Boston | 3–6 | Chicago | | Ullmark | 20,188 | 50–11–5 | 105 | [83] |
+67 | March 16 | Boston | 3–0 | Winnipeg | | Swayman | 14,555 | 51–11–5 | 107 | [84] |
+68 | March 18 | Boston | 5–2 | Minnesota | | Ullmark | 19,329 | 52–11–5 | 109 | [85] |
+69 | March 19 | Boston | 7–0 | Buffalo | | Swayman | 19,070 | 53–11–5 | 111 | [86] |
+70 | March 21 | Ottawa | 1–2 | Boston | | Ullmark | 17,850 | 54–11–5 | 113 | [87] |
+71 | March 23 | Montreal | 2–4 | Boston | | Swayman | 17,850 | 55–11–5 | 115 | [88] |
+72 | March 25 | Tampa Bay | 1–2 | Boston | | Ullmark | 17,850 | 56–11–5 | 117 | [89] |
+73 | March 26 | Boston | 4–3 | Carolina | SO | Swayman | 18,958 | 57–11–5 | 119 | [90] |
+74 | March 28 | Nashville | 2–1 | Boston | | Ullmark | 17,850 | 57–12–5 | 119 | [91] |
+75 | March 30 | Columbus | 1–2 | Boston | OT | Ullmark | 17,850 | 58–12–5 | 121 | [92] |
+|
+April: 7–0–0 (home: 3–0–0; road: 4–0–0) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+76 | April 1 | Boston | 4–3 | Pittsburgh | | Swayman | 18,322 | 59–12–5 | 123 | [93] |
+77 | April 2 | Boston | 4–3 | St. Louis | SO | Ullmark | 18,096 | 60–12–5 | 125 | [94] |
+78 | April 6 | Toronto | 1–2 | Boston | OT | Swayman | 17,850 | 61–12–5 | 127 | [95] |
+79 | April 8 | New Jersey | 1–2 | Boston | | Ullmark | 17,850 | 62–12–5 | 129 | [96] |
+80 | April 9 | Boston | 5–3 | Philadelphia | | Swayman | 18,776 | 63–12–5 | 131 | [97] |
+81 | April 11 | Washington | 2–5 | Boston | | Ullmark | 17,850 | 64–12–5 | 133 | [98] |
+82 | April 13 | Boston | 5–4 | Montreal | | Swayman | 21,105 | 65–12–5 | 135 | [99] |
+|
+Legend:
+Win (2 points)
+Loss (0 points)
+Overtime/shootout loss (1 point)
+|
+Playoffs
+[edit]
+Main article: 2023 Stanley Cup playoffs
+2023 Stanley Cup playoffs |
+Eastern Conference First Round vs. (WC2) Florida Panthers: Florida won 4–3 |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Series | Recap |
+1 | April 17 | Florida | 1–3 | Boston | | Ullmark | 17,850 | 1–0 | [100] |
+2 | April 19 | Florida | 6–3 | Boston | | Ullmark | 17,850 | 1–1 | [101] |
+3 | April 21 | Boston | 4–2 | Florida | | Ullmark | 19,910 | 2–1 | [102] |
+4 | April 23 | Boston | 6–2 | Florida | | Ullmark | 19,771 | 3–1 | [103] |
+5 | April 26 | Florida | 4–3 | Boston | OT | Ullmark | 17,850 | 3–2 | [104] |
+6 | April 28 | Boston | 5–7 | Florida | | Ullmark | 18,911 | 3–3 | [105] |
+7 | April 30 | Florida | 4–3 | Boston | OT | Swayman | 17,850 | 3–4 | [106] |
+|
+Legend:
+Win
+Loss
+|
+Player statistics
+[edit]
+Skaters
+[edit]
+{{cite web |title=2022–23 Regular Season – Boston Bruins Stats – Skaters |url= https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=2&playerPlayedFor=franchise.6&filter=gamesPlayed,gte,1&sort=points,goals,assists&page=0&pageSize=50 |website=NHL.com |access-date=April 17, 2023}}</ref>\n|-\n! Player\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":2}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":3}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":4}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"Pts"},"2":{"wt":"Points"}},"i":5}},"\n! data-sort-type=\"number\"|",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"+/−"},"2":{"wt":"Plus/minus"}},"i":6}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty minutes"}},"i":7}},"\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"David"},"2":{"wt":"Pastrnak"},"3":{"wt":"David Pastrňák"}},"i":8}}," || 82 || 61 || 52 || 113 || +34 || 38\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Brad"},"2":{"wt":"Marchand"}},"i":9}}," || 73 || 21 || 46 || 67 || +27 || 74\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Patrice"},"2":{"wt":"Bergeron"}},"i":10}}," || 78 || 27 || 31 || 58 || +35 || 22\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Pavel"},"2":{"wt":"Zacha"}},"i":11}}," || 82 || 21 || 36 || 57 || +26 || 16\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"David"},"2":{"wt":"Krejci"},"3":{"wt":"David Krejčí"}},"i":12}}," || 70 || 16 || 40 || 56 || +23 || 20\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Hampus"},"2":{"wt":"Lindholm"}},"i":13}}," || 80 || 10 || 43 || 53 || +49 || 56\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Charlie"},"2":{"wt":"McAvoy"}},"i":14}}," || 67 || 7 || 45 || 52 || +29 || 54\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Jake"},"2":{"wt":"DeBrusk"}},"i":15}}," || 64 || 27 || 23 || 50 || +26 || 16\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Charlie"},"2":{"wt":"Coyle"}},"i":16}}," || 82 || 16 || 29 || 45 || +29 || 30\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Taylor"},"2":{"wt":"Hall"}},"i":17}}," || 61 || 16 || 20 || 36 || +11 || 24\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Trent"},"2":{"wt":"Frederic"}},"i":18}}," || 79 || 17 || 14 || 31 || +28 || 57\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Nick"},"2":{"wt":"Foligno"}},"i":19}}," || 60 || 10 || 16 || 26 || +18 || 45\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Matt"},"2":{"wt":"Grzelcyk"}},"i":20}}," || 75 || 4 || 22 || 26 || +46 || 28\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Connor"},"2":{"wt":"Clifton"}},"i":21}}," || 78 || 5 || 18 || 23 || +20 || 60\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Tomas"},"2":{"wt":"Nosek"},"3":{"wt":"Tomáš Nosek"}},"i":22}}," || 66 || 7 || 11 || 18 || +9 || 48 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Dmitry"},"2":{"wt":"Orlov"},"dab":{"wt":"ice hockey"}},"i":23}},"<sup>†</sup> || 23 || 4 || 13 || 17 || +10 || 12\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Tyler"},"2":{"wt":"Bertuzzi"}},"i":24}},"<sup>†</sup> || 21 || 4 || 12 || 16 || +4 || 6\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Brandon"},"2":{"wt":"Carlo"}},"i":25}}," || 75 || 3 || 13 || 16 || +44 || 38 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"A.J."},"2":{"wt":"Greer"}},"i":26}}," || 61 || 5 || 7 || 12 || +9 || 114\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Derek"},"2":{"wt":"Forbort"}},"i":27}}," || 54 || 5 || 7 || 12 || +12 || 23\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Craig"},"2":{"wt":"Smith"},"dab":{"wt":"ice hockey"}},"i":28}},"<sup>‡</sup> || 42 || 4 || 6 || 10 || +4 || 14\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Jakub"},"2":{"wt":"Lauko"}},"i":29}}," || 23 || 4 || 3 || 7 || +2 || 11\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Garnet"},"2":{"wt":"Hathaway"}},"i":30}},"<sup>†</sup> || 25 || 4 || 2 || 6 || −1 || 17\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Jakub"},"2":{"wt":"Zboril"},"3":{"wt":"Jakub Zbořil"}},"i":31}}," || 22 || 1 || 3 || 4 || −1 || 6\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Oskar"},"2":{"wt":"Steen"}},"i":32}}," || 3 || 1 || 0 || 1 || 0 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Joona"},"2":{"wt":"Koppanen"}},"i":33}}," || 5 || 0 || 1 || 1 || 0 || 4 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Connor"},"2":{"wt":"Carrick"}},"i":34}}," || 1 || 0 || 1 || 1 || +3 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Mike"},"2":{"wt":"Reilly"},"dab":{"wt":"ice hockey"}},"i":35}}," || 10 || 0 || 1 || 1 || 0 || 2 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Marc"},"2":{"wt":"McLaughlin"}},"i":36}}," || 2 || 0 || 0 || 0 || −1 || 2 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Jack"},"2":{"wt":"Studnicka"}},"i":37}},"<sup>‡</sup> || 1 || 0 || 0 || 0 || −1 || 4 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Vinni"},"2":{"wt":"Lettieri"}},"i":38}}," || 1 || 0 || 0 || 0 || −1 || 0 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Dan"},"2":{"wt":"Renouf"}},"i":39}}," || 1 || 0 || 0 || 0 || −3 || 0 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Chris"},"2":{"wt":"Wagner"}},"i":40}}," || 1 || 0 || 0 || 0 || 0 || 0 \n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Anton"},"2":{"wt":"Stralman"},"3":{"wt":"Anton Strålman"}},"i":41}}," || 8 || 0 || 0 || 0 || −3 || 2 \n|-\n|}\n",{"template":{"target":{"wt":"col-2","href":"./Template:Col-2"},"params":{},"i":42}},"\n{| class=\"wikitable sortable\" style=\"text-align:center;\"\n|+ style=\"background:#FFFFFF; border-top:#010101 5px solid; border-bottom:#FFB81C 5px solid;\"|Playoffs<ref>{{cite web |title=2022–23 Playoffs – Boston Bruins Stats – Skaters |url=https://www.nhl.com/stats/skaters?reportType=season&seasonFrom=20222023&seasonTo=20222023&gameType=3&playerPlayedFor=franchise.6&filter=gamesPlayed,gte,1&sort=points,goals,assists&page=0&pageSize=50 |website=NHL.com |access-date=May 5, 2023}}</ref>\n|-\n! Player\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":43}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":44}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":45}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"Pts"},"2":{"wt":"Points"}},"i":46}},"\n! data-sort-type=\"number\"|",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"+/−"},"2":{"wt":"Plus/minus"}},"i":47}},"\n! ",{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty minutes"}},"i":48}},"\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Tyler"},"2":{"wt":"Bertuzzi"}},"i":49}}," || 7 || 5 || 5 || 10 || −4 || 26\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Brad"},"2":{"wt":"Marchand"}},"i":50}}," || 7 || 4 || 6 || 10 || −6 || 2\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Taylor"},"2":{"wt":"Hall"}},"i":51}}," || 7 || 5 || 3 || 8 || +4 || 2\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Dmitry"},"2":{"wt":"Orlov"},"dab":{"wt":"ice hockey"}},"i":52}}," || 7 || 0 || 8 || 8 || −3 || 2\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Jake"},"2":{"wt":"DeBrusk"}},"i":53}}," || 7 || 4 || 2 || 6 || −1 || 10\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Pavel"},"2":{"wt":"Zacha"}},"i":54}}," || 7 || 0 || 6 || 6 || +1 || 2\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"David"},"2":{"wt":"Pastrnak"},"3":{"wt":"David Pastrňák"}},"i":55}}," || 7 || 5 || 0 || 5 || −2 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Charlie"},"2":{"wt":"McAvoy"}},"i":56}}," || 7 || 0 || 5 || 5 || −3 || 8\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"David"},"2":{"wt":"Krejci"},"3":{"wt":"David Krejčí"}},"i":57}}," || 4 || 1 || 3 || 4 || −3 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Brandon"},"2":{"wt":"Carlo"}},"i":58}}," || 7 || 0 || 4 || 4 || +2 || 4\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Nick"},"2":{"wt":"Foligno"}},"i":59}}," || 6 || 1 || 2 || 3 || 0 || 18\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Charlie"},"2":{"wt":"Coyle"}},"i":60}}," || 7 || 1 || 1 || 2 || −1 || 4\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Tomas"},"2":{"wt":"Nosek"},"3":{"wt":"Tomáš Nosek"}},"i":61}}," || 7 || 0 || 2 || 2 || 0 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Patrice"},"2":{"wt":"Bergeron"}},"i":62}}," || 3 || 1 || 0 || 1 || −6 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Jakub"},"2":{"wt":"Lauko"}},"i":63}}," || 3 || 0 || 1 || 1 || +1 || 4\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Garnet"},"2":{"wt":"Hathaway"}},"i":64}}," || 7 || 0 || 1 || 1 || −1 || 10\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Derek"},"2":{"wt":"Forbort"}},"i":65}}," || 7 || 0 || 1 || 1 || −1 || 21\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Trent"},"2":{"wt":"Frederic"}},"i":66}}," || 5 || 0 || 0 || 0 || −2 || 10\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Connor"},"2":{"wt":"Clifton"}},"i":67}}," || 3 || 0 || 0 || 0 || −4 || 2\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Matt"},"2":{"wt":"Grzelcyk"}},"i":68}}," || 4 || 0 || 0 || 0 || −1 || 0\n|-\n| ",{"template":{"target":{"wt":"sortname","href":"./Template:Sortname"},"params":{"1":{"wt":"Hampus"},"2":{"wt":"Lindholm"}},"i":69}}," || 7 || 0 || 0 || 0 || +2 || 4\n|}\n",{"template":{"target":{"wt":"col-end","href":"./Template:Col-end"},"params":{},"i":70}}]}'>
+Regular season[107]
+Player |
+Games played</span>"}]]}'>GP |
+Goals</span>"}]]}'>G |
+Assists</span>"}]]}'>A |
+Points</span>"}]]}'>Pts |
+Plus/minus</span>"}]]}'>+/− |
+Penalty minutes</span>"}]]}'>PIM |
+David Pastrnak | 82 | 61 | 52 | 113 | +34 | 38 |
+Brad Marchand | 73 | 21 | 46 | 67 | +27 | 74 |
+Patrice Bergeron | 78 | 27 | 31 | 58 | +35 | 22 |
+Pavel Zacha | 82 | 21 | 36 | 57 | +26 | 16 |
+David Krejci | 70 | 16 | 40 | 56 | +23 | 20 |
+Hampus Lindholm | 80 | 10 | 43 | 53 | +49 | 56 |
+Charlie McAvoy | 67 | 7 | 45 | 52 | +29 | 54 |
+Jake DeBrusk | 64 | 27 | 23 | 50 | +26 | 16 |
+Charlie Coyle | 82 | 16 | 29 | 45 | +29 | 30 |
+Taylor Hall | 61 | 16 | 20 | 36 | +11 | 24 |
+Trent Frederic | 79 | 17 | 14 | 31 | +28 | 57 |
+Nick Foligno | 60 | 10 | 16 | 26 | +18 | 45 |
+Matt Grzelcyk | 75 | 4 | 22 | 26 | +46 | 28 |
+Connor Clifton | 78 | 5 | 18 | 23 | +20 | 60 |
+Tomas Nosek | 66 | 7 | 11 | 18 | +9 | 48 |
+Dmitry Orlov† | 23 | 4 | 13 | 17 | +10 | 12 |
+Tyler Bertuzzi† | 21 | 4 | 12 | 16 | +4 | 6 |
+Brandon Carlo | 75 | 3 | 13 | 16 | +44 | 38 |
+A.J. Greer | 61 | 5 | 7 | 12 | +9 | 114 |
+Derek Forbort | 54 | 5 | 7 | 12 | +12 | 23 |
+Craig Smith‡ | 42 | 4 | 6 | 10 | +4 | 14 |
+Jakub Lauko | 23 | 4 | 3 | 7 | +2 | 11 |
+Garnet Hathaway† | 25 | 4 | 2 | 6 | −1 | 17 |
+Jakub Zboril | 22 | 1 | 3 | 4 | −1 | 6 |
+Oskar Steen | 3 | 1 | 0 | 1 | 0 | 0 |
+Joona Koppanen | 5 | 0 | 1 | 1 | 0 | 4 |
+Connor Carrick | 1 | 0 | 1 | 1 | +3 | 0 |
+Mike Reilly | 10 | 0 | 1 | 1 | 0 | 2 |
+Marc McLaughlin | 2 | 0 | 0 | 0 | −1 | 2 |
+Jack Studnicka‡ | 1 | 0 | 0 | 0 | −1 | 4 |
+Vinni Lettieri | 1 | 0 | 0 | 0 | −1 | 0 |
+Dan Renouf | 1 | 0 | 0 | 0 | −3 | 0 |
+Chris Wagner | 1 | 0 | 0 | 0 | 0 | 0 |
+Anton Stralman | 8 | 0 | 0 | 0 | −3 | 2 |
+|
+Playoffs[108]
+Player |
+Games played</span>"}]]}'>GP |
+Goals</span>"}]]}'>G |
+Assists</span>"}]]}'>A |
+Points</span>"}]]}'>Pts |
+Plus/minus</span>"}]]}'>+/− |
+Penalty minutes</span>"}]]}'>PIM |
+Tyler Bertuzzi | 7 | 5 | 5 | 10 | −4 | 26 |
+Brad Marchand | 7 | 4 | 6 | 10 | −6 | 2 |
+Taylor Hall | 7 | 5 | 3 | 8 | +4 | 2 |
+Dmitry Orlov | 7 | 0 | 8 | 8 | −3 | 2 |
+Jake DeBrusk | 7 | 4 | 2 | 6 | −1 | 10 |
+Pavel Zacha | 7 | 0 | 6 | 6 | +1 | 2 |
+David Pastrnak | 7 | 5 | 0 | 5 | −2 | 0 |
+Charlie McAvoy | 7 | 0 | 5 | 5 | −3 | 8 |
+David Krejci | 4 | 1 | 3 | 4 | −3 | 0 |
+Brandon Carlo | 7 | 0 | 4 | 4 | +2 | 4 |
+Nick Foligno | 6 | 1 | 2 | 3 | 0 | 18 |
+Charlie Coyle | 7 | 1 | 1 | 2 | −1 | 4 |
+Tomas Nosek | 7 | 0 | 2 | 2 | 0 | 0 |
+Patrice Bergeron | 3 | 1 | 0 | 1 | −6 | 0 |
+Jakub Lauko | 3 | 0 | 1 | 1 | +1 | 4 |
+Garnet Hathaway | 7 | 0 | 1 | 1 | −1 | 10 |
+Derek Forbort | 7 | 0 | 1 | 1 | −1 | 21 |
+Trent Frederic | 5 | 0 | 0 | 0 | −2 | 10 |
+Connor Clifton | 3 | 0 | 0 | 0 | −4 | 2 |
+Matt Grzelcyk | 4 | 0 | 0 | 0 | −1 | 0 |
+Hampus Lindholm | 7 | 0 | 0 | 0 | +2 | 4 |
+|
+Goaltenders
+[edit]
+Regular season[109]
+Player |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Games started</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GS"},"2":{"wt":"Games started"}},"i":0}}]}'>GS |
+Time on ice</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"TOI"},"2":{"wt":"Time on ice"}},"i":0}}]}'>TOI |
+Win</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"W"},"2":{"wt":"Win"}},"i":0}}]}'>W |
+Loss</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"L"},"2":{"wt":"Loss"}},"i":0}}]}'>L |
+Overtime loss</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"OT"},"2":{"wt":"Overtime loss"}},"i":0}}]}'>OT |
+Goals against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GA"},"2":{"wt":"Goals against"}},"i":0}}]}'>GA |
+Goals against average</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GAA"},"2":{"wt":"Goals against average"}},"i":0}}]}'>GAA |
+Shots against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SA"},"2":{"wt":"Shots against"}},"i":0}}]}'>SA |
+Save percentage</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SV%"},"2":{"wt":"Save percentage"}},"i":0}}]}'>SV% |
+Shutouts</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SO"},"2":{"wt":"Shutouts"}},"i":0}}]}'>SO |
+Goals</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":0}}]}'>G |
+Assists</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":0}}]}'>A |
+Penalty minutes</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty minutes"}},"i":0}}]}'>PIM |
+Linus Ullmark | 49 | 48 | 2,882:12 | 40 | 6 | 1 | 91 | 1.89 | 1,457 | .938 | 2 | 1 | 0 | 2 |
+Jeremy Swayman | 37 | 33 | 2,012:59 | 24 | 6 | 4 | 76 | 2.27 | 953 | .920 | 4 | 0 | 0 | 2 |
+Keith Kinkaid‡ | 1 | 1 | 59:54 | 1 | 0 | 0 | 1 | 1.00 | 31 | .968 | 0 | 0 | 0 | 0 |
+Playoffs[110]
+Player |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Games started</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GS"},"2":{"wt":"Games started"}},"i":0}}]}'>GS |
+Time on ice</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"TOI"},"2":{"wt":"Time on ice"}},"i":0}}]}'>TOI |
+Win</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"W"},"2":{"wt":"Win"}},"i":0}}]}'>W |
+Loss</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"L"},"2":{"wt":"Loss"}},"i":0}}]}'>L |
+Goals against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GA"},"2":{"wt":"Goals against"}},"i":0}}]}'>GA |
+Goals against average</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GAA"},"2":{"wt":"Goals against average"}},"i":0}}]}'>GAA |
+Shots against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SA"},"2":{"wt":"Shots against"}},"i":0}}]}'>SA |
+Save percentage</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SV%"},"2":{"wt":"Save percentage"}},"i":0}}]}'>SV% |
+Shutouts</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SO"},"2":{"wt":"Shutouts"}},"i":0}}]}'>SO |
+Goals</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":0}}]}'>G |
+Assists</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":0}}]}'>A |
+Penalty minutes</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty minutes"}},"i":0}}]}'>PIM |
+Linus Ullmark | 6 | 6 | 359:51 | 3 | 3 | 20 | 3.33 | 192 | .896 | 0 | 0 | 1 | 10 |
+Jeremy Swayman | 2 | 1 | 71:46 | 0 | 1 | 4 | 3.34 | 32 | .875 | 0 | 0 | 0 | 0 |
+†Denotes player spent time with another team before joining the Bruins. Stats reflect time with the Bruins only.
+‡Denotes player was traded mid-season. Stats reflect time with the Bruins only.
+Transactions
+[edit]
+The Bruins have been involved in the following transactions during the 2022–23 season.
+Key:
+† Contract is entry-level.
+‡ Contract initially takes effect in the 2023–24 season.
+Trades
+[edit]
+Date | Details | Ref |
+July 8, 2022 (2022-07-08) |
+To Seattle KrakenCGY 3rd-round pick in 2022 |
+To Boston BruinsWSH 4th-round pick in 20225th-round pick in 2022 |
+[111] |
+July 8, 2022 (2022-07-08) |
+To Los Angeles Kings7th-round pick in 2022 |
+To Boston Bruins7th-round pick in 2023 |
+[112] |
+July 13, 2022 (2022-07-13) |
+To New Jersey DevilsErik Haula |
+To Boston BruinsPavel Zacha |
+[113] |
+October 27, 2022 (2022-10-27) |
+To Vancouver CanucksJack Studnicka |
+To Boston BruinsMichael DiPietroJonathan Myrenberg |
+[114] |
+February 23, 2023 (2023-02-23) |
+To Washington CapitalsCraig Smith1st-round pick in 20233rd-round pick in 20242nd-round pick in 2025 |
+To Boston BruinsGarnet HathawayAndrei Svetlakov |
+[115] |
+February 23, 2023 (2023-02-23) |
+To Minnesota Wild5th-round pick in 2023 |
+To Boston BruinsDmitry Orlov |
+[115] |
+February 25, 2023 (2023-02-25) |
+To Colorado AvalancheKeith Kinkaid |
+To Boston BruinsShane Bowers |
+[116] |
+March 2, 2023 (2023-03-02) |
+To Detroit Red Wingsconditional 1st-round pick in 2024 4th-round pick in 2025 |
+To Boston BruinsTyler Bertuzzi |
+[117] |
+June 26, 2023 (2023-06-26) |
+To Chicago BlackhawksNick FolignoTaylor Hall |
+To Boston BruinsIan MitchellAlec Regula |
+[118] |
+Players acquired
+[edit]
+Date | Player | Former team | Term | Via | Ref |
+July 13, 2022 (2022-07-13) | Connor Carrick | Seattle Kraken | 1-year | Free agency | [119] |
+A. J. Greer | New Jersey Devils | 2-year | [119] |
+Keith Kinkaid | New York Rangers | 1-year | [119] |
+Vinni Lettieri | Anaheim Ducks | [119] |
+Dan Renouf | Detroit Red Wings | 2-year | [119] |
+August 8, 2022 (2022-08-08) | David Krejci | HC Olomouc (ELH) | 1-year | [120] |
+October 12, 2022 (2022-10-12) | Anton Stralman | Arizona Coyotes | [121] |
+November 4, 2022 (2022-11-04) | Mitchell Miller | Tri-City Storm (USHL) | 3-year† | [122] |
+Players lost
+[edit]
+Date | Player | New team | Term | Via | Ref |
+July 13, 2022 (2022-07-13) | Josh Brown | Arizona Coyotes | 2-year | Free agency | [123] |
+Steven Fogarty | Minnesota Wild | 2-year | Free agency | [124] |
+Jesper Froden | Seattle Kraken | 1-year | Free agency | [125] |
+Troy Grosenick | Philadelphia Flyers | 1-year | Free agency | [126] |
+Cameron Hughes | Seattle Kraken | 2-year | Free agency | [127] |
+Curtis Lazar | Vancouver Canucks | 3-year | Free agency | [128] |
+August 5, 2022 (2022-08-05) | Anton Blidh | Colorado Avalanche | 1-year | Free agency | [129] |
+September 2, 2022 (2022-09-02) | Kodie Curran | Metallurg Magnitogorsk (KHL) | 1-year | Free agency | [130] |
+September 27, 2022 (2022-09-27) | Callum Booth | Coachella Valley Firebirds (AHL) | 1-year | Free agency | [131] |
+December 9, 2022 (2022-12-09) | Victor Berglund | | | Contract termination | [132] |
+December 10, 2022 (2022-12-10) | HIFK (Liiga) | 1-year | Free agency | [133] |
+June 1, 2023 (2023-06-01) | Kai Wissmann | Eisbären Berlin (DEL) | N/A‡ | Free agency | [134] |
+Signings
+[edit]
+Date | Player | Term | Ref |
+July 18, 2022 (2022-07-18) | Jack Ahcan | 1-year | [135] |
+Matt Filipe | [135] |
+Ryan Mast | 3-year† | [135] |
+July 23, 2022 (2022-07-23) | Jack Studnicka | 2-year | [136] |
+August 1, 2022 (2022-08-01) | Brett Harrison | 3-year† | [137] |
+August 8, 2022 (2022-08-08) | Patrice Bergeron | 1-year | [138] |
+Pavel Zacha | [139] |
+March 2, 2023 (2023-03-02) | David Pastrnak | 8-year‡ | [140] |
+March 29, 2023 (2023-03-29) | Trevor Kuntar | 2-year†‡ | [141] |
+May 5, 2023 (2023-05-05) | Matt Poitras | 3-year†‡ | [142] |
+May 10, 2023 (2023-05-10) | Mason Lohrei | 2-year†‡ | [143] |
+June 19, 2023 (2023-06-19) | Brandon Bussi | 1-year‡ | |
+Draft picks
+[edit]
+See also: List of Boston Bruins draft picks
+Below are the Boston Bruins' selections at the 2022 NHL entry draft, which was held on July 7 to 8, 2022, at Bell Centre in Montreal.
+Round |
+# |
+Player |
+Pos. |
+Nationality |
+Team (League) |
+2 |
+54 |
+Matt Poitras |
+C |
+Canada |
+Guelph Storm (OHL) |
+4 |
+117 |
+Cole Spicer |
+C |
+USA |
+U.S. NTDP (USHL) |
+119 |
+Dans Locmelis |
+C |
+Latvia |
+Luleå HF (J20 Nationell) |
+5 |
+132 |
+Frederic Brunet |
+D |
+Canada |
+Rimouski Océanic (QMJHL) |
+6 |
+183 |
+Reid Dyck |
+G |
+Canada |
+Swift Current Broncos (WHL) |
+7 |
+200 |
+Jackson Edward |
+D |
+Canada |
+London Knights (OHL) |
+See also
+[edit]
+2007 New England Patriots, a Boston sports team that became the first NFL team to complete a perfect 16-0 regular season.
+2021 New England Revolution, a Boston-area sports team that set a regular-season points record for MLS, and also failed to advance in the playoffs.
+References
+[edit]
+↑ Salvian, Hailey; Mendes, Ian (June 21, 2023). "2022-23 NHL team attendance tracker: Risers, fallers, surprises and trends". The New York Times. Archived from the original on June 29, 2023. Retrieved September 6, 2023.
+↑ National Hockey League (2013). The National Hockey League Official Guide & Record Book/2014. Diamond Sports Data, Inc. p. 25. ISBN 978-1-894801-26-3.
+↑ "Bruins hold off Lightning, clinch Atlantic Division". NHL.com. Retrieved April 9, 2023.
+↑ Russo, Eric. "Bruins Close Out Historic Regular Season with Win in Montreal". NHL.com. Retrieved June 13, 2023.
+↑ "Bruins Set NHL Record with 12th Consecutive Home Win". NHL.com. Retrieved June 13, 2023.
+↑ Goss, Nick (January 25, 2023). "Bruins break another NHL record as historic season hits new heights". NBC Sports Boston. Retrieved June 13, 2023.
+↑ "Bruins Fastest To 80 Points In NHL History". Yardbarker. January 25, 2023. Retrieved June 13, 2023.
+↑ "Bruins rout Sabres 7-1, become fastest team to 100 points". Associated Press. March 2, 2023. Retrieved March 2, 2023.
+↑ Russo, Eric. "Bruins Make History, Become Fastest Team to 100 Points". NHL.com. Retrieved June 13, 2023.
+↑ Evans, Jace. "Boston Bruins set new NHL record by reaching 100-point mark in just 61 games". USA TODAY. Retrieved June 13, 2023.
+↑ "Bruins make NHL history with comeback win over Red Wings". Retrieved March 11, 2023.
+↑ Rosen, Dan. "Bruins edge Penguins in Winter Classic, push home point streak to 22". NHL.com. Retrieved June 13, 2023.
+↑ Douglas, Kayla (January 13, 2023). "By the numbers: Delving into Bruins' 22-game home point streak". theScore.com. Retrieved June 13, 2023.
+↑ Vautour, Matt (January 13, 2023). "Bruins home point streak comes to an end as Boston falls to Kraken, 3-0". masslive. Retrieved June 13, 2023.
+↑ Williams, Brianna (April 30, 2023). "Bruins join other regular-season Goliaths with postseason collapse". ESPN.com. Retrieved May 25, 2023.
+↑ "NHL Hockey Standings". NHL.com. National Hockey League.
+↑ "NHL Hockey Standings". NHL.com. National Hockey League.
+↑ "Boston Bruins - Washington Capitals - October 12, 2022". NHL.com. October 12, 2022. Retrieved October 13, 2022.
+↑ "Arizona Coyotes - Boston Bruins - October 15, 2022". NHL.com. October 15, 2022. Retrieved October 18, 2022.
+↑ "Florida Panthers - Boston Bruins - October 17, 2022". NHL.com. October 17, 2022. Retrieved October 18, 2022.
+↑ "Boston Bruins - Ottawa Senators - October 18, 2022". NHL.com. October 18, 2022. Retrieved October 18, 2022.
+↑ "Anaheim Ducks - Boston Bruins - October 20, 2022". NHL.com. October 20, 2022. Retrieved October 20, 2022.
+↑ "Minnesota Wild - Boston Bruins - October 22, 2022". NHL.com. October 22, 2022. Retrieved October 22, 2022.
+↑ "Dallas Stars - Boston Bruins - October 25, 2022". NHL.com. October 25, 2022. Retrieved October 25, 2022.
+↑ "Detroit Red Wings - Boston Bruins - October 27, 2022". NHL.com. October 27, 2022. Retrieved October 27, 2022.
+↑ "Boston Bruins - Columbus Blue Jackets - October 28, 2022". NHL.com. October 28, 2022. Retrieved October 28, 2022.
+↑ "Boston Bruins - Pittsburgh Penguins - November 1, 2022". NHL.com. November 1, 2022. Retrieved November 1, 2022.
+↑ "Boston Bruins - New York Rangers - November 3, 2022". NHL.com. November 3, 2022. Retrieved November 3, 2022.
+↑ "Boston Bruins - Toronto Maple Leafs - November 5, 2022". NHL.com. November 5, 2022. Retrieved November 5, 2022.
+↑ "St. Louis Blues - Boston Bruins - November 7, 2022". NHL.com. November 7, 2022. Retrieved November 7, 2022.
+↑ "Calgary Flames - Boston Bruins - November 10, 2022". NHL.com. November 10, 2022. Retrieved November 10, 2022.
+↑ "Boston Bruins - Buffalo Sabres - November 12, 2022". NHL.com. November 12, 2022. Retrieved November 12, 2022.
+↑ "Vancouver Canucks - Boston Bruins - November 13, 2022". NHL.com. November 13, 2022. Retrieved November 13, 2022.
+↑ "Philadelphia Flyers - Boston Bruins - November 17, 2022". NHL.com. November 17, 2022. Retrieved November 17, 2022.
+↑ "Chicago Blackhawks - Boston Bruins - November 19, 2022". NHL.com. November 19, 2022. Retrieved November 19, 2022.
+↑ "Boston Bruins - Tampa Bay Lightning - November 21, 2022". NHL.com. November 21, 2022. Retrieved November 21, 2022.
+↑ "Boston Bruins - Florida Panthers - November 23, 2022". NHL.com. November 23, 2022. Retrieved November 23, 2022.
+↑ "Carolina Hurricanes - Boston Bruins - November 25, 2022". NHL.com. November 25, 2022. Retrieved November 25, 2022.
+↑ "Tampa Bay Lightning - Boston Bruins - November 29, 2022". NHL.com. November 29, 2022. Retrieved November 29, 2022.
+↑ "Colorado Avalanche - Boston Bruins - December 3, 2022". NHL.com. December 3, 2022. Retrieved December 3, 2022.
+↑ "Vegas Golden Knights - Boston Bruins - December 5, 2022". NHL.com. December 5, 2022. Retrieved December 5, 2022.
+↑ "Boston Bruins - Colorado Avalanche - December 7, 2022". NHL.com. December 7, 2022. Retrieved December 7, 2022.
+↑ "Boston Bruins - Arizona Coyotes - December 9, 2022". NHL.com. December 9, 2022. Retrieved December 9, 2022.
+↑ "Boston Bruins - Vegas Golden Knights - December 11, 2022". NHL.com. December 11, 2022. Retrieved December 11, 2022.
+↑ "Vegas Golden Knights - Boston Bruins - December 13, 2022". NHL.com. December 13, 2022. Retrieved December 13, 2022.
+↑ "Los Angeles Kings - Boston Bruins - December 15, 2022". NHL.com. December 15, 2022. Retrieved December 15, 2022.
+↑ "Columbus Blue Jackets - Boston Bruins - December 17, 2022". NHL.com. December 17, 2022. Retrieved December 17, 2022.
+↑ "Florida Panthers - Boston Bruins - December 19, 2022". NHL.com. December 19, 2022. Retrieved December 19, 2022.
+↑ "Winnipeg Jets - Boston Bruins - December 22, 2022". NHL.com. December 22, 2022. Retrieved December 22, 2022.
+↑ "Boston Bruins - New Jersey Devils - December 23, 2022". NHL.com. December 23, 2022. Retrieved December 23, 2022.
+↑ "Boston Bruins - Ottawa Senators - December 27, 2022". NHL.com. December 27, 2022. Retrieved December 27, 2022.
+↑ "Boston Bruins - New Jersey Devils - December 28, 2022". NHL.com. December 28, 2022. Retrieved December 28, 2022.
+↑ "Buffalo Sabres - Boston Bruins - December 31, 2022". NHL.com. December 31, 2022. Retrieved December 31, 2022.
+↑ "Pittsburgh Penguins - Boston Bruins - January 2, 2023". NHL.com. January 2, 2023. Retrieved January 2, 2023.
+↑ "Boston Bruins - Los Angeles Kings - January 5, 2023". NHL.com. January 5, 2023. Retrieved January 5, 2023.
+↑ "Boston Bruins - San Jose Sharks - January 7, 2023". NHL.com. January 7, 2023. Retrieved January 7, 2023.
+↑ "Boston Bruins - Anaheim Ducks - January 8, 2023". NHL.com. January 8, 2023. Retrieved January 8, 2023.
+↑ "Seattle Kraken - Boston Bruins - January 12, 2023". NHL.com. January 12, 2023. Retrieved January 12, 2023.
+↑ "Toronto Maple Leafs - Boston Bruins - January 14, 2023". NHL.com. January 14, 2023. Retrieved January 14, 2023.
+↑ "Philadelphia Flyers - Boston Bruins - January 16, 2023". NHL.com. January 16, 2023. Retrieved January 16, 2023.
+↑ "Boston Bruins - New York Islanders - January 18, 2023". NHL.com. January 18, 2023. Retrieved January 18, 2023.
+↑ "Boston Bruins - New York Rangers - January 19, 2023". NHL.com. January 19, 2023. Retrieved January 19, 2023.
+↑ "San Jose Sharks - Boston Bruins - January 22, 2023". NHL.com. January 22, 2023. Retrieved January 22, 2023.
+↑ "Boston Bruins - Montreal Canadiens - January 24, 2023". NHL.com. January 24, 2023. Retrieved January 24, 2023.
+↑ "Boston Bruins - Tampa Bay Lightning - January 26, 2023". NHL.com. January 26, 2023. Retrieved January 26, 2023.
+↑ "Boston Bruins - Florida Panthers - January 28, 2023". NHL.com. January 28, 2023. Retrieved January 28, 2023.
+↑ "Boston Bruins - Carolina Hurricanes - January 29, 2023". NHL.com. January 29, 2023. Retrieved January 29, 2023.
+↑ "Boston Bruins - Toronto Maple Leafs - February 1, 2023". NHL.com. February 1, 2023. Retrieved February 1, 2023.
+↑ "Washington Capitals - Boston Bruins - February 11, 2023". NHL.com. February 11, 2023. Retrieved February 11, 2023.
+↑ "Boston Bruins - Dallas Stars - February 14, 2023". NHL.com. February 14, 2023. Retrieved February 14, 2023.
+↑ "Boston Bruins - Nashville Predators - February 16, 2023". NHL.com. February 16, 2023. Retrieved February 16, 2023.
+↑ "New York Islanders - Boston Bruins - February 18, 2023". NHL.com. February 18, 2023. Retrieved February 18, 2023.
+↑ "Ottawa Senators - Boston Bruins - February 20, 2023". NHL.com. February 20, 2023. Retrieved February 20, 2023.
+↑ "Boston Bruins - Seattle Kraken - February 23, 2023". NHL.com. February 23, 2023. Retrieved February 25, 2023.
+↑ "Boston Bruins - Vancouver Canucks - February 25, 2023". NHL.com. February 25, 2023. Retrieved February 25, 2023.
+↑ "Boston Bruins - Edmonton Oilers - February 27, 2023". NHL.com. February 27, 2023. Retrieved February 27, 2023.
+↑ "Boston Bruins - Calgary Flames - February 28, 2023". NHL.com. February 28, 2023. Retrieved February 28, 2023.
+↑ "Buffalo Sabres - Boston Bruins - March 2, 2023". NHL.com. March 2, 2023. Retrieved March 2, 2023.
+↑ "New York Rangers - Boston Bruins - March 4, 2023". NHL.com. March 4, 2023. Retrieved March 4, 2023.
+↑ "Edmonton Oilers - Boston Bruins - March 9, 2023". NHL.com. March 9, 2023. Retrieved March 9, 2023.
+↑ "Detroit Red Wings - Boston Bruins - March 11, 2023". NHL.com. March 11, 2023. Retrieved March 11, 2023.
+↑ "Boston Bruins - Detroit Red Wings - March 12, 2023". NHL.com. March 12, 2023. Retrieved March 12, 2023.
+↑ "Boston Bruins - Chicago Blackhawks - March 14, 2023". NHL.com. March 14, 2023. Retrieved March 14, 2023.
+↑ "Boston Bruins - Winnipeg Jets - March 16, 2023". NHL.com. March 16, 2023. Retrieved March 16, 2023.
+↑ "Boston Bruins - Minnesota Wild - March 18, 2023". NHL.com. March 18, 2023. Retrieved March 18, 2023.
+↑ "Boston Bruins - Buffalo Sabres - March 19, 2023". NHL.com. March 19, 2023. Retrieved March 19, 2023.
+↑ "Ottawa Senators - Boston Bruins - March 21, 2023". NHL.com. March 21, 2023. Retrieved March 21, 2023.
+↑ "Montreal Canadiens - Boston Bruins - March 23, 2023". NHL.com. March 23, 2023. Retrieved March 23, 2023.
+↑ "Tampa Bay Lightning - Boston Bruins - March 25th, 2023". NHL.com. March 25, 2023. Retrieved March 25, 2023.
+↑ "Boston Bruins - Carolina Hurricanes - March 26th, 2023". NHL.com. March 26, 2023. Retrieved March 26, 2023.
+↑ "Nashville Predators - Boston Bruins - March 28th, 2023". NHL.com. March 28, 2023. Retrieved March 28, 2023.
+↑ "Columbus Blue Jackets - Boston Bruins - March 30th, 2023". NHL.com. March 30, 2023. Retrieved March 30, 2023.
+↑ "Boston Bruins - Pittsburgh Penguins - April 1st, 2023". NHL.com. April 1, 2023. Retrieved April 1, 2023.
+↑ "Boston Bruins - St. Louis Blues - April 2nd, 2023". NHL.com. April 2, 2023. Retrieved April 2, 2023.
+↑ "Toronto Maple Leafs - Boston Bruins - April 6th, 2023". NHL.com. April 6, 2023. Retrieved April 6, 2023.
+↑ "New Jersey Devils - Boston Bruins - April 8th, 2023". NHL.com. April 8, 2023. Retrieved April 8, 2023.
+↑ "Boston Bruins - Philadelphia Flyers - April 9th, 2023". NHL.com. April 9, 2023. Retrieved April 9, 2023.
+↑ "Washington Capitals - Boston Bruins - April 11th, 2023". NHL.com. April 11, 2023. Retrieved April 11, 2023.
+↑ "Boston Bruins - Montreal Canadiens - April 13th, 2023". NHL.com. April 13, 2023. Retrieved April 13, 2023.
+↑ "Florida Panthers - Boston Bruins - April 17th, 2023". NHL.com. April 17, 2023. Retrieved April 17, 2023.
+↑ "Florida Panthers - Boston Bruins - April 19th, 2023". NHL.com. April 19, 2023. Retrieved April 19, 2023.
+↑ "Boston Bruins - Florida Panthers - April 21st, 2023". NHL.com. April 21, 2023. Retrieved April 21, 2023.
+↑ "Boston Bruins - Florida Panthers - April 23rd, 2023". NHL.com. April 23, 2023. Retrieved April 23, 2023.
+↑ "Florida Panthers - Boston Bruins - April 26th, 2023". NHL.com. April 26, 2023. Retrieved April 26, 2023.
+↑ "Boston Bruins - Florida Panthers - April 28th, 2023". NHL.com. April 28, 2023. Retrieved April 28, 2023.
+↑ "Florida Panthers - Boston Bruins - April 30th, 2023". NHL.com. April 30, 2023. Retrieved April 30, 2023.
+↑ "2022–23 Regular Season – Boston Bruins Stats – Skaters". NHL.com. Retrieved April 17, 2023.
+↑ "2022–23 Playoffs – Boston Bruins Stats – Skaters". NHL.com. Retrieved May 5, 2023.
+↑ "2022–23 Regular Season – Boston Bruins Stats – Goalies". NHL.com. Retrieved April 17, 2023.
+↑ "2022–23 Playoffs – Boston Bruins Stats – Goalies". NHL.com. Retrieved May 5, 2023.
+↑ CapFriendly [@CapFriendly] (July 8, 2022). "TRADE To #SeaKraken : 2022 3rd RD pick (CGY #91) To #NHLBruins : 2022 4th RD pick (WSH #117) 2022 5th RD pick (SEA #132)" (Tweet) – via Twitter.
+↑ "2022 NHL Draft: A Pick-By-Pick Scouting Report". NHL.com. Boston Bruins. July 9, 2022. Retrieved July 16, 2022.
+↑ "Zacha From Devils In Exchange For Erik Haula". NHL.com. Boston Bruins. July 13, 2022. Retrieved July 16, 2022.
+↑ "Canucks Acquire Forward Jack Studnicka from Boston". NHL.com. Vancouver Canucks. October 27, 2022. Retrieved October 28, 2022.
+1 2 "Bruins Acquire Dmitry Orlov and Garnet Hathaway From Capitals". NHL.com. Retrieved March 3, 2023.
+↑ "Bruins Acquire Shane Bowers from Avalanche". NHL.com. Retrieved March 3, 2023.
+↑ "Bruins Acquire Tyler Bertuzzi From Red Wings". NHL.com. Retrieved March 3, 2023.
+↑ "Blackhawks acquire Foligno, Hall from Bruins". NHL.com. Chicago Blackhawks. June 26, 2023. Retrieved October 26, 2023.
+1 2 3 4 5 "Bruins Sign Five Players On Opening Day Of Free Agency". NHL.com. Boston Bruins. July 13, 2022. Retrieved July 16, 2022.
+↑ "Bruins Sign David Krejci To One-Year Contract". NHL.com. Boston Bruins. August 8, 2022. Retrieved September 7, 2022.
+↑ "Bruins Sign Anton Stralman To One-Year Contract". NHL.com. Boston Bruins. October 12, 2022. Retrieved October 19, 2022.
+↑ "Bruins Sign Mitchell Miller to Entry-Level Contract". NHL.com. Boston Bruins. November 4, 2022. Retrieved December 24, 2022.
+↑ "Coyotes Sign Brown to Two-Year Contract". NHL.com. Arizona Coyotes. July 13, 2022. Retrieved July 18, 2022.
+↑ "Minnesota Wild Agrees to Terms with Four Players". NHL.com. Minnesota Wild. July 13, 2022. Retrieved July 24, 2022.
+↑ "Four Cups, Three New Kraken". NHL.com. Seattle Kraken. July 11, 2022. Retrieved July 13, 2022.
+↑ "Flyers add five depth players on Day 1 of Free Agency". NHL.com. Philadelphia Flyers. July 13, 2022. Retrieved July 14, 2022.
+↑ "Kraken sign Poturalski, Hughes, Poganski". TheAHL.com. American Hockey League. July 13, 2022. Retrieved July 16, 2022.
+↑ "Canucks Agree to Terms With Curtis Lazar on a Three-Year Contract". NHL.com. Vancouver Canucks. July 13, 2022. Retrieved July 13, 2022.
+↑ "Avalanche Signs Blidh". NHL.com. Colorado Avalanche. August 3, 2022. Retrieved August 5, 2022.
+↑ ""МЕТАЛЛУРГ" ПОДПИСАЛ КОНТРАКТ С ЗАЩИТНИКОМ КОДИ КЁРРАНОМ". Metallurg.ru (in Russian). Metallurg Magnitogorsk. September 2, 2022. Archived from the original on September 10, 2022. Retrieved September 10, 2022.
+↑ "JEREMY MCKENNA, JAKE MCLAUGHLIN, TRISTAN MULLIN, AND CALLUM BOOTH JOIN FIREBIRDS". cvfirebirds.com. Coachella Valley Firebirds. September 27, 2022. Retrieved September 30, 2022.
+↑ "Five Players Clear Waivers". prohockeyrumors.com. Pro Hockey Rumors. December 9, 2022. Retrieved December 24, 2022.
+↑ "Ruotsalaispuolustaja Victor Berglund HIFK:hon". ehcb.ch (in Finnish). EHC Biel-Bienne. December 10, 2022. Retrieved December 24, 2022.
+↑ "Kai Wissmann kehrt zu den Eisbären zurück". eisbaeren.de (in German). Eisbären Berlin. June 1, 2023. Retrieved July 2, 2023.
+1 2 3 "Bruins Sign Jack Ahcan, Matt Filipe And Ryan Mast". NHL.com. Boston Bruins. July 18, 2022. Retrieved July 18, 2022.
+↑ "Bruins Sign Forward Jack Studnicka to Two-Year Contract". NHL.com. Boston Bruins. July 23, 2022. Retrieved July 24, 2022.
+↑ "Bruins Sign Brett Harrison To Entry-Level Contract". NHL.com. Boston Bruins. August 1, 2022. Retrieved August 5, 2022.
+↑ "Bruins Sign Patrice Bergeron To One-Year Contract". NHL.com. Boston Bruins. August 8, 2022. Retrieved September 7, 2022.
+↑ "Bruins Sign Pavel Zacha To One-Year Contract". NHL.com. Boston Bruins. August 8, 2022. Retrieved September 7, 2022.
+↑ "Bruins Sign David Pastrnak To 8-Year Contract Extension". NHL.com. Boston Bruins. March 2, 2023. Retrieved March 31, 2023.
+↑ "Kuntar Ready to Take Next Step After Inking Entry-Level Deal". NHL.com. Boston Bruins. March 29, 2023. Retrieved March 31, 2023.
+↑ "Storm's Poitras signs with Bruins". OHL.com. Ontario Hockey League. May 5, 2023. Retrieved May 7, 2023.
+↑ "Bruins Sign Mason Lohrei To 2-Year Entry-Level Contract". NHL.com. Boston Bruins. May 10, 2023. Retrieved June 4, 2023.
+v
+t
+e
+Boston Bruins
+|
+Founded in 1924
+Based in Boston, Massachusetts
+|
+Franchise |
+Team
+General managers
+Coaches
+Players
+Captains
+Draft picks
+Seasons
+Current season
+|
+History |
+History (Original Six)
+Records
+Award winners
+Retired numbers
+Broadcasters
+|
+Personnel |
+Owner(s)
+Jeremy Jacobs
+General manager
+Don Sweeney
+Head coach
+Marco Sturm
+Team captain
+David Pastrňák
+Current roster
+|
+Arenas |
+Boston Arena
+Boston Garden
+TD Garden
+|
+Rivalries |
+Montreal Canadiens
+Toronto Maple Leafs
+|
+Affiliates |
+AHL
+Providence Bruins
+ECHL
+Maine Mariners
+|
+Media |
+TV
+NESN
+Radio
+WBZ-FM/98.5 The Sports Hub
+Boston Bruins Radio Network
+|
+Culture and lore |
+Warrior Ice Arena
+Rene Rancourt
+The Goal
+Willie O'Ree
+North Station
+Boston Bruins Alumni Hockey Team
+"Bear and the Gang"
+"Kernkraft 400"
+The Sports Museum of New England
+The Kraut Line
+"Time to Go"
+1956 exhibition game in Newfoundland
+2010 Winter Classic
+2016 Winter Classic
+2019 Winter Classic
+Outdoors at Lake Tahoe
+2023 Winter Classic
+65 wins
+2024 Big City Greens Classic
+2026 Stadium Series
+|
+Category
+WikiProject
+Commons
+|
+v
+t
+e
+Boston Bruins seasons
+|
+1920s |
+1920–21 . 1921–22 . 1922–23 . 1923–24 . 1924–25
+1925–26
+1926–27
+1927–28
+1928–29
+1929–30
+|
+1930s |
+1930–31
+1931–32
+1932–33
+1933–34
+1934–35
+1935–36
+1936–37
+1937–38
+1938–39
+1939–40
+|
+1940s |
+1940–41
+1941–42
+1942–43
+1943–44
+1944–45
+1945–46
+1946–47
+1947–48
+1948–49
+1949–50
+|
+1950s |
+1950–51
+1951–52
+1952–53
+1953–54
+1954–55
+1955–56
+1956–57
+1957–58
+1958–59
+1959–60
+|
+1960s |
+1960–61
+1961–62
+1962–63
+1963–64
+1964–65
+1965–66
+1966–67
+1967–68
+1968–69
+1969–70
+|
+1970s |
+1970–71
+1971–72
+1972–73
+1973–74
+1974–75
+1975–76
+1976–77
+1977–78
+1978–79
+1979–80
+|
+1980s |
+1980–81
+1981–82
+1982–83
+1983–84
+1984–85
+1985–86
+1986–87
+1987–88
+1988–89
+1989–90
+|
+1990s |
+1990–91
+1991–92
+1992–93
+1993–94
+1994–95
+1995–96
+1996–97
+1997–98
+1998–99
+1999–2000
+|
+2000s |
+2000–01
+2001–02
+2002–03
+2003–04
+2004–05
+2005–06
+2006–07
+2007–08
+2008–09
+2009–10
+|
+2010s |
+2010–11
+2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+2018–19
+2019–20
+|
+2020s |
+2020–21
+2021–22
+2022–23
+2023–24
+2024–25
+2025–26
+2026–27
+|
+Highlighted seasons indicate Stanley Cup championship
+|
+v
+t
+e
+2022–23 NHL season
+|
+Pacific |
+Anaheim
+Calgary
+Edmonton
+Los Angeles
+San Jose
+Seattle
+Vancouver
+Vegas
+|
+Central |
+Arizona
+Chicago
+Colorado
+Dallas
+Minnesota
+Nashville
+St. Louis
+Winnipeg
+|
+Atlantic |
+Boston
+Buffalo
+Detroit
+Florida
+Montreal
+Ottawa
+Tampa Bay
+Toronto
+|
+Metropolitan |
+Carolina
+Columbus
+New Jersey
+NY Islanders
+NY Rangers
+Philadelphia
+Pittsburgh
+Washington
+|
+See also |
+Entry draft
+Winter Classic
+All-Star Game
+Stadium Series
+Stanley Cup playoffs
+Stanley Cup Final
+Transactions
+Three Star Awards
+Suspensions and fines
+|
+Retrieved from "https://en.wikipedia.org/w/index.php?title=2022–23_Boston_Bruins_season&oldid=1376797751"
+Categories: 2022–23 NHL season by team
+Boston Bruins seasons
+2022 in Boston
+2023 in Boston
+2022 in sports in Massachusetts
+2023 in sports in Massachusetts
+Presidents' Trophy seasons
+Hidden categories: Articles with short description
+Short description matches Wikidata
+Use American English from March 2026
+All Wikipedia articles written in American English
+Use mdy dates from August 2023
+Pages using sports table with missing teams
+Pages using sports table with orphaned names
+Articles with hCards
+CS1 Russian-language sources (ru)
+CS1 Finnish-language sources (fi)
+CS1 German-language sources (de)
+This page was last edited on 26 September 2026, at 07:36 (UTC).
+Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+2022–23 Boston Bruins season
+Add languages
+Add topic

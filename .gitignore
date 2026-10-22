@@ -1,10 +1,8 @@
-node_modules
-dist
-.DS_Store
+node_modules/
+dist/
 .vite
+.DS_Store
 *.log
-.claude/
-
-# If the build fetches data (see the dataviz-pages-site skill's build-time-data
-# reference), keep the fetched files out of git and let CI regenerate them:
-# public/data/
+.claude/launch.json
+data/raw/
+public/players/

@@ -1,0 +1,664 @@
+{
+  "rows": [
+    {
+      "api": "nhl-api-web",
+      "endpoint": "gamecenter/{gameId}/boxscore",
+      "season": "1917-18..2024-25 (15 sampled + 1955-56,1958-59,1996-97,2001-02)",
+      "field_floors": {
+        "goals": "1917-18",
+        "assists": "1917-18",
+        "points": "1917-18",
+        "pim": "1917-18",
+        "ppg": "<=1942-43 (game-log/REST: 1933-34)",
+        "sog": "1959-60",
+        "plusMinus": "1959-60",
+        "toi": "1997-98",
+        "shifts": "1997-98",
+        "faceoffWinningPctg": "1997-98",
+        "hits": "1997-98",
+        "blockedShots": "1997-98",
+        "giveaways": "1997-98",
+        "takeaways": "1997-98",
+        "shg": "absent",
+        "gwg": "absent",
+        "goalie_decision": "1917-18 (O from 2005-06)",
+        "goalie_ga": "1917-18",
+        "goalie_toi": "1917-18",
+        "goalie_starter": "1917-18",
+        "goalie_sa_saves": "1955-56"
+      },
+      "appearance_unit": "dressed lineup (8/side 1917-18 to 18+2 modern); 0-point skaters listed; pre-1997-98 all TOI 0/absent; backup goalie listed with starter:false/00:00; scratches only in right-rail (synthetic pre-modern)",
+      "request_cost": "1 per game; ~70,350 for 1917-18..2025-26 (65,240 reg + 5,110 playoff) + ~109 to list games",
+      "grade": "V",
+      "receipts": [
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/gamecenter/1917020001/boxscore",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 'n': 'G. Vezina', 'toi': '60:00', 'starter': True, 'ga': 4, 'dec': 'W' — parsed summary",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/gamecenter/1997020002/boxscore",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 'name': {'default': 'M. Recchi'}, ... 'hits': 3, ... 'toi': '22:13', 'shifts': 25 — parsed summary",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/gamecenter/1996020005/boxscore",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): toi:0 hits:0 ... shifts:0 (36 skaters) — count of non-zero rows",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/gamecenter/1958020005/boxscore",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): sog:0 plusMinus:0; goalies sa=31 sv=27 — count of non-zero rows",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/gamecenter/1955020005/boxscore",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): H. Lumley sa=35 sv=33 dec=W — parsed",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "nhl-api-web",
+      "endpoint": "player/{id}/game-log/{season}/{2|3}",
+      "season": "1917-18..2024-25",
+      "field_floors": {
+        "goals_assists_points_pim": "1917-18",
+        "gwg": "1917-18",
+        "otGoals": "1917-18",
+        "ppg": "1933-34",
+        "shg": "<=1950-51",
+        "plusMinus_key": "1959-60",
+        "shots_key": "1959-60",
+        "toi_shifts_keys": "1997-98",
+        "hits_blocks_fo": "never (no keys)",
+        "goalie_decision_ga_so_toi_gs": "1917-18",
+        "goalie_shotsAgainst_savePctg": "<=1959-60 (REST 1955-56)",
+        "goalie_saves": "no key"
+      },
+      "appearance_unit": "games played by the player (one row per game)",
+      "request_cost": "1 per player-season-gametype; ~90k est. for full history",
+      "grade": "V",
+      "receipts": [
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8447400/game-log/19811982/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 50th goal in 39th GP, 1981-12-30 vs PHI, 5 goals; 92 G in 80 GP — computed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8448321/game-log/19441945/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 50th goal 1945-03-18 at BOS, GP 50 of 50 — computed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8448782/game-log/19881989/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 50th goal in 44th GP 1989-01-20 vs WIN, PIT game 46 — computed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8448000/game-log/19521953/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 70 GP, 49 G, 95 P — computed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8450070/game-log/19701971/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): sum plusMinus = 124 — computed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8455710/game-log/20062007/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): decisions W 48, L 23, O 7 — computed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8455710/game-log/20032004/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): decisions T 11, W 38, L 26 (no O) — computed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8478402/game-log/20242025/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 1000th point 2024-11-14 vs NSH, career game 659 — computed with landing seasonTotals",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/player/8471214/game-log/20242025/2",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 895th goal 2025-04-06 at NYI, career game 1487 — computed with landing seasonTotals",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "nhl-api-web",
+      "endpoint": "club-schedule-season/{team}/{season}; schedule/{date}; gamecenter/{id}/right-rail",
+      "season": "1917-18..2024-25",
+      "field_floors": {
+        "gameType": "1 pre / 2 reg / 3 playoff (incl. 2019-20 qualifiers 2019030021-24) / 4 All-Star (1959040013)",
+        "neutralSite": "flag + venue (1993020248 Copps Coliseum, 1993020922 Target Center)",
+        "scratches": "right-rail gameInfo; 1950 lists 15 for MTL (synthetic)"
+      },
+      "appearance_unit": "n/a",
+      "request_cost": "schedule/{date}: 7-day gameWeek, ~30/season (~3,300 total); club schedule ~2,400 total",
+      "grade": "V",
+      "receipts": [
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/club-schedule-season/MTL/20192020",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 2019030021/t3/2020-08-01/Scotiabank Arena — parsed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/club-schedule-season/NYI/19931994",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 1993020922 1994-03-18 BUF @ NYI Target Center neutral= True — parsed",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/gamecenter/1950020005/right-rail",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): awayTeam scratches 15 ['Burchell', 'Beliveau', ...] — parsed",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "nhl-stats-rest",
+      "endpoint": "skater/summary?isAggregate=false&isGame=true&limit=-1",
+      "season": "1917-18..2010-11 sampled",
+      "field_floors": {
+        "rows": "1917-18 (541)",
+        "goals_assists_pim_gwg": "1917-18",
+        "pp_sh_ev": "1933-34",
+        "shots_plusMinus": "1959-60",
+        "toi_fo": "1997-98"
+      },
+      "appearance_unit": "player-game row for every dressed skater (34 rows, 14 with 0 points, game 1981020001)",
+      "request_cost": "result window capped at 10,000 rows/query (start>=10000 returns []); month windows -> ~400 for full history; whole ledger incl goalie/toi/realtime ~800",
+      "grade": "V",
+      "receipts": [
+        {
+          "sources": [
+            "api:api.nhle.com"
+          ],
+          "url": "https://api.nhle.com/stats/rest/en/skater/summary?isAggregate=false&isGame=true&limit=-1&sort=%5B%7B%22property%22:%22gameId%22,%22direction%22:%22ASC%22%7D,%7B%22property%22:%22playerId%22,%22direction%22:%22ASC%22%7D%5D&cayenneExp=seasonId=19811982%20and%20gameTypeId=2%20and%20gameDate%3C=%221981-10-31%22",
+          "note": "computed from the cached response (data/raw/api.nhle.com/): total= 4074 rows= 4074 — 2,072,009 bytes",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://api.nhle.com/stats/rest/en/skater/summary?isAggregate=false&isGame=true&limit=5&start=10000&sort=%5B%7B%22property%22:%22gameId%22,%22direction%22:%22ASC%22%7D,%7B%22property%22:%22playerId%22,%22direction%22:%22ASC%22%7D%5D&cayenneExp=seasonId=19811982%20and%20gameTypeId=2",
+          "quote": "{\"data\":[],\"total\":10000}",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "nhl-stats-rest",
+      "endpoint": "goalie/summary, skater/realtime, skater/timeonice, team/summary (isGame=true)",
+      "season": "1917-18..2010-11 sampled",
+      "field_floors": {
+        "goalie_rows": "1917-18 (69)",
+        "goalie_ties": "1921-22",
+        "goalie_sa_sv": "1955-56",
+        "goalie_otl": "2005-06",
+        "emptyNetGoals": "1931-32",
+        "hits_blocks_gv_tk_missed": "2005-06",
+        "toi_shifts": "1997-98",
+        "team_rows": "1917-18 (72)",
+        "team_shots_pp": "<=1979-80",
+        "team_otl_sow": "2005-06"
+      },
+      "appearance_unit": "player-game / team-game rows",
+      "request_cost": "goalie ~110, timeonice ~170, realtime ~125",
+      "grade": "V",
+      "receipts": [
+        {
+          "sources": [
+            "api:api.nhle.com"
+          ],
+          "url": "https://api.nhle.com/stats/rest/en/skater/realtime?isAggregate=false&isGame=false&limit=1&sort=%5B%7B%22property%22:%22seasonId%22,%22direction%22:%22ASC%22%7D%5D&cayenneExp=gameTypeId=2%20and%20hits%3E0",
+          "note": "computed from the cached response (data/raw/api.nhle.com/): seasonId 20052006 Chad Kilger hits=146",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:api.nhle.com"
+          ],
+          "url": "https://api.nhle.com/stats/rest/en/goalie/summary?isAggregate=false&isGame=false&limit=1&sort=%5B%7B%22property%22:%22seasonId%22,%22direction%22:%22ASC%22%7D%5D&cayenneExp=gameTypeId=2%20and%20shotsAgainst%3E0",
+          "note": "computed from the cached response (data/raw/api.nhle.com/): seasonId 19551956 Glenn Hall shotsAgainst=1952",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "nhl-stats-rest",
+      "endpoint": "game?cayenneExp=season=…; season",
+      "season": "all",
+      "field_floors": {
+        "games": "1917-18: 36 type-2 + 7 type-3 (5 vs non-NHL team 7288)",
+        "season_table": "109 seasons 19171918-20262027; 66,584 reg + 5,110 playoff games"
+      },
+      "appearance_unit": "game",
+      "request_cost": "1 per season for game list; 1 for season table",
+      "grade": "V",
+      "receipts": [
+        {
+          "sources": [
+            "api:api.nhle.com"
+          ],
+          "url": "https://api.nhle.com/stats/rest/en/game?cayenneExp=season=19171918",
+          "note": "computed from the cached response (data/raw/api.nhle.com/): total= 43 — 36 type 2, 7 type 3",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://api.nhle.com/stats/rest/en/season",
+          "quote": "totalRegularSeasonGames",
+          "note": "19171918 = 34",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "records.nhl.com",
+      "endpoint": "site/api/milestone-50-goal-season, milestone-1000-point-career, milestone-500-goal-career, franchise",
+      "season": "all",
+      "field_floors": {
+        "milestones": "from 1944-45 (Richard) / Howe 1960-61; skaterGamesPlayed + teamGamesPlayed per milestone"
+      },
+      "appearance_unit": "milestone event",
+      "request_cost": "1 per milestone list",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://records.nhl.com/site/api/milestone-1000-point-career?cayenneExp=skaterId=8478402",
+          "quote": "\"gameDate\":\"2024-11-14T00:00:00\",\"gameId\":2024020264",
+          "note": "skaterGamesPlayed 659",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:records.nhl.com"
+          ],
+          "url": "https://records.nhl.com/site/api/milestone-50-goal-season?cayenneExp=seasonId=19811982%20or%20seasonId=19881989",
+          "note": "computed from the cached response (data/raw/records.nhl.com/): Lemieux 1989-01-20 skGP 44 teamGP 46 — parsed",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "espn-site",
+      "endpoint": "site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard",
+      "season": "1995..2025",
+      "field_floors": {},
+      "appearance_unit": "n/a",
+      "request_cost": "blocked: 403 Access Denied (Akamai) on every call incl soccer",
+      "grade": "V",
+      "receipts": [
+        {
+          "sources": [
+            "api:site.api.espn.com"
+          ],
+          "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard?dates=20250115",
+          "note": "computed from the cached response (data/raw/site.api.espn.com/): Access Denied — text/html 403",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "api": "espn-core",
+      "endpoint": "sports.core.api.espn.com events / competitions/…/roster / roster/{id}/statistics / athletes eventlog",
+      "season": "1993-94..2025-26",
+      "field_floors": {
+        "events": "1993-94 (first 1993-10-05; 1992 empty)",
+        "G_A_PlusMinus_S_PIM_PPG": "1993-94",
+        "goalie_SA_SV_GA_W_TOI": "<=2000-01 (only sampled there)",
+        "TOI_shifts": "<=2000-01 sample ceiling (absent 1998-01)",
+        "hits_blocks": "<=2002-03",
+        "giveaways": "<=2005-06",
+        "takeaways_faceoffs": "<=2007-08",
+        "scratched_flag": "<=2002-03",
+        "playoffs": "seasontype 3 exists (1995: 81 events)"
+      },
+      "appearance_unit": "roster entries (19 dressed 1990s; dressed + scratched from 2003)",
+      "request_cost": "~40 per game (stats are one $ref per player-game) -> ~1.5M for 1993-2026",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://sports.core.api.espn.com/v2/sports/hockey/leagues/nhl/events?dates=1992&limit=1000",
+          "quote": "{\"count\":0",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://sports.core.api.espn.com/v2/sports/hockey/leagues/nhl/events?dates=1993&limit=1000",
+          "quote": "{\"count\":492",
+          "note": "first 131005003",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://sports.core.api.espn.com/v2/sports/hockey/leagues/nhl/seasons/1994/types/2/events?limit=1",
+          "quote": "{\"count\":1092",
+          "note": "",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "sources": [
+            "api:sports.core.api.espn.com"
+          ],
+          "url": "https://sports.core.api.espn.com/v2/sports/hockey/leagues/nhl/seasons/1986/athletes/4128/eventlog",
+          "note": "computed from the cached response (data/raw/sports.core.api.espn.com/): (no events key) — empty for pre-1993",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "NHL.com",
+      "url": "https://www.nhl.com/info/terms-of-service",
+      "clause": "Engage in unauthorized spidering, scraping, or harvesting of content or information, or use any other unauthorized automated means to compile information;",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/info/terms-of-service",
+          "quote": "Engage in unauthorized spidering, scraping, or harvesting of content or information, or use any other unauthorized automated means to compile information;",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "NHL.com",
+      "url": "https://www.nhl.com/info/terms-of-service",
+      "clause": "You may access, use, and display the Services, but only for non-commercial, informational, personal use, without modification or alteration in any way, and only so long as you comply with these Terms.",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/info/terms-of-service",
+          "quote": "You may access, use, and display the Services, but only for non-commercial, informational, personal use, without modification or alteration in any way, and only so long as you comply with these Terms.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "NHL.com",
+      "url": "https://www.nhl.com/info/terms-of-service",
+      "clause": "you may not copy, reproduce, distribute, publish, enter into a database, display, perform, modify, create derivative works from, transmit, or in any way use or exploit any part of the NHL Content or the Services.",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/info/terms-of-service",
+          "quote": "you may not copy, reproduce, distribute, publish, enter into a database, display, perform, modify, create derivative works from, transmit, or in any way use or exploit any part of the NHL Content or the Services.",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "NHL.com",
+      "url": "https://www.nhl.com/info/terms-of-service",
+      "clause": "Take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure;",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/info/terms-of-service",
+          "quote": "Take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure;",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "NHL.com",
+      "url": "https://www.nhl.com/info/terms-of-service",
+      "clause": "governing your access to and use of the digital platforms, websites and online services that display or provide an authorized link to these Terms (collectively, the \"Services\")",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/info/terms-of-service",
+          "quote": "governing your access to and use of the digital platforms, websites and online services that display or provide an authorized link to these Terms (collectively, the \"Services\")",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "NHL.com",
+      "url": "https://www.nhl.com/info/terms-of-service",
+      "clause": "Last Updated: October 29, 2025",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://www.nhl.com/info/terms-of-service",
+          "quote": "Last Updated: October 29, 2025",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "Disney/ESPN",
+      "url": "https://disneytermsofuse.com/english/",
+      "clause": "access, monitor, copy or extract the Disney Products using a robot, spider, script, or other automated means, including, for the avoidance of doubt, for the purposes of creating or developing any AI Tool, data mining or web scraping or otherwise compiling, building, creating or contributing to any collection of data, data set or database",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://disneytermsofuse.com/english/",
+          "quote": "access, monitor, copy or extract the Disney Products using a robot, spider, script, or other automated means, including, for the avoidance of doubt, for the purposes of creating or developing any AI Tool, data mining or web scraping or otherwise compiling, building, creating or contributing to any collection of data, data set or database",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "Disney/ESPN",
+      "url": "https://disneytermsofuse.com/english/",
+      "clause": "You understand that the Disney Products are for your personal, noncommercial use and are intended for informational and entertainment purposes only",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://disneytermsofuse.com/english/",
+          "quote": "You understand that the Disney Products are for your personal, noncommercial use and are intended for informational and entertainment purposes only",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "site": "Disney/ESPN",
+      "url": "https://disneytermsofuse.com/english/",
+      "clause": "Last Updated: May 24, 2024",
+      "retrieved": "2026-10-21",
+      "grade": "V",
+      "receipts": [
+        {
+          "url": "https://disneytermsofuse.com/english/",
+          "quote": "Last Updated: May 24, 2024",
+          "note": "",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    }
+  ],
+  "rejections": [
+    {
+      "claim": "McDavid's 1,000th point came 2025-03-? (brief)",
+      "reason": "API and records.nhl.com both put it on 2024-11-14 vs NSH, career game 659",
+      "receipts": [
+        {
+          "url": "https://records.nhl.com/site/api/milestone-1000-point-career?cayenneExp=skaterId=8478402",
+          "quote": "\"gameDate\":\"2024-11-14T00:00:00\""
+        }
+      ]
+    },
+    {
+      "claim": "ESPN site API (scoreboard/summary) is a usable cheap compile route",
+      "reason": "site.api.espn.com returned 403 Access Denied to the research UA on all 12 calls, including soccer",
+      "receipts": [
+        {
+          "sources": [
+            "api:site.api.espn.com"
+          ],
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard",
+          "note": "computed from the cached response (data/raw/site.api.espn.com/): Access Denied"
+        }
+      ]
+    },
+    {
+      "claim": "Stats REST total gives the real row count",
+      "reason": "total saturates at 10000 and start>=10000 returns empty",
+      "receipts": [
+        {
+          "sources": [
+            "api:api.nhle.com"
+          ],
+          "url": "https://api.nhle.com/stats/rest/en/skater/summary?isAggregate=false&isGame=true&limit=100&cayenneExp=seasonId=19811982",
+          "note": "computed from the cached response (data/raw/api.nhle.com/): total= 10000"
+        }
+      ]
+    },
+    {
+      "claim": "Stats REST realtime covers hits/blocks/GV/TK as far back as api-web boxscores",
+      "reason": "REST realtime is null until 2005-06; api-web boxscore has them from 1997-98",
+      "receipts": [
+        {
+          "sources": [
+            "api:api-web.nhle.com"
+          ],
+          "url": "https://api-web.nhle.com/v1/gamecenter/1997020002/boxscore",
+          "note": "computed from the cached response (data/raw/api-web.nhle.com/): 'hits': 3"
+        }
+      ]
+    },
+    {
+      "claim": "Pre-modern right-rail scratches are real scratches",
+      "reason": "1950020005 lists 15 MTL scratches incl. Beliveau, Geoffrion (not yet regulars); looks like roster minus dressed",
+      "receipts": [
+        {
+          "url": "https://api-web.nhle.com/v1/gamecenter/1950020005/right-rail",
+          "quote": "Beliveau"
+        }
+      ]
+    }
+  ],
+  "tried": [
+    {
+      "source": "site.api.espn.com scoreboard (NHL and soccer)",
+      "outcome": "blocked (403)"
+    },
+    {
+      "source": "ESPN core eventlog before 1993-94 (Gretzky 1986)",
+      "outcome": "no coverage before 1993"
+    },
+    {
+      "source": "records.nhl.com site/api/record-detail",
+      "outcome": "nothing usable (404)"
+    },
+    {
+      "source": "records.nhl.com site/api/milestone-goalie-wins",
+      "outcome": "nothing usable (404)"
+    },
+    {
+      "source": "api-web gamecenter/1917020037/boxscore",
+      "outcome": "nothing usable (404; 1917-18 ends at 036)"
+    }
+  ],
+  "leads": [
+    {
+      "note": "records.nhl.com milestone-* endpoints give league-defined games-to-milestone; usable as known-answer gates",
+      "why_out_of_scope": "gate design belongs to the beachhead/harvest phase"
+    },
+    {
+      "note": "Stats REST cayenneExp supports arbitrary predicates (stat>0, gameDate ranges, or) — handy for floor checks and windowed bulk pulls",
+      "why_out_of_scope": "harvest design"
+    },
+    {
+      "note": "1917-18 playoffs include 5 Stanley Cup Final games vs non-NHL team id 7288 (PCHA)",
+      "why_out_of_scope": "rules question for the factoids/eras slice"
+    },
+    {
+      "note": "season table: pointForOTLossInUse from 1999-2000 but goalie OTL only recorded from 2005-06",
+      "why_out_of_scope": "eras slice"
+    }
+  ],
+  "unverified": [
+    {
+      "claim": "NHL Edge / NHL data pages carry separate data terms",
+      "what_i_tried": "not fetched (budget/time); none known"
+    },
+    {
+      "claim": "No NHL cease-and-desist or block against API scrapers exists",
+      "what_i_tried": "two web searches found none [S]"
+    },
+    {
+      "claim": "Natural Stat Trick / Evolving-Hockey source the NHL RTSS feed",
+      "what_i_tried": "search snippet only [S]"
+    },
+    {
+      "claim": "ESPN per-stat floors are exact",
+      "what_i_tried": "one athlete per sampled game; values are ceilings"
+    },
+    {
+      "claim": "Player-game-log route ~90k requests",
+      "what_i_tried": "player-season count not measured; estimate from brief's ~8,000 players"
+    },
+    {
+      "claim": "Cause of ESPN 403 (UA vs IP)",
+      "what_i_tried": "did not alter UA to test; deliberately not evading"
+    }
+  ]
+}

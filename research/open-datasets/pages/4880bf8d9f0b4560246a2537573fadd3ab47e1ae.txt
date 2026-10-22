@@ -1,0 +1,10 @@
+URL: https://www.kaggle.com/api/v1/datasets/view/kapastor/nhl-data
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+title: NHL Data
+licenseName: CC0: Public Domain
+lastUpdated: 2020-04-20T16:31:55.623Z
+totalBytes: 1146697568
+
+All game events from the 2015-2019 regular season of the NHL. 

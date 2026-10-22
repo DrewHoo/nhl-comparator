@@ -1,0 +1,13 @@
+URL: https://api.github.com/repos/sportsdataverse/sportsdataverse-data/releases?per_page=100&page=2
+STATUS: 200
+RETRIEVED: 2026-10-21
+NOTE: extract of NHL/hockey releases only (full JSON in data/raw cache); fields tag_name, published_at, assets[name,size,updated_at]
+
+tag_name: nhl_xg_models published_at: 2026-06-27T19:33:51Z assets: 7
+  feats_5v5.txt 446 2026-06-27T19:34:03Z
+  feats_st.txt 486 2026-06-27T19:34:03Z
+  timestamp.json 44 2026-09-02T18:29:08Z
+  timestamp.txt 25 2026-09-02T18:29:06Z
+  xg_model_5v5.json 2987421 2026-06-27T19:34:08Z
+  xg_model_meta.json 27 2026-06-27T19:34:03Z
+  xg_model_st.json 1417411 2026-06-27T19:34:06Z

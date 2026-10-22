@@ -1,0 +1,113 @@
+URL: http://www.flyershistory.com/cgi-bin/hsp-inventory.cgi
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+ 
+ Hockey Summary Project - Project Inventory 
+ ~
+ PROJECT INVENTORY 
+ Season 
+ # Games 
+ # in Inventory 
+ Details 
+ 1917-18 36 36 Complete 
+ 1918-19 27 27 Complete 
+ 1919-20 48 48 Complete 
+ 1920-21 48 48 Complete 
+ 1921-22 48 48 Complete 
+ 1922-23 48 48 Complete 
+ 1923-24 48 48 Complete 
+ 1924-25 90 90 Complete 
+ 1925-26 126 126 Complete 
+ 1926-27 220 220 Complete 
+ 1927-28 220 
+ 1928-29 220 
+ 1929-30 220 220 Complete 
+ 1930-31 220 44 All Philadelphia Quaker Games 
+ 1931-32 192 
+ 1932-33 216 
+ 1933-34 216 
+ 1934-35 216 
+ 1935-36 192 
+ 1936-37 192 
+ 1937-38 192 
+ 1938-39 168 168 Complete 
+ 1939-40 168 
+ 1940-41 168 
+ 1941-42 168 
+ 1942-43 150 150 Complete 
+ 1943-44 150 
+ 1944-45 150 
+ 1945-46 150 
+ 1946-47 180 
+ 1947-48 180 
+ 1948-49 180 
+ 1949-50 210 
+ 1950-51 210 
+ 1951-52 210 
+ 1952-53 210 210 Complete 
+ 1953-54 210 210 Complete 
+ 1954-55 210 210 Complete 
+ 1955-56 210 210 Complete 
+ 1956-57 210 210 Complete 
+ 1957-58 210 210 Complete 
+ 1958-59 210 210 Complete 
+ 1959-60 210 210 Complete 
+ 1960-61 210 210 Complete 
+ 1961-62 210 210 Complete 
+ 1962-63 210 210 Complete 
+ 1963-64 210 210 Complete 
+ 1964-65 210 210 Complete ... w/MTL detailed data 
+ 1965-66 210 210 Complete 
+ 1966-67 210 210 Complete 
+ 1967-68 444 444 Complete 
+ 1968-69 456 456 Complete 
+ 1969-70 456 456 Complete 
+ 1970-71 546 546 Complete 
+ 1971-72 546 546 Complete 
+ 1972-73 624 624 Complete 
+ 1973-74 624 624 Complete 
+ 1974-75 720 720 Complete 
+ 1975-76 720 720 Complete 
+ 1976-77 720 720 Complete 
+ 1977-78 720 720 Complete 
+ 1978-79 680 680 Complete 
+ 1979-80 840 840 Complete 
+ 1980-81 840 840 Complete 
+ 1981-82 840 840 Complete 
+ 1982-83 840 840 Complete 
+ 1983-84 840 840 Complete 
+ 1984-85 840 840 Complete 
+ 1985-86 840 840 Complete 
+ 1986-87 840 840 Complete 
+ 1987-88 840 840 Complete 
+ 1988-89 840 80 All Philadelphia Flyer games 
+ 1989-90 840 840 Complete 
+ 1990-91 840 840 Complete 
+ 1991-92 880 80 All Philadelphia Flyer games 
+ 1992-93 1008 1008 Complete 
+ 1993-94 1092 1092 Complete 
+ 1994-95 624 624 Complete 
+ 1995-96 1067 1067 Complete 
+ 1996-97 1066 1066 Complete 
+ 1997-98 1066 1066 Complete 
+ 1998-99 1107 1107 Complete 
+ 1999-00 1148 1148 Complete 
+ 2000-01 1230 1230 Complete 
+ 2001-02 1230 1230 Complete 
+ 2002-03 1230 1230 Complete 
+ 2003-04 1230 1230 Complete 
+ 2005-06 1230 1230 Complete 
+ 2006-07 1230 1230 Complete 
+ 2007-08 1230 1230 Complete 
+ 2008-09 1230 1230 Complete 
+ 2009-10 1230 1230 Complete 
+ 2010-11 1230 1230 Complete 
+ 2011-12 1230 1230 Complete 
+ 2012-13 720 720 Complete 
+ 2013-14 1230 1230 Complete 
+ 2014-15 1230 1230 Complete 
+ 2015-16 1230 1230 Complete 
+ 2016-17 1230 1230 Complete 
+ Powered by FlyersAlumni.net 
+ Created and founded by Peter Anson - 1998 

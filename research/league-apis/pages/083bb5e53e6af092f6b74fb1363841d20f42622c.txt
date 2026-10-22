@@ -1,0 +1,1 @@
+{"count":1092,"pageIndex":1,"pageSize":1,"pageCount":1092,"items":[{"$ref":"http://sports.core.api.espn.com/v2/sports/hockey/leagues/nhl/events/140414009?lang=en&region=us"}]}

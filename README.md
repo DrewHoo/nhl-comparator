@@ -1,34 +1,13 @@
-# dataviz-project-template
+# NHL Comparator
 
-A starter for a data-visualization site that deploys to GitHub Pages under your own domain at `https://<domain>/<repo-name>/`. It assumes you already have a GitHub User Site (`<owner>/<owner>.github.io`) with a custom domain, built from [`personal-site-starter`](https://github.com/DrewHoo/personal-site-starter). Every public repo you own with Pages enabled then serves under that domain with no extra DNS.
+Compare NHL players at the same point in their careers, every career since 1917-18. Live at https://drewhoover.com/nhl-comparator/.
 
-What's in the box: Vite + React, the `base` path derived from the repo name, a deploy workflow, a prerender step so crawlers see the page, a `<head>` generated from one config file, favicon and OG image generators, a sample D3 chart with touch-friendly hover, URL state, and the index site's embed scripts (back bar, comments, analytics).
+A reader sets a sentence (skaters · with the most · points · through their first 500 games · regular season · since 1917-18) and the board ranks every career, or every player-season, at that window; a row opens against a peer, with where their curves met and what it would take to catch up.
 
-The [`dataviz-pages-site`](https://github.com/DrewHoo/dataviz-pages-site) skill knows this template. In Claude Code, "new dataviz project called `<slug>`" walks the steps below.
+- `research/` — how the era wall was decided (`README.md`, then `beachhead.md`), four research reports with every quote string-checked against saved pages, and the briefs the agents ran on.
+- `pipeline/` — the harvester (the NHL's public stats REST, throttled and cached) and the ledger builder with its known-answer gates.
+- `src/` — the engine (`lib/`), the page (`components/`) and the committed ledgers (`data/`).
+- `workers/share/` — the Cloudflare worker that makes every shared board unfurl as itself.
+- `data/gates/` — the 70 viral claims the site is asked to reproduce, each with its receipts.
 
-## Start a project
-
-1. **Use this template** on GitHub, name the repo the slug you want in the URL (lowercase, kebab-case), make it public. Clone it.
-2. Set `"name"` in `package.json` to the repo name. That is the URL path.
-3. Edit `site.config.js`: your domain, the title, the description, the OG copy.
-4. `npm install`, then `npm run gen:favicon && npm run gen:og`. Open `public/og.png` and `public/card.png` and look at them. Commit the outputs.
-5. Enable Pages with the source set to Actions:
-
-   ```sh
-   gh api -X POST repos/<owner>/<repo>/pages -f build_type=workflow
-   ```
-
-6. `git push`, then `gh run watch`. The site is live at `https://<domain>/<repo>/` when the run is green.
-7. Register the project card on your index site (the skill's `index-registration` reference), copying `public/card.png` to the index repo's `public/projects/<repo>.png`.
-
-## Replace the sample
-
-- `src/data/sample.js` is the data. `src/App.jsx` and `src/Chart.jsx` are the page. `src/styles.css` is the look.
-- Data that has to be fetched goes in a build-time script that writes to `public/data/` (gitignored). See the skill's `build-time-data` reference.
-- Before sharing the URL, run the skill's pre-launch checklist. The two that bite: `curl -s <url> | grep -c '<div id="root"></div>'` must print `0`, and the OG card must look right in a platform's card validator.
-
-## Why it is shaped this way
-
-- **Prerender.** A Vite SPA deploys `<div id="root"></div>` and nothing else. Google usually renders JS eventually; Bing, DuckDuckGo, social unfurlers, and LLM crawlers mostly don't. `scripts/prerender.mjs` bakes the rendered app into `dist/index.html`, which is why `main.jsx` hydrates and why render never touches `window`.
-- **One config file.** The domain and copy live in `site.config.js` and the slug in `package.json`. `index.html` has no owner-specific values, so the template stays generic and a project has exactly two places to edit.
-- **Embeds, not dependencies.** The back bar, comments, and analytics are script tags pointing at your index site. Fixes land there once.
+Data: the National Hockey League's own game records, read through its public stats API; birth dates from Wikidata (CC0). See `data/NOTICE`. Code is MIT.

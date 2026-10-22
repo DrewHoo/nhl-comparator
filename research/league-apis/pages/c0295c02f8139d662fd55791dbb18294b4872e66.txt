@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/hockey/leagues/nhl/seasons/1986/athletes/4128/eventlog?lang=en&region=us"}

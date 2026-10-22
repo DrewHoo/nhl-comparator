@@ -1,0 +1,137 @@
+URL: https://www.kaggle.com/api/v1/datasets/view/open-source-sports/professional-hockey-database
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+title: Professional Hockey Database
+licenseName: Other (specified in description)
+lastUpdated: 2019-11-17T23:23:06.167Z
+totalBytes: 5663000
+
+The Hockey Database is a collection of historical statistics from men's professional hockey teams in North America.
+
+**Note** that as of v1, this dataset is missing a few files, due to Kaggle restrictions on the number of individual files that can be uploaded. The missing files will be noted in the description below.
+
+## The Data
+
+The dataset contains the following tables (all are csv):
+
+- **Master**: Names and biographical information
+- **Scoring**: Scoring statistics
+- ScoringSup: Supplemental scoring statistics. **Missing in v1**
+- **ScoringSC**: Scoring for Stanley Cup finals, 1917-18 through 1925-26
+- **ScoringShootout**: Scoring statistics for shootouts
+- **Goalies**: Goaltending statistics
+- **GoaliesSC**: Goaltending for Stanley Cup finals, 1917-18 through 1925-26
+- **GoaliesShootout**: Goaltending statistics for shootouts
+- **AwardsPlayers**: Player awards, trophies, postseason all-star teams
+- **AwardsCoaches**: Coaches awards, trophies, postseason all-star teams
+- AwardsMisc: Miscellaneous awards. **Missing in v1**
+- **Coaches**: Coaching statistics
+- **Teams**: Team regular season statistics
+- **TeamsPost**: Team postseason statistics
+- **TeamsSC**: Team Stanley Cup finals statistics, 1917-18 through 1925-26
+- **TeamsHalf**: First half / second half standings, 1917-18 through 1920-21
+- **TeamSplits**: Team home/road and monthly splits
+- **TeamVsTeam**: Team vs. team results
+- **SeriesPost**: Postseason series
+- **CombinedShutouts**: List of combined shutouts.
+- **abbrev**: Abbreviations used in Teams and SeriesPost tables
+- **HOF**: Hall of Fame information
+
+Descriptions of the individual fields in each file can be found in the file's description.
+
+## Copyright Notice
+
+The Hockey Databank project allows for free usage of its data, including the
+production of a commercial product based upon the data, subject to the terms
+outlined below. 
+
+1) In exchange for any usage of data, in whole or in part, you agree to display
+the following statement prominently and in its entirety on your end product:
+
+"The information used herein was obtained free of charge from and is
+copyrighted by the Hockey Databank project.  For more information about the
+Hockey Databank project please visit
+http://sports.groups.yahoo.com/group/hockey-databank"
+
+2) Your usage of the data constitutes your acknowledgment, acceptance, and
+agreement that the Hockey Databank project makes no guarantees regarding the
+accuracy of the data supplied, and will not be held responsible for any
+consequences arising from the use of the information presented. 
+
+## Acknowledgments
+
+This dataset was downloaded from [the hockey database](http://www.opensourcesports.com/hockey/) at [Open Source Sports](http://www.opensourcesports.com/). The original acknowledgments are as follows:
+
+A variety of sources were consulted while constructing this database.  These
+are listed below in no particular order.
+
+Books:
+
+-  National Hockey League Guide (various years)
+-  National Hockey League Official Record Book (1982-83 and 1983-84)
+-  National Hockey League Official Guide & Record Book (1984-85 to present)
+-  The Stanley Cup Records and Statistics (various years)
+-  World Hockey Association Media Guide (various years)
+-  WHA Schedule & Statistics (1974-75)
+-  The Sporting News Hockey Guide (various years)
+-  Official NHL Record Book 1917-64
+-  The Complete Historical and Statistical Reference to the World Hockey
+    Association 1972-1979, by Scott Surgent; Xaler Press (7th edition, 2004;
+    8th edition, 2008)
+-  Total Hockey; Total Sports Publishing (1st edition, 1998; 2nd edition, 2000)
+-  The Encyclopedia of Hockey, by Robert A. Styer; A.S. Barnes (2nd edition,
+    1973)
+-  The Hockey Encyclopedia, by Stan Fischler and Shirley Walton Fischler;
+    Macmillan (1983)
+-  The Trail of the Stanley Cup (Vol. 1, 2, and 3), by Charles L. Coleman
+
+Periodicals:
+
+-  The Sporting News
+
+On-line sources:
+
+-  ESPN.com: http://www.espn.com/nhl/statistics
+-  Find A Grave: http://www.findagrave.com
+-  The Goaltender Home Page (Doug Norris):        http://hockeygoalies.org
+-  History Of NHL Trades:         http://nhltradeshistory.blogspot.com
+-  Hockey Research Association:        http://www.hockeyresearch.com/stats
+-  Hockey-Reference.com (Justin Kubatko):        http://www.hockey-reference.com
+-  Hockey Summary Project:        http://sports.groups.yahoo.com/group/hockey_summary_project/,         http://hsp.flyershistory.com        (previously at http://www.shrpsports.com/hsp)
+-  Internet Hockey Database (Ralph Slate):         http://www.hockeydb.com
+-  Legends of Hockey.net (Hockey Hall of Fame):        http://www.legendsofhockey.net/html/search.htm
+-  LostHockey.com:        http://www.losthockey.com
+-  National Hockey League:        http://www.nhl.com
+-  NHL Hockey Shootout Statistics:        http://jeays.net/shootout/index.htm
+-  NHL Shootouts:        http://www.nhlshootouts.com
+-  North American Pro Hockey:        http://www.ottawavalleyonline.com/sites/tomking_01/index.html
+-  Puckerings:        http://www.puckerings.com
+-  Society for International Hockey Research:        http://www.sihrhockey.org
+-  The Sports Network:        http://www.sportsnetwork.com
+-  USA Today hockey stats archive:        http://www.usatoday.com/sports/hockey,         http://www.usatoday.com/sports/hockey/archive.htm
+-  Yahoo Sports:        http://sports.yahoo.com/nhl
+
+Thanks to the following individuals:
+
+* Ralph Dinger (NHL Publishing / Dan Diamond and Associates) has confirmed a
+  number of corrections to errors found in the NHL's official statistics.
+  Thanks also to Justin Kubatko of hockey-reference.com for a number of
+  discussions in this area.
+
+* Morey Holzman provided information on Lloyd Cook's 1921-22 goaltending
+  appearance.
+
+* Stu McMurray provided correct 1917-18 scoring statistics, including GWG.
+
+* Doug Norris provided corrected 1984-85 statistics for Rick St. Croix.
+
+* Paul Reeths created the Hall of Fame table, and provided updates for the Coaches
+  table
+
+Other contributors include Roger Brewer, Mike Burton, Eric Hornick, and
+Claude Paradis.
+
+An acknowledgement is also given to the team led by Sean Forman and Sean Lahman
+that has developed and maintained the Lahman baseball database.  This database
+follows the same general design.

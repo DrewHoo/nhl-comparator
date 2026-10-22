@@ -1,0 +1,688 @@
+URL: https://www.quanthockey.com/nhl/records/nhl-players-all-time-goals-per-game-leaders.html
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+NHL All-Time Goals per Game Leaders
+
+LEAGUES
+TOURNAMENTS
+QUERY EXPLORER
+ENGLISH
+SUOMI
+CONTACT
+NHL:
+SCORING LEADERS
+STANDINGS
+TEAMS
+RECORDS
+NATIONALITIES
+BIRTH PROVINCES
+BIRTH STATES
+BIRTH CITIES
+AGE METRICS
+
+Leagues >
+NHL Records >
+Most goals per game
+NHL All-Time Goals per Game Leaders
+Regular SeasonPlayoffsStanley Cup FinalsGame SevenAll PositionsForwardsDefensemenGoaliesAll PlayersActive Players
+LeaguesAll-time recordsSeason recordsGame recordsShow / hide columnsOverallTime on IceGoalsAssistsPointsper 60per GameSOGDefensiveFaceoffs
+⇦
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+⇨
+Minimum requirement for inclusion in the “Goals per Game” record list:
+-At least 200 career goals
+
+
+
+
+
+
+
+
+
+NHL All-Time Goals per Game Leaders. | Overall | Time on Ice | Goals | Assists | Points | per 60 All Situations | per 60 Even-Strength | per 60 Power-Play | per Game | SOG | Defensive | Faceoffs |
+Rk | | Name | Team | Born | Pos | GP | G | A | P | PIM | +/- | TOI | ES | PP | SH | ESG | PPG | SHG | GWG | OTG | ESA | PPA | SHA | GWA | OTA | ESP | PPP | SHP | GWP | OTP | PPP% | G/60 | A/60 | P/60 | ESG/60 | ESA/60 | ESP/60 | PPG/60 | PPA/60 | PPP/60 | G/GP | A/GP | P/GP | SOG | SH% | HITS | BS | FOW | FOL | FO% |
+1 | | Mike Bossy | NYI | 1957 | F | 752 | 573 | 553 | 1126 | 210 | 380 | | | | | 385 | 180 | 8 | 80 | 4 | 354 | 198 | 1 | 88 | 1 | 739 | 378 | 9 | 168 | 5 | 33.6% | | | | | | | | | | 0.762 | 0.735 | 1.497 | 2709 | 21.2% | | | | | |
+2 | | Mario Lemieux | PIT | 1965 | F | 915 | 690 | 1033 | 1723 | 834 | 114 | | | | | 405 | 236 | 49 | 74 | 11 | 546 | 465 | 22 | 115 | 11 | 951 | 701 | 71 | 189 | 22 | 40.7% | | | | | | | | | | 0.754 | 1.129 | 1.883 | 3633 | 19.0% | 8 | 6 | 1414 | 1451 | 49.35% |
+3 | | Cy Denneny | TOT | 1891 | F | 329 | 247 | 89 | 336 | 296 | | | | | | | | | 50 | 7 | | | | 15 | 2 | | | | 65 | 9 | | | | | | | | | | | 0.751 | 0.271 | 1.021 | | | | | | | |
+4 | | Cecil 'Babe' Dye | TOT | 1898 | F | 272 | 203 | 50 | 253 | 220 | | | | | | | | | 30 | 3 | | | | 7 | 1 | | | | 37 | 4 | | | | | | | | | | | 0.746 | 0.184 | 0.930 | | | | | | | |
+5 | | Auston Matthews | TOR | 1997 | F | 700 | 436 | 362 | 798 | 152 | 152 | 19:57 | 16:36 | 2:58 | 0:22 | 322 | 112 | 2 | 68 | 15 | 251 | 110 | 1 | 56 | 19 | 573 | 222 | 3 | 124 | 34 | 27.8% | 1.872 | 1.554 | 3.426 | 1.662 | 1.296 | 2.958 | 3.221 | 3.164 | 6.385 | 0.623 | 0.517 | 1.140 | 2794 | 15.6% | 489 | 718 | 5650 | 4835 | 53.89% |
+6 | | Pavel Bure | TOT | 1971 | F | 702 | 437 | 342 | 779 | 484 | 42 | | | | | 282 | 121 | 34 | 59 | 6 | 212 | 115 | 15 | 52 | 3 | 494 | 236 | 49 | 111 | 9 | 30.3% | | | | | | | | | | 0.623 | 0.487 | 1.110 | 3130 | 14.0% | | | 30 | 89 | 25.21% |
+7 | | Wayne Gretzky | TOT | 1961 | F | 1487 | 894 | 1963 | 2857 | 577 | 520 | | | | | 617 | 204 | 73 | 91 | 2 | 1201 | 686 | 76 | 239 | 15 | 1818 | 890 | 149 | 330 | 17 | 31.2% | | | | | | | | | | 0.601 | 1.320 | 1.921 | 5083 | 17.6% | | | 1199 | 1249 | 48.98% |
+8 | | Kirill Kaprizov | MIN | 1997 | F | 407 | 241 | 251 | 492 | 175 | 89 | 20:45 | 17:02 | 3:41 | 0:01 | 157 | 84 | 0 | 36 | 14 | 168 | 83 | 0 | 42 | 12 | 325 | 167 | 0 | 78 | 26 | 33.9% | 1.711 | 1.782 | 3.493 | 1.358 | 1.453 | 2.811 | 3.358 | 3.318 | 6.677 | 0.592 | 0.617 | 1.209 | 1432 | 16.8% | 293 | 160 | 11 | 36 | 23.40% |
+9 | | Alexander Ovechkin | WSH | 1985 | F | 1582 | 930 | 761 | 1691 | 857 | 57 | 20:24 | 15:35 | 4:41 | 0:07 | 594 | 331 | 5 | 141 | 27 | 469 | 291 | 1 | 110 | 14 | 1063 | 622 | 6 | 251 | 41 | 36.8% | 1.729 | 1.414 | 3.143 | 1.445 | 1.141 | 2.585 | 2.679 | 2.355 | 5.034 | 0.588 | 0.481 | 1.069 | 7121 | 13.1% | 3891 | 580 | 66 | 129 | 33.85% |
+10 | | Brett Hull | TOT | 1964 | F | 1269 | 741 | 650 | 1391 | 458 | 23 | | | | | 456 | 265 | 20 | 110 | 12 | 371 | 271 | 8 | 109 | 9 | 827 | 536 | 28 | 219 | 21 | 38.5% | | | | | | | | | | 0.584 | 0.512 | 1.096 | 4876 | 15.2% | 1 | 3 | 28 | 42 | 40.00% |
+11 | | Bobby Hull | TOT | 1939 | F | 1063 | 610 | 560 | 1170 | 634 | 249 | | | | | 437 | 154 | 19 | 98 | 0 | 380 | 170 | 10 | 74 | 0 | 817 | 324 | 29 | 172 | 0 | 27.7% | | | | | | | | | | 0.574 | 0.527 | 1.101 | | | | | | | |
+12 | | Tim Kerr | TOT | 1960 | F | 655 | 370 | 304 | 674 | 596 | 77 | | | | | 221 | 149 | 0 | 46 | 1 | 200 | 104 | 0 | 40 | 1 | 421 | 253 | 0 | 86 | 2 | 37.5% | | | | | | | | | | 0.565 | 0.464 | 1.029 | 1980 | 18.7% | | | | | |
+13 | | Rick Martin | TOT | 1951 | F | 685 | 384 | 317 | 701 | 477 | 14 | | | | | 269 | 115 | 0 | 47 | 0 | 213 | 104 | 0 | 42 | 0 | 482 | 219 | 0 | 89 | 0 | 31.2% | | | | | | | | | | 0.561 | 0.463 | 1.023 | 2516 | 15.3% | | | | | |
+14 | | Phil Esposito | TOT | 1942 | F | 1282 | 717 | 873 | 1590 | 910 | 252 | | | | | 448 | 246 | 23 | 118 | 0 | 558 | 303 | 12 | 146 | 0 | 1006 | 549 | 35 | 264 | 0 | 34.5% | | | | | | | | | | 0.559 | 0.681 | 1.240 | 5166 | 13.9% | | | | | |
+15 | | Maurice Richard | MTL | 1921 | F | 978 | 544 | 422 | 966 | 1287 | 18 | | | | | 397 | 143 | 4 | 84 | 0 | 309 | 111 | 2 | 90 | 0 | 706 | 254 | 6 | 174 | 0 | 26.3% | | | | | | | | | | 0.556 | 0.431 | 0.988 | | | | | | | |
+16 | | Cam Neely | TOT | 1965 | F | 726 | 395 | 299 | 694 | 1241 | 83 | | | | | 252 | 142 | 1 | 61 | 2 | 212 | 86 | 1 | 40 | 6 | 464 | 228 | 2 | 101 | 8 | 32.9% | | | | | | | | | | 0.544 | 0.412 | 0.956 | 2150 | 18.4% | | | | | |
+17 | | Marcel Dionne | TOT | 1951 | F | 1348 | 731 | 1040 | 1771 | 600 | 27 | | | | | 478 | 234 | 19 | 73 | 2 | 620 | 409 | 11 | 127 | 2 | 1098 | 643 | 30 | 200 | 4 | 36.3% | | | | | | | | | | 0.542 | 0.772 | 1.314 | 5363 | 13.6% | | | | | |
+18 | | Pat Lafontaine | TOT | 1965 | F | 865 | 468 | 545 | 1013 | 552 | -6 | | | | | 301 | 156 | 11 | 59 | 4 | 312 | 233 | 0 | 58 | 5 | 613 | 389 | 11 | 117 | 9 | 38.4% | | | | | | | | | | 0.541 | 0.630 | 1.171 | 2664 | 17.6% | | | 666 | 561 | 54.28% |
+19 | | Connor McDavid | EDM | 1997 | F | 803 | 415 | 831 | 1246 | 332 | 203 | 21:52 | 17:45 | 3:28 | 0:38 | 305 | 100 | 10 | 76 | 17 | 495 | 326 | 10 | 141 | 34 | 800 | 426 | 20 | 217 | 51 | 34.2% | 1.417 | 2.838 | 4.256 | 1.283 | 2.083 | 3.366 | 2.145 | 6.994 | 9.139 | 0.517 | 1.035 | 1.552 | 2735 | 15.2% | 586 | 315 | 4450 | 4828 | 47.96% |
+20 | | Leon Draisaitl | EDM | 1995 | F | 864 | 442 | 627 | 1069 | 366 | 113 | 20:39 | 16:42 | 3:20 | 0:35 | 251 | 181 | 10 | 76 | 20 | 429 | 194 | 4 | 126 | 27 | 680 | 375 | 14 | 202 | 47 | 35.1% | 1.486 | 2.108 | 3.593 | 1.043 | 1.782 | 2.825 | 3.754 | 4.024 | 7.779 | 0.512 | 0.726 | 1.237 | 2365 | 18.7% | 499 | 278 | 7556 | 6609 | 53.34% |
+21 | | Rick Vaive | TOT | 1959 | F | 876 | 441 | 347 | 788 | 1445 | -79 | | | | | 287 | 143 | 11 | 52 | 3 | 240 | 104 | 3 | 42 | 5 | 527 | 247 | 14 | 94 | 8 | 31.3% | | | | | | | | | | 0.503 | 0.396 | 0.900 | 2603 | 16.9% | | | | | |
+22 | | Michel Goulet | TOT | 1960 | F | 1089 | 548 | 605 | 1153 | 825 | 99 | | | | | 353 | 179 | 16 | 63 | 3 | 402 | 194 | 9 | 63 | 3 | 755 | 373 | 25 | 126 | 6 | 32.4% | | | | | | | | | | 0.503 | 0.556 | 1.059 | 3140 | 17.5% | | | | | |
+23 | | David Pastrnak | BOS | 1996 | F | 843 | 424 | 521 | 945 | 416 | 147 | 18:34 | 15:21 | 3:10 | 0:01 | 289 | 135 | 0 | 69 | 13 | 358 | 163 | 0 | 100 | 18 | 647 | 298 | 0 | 169 | 31 | 31.5% | 1.625 | 1.996 | 3.621 | 1.339 | 1.659 | 2.999 | 3.021 | 3.648 | 6.669 | 0.503 | 0.618 | 1.121 | 3114 | 13.6% | 720 | 274 | 52 | 109 | 32.30% |
+24 | | Steven Stamkos | TOT | 1990 | F | 1254 | 628 | 638 | 1266 | 739 | -7 | 18:59 | 14:54 | 3:39 | 0:25 | 379 | 244 | 5 | 101 | 17 | 405 | 230 | 3 | 101 | 17 | 784 | 474 | 8 | 202 | 34 | 37.4% | 1.582 | 1.607 | 3.188 | 1.216 | 1.300 | 2.516 | 3.186 | 3.003 | 6.189 | 0.501 | 0.509 | 1.010 | 3726 | 16.9% | 1335 | 569 | 7155 | 6949 | 50.73% |
+25 | | Nels Stewart | TOT | 1902 | F | 650 | 324 | 191 | 515 | 955 | | | | | | 297 | 27 | 0 | 70 | 11 | 162 | 28 | 1 | 31 | 2 | 459 | 55 | 1 | 101 | 13 | 10.7% | | | | | | | | | | 0.498 | 0.294 | 0.792 | | | | | | | |
+26 | | Guy Lafleur | TOT | 1951 | F | 1126 | 560 | 793 | 1353 | 399 | 446 | | | | | 403 | 154 | 3 | 98 | 0 | 525 | 266 | 2 | 116 | 0 | 928 | 420 | 5 | 214 | 0 | 31.0% | | | | | | | | | | 0.497 | 0.704 | 1.202 | 3516 | 15.9% | | | | | |
+27 | | Mike Gartner | TOT | 1959 | F | 1432 | 708 | 627 | 1335 | 1159 | 68 | | | | | 467 | 217 | 24 | 90 | 7 | 426 | 196 | 5 | 79 | 1 | 893 | 413 | 29 | 169 | 8 | 30.9% | | | | | | | | | | 0.494 | 0.438 | 0.932 | 5090 | 13.9% | | | 11 | 10 | 52.38% |
+28 | | Dino Ciccarelli | TOT | 1960 | F | 1232 | 608 | 592 | 1200 | 1425 | -4 | | | | | 375 | 232 | 1 | 73 | 1 | 400 | 190 | 2 | 66 | 1 | 775 | 422 | 3 | 139 | 2 | 35.2% | | | | | | | | | | 0.494 | 0.481 | 0.974 | 3706 | 16.4% | | | 0 | 2 | 0.00% |
+29 | | Howie Morenz | TOT | 1902 | F | 550 | 271 | 205 | 476 | 562 | | | | | | 265 | 5 | 1 | 44 | 9 | 190 | 15 | 0 | 55 | 8 | 455 | 20 | 1 | 99 | 17 | 4.2% | | | | | | | | | | 0.493 | 0.373 | 0.865 | | | | | | | |
+30 | | Blaine Stoughton | TOT | 1953 | F | 526 | 258 | 191 | 449 | 204 | -93 | | | | | 191 | 62 | 5 | 31 | 1 | 139 | 49 | 3 | 22 | 0 | 330 | 111 | 8 | 53 | 1 | 24.7% | | | | | | | | | | 0.490 | 0.363 | 0.854 | 1324 | 19.5% | | | | | |
+31 | | Eric Lindros | TOT | 1973 | F | 760 | 372 | 493 | 865 | 1398 | 215 | | | | | 254 | 111 | 7 | 46 | 6 | 339 | 152 | 2 | 81 | 4 | 593 | 263 | 9 | 127 | 10 | 30.4% | | | | | | | | | | 0.489 | 0.649 | 1.138 | 2312 | 16.1% | 126 | 16 | 4474 | 3398 | 56.83% |
+32 | | Pierre Larouche | TOT | 1955 | F | 812 | 395 | 427 | 822 | 237 | -29 | | | | | 280 | 114 | 1 | 36 | 0 | 297 | 127 | 3 | 61 | 3 | 577 | 241 | 4 | 97 | 3 | 29.3% | | | | | | | | | | 0.486 | 0.526 | 1.012 | 2298 | 17.2% | | | | | |
+33 | | Charlie Conacher | TOT | 1909 | F | 461 | 224 | 172 | 396 | 523 | | | | | | 204 | 19 | 1 | 39 | 5 | 137 | 35 | 0 | 31 | 5 | 341 | 54 | 1 | 70 | 10 | 13.6% | | | | | | | | | | 0.486 | 0.373 | 0.859 | | | | | | | |
+34 | | Zigmund Palffy | TOT | 1972 | F | 684 | 329 | 384 | 713 | 322 | 83 | | | | | 218 | 92 | 19 | 45 | 5 | 213 | 164 | 7 | 62 | 4 | 431 | 256 | 26 | 107 | 9 | 35.9% | | | | | | | | | | 0.481 | 0.561 | 1.042 | 2136 | 15.4% | 4 | 11 | 15 | 22 | 40.54% |
+35 | | Jari Kurri | TOT | 1960 | F | 1251 | 601 | 797 | 1398 | 545 | 304 | | | | | 407 | 155 | 39 | 72 | 7 | 514 | 240 | 43 | 89 | 6 | 921 | 395 | 82 | 161 | 13 | 28.3% | | | | | | | | | | 0.480 | 0.637 | 1.118 | 3149 | 19.1% | | | 108 | 192 | 36.00% |
+36 | | Charlie Simmer | TOT | 1954 | F | 712 | 342 | 369 | 711 | 544 | 115 | | | | | 215 | 125 | 2 | 42 | 2 | 248 | 121 | 0 | 36 | 1 | 463 | 246 | 2 | 78 | 3 | 34.6% | | | | | | | | | | 0.480 | 0.518 | 0.999 | 1531 | 22.3% | | | | | |
+37 | | Bill Cook | NYR | 1895 | F | 475 | 228 | 138 | 366 | 386 | | | | | | 219 | 9 | 0 | 42 | 5 | 126 | 12 | 0 | 24 | 4 | 345 | 21 | 0 | 66 | 9 | 5.7% | | | | | | | | | | 0.480 | 0.291 | 0.771 | | | | | | | |
+38 | | Ilya Kovalchuk | TOT | 1983 | F | 926 | 443 | 433 | 876 | 544 | -146 | 21:09 | 15:30 | 5:17 | 0:21 | 289 | 144 | 10 | 64 | 17 | 243 | 185 | 5 | 61 | 16 | 532 | 329 | 15 | 125 | 33 | 37.6% | 1.357 | 1.326 | 2.682 | 1.208 | 1.015 | 2.223 | 1.764 | 2.267 | 4.031 | 0.478 | 0.468 | 0.946 | 3223 | 13.7% | 399 | 186 | 140 | 248 | 36.08% |
+39 | | Alexander Mogilny | TOT | 1969 | F | 990 | 473 | 559 | 1032 | 432 | 81 | | | | | 312 | 141 | 20 | 66 | 1 | 337 | 208 | 14 | 76 | 6 | 649 | 349 | 34 | 142 | 7 | 33.8% | | | | | | | | | | 0.478 | 0.565 | 1.042 | 2966 | 15.9% | 14 | 5 | 38 | 91 | 29.46% |
+40 | | Kent Nilsson | TOT | 1956 | F | 553 | 264 | 422 | 686 | 116 | -25 | | | | | 151 | 97 | 16 | 28 | 1 | 235 | 179 | 8 | 48 | 2 | 386 | 276 | 24 | 76 | 3 | 40.2% | | | | | | | | | | 0.477 | 0.763 | 1.241 | 1374 | 19.2% | | | | | |
+41 | | Syl Apps | TOR | 1915 | F | 423 | 201 | 231 | 432 | 56 | | | | | | 159 | 39 | 3 | 25 | 3 | 182 | 44 | 5 | 34 | 2 | 341 | 83 | 8 | 59 | 5 | 19.2% | | | | | | | | | | 0.475 | 0.546 | 1.021 | | | | | | | |
+42 | | Joe Mullen | TOT | 1957 | F | 1062 | 502 | 561 | 1063 | 241 | 167 | | | | | 341 | 150 | 11 | 73 | 5 | 368 | 189 | 4 | 75 | 3 | 709 | 339 | 15 | 148 | 8 | 31.9% | | | | | | | | | | 0.473 | 0.528 | 1.001 | 2787 | 18.0% | | | | | |
+43 | | Teemu Sel�nne | TOT | 1970 | F | 1451 | 684 | 773 | 1457 | 660 | 95 | | | | | 422 | 255 | 7 | 110 | 9 | 438 | 333 | 2 | 116 | 13 | 860 | 588 | 9 | 226 | 22 | 40.4% | | | | | | | | | | 0.471 | 0.533 | 1.004 | 4540 | 15.1% | 123 | 96 | 956 | 1077 | 47.02% |
+44 | | Kyle Connor | WPG | 1996 | F | 704 | 331 | 354 | 685 | 155 | -8 | 19:50 | 16:02 | 3:09 | 0:38 | 246 | 76 | 9 | 67 | 14 | 238 | 114 | 2 | 72 | 15 | 484 | 190 | 11 | 139 | 29 | 27.7% | 1.422 | 1.521 | 2.943 | 1.307 | 1.264 | 2.571 | 2.055 | 3.082 | 5.137 | 0.470 | 0.503 | 0.973 | 2241 | 14.8% | 212 | 227 | 25 | 50 | 33.33% |
+45 | | Luc Robitaille | TOT | 1966 | F | 1431 | 668 | 726 | 1394 | 1177 | 71 | | | | | 418 | 247 | 3 | 89 | 7 | 463 | 260 | 3 | 97 | 5 | 881 | 507 | 6 | 186 | 12 | 36.4% | | | | | | | | | | 0.467 | 0.507 | 0.974 | 3961 | 16.9% | 30 | 15 | 31 | 46 | 40.26% |
+46 | | Peter Bondra | TOT | 1968 | F | 1081 | 503 | 389 | 892 | 761 | 74 | | | | | 322 | 149 | 32 | 78 | 6 | 254 | 131 | 4 | 56 | 3 | 576 | 280 | 36 | 134 | 9 | 31.4% | | | | | | | | | | 0.465 | 0.360 | 0.825 | 3531 | 14.2% | 52 | 11 | 9 | 28 | 24.32% |
+47 | | Bill Barber | PHI | 1952 | F | 903 | 420 | 463 | 883 | 623 | 312 | | | | | 285 | 104 | 31 | 54 | 0 | 267 | 176 | 20 | 62 | 2 | 552 | 280 | 51 | 116 | 2 | 31.7% | | | | | | | | | | 0.465 | 0.513 | 0.978 | 3238 | 13.0% | | | | | |
+48 | | Jason Robertson | DAL | 1999 | F | 465 | 216 | 283 | 499 | 132 | 121 | 18:27 | 15:24 | 3:03 | 0:00 | 155 | 61 | 0 | 42 | 6 | 184 | 99 | 0 | 36 | 9 | 339 | 160 | 0 | 78 | 15 | 32.1% | 1.509 | 1.978 | 3.487 | 1.298 | 1.541 | 2.839 | 2.581 | 4.188 | 6.769 | 0.465 | 0.609 | 1.073 | 1429 | 15.1% | 329 | 168 | 13 | 17 | 43.33% |
+49 | | Roy Conacher | TOT | 1916 | F | 490 | 226 | 201 | 427 | 88 | | | | | | 194 | 32 | 0 | 40 | 3 | 153 | 47 | 1 | 26 | 1 | 347 | 79 | 1 | 66 | 4 | 18.5% | | | | | | | | | | 0.461 | 0.410 | 0.871 | | | | | | | |
+50 | | Peter Stastny | TOT | 1956 | F | 977 | 450 | 789 | 1239 | 824 | -15 | | | | | 298 | 145 | 7 | 54 | 2 | 461 | 321 | 7 | 87 | 1 | 759 | 466 | 14 | 141 | 3 | 37.6% | | | | | | | | | | 0.461 | 0.808 | 1.268 | 2374 | 19.0% | | | | | |
+⇦
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+⇨
+
+
+Current season NHL stats last updated: October 21, 2026
+Current season NHL stats provided by XML Team Solutions: Content Copyright 2026, The Sports Forecaster. Distributed by XML Team Solutions.
+Data tables and visualizations available under: Creative Commons Attribution + Noncommercial.
+About | Contact | Terms of Use | Privacy Policy
+Follow us on: Facebook | X | Instagram | TikTok Privacy Manager
+More from QuantHockey
+More NHL statsSeason stats
+Standings
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Single game records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+Find another leagueNHL DRAFTEntry drafts
+Scoring leaders by draft round
+Scoring leaders by draft pick
+Draft picks by nationality
+Draft picks by team
+North America - ProfessionalNHLSeason stats
+Standings
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Single game records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+AHLSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+ECHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+SPHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+PWHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+North America - Professional (Inactive)WHASeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+CHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+IHLSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+UHLSeason stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+WCHLSeason stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+WPHLSeason stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+ACHLSeason stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+ACHL (1981-1987)Season stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+SEHLSeason stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+Europe - ProfessionalLIIGASeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+SHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+NLASeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+SLSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+DELSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+DEL2Season stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+Czech ExtraLigaSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+Slovak ExtraLigaSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+KHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+ICEHLSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+AlpsHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+SDHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+EIHLSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+Ligue MagnusSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+EliteserienSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+AllsvenskanSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+MestisSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+VHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+2. BundesLigaSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+Europe - AmateurHockeyEttanSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+HockeyTv�an
+Suomen SarjaSeason stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+North America - JuniorsOHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+QMJHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+WHLSeason stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+Memorial CupSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+USHLSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+NAHLSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+BCHLSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+AJHLSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+SJHLSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+CCHLSeason stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth states
+Player birth cities
+Age metrics
+U18 Quebec AAA Hockey LeagueSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth cities
+Age metrics
+U18 Alberta Elite Hockey LeagueSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth cities
+Age metrics
+U17 Alberta Elite Hockey LeagueSeason stats
+Team season stats
+All-time records
+Single season records
+Player nationalities
+Player birth provinces
+Player birth cities
+Age metrics
+U16 Alberta Elite Hockey LeagueSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth cities
+Age metrics
+U15 Alberta Elite Hockey LeagueSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth cities
+Age metrics
+Manitoba U18 AAA Hockey LeagueSeason stats
+Team season stats
+Player nationalities
+Player birth provinces
+Player birth cities
+Age metrics
+Europe - JuniorsMHL (Russia U20 - Tier 1)Season stats
+Team season stats
+Team all-time records
+Team season records
+All-time records
+Single season records
+Player nationalities
+Player birth cities
+Age metrics
+U20 Nationell (Sweden U20 - Tier 1)Season stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+U20 Regional (Sweden U20 - Tier 2)Season stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+U18 Nationell (Sweden U18 - Tier 1)Season stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+U18 Regional (Sweden U18 - Tier 2)Season stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+U16 SM (Sweden U16 - Tier 1)Season stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+U16 Regional (Sweden U16 - Tier 2)Season stats
+Team season stats
+Player nationalities
+Player birth cities
+Age metrics
+National Team TournamentsOlympicsTournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+Olympics (Women)Tournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+4-Nations Face-OffTournaments
+Team season stats
+All-time records
+Single season records
+Age metrics
+World CupTournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+Summit SeriesTournaments
+Team season stats
+All-time records
+Single season records
+Age metrics
+World ChampionshipsTournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+World Championships (Women)Tournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+European Championships (Women)Tournaments
+Team season stats
+Age metrics
+U20 World ChampionshipsTournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+U18 World ChampionshipsTournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+U18 World Championships (Women)Tournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+Hlinka Gretzky CupTournaments
+Team season stats
+Team all-time records
+Team tournament records
+All-time records
+Single tournament records
+Age metrics
+U18 European ChampionshipsTournaments
+Team season stats
+Age metrics
+Goodwill GamesTournaments
+Team season stats
+Age metrics
+All-Star GamesNHL All-Star GamesTeam season stats
+All-time records
+Single game records
+Player nationalities
+Age metrics
+KHL All-Star GamesTeam season stats
+All-time records
+Single game records
+Player nationalities
+Age metrics
+AHL All-Star GamesTeam season stats
+All-time records
+Single game records
+Player nationalities
+Age metrics

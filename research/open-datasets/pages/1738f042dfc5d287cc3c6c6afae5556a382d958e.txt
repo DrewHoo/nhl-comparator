@@ -1,0 +1,5 @@
+URL: http://archive.org/wayback/available?url=opensourcesports.com/hockey/
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+{"url": "opensourcesports.com/hockey/", "archived_snapshots": {"closest": {"status": "200", "available": true, "url": "http://web.archive.org/web/20260307184046/http://www.opensourcesports.com/hockey/", "timestamp": "20260307184046"}}}

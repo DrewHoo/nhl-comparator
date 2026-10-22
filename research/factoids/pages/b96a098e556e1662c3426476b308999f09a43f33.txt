@@ -1,0 +1,815 @@
+URL: https://en.wikipedia.org/wiki/2020–21_Buffalo_Sabres_season
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+2020–21 Buffalo Sabres season - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Off-season
+2
+Standings
+Toggle Standings subsection
+2.1
+Divisional standings
+3
+Schedule and results
+Toggle Schedule and results subsection
+3.1
+Regular season
+4
+Player statistics
+Toggle Player statistics subsection
+4.1
+Skaters
+4.2
+Goaltenders
+5
+Transactions
+Toggle Transactions subsection
+5.1
+Trades
+5.2
+Waivers
+6
+Draft picks
+7
+References
+Toggle the table of contents
+2020–21 Buffalo Sabres season
+1 language
+Français
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Professional ice hockey team season
+[[Don Granato]] (interim, Mar. 17 – May 8)"},"Captain":{"wt":"[[Jack Eichel]]"},"AltCaptain":{"wt":"[[Jake McCabe]]<br>[[Kyle Okposo]]"},"Arena":{"wt":"[[KeyBank Center]]"},"Attendance":{"wt":""},"MinorLeague":{"wt":"[[Rochester Americans]] ([[American Hockey League|AHL]])<br>[[Cincinnati Cyclones]] ([[ECHL]])"},"GoalsLeader":{"wt":"[[Sam Reinhart]] (25)"},"AssistsLeader":{"wt":"[[Victor Olofsson]] (19)"},"PointsLeader":{"wt":"Sam Reinhart (40)"},"PlusMinusLeader":{"wt":"[[Steven Fogarty]]<br>[[Jake McCabe]] (+2)"},"PIMLeader":{"wt":"[[Rasmus Ristolainen]] (36)"},"WinsLeader":{"wt":"[[Linus Ullmark]] (9)"},"GAALeader":{"wt":"Linus Ullmark (2.63)"},"DivisionWin":{"wt":""},"PresidentsTrophy":{"wt":""},"ConferenceWin":{"wt":""},"StanleyCup":{"wt":""}},"i":0}}]}'> 2020–21 Buffalo Sabres |
+Division | 8th East |
+2020–21 record | 15–34–7 |
+Home record | 8–16–4 |
+Road record | 7–18–3 |
+Goals for | 138 |
+Goals against | 199 |
+Team information |
+General manager | Kevyn Adams |
+Coach | Ralph Krueger (Jan. 14 – Mar. 17)
+Don Granato (interim, Mar. 17 – May 8) |
+Captain | Jack Eichel |
+Alternate captains | Jake McCabe
+Kyle Okposo |
+Arena | KeyBank Center |
+Minor league affiliates | Rochester Americans (AHL)
+Cincinnati Cyclones (ECHL) |
+Team leaders |
+Goals | Sam Reinhart (25) |
+Assists | Victor Olofsson (19) |
+Points | Sam Reinhart (40) |
+Penalty minutes | Rasmus Ristolainen (36) |
+Plus/minus | Steven Fogarty
+Jake McCabe (+2) |
+Wins | Linus Ullmark (9) |
+Goals against average | Linus Ullmark (2.63) |
+← 2019–20
+2021–22 →
+|
+The 2020–21 Buffalo Sabres season was the 51st season for the National Hockey League (NHL) franchise that was established on May 22, 1970.[1]
+On December 20, 2020, the league temporarily realigned into four divisions with no conferences due to the COVID-19 pandemic and the ongoing closure of the Canada–United States border. As a result of this realignment the Sabres played this season in the East Division and only played games against the other teams in their new division during the regular season.
+With an 18th consecutive loss on March 29, 2021, the Sabres equalled the NHL record for the longest losing streak in a season, tied with the 2003–04 Pittsburgh Penguins.[2] In that game, the Sabres blew a 3–0 lead and lost 4–3 in overtime.
+On April 17, the Sabres were eliminated from playoff contention after a 3–2 loss to the Pittsburgh Penguins, extending their playoff drought to ten seasons, tying an NHL record.[3]
+In the Sabres' 18-game losing streak, they were 0–15–3 (two overtime losses and one shootout loss). In the first 34 games, they went 6–23–5 (.250) for 17 points. In their final 22 games, they went 9–11–2 (.455), ultimately going 15–34–7 for 37 points. For the fourth time in eight seasons, the Sabres had the worst record in the whole NHL. Their .330 points percentage was their worst since 2014-15.
+Off-season
+[edit]
+The Sabres introduced three new jerseys for the season. On August 11, 2020, the Sabres revealed their new uniforms, which was an updated version of the team's original jerseys. The team reintroduced their original royal blue, gold, and white colors, which was worn by the team from 1970 to 1996.[4] On November 16, 2020, the NHL introduced Adidas "Reverse Retro" jerseys for all 31 teams, which feature throwback uniforms with a modern twist.[5] The Sabres' Reverse Retro jersey is a modern update to the team's first third jersey worn in 2000, with the exception being that it was done in the team's current colors on a white template.
+Standings
+[edit]
+Divisional standings
+[edit]
+East Division
+Pos |
+Team v
+t
+e
+|
+Games played</span>"}]]}'>GP |
+W |
+L |
+OTL |
+Regulation wins</span>"}]]}'>RW |
+GF |
+GA |
+GD |
+Pts |
+1 |
+y – Pittsburgh Penguins |
+56 |
+37 |
+16 |
+3 |
+29 |
+196 |
+156 |
++40 |
+77 |
+2 |
+x – Washington Capitals |
+56 |
+36 |
+15 |
+5 |
+29 |
+191 |
+163 |
++28 |
+77 |
+3 |
+x – Boston Bruins |
+56 |
+33 |
+16 |
+7 |
+25 |
+168 |
+136 |
++32 |
+73 |
+4 |
+x – New York Islanders |
+56 |
+32 |
+17 |
+7 |
+24 |
+156 |
+128 |
++28 |
+71 |
+| | | | | | | | | | |
+5 |
+New York Rangers |
+56 |
+27 |
+23 |
+6 |
+24 |
+177 |
+157 |
++20 |
+60 |
+6 |
+Philadelphia Flyers |
+56 |
+25 |
+23 |
+8 |
+17 |
+163 |
+201 |
+−38 |
+58 |
+7 |
+New Jersey Devils |
+56 |
+19 |
+30 |
+7 |
+15 |
+145 |
+194 |
+−49 |
+45 |
+8 |
+Buffalo Sabres |
+56 |
+15 |
+34 |
+7 |
+11 |
+138 |
+199 |
+−61 |
+37 |
+Source: National Hockey League[6]
+Rules for classification: 1) Fewer number of games played (GP, only during regular season); 2) Greater number of regulation wins (RW); 3) Greater number of wins in regulation and overtime, excluding shootout wins (ROW); 4) Greater number of total wins, including shootouts (W); 5) Greater number of points earned in head-to-head play; if teams played an uneven number of head-to-head games, the result of the first game on the home ice of the team with the extra home game is discarded; 6) Greater goal differential (GD); 7) Greater number of goals scored (GF)
+x – Clinched playoff spot; y – Clinched division
+Schedule and results
+[edit]
+Regular season
+[edit]
+The regular season schedule was published on December 23, 2020.[7]
+2020–21 game log |
+January: 4–4–2 (Home: 2–3–1; Road: 2–1–1) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+1 | January 14 | Washington | 6–4 | Buffalo | | Hutton | 0 | 0–1–0 | 0 | [8] |
+2 | January 15 | Washington | 2–1 | Buffalo | | Ullmark | 0 | 0–2–0 | 0 | [9] |
+3 | January 18 | Buffalo | 6–1 | Philadelphia | | Hutton | 0 | 1–2–0 | 2 | [10] |
+4 | January 19 | Buffalo | 0–3 | Philadelphia | | Hutton | 0 | 1–3–0 | 2 | [11] |
+5 | January 22 | Buffalo | 3–4 | Washington | SO | Ullmark | 0 | 1–3–1 | 3 | [12] |
+6 | January 24 | Buffalo | 4–3 | Washington | SO | Ullmark | 0 | 2–3–1 | 5 | [13] |
+7 | January 26 | NY Rangers | 2–3 | Buffalo | | Ullmark | 0 | 3–3–1 | 7 | [14] |
+8 | January 28 | NY Rangers | 3–2 | Buffalo | OT | Ullmark | 0 | 3–3–2 | 8 | [15] |
+9 | January 30 | New Jersey | 3–4 | Buffalo | SO | Ullmark | 0 | 4–3–2 | 10 | [16] |
+10 | January 31 | New Jersey | 5–3 | Buffalo | | Hutton | 0 | 4–4–2 | 10 | [17] |
+|
+February: 2–6–1 (Home: 1–4–1; Road: 1–2–0) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+— | February 2 | Buffalo | – | NY Islanders | Postponed due to COVID protocol.[18] Rescheduled for February 22. |
+— | February 4 | Buffalo | – | NY Islanders | Postponed due to COVID protocol.[19] Rescheduled for March 4. |
+— | February 6 | Buffalo | – | Boston | Postponed due to COVID protocol. Rescheduled for March 27. |
+— | February 8 | Buffalo | – | Boston | Postponed due to COVID protocol. Rescheduled for April 13. |
+— | February 11 | Washington | – | Buffalo | Postponed due to COVID protocol.[20] Rescheduled for March 15.[21] |
+— | February 13 | Washington | – | Buffalo | Postponed due to COVID protocol. Rescheduled for April 9.[21] |
+11 | February 15 | NY Islanders | 3–1 | Buffalo | | Ullmark | 0 | 4–5–2 | 10 | [22] |
+12 | February 16 | NY Islanders | 3–0 | Buffalo | | Hutton | 0 | 4–6–2 | 10 | [23] |
+13 | February 18 | Buffalo | 1–3 | Washington | | Ullmark | 0 | 4–7–2 | 10 | [24] |
+14 | February 20 | Buffalo | 3–2 | New Jersey | | Ullmark | 0 | 5–7–2 | 12 | [25] |
+15 | February 22 | Buffalo | 2–3 | NY Islanders | | Ullmark | 0 | 5–8–2 | 12 | [26] |
+16 | February 23 | Buffalo | 4–1 | New Jersey | | Ullmark | 0 | 6–8–2 | 14 | [27] |
+17 | February 25 | New Jersey | 4–3 | Buffalo | OT | Hutton | 0 | 6–8–3 | 15 | [28] |
+18 | February 27 | Philadelphia | 3–0 | Buffalo | | Hutton | 0 | 6–9–3 | 15 | [29] |
+19 | February 28 | Philadelphia | 3–0 | Buffalo | | Johansson | 0 | 6–10–3 | 15 | [30] |
+|
+March: 1–13–2 (Home: 1–4–1; Road: 0–9–1) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+20 | March 2 | Buffalo | 2–3 | NY Rangers | | Hutton | 1,800 | 6–11–3 | 15 | [31] |
+21 | March 4 | Buffalo | 2–5 | NY Islanders | | Johansson | 0 | 6–12–3 | 15 | [32] |
+22 | March 6 | Buffalo | 2–5 | NY Islanders | | Hutton | 0 | 6–13–3 | 15 | [33] |
+23 | March 7 | Buffalo | 2–5 | NY Islanders | | Johansson | 0 | 6–14–3 | 15 | [34] |
+24 | March 9 | Buffalo | 4–5 | Philadelphia | SO | Johansson | 2,838 | 6–14–4 | 16 | [35] |
+25 | March 11 | Pittsburgh | 5–2 | Buffalo | | Johansson | 0 | 6–15–4 | 16 | [36] |
+26 | March 13 | Pittsburgh | 3–0 | Buffalo | | Hutton | 0 | 6–16–4 | 16 | [37] |
+27 | March 15 | Washington | 6–0 | Buffalo | | Hutton | 0 | 6–17–4 | 16 | [38] |
+28 | March 16 | Buffalo | 2–3 | New Jersey | | Johansson | 1,800 | 6–18–4 | 16 | [39] |
+29 | March 18 | Boston | 4–1 | Buffalo | | Hutton | 0 | 6–19–4 | 16 | [40] |
+— | March 20 | Boston | – | Buffalo | | Postponed due to COVID protocol.[41] Rescheduled for April 20.[42] |
+30 | March 22 | Buffalo | 3–5 | NY Rangers | | Tokarski | 1,800 | 6–20–4 | 16 | [43] |
+31 | March 24 | Buffalo | 2–5 | Pittsburgh | | Tokarski | 2,800 | 6–21–4 | 16 | [44] |
+32 | March 25 | Buffalo | 0–4 | Pittsburgh | | Tokarski | 2,800 | 6–22–4 | 16 | [45] |
+33 | March 27 | Buffalo | 2–3 | Boston | | Ullmark | 2,191 | 6–23–4 | 16 | [46] |
+34 | March 29 | Philadelphia | 4–3 | Buffalo | OT | Ullmark | 0 | 6–23–5 | 17 | [47] |
+35 | March 31 | Philadelphia | 1–6 | Buffalo | | Ullmark | 0 | 7–23–5 | 19 | [48] |
+|
+April: 6–8–2 (Home: 3–5–1; Road: 3–3–1) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+36 | April 1 | NY Rangers | 3–2 | Buffalo | OT | Tokarski | 0 | 7–23–6 | 20 | [49] |
+37 | April 3 | NY Rangers | 2–3 | Buffalo | SO | Ullmark | 302[50] | 8–23–6 | 22 | [51] |
+38 | April 6 | Buffalo | 5–3 | New Jersey | | Ullmark | 3,600 | 9–23–6 | 24 | [52] |
+39 | April 8 | New Jersey | 6–3 | Buffalo | | Ullmark | 0 | 9–24–6 | 24 | [53] |
+40 | April 9 | Washington | 4–3 | Buffalo | | Tokarski | —[a] | 9–25–6 | 24 | [54] |
+41 | April 11 | Buffalo | 5–3 | Philadelphia | | Ullmark | 3,250 | 10–25–6 | 26 | [55] |
+42 | April 13 | Buffalo | 2–3 | Boston | SO | Tokarski | 2,191 | 10–25–7 | 27 | [56] |
+43 | April 15 | Buffalo | 5–2 | Washington | | Tokarski | 0 | 11–25–7 | 29 | [57] |
+44 | April 17 | Pittsburgh | 3–2 | Buffalo | | Tokarski | —[a] | 11–26–7 | 29 | [58] |
+45 | April 18 | Pittsburgh | 2–4 | Buffalo | | Tokarski | 0 | 12–26–7 | 31 | [59] |
+46 | April 20 | Boston | 2–0 | Buffalo | | Tokarski | 0 | 12–27–7 | 31 | [60] |
+47 | April 22 | Boston | 5–1 | Buffalo | | Tokarski | 0 | 12–28–7 | 31 | [61] |
+48 | April 23 | Boston | 4–6 | Buffalo | | Luukkonen | —[a] | 13–28–7 | 33 | [62] |
+49 | April 25 | Buffalo | 3–6 | NY Rangers | | Tokarski | 1,800 | 13–29–7 | 33 | [63] |
+50 | April 27 | Buffalo | 1–3 | NY Rangers | | Luukkonen | 1,796 | 13–30–7 | 33 | [64] |
+51 | April 29 | Buffalo | 2–5 | Boston | | Luukkonen | 2,191 | 13–31–7 | 33 | [65] |
+|
+May: 2–3–0 (Home: 2–0–0; Road: 0–3–0) |
+# | Date | Visitor | Score | Home | OT | Decision | Attendance | Record | Pts | Recap |
+52 | May 1 | Buffalo | 2–6 | Boston | | Luukkonen | 2,191 | 13–32–7 | 33 | [66] |
+53 | May 3 | NY Islanders | 2–4 | Buffalo | | Houser | 0 | 14–32–7 | 35 | [67] |
+54 | May 4 | NY Islanders | 3–4 | Buffalo | SO | Houser | 0 | 15–32–7 | 37 | [68] |
+55 | May 6 | Buffalo | 4–8 | Pittsburgh | | Houser | 4,672 | 15–33–7 | 37 | [69] |
+56 | May 8 | Buffalo | 0–1 | Pittsburgh | | Houser | 4,672 | 15–34–7 | 37 | [70] |
+|
+Legend:
+Win (2 points)
+Loss (0 points)
+Overtime/shootout loss (1 point)
+Postponement
+|
+Player statistics
+[edit]
+Skaters
+[edit]
+Regular season[71]
+Player |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Goals</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":0}}]}'>G |
+Assists</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":0}}]}'>A |
+Points</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"Pts"},"2":{"wt":"Points"}},"i":0}}]}'>Pts |
+Plus/minus</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"+/−"},"2":{"wt":"Plus/minus"}},"i":0}}]}'>+/− |
+Penalty minutes</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty minutes"}},"i":0}}]}'>PIM |
+Sam Reinhart | 54 | 25 | 15 | 40 | −28 | 10 |
+Victor Olofsson | 56 | 13 | 19 | 32 | −23 | 6 |
+Rasmus Dahlin | 56 | 5 | 18 | 23 | −36 | 26 |
+Casey Mittelstadt | 41 | 10 | 12 | 22 | −10 | 10 |
+Taylor Hall‡ | 37 | 2 | 17 | 19 | −21 | 24 |
+Rasmus Ristolainen | 49 | 4 | 14 | 18 | −18 | 36 |
+Jack Eichel | 21 | 2 | 16 | 18 | −9 | 6 |
+Tage Thompson | 38 | 8 | 6 | 14 | −6 | 17 |
+Jeff Skinner | 53 | 7 | 7 | 14 | −11 | 14 |
+Brandon Montour‡ | 38 | 5 | 9 | 14 | −13 | 24 |
+Riley Sheahan | 53 | 4 | 9 | 13 | −8 | 8 |
+Dylan Cozens | 41 | 4 | 9 | 13 | −15 | 16 |
+Kyle Okposo | 35 | 2 | 11 | 13 | −1 | 0 |
+Colin Miller | 48 | 4 | 8 | 12 | −20 | 27 |
+Rasmus Asplund | 28 | 7 | 4 | 11 | +1 | 0 |
+Eric Staal‡ | 32 | 3 | 7 | 10 | −20 | 8 |
+Curtis Lazar‡ | 33 | 5 | 4 | 9 | −4 | 0 |
+Jacob Bryson | 38 | 1 | 8 | 9 | −1 | 12 |
+Henri Jokiharju | 46 | 3 | 5 | 8 | −11 | 4 |
+Tobias Rieder | 44 | 5 | 2 | 7 | −9 | 2 |
+Cody Eakin | 46 | 3 | 4 | 7 | −9 | 14 |
+Arttu Ruotsalainen | 17 | 5 | 1 | 6 | −9 | 8 |
+Anders Bjork† | 15 | 3 | 3 | 6 | −5 | 4 |
+Drake Caggiula† | 11 | 2 | 1 | 3 | −5 | 4 |
+Jake McCabe | 13 | 1 | 2 | 3 | +2 | 9 |
+Steven Fogarty | 9 | 1 | 2 | 3 | +2 | 8 |
+Mattias Samuelsson | 12 | 0 | 2 | 2 | −8 | 4 |
+Matt Irwin | 24 | 0 | 2 | 2 | −10 | 19 |
+Will Borgen | 10 | 0 | 0 | 0 | −4 | 4 |
+Brandon Davidson | 6 | 0 | 0 | 0 | −4 | 4 |
+C. J. Smith | 1 | 0 | 0 | 0 | 0 | 0 |
+Jean-Sebastien Dea | 1 | 0 | 0 | 0 | −1 | 2 |
+Brett Murray | 2 | 0 | 0 | 0 | +1 | 0 |
+Goaltenders
+[edit]
+Regular season[72]
+Player |
+Games played</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GP"},"2":{"wt":"Games played"}},"i":0}}]}'>GP |
+Games started</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GS"},"2":{"wt":"Games started"}},"i":0}}]}'>GS |
+Time on ice</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"TOI"},"2":{"wt":"Time on ice"}},"i":0}}]}'>TOI |
+Win</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"W"},"2":{"wt":"Win"}},"i":0}}]}'>W |
+Loss</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"L"},"2":{"wt":"Loss"}},"i":0}}]}'>L |
+Overtime loss</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"OT"},"2":{"wt":"Overtime loss"}},"i":0}}]}'>OT |
+Goals against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GA"},"2":{"wt":"Goals against"}},"i":0}}]}'>GA |
+Goals against average</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"GAA"},"2":{"wt":"Goals against average"}},"i":0}}]}'>GAA |
+Shots against</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SA"},"2":{"wt":"Shots against"}},"i":0}}]}'>SA |
+Save percentage</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SV%"},"2":{"wt":"Save percentage"}},"i":0}}]}'>SV% |
+Shutouts</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"SO"},"2":{"wt":"Shutouts"}},"i":0}}]}'>SO |
+Goals</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"G"},"2":{"wt":"Goals"}},"i":0}}]}'>G |
+Assists</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"A"},"2":{"wt":"Assists"}},"i":0}}]}'>A |
+Penalty minutes</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"PIM"},"2":{"wt":"Penalty minutes"}},"i":0}}]}'>PIM |
+Linus Ullmark | 20 | 20 | 1,117:05 | 9 | 6 | 3 | 49 | 2.63 | 591 | .917 | 0 | 0 | 0 | 0 |
+Dustin Tokarski | 13 | 10 | 729:26 | 2 | 8 | 2 | 43 | 3.54 | 447 | .904 | 0 | 0 | 1 | 0 |
+Michael Houser | 4 | 4 | 243:02 | 2 | 2 | 0 | 14 | 3.46 | 141 | .901 | 0 | 0 | 0 | 0 |
+Ukko-Pekka Luukkonen | 4 | 4 | 216:42 | 1 | 3 | 0 | 14 | 3.88 | 149 | .906 | 0 | 0 | 0 | 0 |
+Carter Hutton | 13 | 12 | 674:43 | 1 | 10 | 1 | 39 | 3.47 | 341 | .886 | 0 | 0 | 0 | 0 |
+Jonas Johansson‡ | 7 | 6 | 379:53 | 0 | 5 | 1 | 24 | 3.79 | 207 | .884 | 0 | 0 | 0 | 0 |
+†Denotes player spent time with another team before joining the Sabres. Stats reflect time with the Sabres only.
+‡Denotes player was traded mid-season. Stats reflect time with the Sabres only.
+Bold/italics denotes franchise record.
+Transactions
+[edit]
+Trades
+[edit]
+Date | Details | Ref |
+September 16, 2020 (2020-09-16) |
+To Minnesota WildMarcus Johansson |
+To Buffalo SabresEric Staal |
+[73] |
+October 7, 2020 (2020-10-07) |
+To San Jose Sharks2nd-round pick in 20204th-round pick in 2020 |
+To Buffalo Sabres2nd-round pick in 2020 |
+[74] |
+March 20, 2021 (2021-03-20) |
+To Colorado AvalancheJonas Johansson |
+To Buffalo Sabres6th-round pick in 2021 |
+[75] |
+March 26, 2021 (2021-03-26) |
+To Montreal CanadiensEric Staal |
+To Buffalo Sabres3rd-round pick in 20215th-round pick in 2021 |
+[76] |
+April 10, 2021 (2021-04-10) |
+To Florida PanthersBrandon Montour |
+To Buffalo Sabres3rd-round pick in 2021 |
+[77] |
+April 12, 2021 (2021-04-12) |
+To Boston BruinsTaylor HallCurtis Lazar |
+To Buffalo SabresAnders Bjork2nd-round pick in 2021 |
+[78] |
+Waivers
+[edit]
+Date | Player | Team | Ref |
+April 9, 2021 (2021-04-09) | Drake Caggiula | from Arizona Coyotes | [79] |
+Draft picks
+[edit]
+See also: List of Buffalo Sabres draft picks
+Below are the Buffalo Sabres' selections at the 2020 NHL entry draft, which was originally scheduled for June 26–27, 2020 at the Bell Center in Montreal, but was postponed on March 25, 2020, due to the COVID-19 pandemic. It was held October 6–7, 2020 virtually via Video conference call from the NHL Network studio in Secaucus, New Jersey.
+Round |
+# |
+Player |
+Pos |
+Nationality |
+College/Junior/Club team (League) |
+1 |
+8 |
+Jack Quinn |
+RW |
+Canada |
+Ottawa 67s (OHL) |
+2 |
+341 |
+John-Jason Peterka |
+LW |
+Germany |
+EHC Red Bull Munchen (DEL) |
+5 |
+131 |
+Matteo Costantini |
+C |
+Canada |
+Buffalo Jr. Sabres (OJHL) |
+7 |
+193 |
+Albert Lyckasen |
+D |
+Sweden |
+Vita Hasten (HockeyAllsvenskan) |
+7 |
+2162 |
+Jakub Konečný |
+C |
+Czech Republic |
+Sparta Jr. (U20 Extraliga) |
+Notes:
+The San Jose Sharks' second-round pick went to the Buffalo Sabres as the result of a trade on October 7, 2020, that sent a second and fourth-round pick both in 2020 (38th and 100th overall) to San Jose in exchange for this pick.[80]
+The Dallas Stars' seventh-round pick went to the Buffalo Sabres as the result of a trade on November 10, 2018, that sent Taylor Fedun to Dallas in exchange for this pick (being conditional at the time of the trade).[81] The condition – Buffalo will receive a seventh-round pick in 2020 if Fedun plays in 25 games during the 2018–19 NHL season and 2019 Stanley Cup playoffs combined[81] – was converted on January 17, 2019.
+References
+[edit]
+↑ National Hockey League (2010). The National Hockey League Official Guide & Record Book/2011. Triumph Books. p. 27. ISBN 978-1-60078-422-4.
+↑ "Buffalo Sabres' winless streak hits 18 games after collapse in third period against Philadelphia Flyers". ESPN.com. March 29, 2021. Retrieved March 29, 2021.
+↑ "Penguins hold off Sabres, run point streak to five". NHL.com. April 17, 2021. Retrieved April 17, 2021.
+↑ "Sabres bring back beloved royal blue, charging buffalo uniforms". NHL.com. August 11, 2020. Retrieved August 12, 2020.
+↑ "Reverse Retro alternate jerseys for all 31 teams unveiled by NHL, adidas". NHL.com. November 16, 2020. Retrieved November 16, 2020.
+↑ "NHL Hockey Standings". www.nhl.com. National Hockey League.
+↑ "2020-21 NHL schedule announced". NHL.com. December 23, 2020. Retrieved December 26, 2020.
+↑ "Washington Capitals - Buffalo Sabres - January 14th, 2021". NHL.com.
+↑ "Washington Capitals - Buffalo Sabres - January 15th, 2021". NHL.com.
+↑ "Buffalo Sabres - Philadelphia Flyers - January 18th, 2021". NHL.com.
+↑ "Buffalo Sabres - Philadelphia Flyers - January 19th, 2021". NHL.com.
+↑ "Buffalo Sabres - Washington Capitals - January 22nd, 2021". NHL.com.
+↑ "Buffalo Sabres - Washington Capitals - January 24th, 2021". NHL.com.
+↑ "New York Rangers - Buffalo Sabres - January 26th, 2021". NHL.com.
+↑ "New York Rangers - Buffalo Sabres - January 28th, 2021". NHL.com.
+↑ "New Jersey Devils - Buffalo Sabres - January 30th, 2021". NHL.com.
+↑ "New Jersey Devils - Buffalo Sabres - January 31st, 2021". NHL.com.
+↑ "Sabres game at Islanders postponed due to NHL COVID-19 protocol". NHL.com. February 2, 2021. Retrieved February 2, 2021.
+↑ "Sabres games postponed through Monday due to NHL COVID-19 protocol". NHL.com. February 2, 2021. Retrieved February 2, 2021.
+↑ "NHL postpones additional Devils, Sabres, Wild games due to COVID-19". NHL.com. February 8, 2021. Retrieved February 8, 2021.
+1 2 "NHL announces updates to regular-season schedule". NHL.com. February 16, 2021. Retrieved February 17, 2021.
+↑ "New York Islanders - Buffalo Sabres - February 15th, 2021". NHL.com.
+↑ "New York Islanders - Buffalo Sabres - February 16th, 2021". NHL.com.
+↑ "Buffalo Sabres - Washington Capitals - February 18th, 2021". NHL.com.
+↑ "Buffalo Sabres - New Jersey Devils - February 20th, 2021". NHL.com.
+↑ "Buffalo Sabres - New York Islanders - February 22nd, 2021". NHL.com.
+↑ "Buffalo Sabres - New Jersey Devils - February 23rd, 2021". NHL.com.
+↑ "New Jersey Devils - Buffalo Sabres - February 25th, 2021". NHL.com.
+↑ "Philadelphia Flyers - Buffalo Sabres - February 27th, 2021". NHL.com.
+↑ "Philadelphia Flyers - Buffalo Sabres - February 28th, 2021". NHL.com.
+↑ "Buffalo Sabres - New York Rangers - March 2nd, 2021". NHL.com.
+↑ "Buffalo Sabres - New York Islanders - March 4th, 2021". NHL.com.
+↑ "Buffalo Sabres - New York Islanders - March 6th, 2021". NHL.com.
+↑ "Buffalo Sabres - New York Islanders - March 7th, 2021". NHL.com.
+↑ "Buffalo Sabres - Philadelphia Flyers - March 9th, 2021". NHL.com.
+↑ "Pittsburgh Penguins - Buffalo Sabres - March 11th, 2021". NHL.com.
+↑ "Pittsburgh Penguins - Buffalo Sabres - March 13th, 2021". NHL.com.
+↑ "Washington Capitals - Buffalo Sabres - March 15th, 2021". NHL.com.
+↑ "Buffalo Sabres - New Jersey Devils - March 16th, 2021". NHL.com.
+↑ "Boston Bruins - Buffalo Sabres - March 18th, 2021". NHL.com.
+↑ "Bruins have two games postponed; four players added to COVID-19 protocol". NHL.com. March 19, 2021. Retrieved March 19, 2021.
+↑ "NHL announces updates to 2020-21 regular-season schedule". NHL.com. March 28, 2021. Retrieved March 28, 2021.
+↑ "Buffalo Sabres - New York Rangers - March 22nd, 2021". NHL.com.
+↑ "Buffalo Sabres - Pittsburgh Penguins - March 24th, 2021". NHL.com.
+↑ "Buffalo Sabres - Pittsburgh Penguins - March 25th, 2021". NHL.com.
+↑ "Buffalo Sabres - Boston Bruins - March 27th, 2021". NHL.com.
+↑ "Philadelphia Flyers - Buffalo Sabres - March 29th, 2021". NHL.com.
+↑ "Philadelphia Flyers - Buffalo Sabres - March 31st, 2021". NHL.com.
+↑ "New York Rangers - Buffalo Sabres - April 1st, 2021". NHL.com.
+↑ Anstey, Evan (April 5, 2021). Only hundreds watched Sabres beat Rangers on Saturday. WIVB-TV. Retrieved April 5, 2021.
+↑ "New York Rangers - Buffalo Sabres - April 3rd, 2021". NHL.com.
+↑ "Buffalo Sabres - New Jersey Devils - April 6th, 2021". NHL.com.
+↑ "New Jersey Devils - Buffalo Sabres - April 8th, 2021". NHL.com.
+↑ "Washington Capitals - Buffalo Sabres - April 9th, 2021". NHL.com.
+↑ "Buffalo Sabres - Philadelphia Flyers - April 11th, 2021". NHL.com.
+↑ "Buffalo Sabres - Boston Bruins - April 13th, 2021". NHL.com.
+↑ "Buffalo Sabres - Washington Capitals - April 15th, 2021". NHL.com.
+↑ "Pittsburgh Penguins - Buffalo Sabres - April 17th, 2021". NHL.com.
+↑ "Pittsburgh Penguins - Buffalo Sabres - April 18th, 2021". NHL.com.
+↑ "Boston Bruins - Buffalo Sabres - April 20th, 2021". NHL.com.
+↑ "Boston Bruins - Buffalo Sabres - April 22nd, 2021". NHL.com.
+↑ "Boston Bruins - Buffalo Sabres - April 23rd, 2021". NHL.com.
+↑ "Buffalo Sabres - New York Rangers - April 25th, 2021". NHL.com.
+↑ "Buffalo Sabres - New York Rangers - April 27th, 2021". NHL.com.
+↑ "Buffalo Sabres - Boston Bruins - April 29th, 2021". NHL.com.
+↑ "Buffalo Sabres - Boston Bruins - May 1st, 2021". NHL.com.
+↑ "New York Islanders - Buffalo Sabres - May 3rd, 2021". NHL.com.
+↑ "New York Islanders - Buffalo Sabres - May 4th, 2021". NHL.com.
+↑ "Buffalo Sabres - Pittsburgh Penguins - May 6th, 2021". NHL.com.
+↑ "Buffalo Sabres - Pittsburgh Penguins - May 8th, 2021". NHL.com.
+↑ "2020–21 Buffalo Sabres Stats – Skaters". NHL.com. Retrieved May 9, 2021.
+↑ "2020–21 Buffalo Sabres Stats – Goalies". NHL.com. Retrieved May 9, 2021.
+↑ "Sabres acquire Eric Staal from Wild". NHL.com. September 16, 2020.
+↑ @BuffaloSabres (October 7, 2020). "We have acquired the 34th pick from the @SanJoseSharks in exchange for the 38th pick and the 100th pick in the 2020 #NHLDraft" (Tweet) – via Twitter.
+↑ "Johansson traded to Avalanche from Sabres". NHL.com. March 20, 2021.
+↑ "Sabres acquire draft picks in trade with Canadiens". NHL.com. March 26, 2021.
+↑ "Sabres acquire 3rd-round pick from Panthers for Montour". NHL.com. April 10, 2021. Archived from the original on April 10, 2021.
+↑ "Sabres acquire Bjork, 2nd-round draft pick from Bruins for Hall, Lazar". NHL.com. April 12, 2021. Archived from the original on April 12, 2021.
+↑ "Sabers claim Caggiula off waivers". NHL.com. April 9, 2021. Retrieved April 17, 2021.
+↑ "Sharks Conclude 2020 NHL Draft with Nine Selections". October 7, 2020. Retrieved October 7, 2020.
+1 2 "Stars acquire defenseman Taylor Fedun from Sabres". November 10, 2018. Retrieved November 10, 2018.
+1 2 3 Spectators were in attendance, but the exact number was not reported.
+v
+t
+e
+Buffalo Sabres
+|
+Founded in 1970
+Based in Buffalo, New York
+|
+Franchise |
+Team
+General managers
+Coaches
+Players
+Captains
+Draft picks
+expansion draft
+Seasons
+Current season
+|
+History |
+Records
+Award winners
+Retired numbers
+Broadcasters
+|
+Personnel |
+Owner(s)
+Terry Pegula
+General manager
+Jarmo Kekäläinen
+Head coach
+Lindy Ruff
+Team captain
+Rasmus Dahlin
+Current roster
+|
+Arenas |
+Buffalo Memorial Auditorium
+KeyBank Center
+|
+Affiliates |
+AHL
+Rochester Americans
+ECHL
+Jacksonville Icemen
+|
+Media |
+TV
+MSG Western New York
+Bell Satellite TV
+Radio
+Sabres Hockey Network
+WGR/WGR-FM
+|
+Culture and lore |
+The French Connection
+Seymour and Northrup Knox
+Ted Darling
+Rick Jeanneret
+Taro Tsujimoto
+Ronan Tynan
+Ryan Vinz
+Hockey Night Live!
+LECOM Harborcenter
+Buffalo Sabres Alumni Hockey Team
+Buffalo Jr. Sabres
+Buffalo Bandits
+Sabretooth
+"Sabre Dance"
+Empire Sports Network
+The Fog Game
+No Goal
+2008 Winter Classic
+2011 NHL Premiere
+2018 Winter Classic
+2022 Heritage Classic
+|
+Category
+Commons
+|
+v
+t
+e
+Buffalo Sabres seasons
+|
+1970s |
+1970–71
+1971–72
+1972–73
+1973–74
+1974–75
+1975–76
+1976–77
+1977–78
+1978–79
+1979–80
+|
+1980s |
+1980–81
+1981–82
+1982–83
+1983–84
+1984–85
+1985–86
+1986–87
+1987–88
+1988–89
+1989–90
+|
+1990s |
+1990–91
+1991–92
+1992–93
+1993–94
+1994–95
+1995–96
+1996–97
+1997–98
+1998–99
+1999–00
+|
+2000s |
+2000–01
+2001–02
+2002–03
+2003–04
+2004–05
+2005–06
+2006–07
+2007–08
+2008–09
+2009–10
+|
+2010s |
+2010–11
+2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+2018–19
+2019–20
+|
+2020s |
+2020–21
+2021–22
+2022–23
+2023–24
+2024–25
+2025–26
+2026–27
+|
+v
+t
+e
+2020–21 NHL season
+|
+North |
+Calgary
+Edmonton
+Montreal
+Ottawa
+Toronto
+Vancouver
+Winnipeg
+|
+West |
+Anaheim
+Arizona
+Colorado
+Los Angeles
+Minnesota
+San Jose
+St. Louis
+Vegas
+|
+Central |
+Carolina
+Chicago
+Columbus
+Dallas
+Detroit
+Florida
+Nashville
+Tampa Bay
+|
+East |
+Boston
+Buffalo
+New Jersey
+NY Islanders
+NY Rangers
+Philadelphia
+Pittsburgh
+Washington
+|
+See also |
+Draft
+NHL Outdoors at Lake Tahoe
+Stanley Cup playoffs
+Stanley Cup Final
+Transactions
+Three Star Awards
+Suspensions and fines
+|
+Retrieved from "https://en.wikipedia.org/w/index.php?title=2020–21_Buffalo_Sabres_season&oldid=1366205776"
+Categories: 2020–21 NHL season by team
+Buffalo Sabres seasons
+2020 in sports in New York (state)
+2021 in sports in New York (state)
+2020s in Buffalo, New York
+Hidden categories: Articles with short description
+Short description matches Wikidata
+Use American English from March 2026
+All Wikipedia articles written in American English
+Use mdy dates from August 2023
+Articles with hCards
+This page was last edited on 26 July 2026, at 21:25 (UTC).
+Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+2020–21 Buffalo Sabres season
+1 language
+Add topic

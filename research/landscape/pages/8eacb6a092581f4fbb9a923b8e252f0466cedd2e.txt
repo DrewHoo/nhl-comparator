@@ -1,0 +1,162 @@
+URL: https://en.wikipedia.org/wiki/Plus%E2%80%93minus_(sports)
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+Plus–minus (sports) - Wikipedia
+Jump to content
+Main menu
+ Main menu
+ move to sidebar
+ hide
+ Navigation
+ Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+ Contribute
+ Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+ Search
+Appearance
+ Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+ Contents
+ move to sidebar
+ hide
+ (Top)
+ 1
+ Ice hockey
+ Toggle Ice hockey subsection
+ 1.1
+ History
+ 1.2
+ Situational plus–minus
+ 1.3
+ Awards
+ 2
+ Basketball
+ 3
+ Association football
+ 4
+ References
+Toggle the table of contents
+ Plus–minus (sports)
+12 languages
+ Dansk
+Deutsch
+Suomi
+Français
+Hrvatski
+Magyar
+Italiano
+日本語
+Nederlands
+Русский
+Svenska
+Українська
+ Edit links
+ Article
+Talk
+ English
+ Read
+Edit
+View history
+Tools
+ Tools
+ move to sidebar
+ hide
+ Actions
+Read
+Edit
+View history
+ General
+ What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+ Print/export
+ Download as PDF
+Printable version
+ In other projects
+ Wikidata item
+ Appearance
+ move to sidebar
+ hide
+ From Wikipedia, the free encyclopedia
+ Sports statistic used to measure a player's impact on the game
+ This article is about the measure of an individual player's impact on the game. For the team-based plus-minus statistic, see Goal difference.
+A table of NHL season stats for a player, including ± values
+Plus−minus (+/−, ±, plus/minus) is a sports statistic used to measure a player's impact, represented by the difference between their team's total scoring versus their opponent's when the player is in the game.
+Ice hockey
+[edit]
+In ice hockey, the plus–minus measures a player's goal differential. When a team that is at even-strength or shorthanded scores a goal, all players on the ice on the scoring team will register a plus while all players on the conceding team on the ice will register a minus. When a goal is scored by a team on the power play, no plus or minus points are awarded to either team. Empty net situations are treated the same as even-strength unless the team that scores is on the power play.[1] Penalty shot goals are excluded.
+A player's plus−minus statistic is calculated for each game played. The statistic is directly affected by overall team performance, influenced by both the offensive and defensive performance of the team as a whole. However, there is controversy in the effectiveness of the plus−minus statistic's ability to accurately convey a player's individual performance.
+History
+[edit]
+The plus/minus statistic was first used in the 1950s by the Montreal Canadiens, a National Hockey League (NHL) team, for evaluating its own players.[2] Plus-minus was hockey's first enhanced statistic, becoming an official NHL statistic in 1959-60.[3]
+Situational plus–minus
+[edit]
+There are some drawbacks to the traditional calculation of the plus–minus statistic in ice hockey. Not all types of goals are included, specifically power play goals. Every goal included in the calculation is weighted the same regardless of the situation - even strength, power play, short-handed or empty net. Also, traditional plus–minus is not applied to goaltenders.
+Situational plus–minus (Sit +/−) is an alternative calculation that takes into account all types of "team-based" goals, which excludes only penalty shot and shootout goals. Each goal is weighted based on the number of skaters (i.e. not goaltenders) on the ice. The plus–minus rating is calculated by dividing the number of skaters on the ice for the team scored upon by the number of skaters on the ice for the scoring team, applied as a plus to all players (including goaltenders) on the ice for the scoring team and as a minus for all players (including goaltenders) on the ice for the team scored upon.[4]
+Awards
+[edit]
+The NHL introduced the Plus-Minus Award in the 1982-83 season, awarded to the top plus player for that season that played in at least 60 games. The award was named the Emery Edge Award and was won in the inaugural season by Charlie Huddy of the Edmonton Oilers.
+The award was last given for the 2007-08 season. At this point the award was named Bud Light Plus/Minus Award and was won by Pavel Datsyuk of the Detroit Red Wings.[5]
+Basketball
+[edit]
+Although the statistic was pioneered in the sport of hockey, it has found its way into use in other sports and areas of life. In basketball, the NBA's Houston Rockets first utilized a modified version of the stat, which indicated that Shane Battier, who had a plus–minus score of plus 10, was a much more effective player than had been previously believed.[6]
+Association football
+[edit]
+A plus−minus statistic has been used in sports economics to analyze the degree of competitive balance over time in association football.[7]
+References
+[edit]
+↑ Jones, Wayne (January 12, 2020). "What does plus minus (±) mean in hockey? (with stats)". Hockey Answered. Retrieved November 22, 2023.
+↑ "What Is the Plus/Minus Statistic in Hockey and How Is It Calculated?". LiveAbout. Retrieved October 26, 2023.
+↑ "NHL Stats". NHL.com. Retrieved April 27, 2024.
+↑ "Learn More". PlusMinusLine.com. Retrieved November 24, 2019.
+↑ Randle, Justin (August 17, 2022). "What is the Plus/Minus stat in Hockey? (with Examples)". Busy Playing Hockey!. Retrieved October 26, 2023.
+↑ Lewis, Michael (February 13, 2009). "The No-Stats All-Star". The New York Times.
+↑ Sittl, Roman; Warnke, Arne Jonas (2016). "Competitive balance and assortative matching: Data from the German Bundesliga". VoxEU.org.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Plus–minus_(sports)&oldid=1380760617"
+ Categories: Ice hockey records and statistics
+Ice hockey terminology
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Use mdy dates from January 2020
+ This page was last edited on 17 October 2026, at 18:24 (UTC).
+ Page was rendered with Parsoid.
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ Privacy policy
+ About Wikipedia
+ Disclaimers
+ Contact Wikipedia
+ Legal & safety contacts
+ Code of Conduct
+ Developers
+ Statistics
+ Cookie statement
+ Mobile view
+Search
+ Search
+Toggle the table of contents
+ Plus–minus (sports)
+12 languages
+Add topic

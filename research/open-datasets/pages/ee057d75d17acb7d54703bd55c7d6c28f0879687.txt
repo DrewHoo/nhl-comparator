@@ -1,0 +1,80 @@
+URL: https://www.frdr-dfdr.ca/repo/dataset/0adc52fb-61b7-472e-be69-43475c756e72
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+ Computational Logic Lab NHL Data | FRDR-DFDR 
+ Skip Navigation 
+ Search for datasets 
+ Français 
+ Search for datasets 
+ Français 
+ Help 
+ Get An Account 
+ Documentation 
+ Policies 
+ FAQ 
+ Video Tutorials 
+ About 
+ Our mission 
+ Our features 
+ Our team 
+ Our partners 
+ Our journey 
+ Why Publish on FRDR? 
+ Metrics 
+ Contact Us 
+ Log In 
+ Have an account? 
+ &raquo; Log In 
+ New to FRDR? 
+ &raquo; Start here 
+ &raquo; Watch Video: Get Started with FRDR 
+How to Download
+FRDR offers multiple ways to download datasets. Learn more in our documentation. 
+Computational Logic Lab NHL Data
+ Contact Dataset Administrator
+ Abstract: This&#x20;dataset&#x20;contains&#x20;the&#x20;complete&#x20;National&#x20;Hockey&#x20;League&#x20;play-by-play&#x20;data&#x20;from&#x20;2001-2014&#x20;as&#x20;provided&#x20;by&#x20;nhl.com,&#x20;plus&#x20;the&#x20;analysis&#x20;performed&#x20;by&#x20;the&#x20;SFU&#x20;Computational&#x20;Logic&#x20;Lab.&#x20;In&#x20;the&#x20;7z&#x20;archive&#x20;are&#x20;four&#x20;MySQL&#x20;dumps&#x20;which&#x20;can&#x20;be&#x20;loaded&#x20;back&#x20;into&#x20;a&#x20;live&#x20;database,&#x20;as&#x20;well&#x20;as&#x20;CSV&#x20;exports&#x20;of&#x20;each&#x20;individual&#x20;database&#x20;table.&#x20;Note:&#x20;Before&#x20;2007,&#x20;the&#x20;data&#x20;is&#x20;not&#x20;well&#x20;standardized&#x20;and&#x20;does&#x20;not&#x20;include&#x20;complete&#x20;information&#x20;about&#x20;which&#x20;players&#x20;were&#x20;on&#x20;the&#x20;ice&#x20;at&#x20;a&#x20;given&#x20;time.
+&#x0A;
+&#x0A;This&#x20;dataset&#x20;was&#x20;original&#x20;deposited&#x20;in&#x20;the&#x20;Simon&#x20;Fraser&#x20;University&#x20;institutional&#x20;repository. 
+ Authors: Schulte,&#x20;Oliver; Simon Fraser University 
+ Keywords: NHL 
+ Field of Research: 
+ Computer and information sciences
+ >
+ Theoretical computer science and computational mathematics
+ >
+ Computational logic theory
+ Publication Date: 2018-03-26 
+ Publisher: Federated&#x20;Research&#x20;Data&#x20;Repository&#x20;&#x2F;&#x20;dépôt&#x20;fédéré&#x20;de&#x20;données&#x20;de&#x20;recherche 
+ URI: https://doi.org/10.25314/0818f124-c512-4dd3-8744-beb0c1b3e800 
+ Appears in Collections: SFU Research Data 
+ Globus Transfer . This method requires a Globus account and installing software.">
+Files in Dataset 
+No files uploaded
+Download entire dataset using Globus Transfer . This method requires a Globus account and installing software. Watch Video: Get Started with FRDR: Download a Dataset 
+Download with Globus
+Download as Zip
+Files for this dataset are currently being backed up so it cannot be approved at this time. Please try later.
+ Access to this dataset is subject to the following terms:
+ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+ Citation
+ Schulte, O. (2018). Computational Logic Lab NHL Data. Federated Research Data Repository. https://doi.org/10.25314/0818f124-c512-4dd3-8744-beb0c1b3e800 
+ Get Citation
+ Bibtex 
+ RIS 
+ Plain text 
+ Show full record 
+ Return to dashboard 
+Footer First
+Quick Links
+ About 
+ Contact Us 
+ Accessibility 
+ Privacy Policy 
+ Join our mailing list! 
+Footer Second
+Footer Third
+Footer Fourth
+ © 2026 Digital Research Alliance of Canada 
+Please Wait

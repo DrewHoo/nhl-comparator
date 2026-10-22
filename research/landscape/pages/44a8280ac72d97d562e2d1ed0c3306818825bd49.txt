@@ -1,0 +1,963 @@
+URL: https://dobberhockey.com/?p=29830
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+ The Contrarian – One More Way to Increase Scoring – DobberHockey
+ Please support us by disabling ad blocker for this site. 
+ Skip to content
+ Shop
+DobberProspects
+DobberNomics
+Forum
+Frozen Tools
+GoaliePost
+Fantasy Geek
+DFS/Betting
+ Search for:
+SHOP Fantasy Prospects Report – 20th Annual!
+Fantasy Hockey Geek Tools
+Dobber Swag
+Testimonials
+Rankings Band-Aid Boys
+Forum Latest Posts
+Full Forum
+The Lounge
+Prospects Forum
+Columns Ramblings
+21 Rambles
+Analytics Advantage
+Capped
+Daily Fantasy (DFS)
+Eastern Edge
+NHL Trade Analysis
+Frozen Tools Forensics
+Geek of the Week
+Injury Ward
+The Journey
+Lining Up
+Looking Ahead
+Roos Lets Loose
+Saturday’s Picks
+Top 10s
+Wild West
+NHL Trade Analysis
+Content Schedule
+Dobber
+Starting Goalies Compare Goalies Tool
+Goalie Stat Calculator
+Goalie vs. Opponent tool
+Line Combos Atlantic Division Boston Bruins
+Buffalo Sabres
+Detroit Red Wings
+Florida Panthers
+Montreal Canadiens
+Ottawa Senators
+Tampa Bay Lightning
+Toronto Maple Leafs
+Metropolitan Division Carolina Hurricanes
+Columbus Blue Jackets
+New Jersey Devils
+New York Islanders
+New York Rangers
+Philadelphia Flyers
+Pittsburgh Penguins
+Washington Capitals
+Central Division Chicago Blackhawks
+Colorado Avalanche
+Dallas Stars
+Minnesota Wild
+Nashville Predators
+St. Louis Blues
+Utah Mammoth
+Winnipeg Jets
+Pacific Division Anaheim Ducks
+Calgary Flames
+Edmonton Oilers
+Los Angeles Kings
+San Jose Sharks
+Seattle Kraken
+Vancouver Canucks
+Vegas Golden Knights
+Line Combos – Last 3 Games
+Player News
+Stats Skater Stats
+Goalie Stats
+Team Stats
+Report Generator
+Tools Game/Schedule Planner
+Hot/Cold Players
+Depth Charts
+How to Start a Keeper League
+Player News
+Player Buy/Sell Advice
+Fantasy Team Manager
+Podcasts Fantasy Hockey Podcasts
+Keeping Karlsson
+Downloads
+DFS/Betting DFS Subscription
+ Search for:
+The Contrarian – One More Way to Increase Scoring
+Ian Gooding
+2015-05-03
+What else can be done that has not already been suggested to increase player point totals?
+For this week's article, I was first looking into goalie point production. Interestingly enough, it is very hard to find on nhl.com these days. I know I had previously found the information a year or two ago and it was not simple to find, but it was there. Now it appears it is something that does not interest the NHL.
+To finish off the idea, here is a table on the subject:
+Season
+ | 
+Actual Player Points
+ | 
+Goalie Points
+ | 
+% of all Points
+ | 
+2014-15
+ | 
+17841
+ | 
+48
+ | 
+0.003
+ | 
+2013-14
+ | 
+17869
+ 📢 advertisement:
+ | 
+64
+ | 
+0.004
+ | 
+2012-13
+ | 
+10425
+ | 
+37
+ | 
+0.004
+ | 
+2011-12
+ | 
+17809
+ | 
+66
+ | 
+0.004
+ | 
+2010-11
+ | 
+18169
+ | 
+57
+ | 
+0.003
+ | 
+2009-10
+ 📢 advertisement:
+ | 
+18580
+ | 
+60
+ | 
+0.003
+ | 
+2008-09
+ | 
+19143
+ | 
+50
+ | 
+0.003
+ | 
+2007-08
+ | 
+18252
+ | 
+72
+ | 
+0.004
+ | 
+2006-07
+ | 
+19474
+ | 
+60
+ | 
+0.003
+ | 
+2005-06
+ | 
+20321
+ | 
+73
+ | 
+0.004
+ | 
+2003-04
+ | 
+17070
+ | 
+51
+ | 
+0.003
+ | 
+2002-03
+ | 
+17685
+ | 
+39
+ | 
+0.002
+ | 
+2001-02
+ | 
+17309
+ | 
+59
+ | 
+0.003
+ | 
+2000-01
+ | 
+18337
+ | 
+52
+ | 
+0.003
+ | 
+1999-00
+ | 
+16953
+ | 
+49
+ | 
+0.003
+ | 
+1998-99
+ | 
+15652
+ | 
+52
+ | 
+0.003
+ | 
+1997-98
+ | 
+14973
+ | 
+47
+ | 
+0.003
+ | 
+1996-97
+ | 
+16511
+ | 
+50
+ | 
+0.003
+ | 
+1995-96
+ | 
+17967
+ | 
+53
+ | 
+0.003
+ | 
+1994-95
+ | 
+9928
+ | 
+30
+ | 
+0.003
+ | 
+1993-94
+ | 
+18890
+ | 
+62
+ | 
+0.003
+ | 
+1992-93
+ | 
+19626
+ | 
+91
+ | 
+0.005
+ | 
+1991-92
+ | 
+16422
+ | 
+81
+ | 
+0.005
+ | 
+1990-91
+ | 
+15553
+ | 
+68
+ | 
+0.004
+ | 
+1989-90
+ | 
+16535
+ | 
+63
+ | 
+0.004
+ | 
+(All goalie point statistics were found on www.hockey-reference.com/ )
+As you would imagine and can see, it is a rather small percentage of the total number of points earned by all players.
+Where I am going with this is to find out if there was any relation between goalie points and the overall trend in player points recently heading downward. I do not believe that any relationship can be made simply because it is too small of a percentage.
+This got me thinking about player points in general. Specifically, how efficient has player scoring been? Or in other words, how close to the maximum number of player points have the actual total of player points been?
+Why would this even matter?
+Before I show you the chart, I will draw a parallel to the discussion about three-point games. We have seen all the arguments about how it closes the gap between teams and fosters close playoff races. Well I wondered if something similar was happening with player points.
+A goal scored can generate zero points if it is done in the shootout, obviously one point if it is unassisted, two points if it is assisted by one teammate, and three points if assisted by two teammates (this is the maximum). Hardly an earth shattering revelation, but I wanted to re-emphasize that a shootout goal earn a player no points.
+Season
+ | 
+OT Goals
+ | 
+Max Points
+ | 
+2014-15
+ | 
+170
+ | 
+510
+ | 
+2013-14
+ | 
+178
+ | 
+534
+ | 
+2012-13
+ | 
+97
+ | 
+291
+ | 
+2011-12
+ | 
+181
+ | 
+543
+ | 
+2010-11
+ | 
+149
+ | 
+447
+ | 
+2009-10
+ | 
+184
+ | 
+552
+ | 
+2008-09
+ | 
+159
+ | 
+477
+ | 
+2007-08
+ | 
+156
+ | 
+468
+ | 
+2006-07
+ | 
+164
+ | 
+492
+ | 
+2005-06
+ | 
+145
+ | 
+435
+ | 
+(All stats calculated from www.sportingcharts.com/articles/nhl/how-often-do-nhl-games-end-in-a-shootout.aspx)
+Now, this is just one aspect of how the league could possibly address increasing player scoring. There are other notions, like calling more penalties, expansion, doing away with the three-point game, etc.)
+So let us see how efficient the players have been:
+Season
+ | 
+Games Played
+ | 
+Goals
+ | 
+Max Player Points
+ | 
+Actual Player Points
+ | 
+Efficiency
+ | 
++/-
+ | 
+2014-15
+ | 
+1230
+ | 
+6549
+ | 
+19647
+ | 
+17841
+ | 
+0.908
+ | 
+144
+ | 
+2013-14
+ | 
+1230
+ | 
+6573
+ | 
+19719
+ | 
+17869
+ | 
+0.906
+ | 
+110
+ | 
+2012-13
+ | 
+720
+ | 
+3822
+ | 
+11466
+ | 
+10425
+ | 
+0.909
+ | 
+96
+ | 
+2011-12
+ | 
+1230
+ | 
+6545
+ | 
+19635
+ | 
+17809
+ | 
+0.907
+ | 
+125
+ | 
+2010-11
+ | 
+1230
+ | 
+6721
+ | 
+20163
+ | 
+18169
+ | 
+0.901
+ | 
+20
+ | 
+2009-10
+ | 
+1230
+ | 
+6803
+ | 
+20409
+ | 
+18580
+ | 
+0.910
+ | 
+193
+ | 
+2008-09
+ | 
+1230
+ | 
+7006
+ | 
+21018
+ | 
+19143
+ | 
+0.911
+ | 
+207
+ | 
+2007-08
+ | 
+1230
+ | 
+6691
+ | 
+20073
+ | 
+18252
+ | 
+0.909
+ | 
+169
+ | 
+2006-07
+ | 
+1230
+ | 
+7082
+ | 
+21246
+ | 
+19474
+ | 
+0.917
+ | 
+323
+ | 
+2005-06
+ | 
+1230
+ | 
+7443
+ | 
+22329
+ | 
+20321
+ | 
+0.910
+ | 
+205
+ | 
+2003-04
+ | 
+1230
+ | 
+6318
+ | 
+18954
+ | 
+17070
+ | 
+0.901
+ | 
+10
+ | 
+2002-03
+ | 
+1230
+ | 
+6530
+ | 
+19590
+ | 
+17685
+ | 
+0.903
+ | 
+49
+ | 
+2001-02
+ | 
+1230
+ | 
+6442
+ | 
+19326
+ | 
+17309
+ | 
+0.896
+ | 
+-76
+ | 
+2000-01
+ | 
+1230
+ | 
+6782
+ | 
+20346
+ | 
+18337
+ | 
+0.901
+ | 
+23
+ | 
+1999-00
+ | 
+1148
+ | 
+6306
+ | 
+18918
+ | 
+16953
+ | 
+0.896
+ | 
+-66
+ | 
+1998-99
+ | 
+1107
+ | 
+5830
+ | 
+17490
+ | 
+15652
+ | 
+0.895
+ | 
+-80
+ | 
+1997-98
+ | 
+1066
+ | 
+5624
+ | 
+16872
+ | 
+14973
+ | 
+0.887
+ | 
+-188
+ | 
+1996-97
+ | 
+1066
+ | 
+6216
+ | 
+18648
+ | 
+16511
+ | 
+0.885
+ | 
+-241
+ | 
+1995-96
+ | 
+1066
+ | 
+6701
+ | 
+20103
+ | 
+17967
+ | 
+0.894
+ | 
+-112
+ | 
+1994-95
+ | 
+624
+ | 
+3727
+ | 
+11181
+ | 
+9928
+ | 
+0.888
+ | 
+-120
+ | 
+1993-94
+ | 
+1092
+ | 
+7081
+ | 
+21243
+ | 
+18890
+ | 
+0.889
+ | 
+-203
+ | 
+1992-93
+ | 
+1088
+ | 
+7311
+ | 
+21933
+ | 
+19626
+ | 
+0.895
+ | 
+-102
+ | 
+1991-92
+ | 
+880
+ | 
+6123
+ | 
+18369
+ | 
+16422
+ | 
+0.894
+ | 
+-98
+ | 
+1990-91
+ | 
+840
+ | 
+5805
+ | 
+17415
+ | 
+15553
+ | 
+0.893
+ | 
+-108
+ | 
+1989-90
+ | 
+840
+ | 
+6189
+ | 
+18567
+ | 
+16535
+ | 
+0.891
+ | 
+-156
+ | 
+(All stats compiled from www.hockey-reference.com)
+Not bad in recent years with an efficiency of over 90%. The +/- column indicates the number of points generated over or lost under the average which coincidentally is 90%. The maximum number of points is simply the number of goals multiplied by three.
+At the same time I came across this article written in October of 2006 by the people at Hockey Analytics Devoted to the Scientific Exploration of the Game of Hockey. They write that the number of unassisted goals is about 5%, and single assist goals is about 15% of all goals.
+Back to the stats found at Sportingcharts.com, Team Unassisted Goals and the notion given by Hockey Analytics seems to hold water. I could not find stats earlier than the 2005-06 season, but I have found a chart at quanthockey.com that kind of implies the second half of the Hockey Analytics idea.
+Season
+ | 
+Unassisted Goals
+ | 
+% of all Goals
+ | 
+2014-15
+ | 
+395
+ | 
+0.060
+ | 
+2013-14
+ | 
+371
+ | 
+0.056
+ | 
+2012-13
+ | 
+203
+ | 
+0.053
+ | 
+2011-12
+ | 
+350
+ | 
+0.053
+ | 
+2010-11
+ | 
+428
+ | 
+0.064
+ | 
+2009-10
+ | 
+364
+ | 
+0.054
+ | 
+2008-09
+ | 
+420
+ | 
+0.060
+ | 
+2007-08
+ | 
+370
+ | 
+0.055
+ | 
+2006-07
+ | 
+360
+ | 
+0.051
+ | 
+2005-06
+ | 
+423
+ | 
+0.057
+ | 
+So we have seen an improved efficiency in point production, but we have not seen a huge surge of points since the 2005-06 season. What else can be done that has not already been suggested?
+Why not have more than two assists on a goal?
+Sure, if the league feels fine about giving no points for goals in a shootout, why not give more than two points on goals during any other time in a game.
+I know, there are a few of you saying that it is tradition and that shouldn't change. From an excerpt in "Total Hockey – The Official Encyclopedia of the National Hockey League", 1998, Chapter 63 "The Evolution of NHL Statistics" by Ron Andrews, "In the league's first season, no assists were given on goals. And, for the next few seasons, assists were handed out sparingly. However, in 1935-36 for some inexplicable reason three assists could be awarded on a goal".
+My educated guess is that it was too difficult to award more than two assists because there was only one referee (now there are two), the referee did not always have the best vantage point (now we have video replay), and off-ice game officials that can validate the chain of puck possession.
+Going to a system that gives more than two assists on a goal is possible and easier to do now than it has even been done before.
+The logic would still in essence be the same just removing the limitation of a maximum of two assists. Official NHL Rule Book, Section 33.2, instead would read "An assist is awarded to the player or players who touches the puck prior to the goal scorer, provided no defender plays or possesses the puck in between." Section 78.3 would change to "Crediting Assists – When a player scores a goal, an 'assist' shall be credited to the player or players who touch the puck prior to the goal scorer provided no defender plays or has control of the puck subsequently. Each 'assist' shall count one point in the player's record. Only one point can be credited to any one player on a goal."
+Imagine the possibilities. Your team has a 5-on-3 power play. They pass the puck back and forth so all the players, including their goalie, touch the puck before someone shoots and scores. Whamo! Six points generated just like that.
+If you don't like any of the other ideas being bounced around for increased scoring, maybe this is something that you could get behind.
+The Contrarian – Roster Roosters
+The Contrarian – Mon Dieux
+The Contrarian – One Hundred Point Plan
+Previous
+Next
+ Leave A Comment Cancel reply
+You must be logged in to post a comment.
+Related Posts
+ Gallery 
+The Contrarian: It Is About Time
+January 1st, 2017|3 Comments
+ Gallery 
+The Contrarian: Can Jagr Play Into His 50s?
+December 25th, 2016|0 Comments
+ Gallery 
+The Contrarian: Your Ballot Is the Only One that Matters
+December 18th, 2016|0 Comments
+ Gallery 
+The Contrarian: Man Down
+December 11th, 2016|0 Comments
+ Starting Goalies 
+ PHI
+ @
+ BUF
+ Dan Vladar 
+ Ukko-Pekka Luukkonen 
+ CONFIRMED
+ CONFIRMED
+ KeyBank Center | Loading local time... 
+ FLA
+ @
+ OTT
+ Akira Schmid 
+ Linus Ullmark 
+ CONFIRMED
+ CONFIRMED
+ Canadian Tire Centre | Loading local time... 
+ View More...
+ Top Skater Views 
+ Players
+ Team
+ MICHAEL BRANDSEGG-NYGARD
+ DET 
+ MATVEI MICHKOV
+ PHI 
+ CHARLE-EDOUARD D'ASTOUS
+ T.B 
+ ARSENY GRITSYUK
+ N.J 
+ QUINTON BYFIELD
+ L.A
+ View More...
+ Top Goalie Profile Views 
+ Players
+ Team
+ JACOB FOWLER
+ MTL 
+ DANIIL TARASOV
+ DET 
+ DYLAN GARAND
+ NYR 
+ DEVON LEVI
+ EDM 
+ ALEX NEDELJKOVIC
+ S.J
+ View More...
+ LINE COMBOS 
+ Frequency
+ WPG Players
+ 28.5
+ MARK SCHEIFELE
+ COLE PERFETTI
+ KYLE CONNOR
+ 18.1
+ ISAK ROSEN
+ NINO NIEDERREITER
+ ADAM LOWRY
+ 15.4
+ GABRIEL VILARDI
+ ALEX IAFALLO
+ VIGGO BJORCK
+ View More...
+ DobberHockey Podcasts 
+ Keeping Karlsson: Never Tell Me the Podz
+ 2026-10-18
+ https://afp-961247-injected.calisto.simplecastaudio.com/18fc8bff-ac01-4275-81b6-f1eb16a0aa4b/episodes/b8bc7154-d097-4c72-9e2e-ca6e6c91b41b/audio/128/default.mp3
+ Elan and Brian do a wellness check on the Maple Leafs, lament Chicago and Buffalo snoozers, wonder whether and which Flyers have figured it out, and pick out the Capital standing out from the crowd.
+ Fantasy Hockey Life: Ep 505 Prospects With Plenty to Prove Part 1
+ 2026-10-18
+ https://api.spreaker.com/v2/episodes/75848814/download.mp3
+ Victor and Jesse return to talk about prospects with plenty to prove. This week it’s: Tij Iginla, Berkly Catton, Konsta Helenius, Zayne Parekh, Igor Chernyshov, Jett Luchanko, Axel Sandin-Pellikka, Artyom Levshunov, Michael Hage, and Carter Bear. Have a listen! Our show is part of the Dobber Podcast Network and sponsored by Fantrax.com. Email [email protected] and […]
+ Keeping Karlsson: Matchup Maximizer 2026/27 Week 4
+ 2026-10-18
+ https://afp-961247-injected.calisto.simplecastaudio.com/18fc8bff-ac01-4275-81b6-f1eb16a0aa4b/episodes/cbe13047-5f13-44ab-8567-8e12d86e5c72/audio/128/default.mp3
+ Elan takes a look at the schedule for the upcoming weeks of NHL action and recommends players with good schedules that you should consider streaming in to win your head to head matchups.
+ Keeping Karlsson: Short Shifts – NHL Frozen Frenzy Recap
+ 2026-10-15
+ https://afp-961247-injected.calisto.simplecastaudio.com/18fc8bff-ac01-4275-81b6-f1eb16a0aa4b/episodes/c4928199-02e1-487e-aeb6-e9f90fbf1038/audio/128/default.mp3
+ Elan and Lewis recap the Frozen Frenzy as well as two big returns and more!
+ Keeping Karlsson: Delusions of Garandeur
+ 2026-10-12
+ https://afp-961247-injected.calisto.simplecastaudio.com/18fc8bff-ac01-4275-81b6-f1eb16a0aa4b/episodes/fa56e270-a49f-4c55-8ea6-05d6fd36c3d4/audio/128/default.mp3
+ Elan and Brian dive into the latest NHL hot streaks, cold streaks, line changes, outjuries, injuries, buy-lows and sell-highs to give you top notch tips in your fantasy hockey league
+ FIND US ON FACEBOOK 
+ DobberHockey and Goalie Post launched in 2005, becoming the first independent fantasy hockey and starting goalie websites on the Internet. Frozen Tools and DobberProspects launched in 2008, helping to form the nucleus of the Dobber Sports Network: dedicated to helping you win your fantasy hockey leagues.
+ Guides, Draft Lists
+Fantasy Hockey Guide (PDF)
+Player Draft List (Spreadsheet)
+ Players
+Quick Line Combos
+Full Line Combos
+ Games
+NHL Schedule Planning Tool
+Starting Goalies
+Dobbernomics – where fantasy hockey meets the stock market
+Free Daily Fantasy Cap League
+Prospects 2 Pros Super League – Join Here!!
+ Community
+Kick-ass Fantasy Hockey Forum
+Latest Posts
+ Contact
+Contact
+About Us
+Join the Team
+Privacy Manager
+ © Copyright 2012 - | DobberSports Network | All Rights Reserved 
+ FacebookX
+ Page load link
+ Go to Top

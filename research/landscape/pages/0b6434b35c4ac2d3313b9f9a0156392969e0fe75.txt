@@ -1,0 +1,476 @@
+URL: https://www.sports-reference.com/blog/2023/09/
+STATUS: 200
+RETRIEVED: 2026-10-21
+
+
+ Team Turnover Coverage Extended Back Three More Seasons | Sports-Reference.com
+ Sports Reference &reg; Hub
+ Baseball
+ Football (college)
+ Basketball (college)
+ Hockey
+ Soccer
+ Blog
+ Stathead &reg;
+ Immaculate Grid &reg;
+ Questions or Comments?
+ Welcome · Your Account
+Logout
+Ad-Free Login
+Create Account
+MENU
+ Baseball
+Basketball
+NFL
+Hockey
+CFB
+CBB
+Soccer
+Stathead
+Immaculate Grid
+Blog
+Full Site Menu Below
+ You are here: SR Home Page > SR Blog > Team Turnover Coverage Extended Back Three More Seasons
+ Welcome · Your Account
+Logout
+Ad-Free Login
+Create Account
+Sports Reference Blog
+ Archive for September, 2023
+ Team Turnover Coverage Extended Back Three More Seasons
+ 29th September 2023
+ While player turnovers have only been officially tracked in NBA games since 1977-78, team turnovers have been tracked in official scorer's reports for nearly a decade longer. Per the official NBA Guide, team turnovers have been compiled since 1970-71. However, the official NBA Guide also only shows team and opponent turnovers comprehensively since 1973-74. Team and opponent turnover totals for the 1970-71, 1971-72 and 1972-73 seasons have always been a bit of a mystery. Ostensibly the NBA has these totals, but for some reason they have never been printed in NBA Guides.
+Well, we're proud to announce that this mystery has been solved and there's one man to thank: Harvey Pollack.
+ Read the rest of this entry
+ Posted in Announcement, Basketball-Reference.com, Data, Stat Questions | 1 Comment »
+ Season-Level Time on Ice Added Back to 1997-98
+ 25th September 2023
+ Hockey Reference recently extended its season-level Time on Ice coverage back through the 1997-98 season. Before this update, our coverage went back to the 1998-99 season. In conjunction with this update, we also cleaned up many season-level Time on Ice totals from 1998-99 through 2007-08 that were discrepant with the game-level totals. Our season-level TOI now matches the sum of our game-level TOI, which was first recorded in 1997-98. You can see the 1997-98 NHL Time on Ice leaders here (Ray Bourque led the league).
+ Posted in Announcement, Data, Hockey-Reference.com | Comments Off on Season-Level Time on Ice Added Back to 1997-98
+ Success Rate Comes to Pro Football Reference!
+ 1st September 2023
+ We've added a brand new stat to PFR. It's Success Rate, one of the coolest and most interesting new advanced stats to enter the football discussion in the last few years.
+Success Rate starts with the idea that not all plays in football have the same objective. On first and 10, a two-yard run would be considered a bad result; on third and one, that same two-yard run would be celebrated for moving the chains. This means we can't just use stats like yards to measure how effective an offense is. Instead, Success Rate shows us how effective players and teams are at staying on schedule and creating productive plays.
+As a result, a successful play depends on the context. We define it as a play that gains at least 40% of yards required on 1st down, 60% of yards required on 2nd down, and 100% on 3rd or 4th down.
+As mentioned, it can be measured for both players and teams, for passing, rushing, and receiving. For example, here are the leaders in 2022 in rushing yards per attempt:
+Rushing Table
+ | 
+ | 
+ | 
+Rush | 
+Rk | 
+Player | 
+Tm | 
+Y/A
+▼ | 
+1 | 
+Justin Fields | 
+CHI | 
+7.1 | 
+2 | 
+Lamar Jackson | 
+BAL | 
+6.8 | 
+3 | 
+Josh Allen* | 
+BUF | 
+6.1 | 
+4 | 
+Daniel Jones | 
+NYG | 
+5.9 | 
+5 | 
+Khalil Herbert | 
+CHI | 
+5.7 | 
+6 | 
+Aaron Jones | 
+GNB | 
+5.3 | 
+7 | 
+Tony Pollard* | 
+DAL | 
+5.2 | 
+Provided by Pro-Football-Reference.com: View Original Table
+Generated 8/31/2023.
+And here are the leaders in rushing success rate:
+Rushing Table
+ | 
+ | 
+ | 
+Rush | 
+Rk | 
+Player | 
+Tm | 
+Succ%
+▼ | 
+1 | 
+Lamar Jackson | 
+BAL | 
+64.3 | 
+2 | 
+Josh Allen* | 
+BUF | 
+61.3 | 
+3 | 
+Cordarrelle Patterson | 
+ATL | 
+60.4 | 
+4 | 
+Jalen Hurts* | 
+PHI | 
+59.4 | 
+5 | 
+Daniel Jones | 
+NYG | 
+59.2 | 
+6 | 
+Josh Jacobs*+ | 
+LVR | 
+57.4 | 
+7 | 
+Isiah Pacheco | 
+KAN | 
+57.1 | 
+Provided by Pro-Football-Reference.com: View Original Table
+Generated 8/31/2023.
+There's some overlap, of course, but also some key differences. Josh Jacobs averaged 4.9 yards per attempt, outside the top 10, but situationally he was one of the best RBs in the league last year. Meanwhile, Justin Fields averaged the most yards per attempt, but his scrambles and designed runs were less effective at keeping the team on schedule than QBs like Lamar Jackson, Josh Allen, or Jalen Hurts.
+Success rate is also in Stathead! Our historical data goes back to 1994, when we first have play-by-play data to calculate this, so you can look up career leaders, single season leaders, rookie leaders, single-game leaders, and more.
+This was one of our most requested adds; we love user feedback! If there's something you'd like to see on the site, please let us know!
+ Posted in Announcement, Pro-Football-Reference.com | Comments Off on Success Rate Comes to Pro Football Reference!
+ Blog Search
+ Pages
+ 2013 Hall of Fame Candidates – BBWAA Ballot
+All-Time MLB Tiebreaker Playoff Games
+Approximate Value
+Approximate Value: Methodology
+Baseball-Reference FAQs
+Explanation of our Pickoff Stats
+FBref Adds Women’s World Cup History & Match Reports
+How to Add Sports-Reference’s Sites To Your Phone’s Home Screen
+List of NBA Players Waived in 2005 Under “Allan Houston Rule” Amnesty Clause
+Pat Venditte vs Switch-hitters
+PFR HOF Monitor: Methodology
+Professional Athletes & Veterans
+Professional Sports Leagues Steroid Policies
+Sports Reference Social Media
+SR wordpress sandbox
+Ways Sports Reference Can Help Your Website
+ Categories
+ Academics
+ Advanced Stats
+ All-Star
+ Announcement
+ Awards
+ Baseball-Reference.com
+ Basketball-Reference.com
+ Bleg
+ Bullpen
+ CBB at Sports Reference
+ CFB at Sports Reference
+ Data
+ Draft
+ Elo Rater
+ expire10d
+ expire120d
+ expire1d
+ expire21d
+ expire2d
+ Expire30d
+ expire40d
+ expire60d
+ expire7d
+ Fantasy
+ FAQ
+ FBref
+ Features
+ General
+ Hall of Fame
+ History
+ Hockey-Reference.com
+ How-To Videos
+ HowTo
+ Immaculate Grid
+ Leaders
+ Linker
+ Most Wanted
+ New York Times
+ Olympics at S-R
+ Play Index
+ Play Index 101
+ Playoffs
+ Polls
+ Pro-Football-Reference.com
+ Redesign
+ Ridiculousness
+ Sponsors
+ SRS
+ Stat Questions
+ Statgeekery
+ Stathead
+ Stathead Tutorial Series
+ Super Bowl
+ Tips and Tricks
+ Tout
+ Trivia
+ Uncategorized
+ WAR
+ Widgets
+ Archives
+ October 2026
+ September 2026
+ August 2026
+ July 2026
+ June 2026
+ May 2026
+ April 2026
+ March 2026
+ February 2026
+ January 2026
+ December 2025
+ November 2025
+ October 2025
+ September 2025
+ August 2025
+ July 2025
+ May 2025
+ April 2025
+ March 2025
+ February 2025
+ January 2025
+ December 2024
+ November 2024
+ October 2024
+ September 2024
+ August 2024
+ July 2024
+ June 2024
+ May 2024
+ April 2024
+ March 2024
+ February 2024
+ January 2024
+ December 2023
+ November 2023
+ October 2023
+ September 2023
+ August 2023
+ July 2023
+ June 2023
+ May 2023
+ April 2023
+ March 2023
+ February 2023
+ January 2023
+ December 2022
+ November 2022
+ October 2022
+ August 2022
+ July 2022
+ June 2022
+ May 2022
+ April 2022
+ March 2022
+ February 2022
+ January 2022
+ November 2021
+ October 2021
+ August 2021
+ July 2021
+ June 2021
+ May 2021
+ April 2021
+ March 2021
+ February 2021
+ January 2021
+ December 2020
+ November 2020
+ October 2020
+ September 2020
+ August 2020
+ July 2020
+ June 2020
+ May 2020
+ April 2020
+ March 2020
+ February 2020
+ January 2020
+ December 2019
+ November 2019
+ October 2019
+ September 2019
+ August 2019
+ July 2019
+ June 2019
+ May 2019
+ April 2019
+ March 2019
+ February 2019
+ January 2019
+ December 2018
+ November 2018
+ October 2018
+ September 2018
+ August 2018
+ July 2018
+ June 2018
+ May 2018
+ April 2018
+ March 2018
+ February 2018
+ January 2018
+ December 2017
+ November 2017
+ October 2017
+ September 2017
+ August 2017
+ July 2017
+ June 2017
+ May 2017
+ April 2017
+ March 2017
+ February 2017
+ January 2017
+ December 2016
+ November 2016
+ October 2016
+ September 2016
+ August 2016
+ July 2016
+ June 2016
+ May 2016
+ April 2016
+ March 2016
+ February 2016
+ January 2016
+ December 2015
+ November 2015
+ October 2015
+ September 2015
+ August 2015
+ July 2015
+ June 2015
+ May 2015
+ April 2015
+ March 2015
+ February 2015
+ January 2015
+ December 2014
+ November 2014
+ October 2014
+ September 2014
+ August 2014
+ July 2014
+ June 2014
+ May 2014
+ April 2014
+ March 2014
+ February 2014
+ January 2014
+ December 2013
+ November 2013
+ October 2013
+ September 2013
+ August 2013
+ July 2013
+ June 2013
+ May 2013
+ April 2013
+ March 2013
+ February 2013
+ January 2013
+ December 2012
+ November 2012
+ October 2012
+ September 2012
+ August 2012
+ July 2012
+ June 2012
+ May 2012
+ April 2012
+ March 2012
+ February 2012
+ January 2012
+ December 2011
+ November 2011
+ Subscribe
+ Entries (RSS)
+ Comments (RSS)
+ Links
+ SR Blog Archive
+B-R Blog
+BBR Blog
+CBB Blog
+CFB Blog
+Derek Bodner's NBA Site
+Hoops Rumors
+MLB Trade Rumors
+OLY Blog
+PFR Blog
+Pro Football Rumors
+ Welcome · Your Account
+Logout
+Ad-Free Login
+Create Account
+ You are here: SR Home Page > SR Blog > Success Rate Comes to Pro Football Reference!
+ Full Site Menu
+ Return to Top
+ Your Feedback or Questions
+ Participate In Sports Reference Research Studies,
+ Contact Information
+ About Sports Reference
+ Meet Sean Forman,
+ Sports Reference Team,
+ Notable Press,
+ Podcast Appearances,
+ Media and Engagements,
+ Corporate Sponsorships
+Jobs at Sports Reference
+ Internships at Sports Reference
+ Acceptable Use of Sports Reference Data
+ Terms of Use,
+ Privacy Policy
+ Resources
+ Sports Reference Blog,
+ Sports Reference Social Media,
+ Automatically Link Your Blogs to SR Player Pages,
+ How to Share Sports Reference Data
+Advertising and Partnerships
+ Frivolities: The Sports Equinox
+ We're Social...for Statheads
+Site Last Updated: Friday, May 1, 2:56PM
+Question, Comment, Feedback, or Correction?
+Subscribe to our Free Email Newsletter
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+ FAQs, Tips & Tricks
+ Do you have a blog? Join our linker program.
+ Watch our How-To Videos to Become a Stathead
+ Subscribe to Stathead and get access to more data than you can imagine
+ All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes.
+ Our reasoning for presenting offensive logos.
+ Logos were compiled by the amazing SportsLogos.net.
+ Copyright &copy; 2000-2026 Sports Reference LLC. All rights reserved.
+ The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+ Sports Reference &reg; Hub
+ Baseball
+ Football (college)
+ Basketball (college)
+ Hockey
+ Soccer
+ Blog
+ Stathead &reg;
+ Immaculate Grid &reg;
+ About &bull;
+ Conditions & Terms of Service &bull;
+ Advertise With Us
+ &bull;
+ Jobs at SR
+ &bull;
+ Sports-Reference.com T-Shirts & Store
+ &bull;
+ Your Privacy Choices
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+ Privacy Policy &bull;
+ Gambling Revenue Policy &bull;
+ Accessibility Policy &bull;
+ Use of Data

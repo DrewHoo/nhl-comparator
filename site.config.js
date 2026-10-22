@@ -1,25 +1,17 @@
 // The one file to edit when you start a project from this template.
 // The URL slug is NOT here: it is the "name" in package.json, and it has to
 // equal the GitHub repo name, because the site serves at https://<domain>/<repo>/.
+import { FIRST_SEASON, seasonLabel } from './scripts/lib/window.mjs'
+
 export default {
-  // The custom domain on your <owner>.github.io index site.
-  domain: 'example.com',
-
-  // <title>, og:title, twitter:title. Under 60 characters, phrased the way
-  // someone would type the search.
-  title: 'Twelve months of something',
-
-  // Meta description and og:description. The first ~155 characters are the
-  // search snippet, so the payoff goes first.
+  domain: 'drewhoover.com',
+  title: 'NHL Comparator',
+  // the root's <title> and og:title: the query the page can win, then the name
+  pageTitle: 'Most points through the first 500 games, and every NHL player at the same point in his career · NHL Comparator',
+  // the season is the ledger's first (scripts/lib/window.mjs), never typed here
   description:
-    'A starter chart with three series, touch-friendly hover, and a shareable URL. Replace the data, keep the plumbing.',
-
-  // Second line on the OG image. Short.
-  ogSubtitle: 'Replace the data, keep the plumbing.',
-
-  // Alt text for the OG image, for screen readers on social platforms.
-  ogImageAlt: 'A stylized line chart rising left to right on a dark background.',
-
-  // Used by the favicon and the OG image. Pick something from your data.
-  accent: '#1f4e8c',
+    `Compare NHL players at the same point in their careers: points through the first 500 games, fastest to 500 goals, wins through a goalie's first 100 starts, 50 goals from the start of a season. Build the comparison, see who stacks up, every career since ${seasonLabel(FIRST_SEASON)}.`,
+  ogSubtitle: 'Same point in the career. Who stacks up.',
+  ogImageAlt: 'A ranked list of NHL players compared at the same point in their careers, on a dark background.',
+  accent: '#c36c36',
 }
