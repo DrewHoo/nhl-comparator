@@ -23,7 +23,12 @@ const mount = (node) => {
   else createRoot(root).render(app)
 }
 const player = /^player\/(\d+)\/?$/.exec(rel)
-if (player) {
+const embedded = (id) => { try { return JSON.parse(document.getElementById(id)?.textContent ?? 'null') } catch { return null } }
+if (/^team(\/[a-z]+\/[a-z]+)?\/?$/.test(rel)) {
+  // a team page or the index: the data is in the HTML (the prerender's); the dev server has none and says so
+  const preload = embedded('group-data')
+  import('./components/GroupPage.jsx').then(({ GroupPage, GroupIndex }) => mount(/^team\/?$/.test(rel) ? <GroupIndex preload={preload} /> : <GroupPage preload={preload} />))
+} else if (player) {
   let preload = null
   try { preload = JSON.parse(document.getElementById('player-data')?.textContent ?? 'null') } catch {}
   import('./components/PlayerPage.jsx').then(({ PlayerPage }) => mount(<PlayerPage id={player[1]} preload={preload} />))

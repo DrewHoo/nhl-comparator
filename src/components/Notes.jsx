@@ -108,7 +108,10 @@ export function Notes({ ledger }) {
             what the player needs over the next five games to match the peer there; the peer rides in the url, so a shared
             link opens the same comparison. A player's page lists every comparison he leads among the skaters (a goalie's,
             among the goalies), worded at the point in the career where it stands out most, or that he set and someone
-            later broke; "what he leads" in the panel goes there.
+            later broke; "what he leads" in the panel goes there. A <b>team</b> page counts a player's regular-season games
+            for one franchise: a current team and every team it has been, as the NHL last ruled. On September 24, 2026 it
+            gave the Winnipeg Jets the first Jets' seasons (1979-96) and the Atlanta Thrashers'; the inactive Coyotes and
+            the defunct teams have no page.
           </p>
         </details>
 

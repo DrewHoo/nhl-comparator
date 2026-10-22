@@ -3,7 +3,8 @@
 // each with its own <head> from site.config.js and the landing table; a page
 // per player with a records file (dist/player/<id>/index.html, the file
 // embedded so the hydrate matches, and dist/player/<id>/og.png, his own
-// social card); writes the sitemap, llms.txt, and the ledger copies the share
+// social card); a page per franchise and position (dist/team/<abbr>/<pos>/,
+// the data embedded, with its card) and the /team/ index; writes the sitemap, llms.txt, and the ledger copies the share
 // worker reads.
 //
 // Without this the deployed page is `<div id="root"></div>` and every word on
@@ -37,7 +38,10 @@ const { leaderWords, shareDescription, playerText } = await vite.ssrLoadModule('
 const { PlayerPage } = await vite.ssrLoadModule('/src/components/PlayerPage.jsx')
 const { decodePlayer, page: recordPage } = await vite.ssrLoadModule('/src/lib/records.ts')
 const { recordWords, placeWords } = await vite.ssrLoadModule('/src/lib/words.ts')
+const { GroupPage, GroupIndex } = await vite.ssrLoadModule('/src/components/GroupPage.jsx')
+const { groupData, groupDescription, groupH1, groupLead, groupPath, groupTitle, FRANCHISES, GROUP_POS, RULING_VERSION } = await vite.ssrLoadModule('/src/lib/groups.ts')
 const { playerCard } = await import('./lib/og-player.mjs')
+const { groupCard } = await import('./lib/og-group.mjs')
 const { toPng } = await import('./lib/og.mjs')
 const S = mergeExtra(decodeLedger(JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/skaters.json'), 'utf8'))), JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/skaters-x.json'), 'utf8')))
 const G = decodeLedger(JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/goalies.json'), 'utf8')))
@@ -56,7 +60,7 @@ const template = fs.readFileSync(OUT, 'utf8')
 if (!template.includes('<div id="root"></div>')) throw new Error('prerender: could not find an empty #root in dist/index.html')
 if (!/<title>[^<]*<\/title>/.test(template)) throw new Error('prerender: could not find <title> in dist/index.html')
 
-function page({ initial, url, title, description, image, imageAlt, jsonLd, appHtml = renderToString(React.createElement(App, { initial, preloadGoalies: G })), embed = null }) {
+function page({ initial, url, title, description, image, imageAlt, jsonLd, appHtml = renderToString(React.createElement(App, { initial, preloadGoalies: G })), embed = null, embedId = 'player-data' }) {
   const head = `
     <meta name="description" content="${esc(description)}" />
     <link rel="canonical" href="${url}" />
@@ -86,7 +90,7 @@ function page({ initial, url, title, description, image, imageAlt, jsonLd, appHt
   let html = template.replace(/<title>[^<]*<\/title>/, `<title>${esc(title)}</title>`)
   html = html.replace('</head>', head)
   html = html.replace('<div id="root"></div>', `<div id="root">${appHtml}</div>`)
-  if (embed) html = html.replace('<script type="module"', `<script id="player-data" type="application/json">${JSON.stringify(embed).replace(/</g, '\\u003c')}</script>\n    <script type="module"`)
+  if (embed) html = html.replace('<script type="module"', `<script id="${embedId}" type="application/json">${JSON.stringify(embed).replace(/</g, '\\u003c')}</script>\n    <script type="module"`)
   return { html, words: appHtml.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length }
 }
 
@@ -162,6 +166,57 @@ const llmsPlayers = []
   console.log(`prerendered ${players.length} player pages, each with its card, in ${((Date.now() - t0) / 1000).toFixed(1)}s`)
 }
 
+// a page per franchise and position, with its card, and the /team/ index that reaches them all
+const llmsTeams = []
+{
+  const t0 = Date.now()
+  const withPage = new Set(players.map((p) => String(p.id)))
+  const items = []
+  for (const f of FRANCHISES) {
+    const item = { id: f.id, name: f.name, pos: [] }
+    for (const pos of GROUP_POS) {
+      const d = groupData(pos === 'G' ? G : S, f.id, pos)
+      if (!d.rows.length) continue
+      d.pages = d.rows.map((r) => r.id).filter((id) => withPage.has(id))
+      const url = `${SITE}${groupPath(f.id, pos).slice(1)}`
+      const title = groupTitle(d, config.title)
+      const description = groupDescription(d)
+      const { html } = page({
+        url, title, description, image: `${url}og.png`, imageAlt: `${groupH1(d)}: ${groupLead(d)} On a dark background.`,
+        appHtml: renderToString(React.createElement(GroupPage, { preload: d })), embed: d, embedId: 'group-data',
+        jsonLd: {
+          '@context': 'https://schema.org',
+          '@graph': [
+            { ...webPage(url, title, description), about: { '@type': 'SportsTeam', name: f.name, sport: 'Ice hockey' } },
+            breadcrumb([[config.domain, `${ORIGIN}/`], [config.title, SITE], ['Every team', `${SITE}team/`], [groupH1(d), url]]),
+            { '@type': 'ItemList', name: groupH1(d), itemListOrder: 'https://schema.org/ItemListOrderDescending', numberOfItems: Math.min(10, d.rows.length), itemListElement: d.rows.slice(0, 10).map((r, i) => ({ '@type': 'ListItem', position: i + 1, name: `${r.name}: ${r.totals[0]?.toLocaleString('en-US')} ${d.metrics[0] === 'win' ? 'wins' : 'points'}`, ...(withPage.has(r.id) ? { url: `${SITE}player/${r.id}/` } : {}) })) },
+          ],
+        },
+      })
+      const dir = path.join(ROOT, 'dist', groupPath(f.id, pos).slice(1))
+      fs.mkdirSync(dir, { recursive: true })
+      fs.writeFileSync(path.join(dir, 'index.html'), html)
+      await toPng(groupCard(d), path.join(dir, 'og.png'))
+      urls.push(url)
+      item.pos.push(pos)
+      if (pos === 'F') llmsTeams.push({ h1: groupH1(d), url, lead: groupLead(d) })
+    }
+    items.push(item)
+  }
+  const url = `${SITE}team/`
+  const title = `Every NHL team's best players, by position · ${config.title}`
+  const description = `The best forwards, defensemen and goalies in each of the ${items.length} NHL franchises' history, with their numbers drawn game by game.`
+  const { html } = page({
+    url, title, description, image: `${SITE}og.png`, imageAlt: config.ogImageAlt,
+    appHtml: renderToString(React.createElement(GroupIndex, { preload: { items } })), embed: { items }, embedId: 'group-data',
+    jsonLd: { '@context': 'https://schema.org', '@graph': [webPage(url, title, description), breadcrumb([[config.domain, `${ORIGIN}/`], [config.title, SITE], ['Every team', url]])] },
+  })
+  fs.mkdirSync(path.join(ROOT, 'dist/team'), { recursive: true })
+  fs.writeFileSync(path.join(ROOT, 'dist/team/index.html'), html)
+  urls.push(url)
+  console.log(`prerendered ${items.reduce((n, it) => n + it.pos.length, 0)} team pages over ${items.length} franchises (the ${RULING_VERSION} ruling), with cards, and the index, in ${((Date.now() - t0) / 1000).toFixed(1)}s`)
+}
+
 const lastmod = new Date().toISOString().slice(0, 10)
 fs.writeFileSync(path.join(ROOT, 'dist/sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -184,6 +239,12 @@ ${llms.map(({ l, url, lead }) => `- [${l.h1}](${url})${lead ? `: ${lead}` : ''}`
 Every player who leads a comparison at some point in his career has a page at ${SITE}player/<id>/ (${players.length.toLocaleString('en-US')} pages; the id is the NHL's own): every comparison he leads among NHL skaters (or goalies), the best first. The pages with the most:
 
 ${llmsPlayers.map((p) => `- [${p.name}](${p.url}): ${p.lead}`).join('\n')}
+
+## Teams
+
+The best forwards, defensemen and goalies in each franchise's history, every one with 41 or more regular-season games for it, at ${SITE}team/<abbr>/<forwards|defensemen|goalies>/; the index is ${SITE}team/. A franchise is a current team and every team it has been, as the NHL ruled on ${RULING_VERSION}. The forwards:
+
+${llmsTeams.map((t) => `- [${t.h1}](${t.url}): ${t.lead}`).join('\n')}
 
 ## Method
 

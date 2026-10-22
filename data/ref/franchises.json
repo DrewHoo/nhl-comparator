@@ -1,0 +1,28 @@
+{
+  "version": "2026-09-24",
+  "about": "The franchise ruling the team pages read: every team code of the day in the ledger (the REST's teamAbbrev) mapped to the current franchise whose statistical history it is part of, or to null for a franchise that no longer plays (defunct, or inactive). It follows the NHL's own ruling, which can change: on 2026-09-24 the NHL gave the Winnipeg Jets the Jets' 1979-96 seasons and the Atlanta Thrashers' (1999-2011), left the inactive Coyotes Phoenix and Arizona (1996-2024) only, and gave Utah (2024) no inherited history. To re-rule, edit `codes` (and `version`) and rebuild; src/lib/groups.ts reads this file and nothing else. A code is unique to its era in this ledger (WIN is the first Jets, WPG the second; SEN the first Senators, OTT the second), so no code needs a season range yet; if one ever does, add it to `ranges` as {code, from, to, franchise}, which wins over `codes` for those seasons.",
+  "sources": [
+    "https://www.nhl.com/news/jets-and-nhl-announce-consolidation-of-winnipeg-jets-history (the 2026-09-24 announcement, quoted in research/league-landscape.md section 3)",
+    "https://www.nhl.com/news/board-approves-establishment-of-new-franchise-in-utah-2024 (Utah, a new franchise)",
+    "research/league-landscape.md section 3: the relocation table"
+  ],
+  "franchises": {
+    "ANA": "Anaheim Ducks", "BOS": "Boston Bruins", "BUF": "Buffalo Sabres", "CGY": "Calgary Flames", "CAR": "Carolina Hurricanes",
+    "CHI": "Chicago Blackhawks", "COL": "Colorado Avalanche", "CBJ": "Columbus Blue Jackets", "DAL": "Dallas Stars", "DET": "Detroit Red Wings",
+    "EDM": "Edmonton Oilers", "FLA": "Florida Panthers", "LAK": "Los Angeles Kings", "MIN": "Minnesota Wild", "MTL": "Montreal Canadiens",
+    "NSH": "Nashville Predators", "NJD": "New Jersey Devils", "NYI": "New York Islanders", "NYR": "New York Rangers", "OTT": "Ottawa Senators",
+    "PHI": "Philadelphia Flyers", "PIT": "Pittsburgh Penguins", "SJS": "San Jose Sharks", "SEA": "Seattle Kraken", "STL": "St. Louis Blues",
+    "TBL": "Tampa Bay Lightning", "TOR": "Toronto Maple Leafs", "UTA": "Utah Mammoth", "VAN": "Vancouver Canucks", "VGK": "Vegas Golden Knights",
+    "WSH": "Washington Capitals", "WPG": "Winnipeg Jets"
+  },
+  "codes": {
+    "MTL": "MTL", "TAN": "TOR", "TSP": "TOR", "TOR": "TOR", "BOS": "BOS", "NYR": "NYR", "CHI": "CHI", "DCG": "DET", "DFL": "DET", "DET": "DET",
+    "PIT": "PIT", "PHI": "PHI", "STL": "STL", "LAK": "LAK", "VAN": "VAN", "BUF": "BUF", "NYI": "NYI", "WSH": "WSH", "EDM": "EDM",
+    "MNS": "DAL", "DAL": "DAL", "AFM": "CGY", "CGY": "CGY", "KCS": "NJD", "CLR": "NJD", "NJD": "NJD", "QUE": "COL", "COL": "COL",
+    "HFD": "CAR", "CAR": "CAR", "WIN": "WPG", "ATL": "WPG", "WPG": "WPG", "SJS": "SJS", "TBL": "TBL", "OTT": "OTT", "FLA": "FLA",
+    "ANA": "ANA", "NSH": "NSH", "MIN": "MIN", "CBJ": "CBJ", "VGK": "VGK", "SEA": "SEA", "UTA": "UTA",
+    "SEN": null, "MWN": null, "QBD": null, "HAM": null, "MMR": null, "PIR": null, "QUA": null, "NYA": null, "BRK": null, "SLE": null,
+    "OAK": null, "CGS": null, "CLE": null, "PHX": null, "ARI": null
+  },
+  "ranges": []
+}
