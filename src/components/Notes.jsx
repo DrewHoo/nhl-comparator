@@ -5,32 +5,28 @@ import { fmtSeason } from '../lib/ledger.ts'
 
 export const KOFI_URL = 'https://ko-fi.com/drewhooverdotcom'
 
+/** the other sports sites, in the order every one of them lists them; the prerender writes the same list into llms.txt */
+export const SIBLINGS = [
+  ['NFL Comparator', 'https://drewhoover.com/nfl-comparator/', 'the same comparator over every NFL career since 1999, with a page for every player and what he leads.'],
+  ['NBA Comparator', 'https://drewhoover.com/nba-comparator/', 'the same comparator over every NBA career since 1946-47, Wilt and Jordan included, with a page for every player and what he leads.'],
+  ['WNBA Comparator', 'https://drewhoover.com/wnba-comparator/', 'the same comparator over every WNBA career since 1997.'],
+  ['College Football Comparator', 'https://drewhoover.com/cfb-comparator/', 'every coach, team and player at the same point in their careers, since 1869, with the best players of each position at every school and conference.'],
+  ['College Football Streak King', 'https://drewhoover.com/cfb-streak-king/', 'the longest active and all-time winning and losing streaks in college football, under any definition, every FBS game since 1936.'],
+  ['Hostile Territory', 'https://drewhoover.com/hostile-territory/', "every head coach's true road record against AP top-10 teams since 1936."],
+  ['How Many Rings?', 'https://drewhoover.com/how-many-rings/', 'every person on a national-championship staff since 1990, ranked by the number of rings they can claim.'],
+  ['Collegiate Championships', 'https://drewhoover.com/collegiate-championships/', 'which schools have won the most NCAA championships, across 33 sports.'],
+  ['CFB All-Time Records', 'https://drewhoover.com/cfb-all-time-records/', 'all-time win-loss, bowl and national-title records for every FBS program.'],
+]
+
 export function Notes({ ledger }) {
   const first = fmtSeason(ledger.firstSeason), current = fmtSeason(ledger.currentSeason)
   return (
     <>
       <h2 className="notes-h">What to read next</h2>
       <div className="notes">
-        <p>
-          <a href="https://drewhoover.com/nfl-comparator/">NFL Comparator</a> — the same comparator over every NFL
-          career since 1999, with a page for every player and what he leads.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/wnba-comparator/">WNBA Comparator</a> — the same comparator over every WNBA
-          career since 1997, the league's first season.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/cfb-streak-king/">College Football Streak King</a> — the longest active and
-          all-time win streaks and losing streaks in college football, under any definition, every FBS team since 1936.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/hostile-territory/">Hostile Territory</a> — every head coach's true road
-          record against AP top-10 teams since 1936.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/how-many-rings/">How Many Rings?</a> — every person on a
-          national-championship staff since 1990, ranked by the rings they can claim.
-        </p>
+        {SIBLINGS.map(([name, href, words]) => (
+          <p key={href}><a href={href}>{name}</a> — {words}</p>
+        ))}
       </div>
 
       <h2 className="notes-h">Using a comparison from here</h2>

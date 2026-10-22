@@ -24,6 +24,7 @@ const OUT = path.join(ROOT, 'dist/index.html')
 
 const vite = await createServer({ root: ROOT, server: { middlewareMode: true }, appType: 'custom', logLevel: 'warn' })
 const { default: App } = await vite.ssrLoadModule('/src/App.jsx')
+const { SIBLINGS } = await vite.ssrLoadModule('/src/components/Notes.jsx')
 const { LANDINGS } = await vite.ssrLoadModule('/src/lib/landing.ts')
 const { decodeLedger, mergeExtra, fmtSeason } = await vite.ssrLoadModule('/src/lib/ledger.ts')
 const { evaluate, DEFAULT_QUERY } = await vite.ssrLoadModule('/src/lib/query.ts')
@@ -137,6 +138,10 @@ ${llms.map(({ l, url, lead }) => `- [${l.h1}](${url})${lead ? `: ${lead}` : ''}`
 ## Method
 
 - [The method](${SITE}#method): what a game, a start and a win are here, where the records come from, what sits out (WHA, All-Star games, the 1918-26 Finals against non-NHL teams), and each stat's first season.
+
+## What to read next
+
+${SIBLINGS.map(([name, href, words]) => `- [${name}](${href}) — ${words}`).join('\n')}
 `)
 
 fs.mkdirSync(path.join(ROOT, 'dist/share'), { recursive: true })

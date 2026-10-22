@@ -7,7 +7,7 @@
 //   node scripts/indexnow.mjs --all    every URL in the live sitemap
 //
 // The key is public by design: a file whose name and content are the key,
-// served from this project's path, which scopes it to /wnba-comparator/ URLs.
+// served from this project's path, which scopes it to /nhl-comparator/ URLs.
 // Run after the deploy, so the key file and the pages are live. It reports
 // and exits 0 on any failure: a missed ping never fails a deploy.
 import fs from 'node:fs'

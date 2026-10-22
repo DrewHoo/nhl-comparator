@@ -10,8 +10,9 @@
 //                   the leader or the open player's claim, read from the
 //                   ledger.
 //   /share/og.png   the board drawn on demand (card.ts): the worker fetches
-//                   the ledger the prerender publishes (dist/share/players.json),
-//                   runs the site's own evaluate, and renders the top of the
+//                   the ledger the query's field needs (skaters or goalies,
+//                   from dist/share/{skaters,skaters-x,goalies}.json), runs
+//                   the site's own evaluate, and renders the top of the
 //                   board. Cached at the edge.
 //
 // Anything else — and anything that goes wrong — passes through untouched:
