@@ -13,7 +13,10 @@
 //                   the ledger the query's field needs (skaters or goalies,
 //                   from dist/share/{skaters,skaters-x,goalies}.json), runs
 //                   the site's own evaluate, and renders the top of the
-//                   board. Cached at the edge.
+//                   board; a link with a player open (t=) draws the
+//                   comparison instead: him against his peer (vs=, else the
+//                   leader), the panel's lines and both curves. Cached at
+//                   the edge.
 //
 // Anything else — and anything that goes wrong — passes through untouched:
 // this worker must never be the reason the site is down.
@@ -29,7 +32,7 @@ import { evaluate, type Board, type Query, type Row } from '../../src/lib/query.
 import { toUrl } from '../../src/lib/url.ts';
 import { parseLocation } from '../../src/lib/landing.ts';
 import { queryWords } from '../../src/lib/words.ts';
-import { cardHeading, cardRows, isShared, shareDescription, shareTitle } from '../../src/lib/share.ts';
+import { cardHeading, cardRows, compareCard, isShared, shareDescription, shareTitle } from '../../src/lib/share.ts';
 import { peerOf } from '../../src/lib/compare.ts';
 import { renderCard } from './card.ts';
 
@@ -116,7 +119,7 @@ const urlProps = (url: URL) => {
 };
 
 /** Bump on any change to what the card draws or how a URL reads; it keys the edge cache. */
-const CARD_VERSION = '2026-10-22a';
+const CARD_VERSION = '2026-10-22c';
 
 const edge = (ttl: number) => ({ cf: { cacheEverything: true, cacheTtlByStatus: { '200-299': ttl, '400-599': 30 } } }) as RequestInit;
 // a fresh cache key each UTC day: GitHub Pages ignores query strings, and a
@@ -150,13 +153,16 @@ function loadLedger(origin: string, kind: string): Promise<Ledger> {
 const findRow = (board: Board, key: string | null): Row | null => (key ? [...board.ranked, ...board.onTheWay].find((r) => r.key === key) ?? null : null);
 
 async function ogCard(origin: string, search: string): Promise<Response> {
-  const { query, open } = parseLocation('', search);
+  const { query, open, vs } = parseLocation('', search);
   const L = await loadLedger(origin, kindOf(query));
   const board = evaluate(L, query);
+  const row = findRow(board, open);
+  const peer = row ? peerOf(board, row, vs) : null;
+  const cmp = row && peer ? compareCard(query, board, row, peer) : null;
   const res = renderCard({
-    heading: cardHeading(query),
+    heading: cmp ? cmp.heading : cardHeading(query),
     words: queryWords(query),
-    rows: cardRows(board, query, open),
+    ...(cmp ? { compare: cmp } : { rows: cardRows(board, query, open) }),
     footer: `${fmtSeason(board.since)} to ${fmtSeason(L.currentSeason)} · ${board.ranked.length.toLocaleString('en-US')} ${query.seq === 'teamGames' ? 'player-seasons' : 'careers'} with the whole window · drewhoover.com`,
   });
   // buffer the render: workers-og streams lazily, and a failure mid-stream
@@ -187,7 +193,7 @@ export default {
         const canon = toUrl(parseLocation('', url.search));
         const key = new Request(`${url.origin}${url.pathname}?v=${CARD_VERSION}&${canon.slice(1)}`, { method: 'GET' });
         const cached = await caches.default.match(key);
-        report(env, ctx, request, 'share card', { ...urlProps(url), cached: !!cached });
+        report(env, ctx, request, 'share card', { ...urlProps(url), cached: !!cached, kind: url.searchParams.has('t') ? 'comparison' : 'board' });
         if (cached) return cached;
         const res = await ogCard(origin, url.search);
         ctx.waitUntil(caches.default.put(key, res.clone()));

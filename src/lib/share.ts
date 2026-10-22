@@ -115,3 +115,59 @@ export function cardRows(board: Board, q: Query, open: string | null, n = 6): Ca
     hi: r.key === open,
   }))
 }
+
+export interface CardSide {
+  name: string
+  value: string
+  /** the unit beside the value: "points", "games" */
+  unit: string
+  /** the small print under it: "1st of 4,112 · through his first 500 games" */
+  claim: string
+}
+
+export interface CardChart {
+  me: number[]
+  them: number[]
+  /** the window the chart covers */
+  n: number
+  /** "game" or "start", for the labels */
+  unit: string
+}
+
+export interface CompareCardData {
+  /** "Connor McDavid vs Wayne Gretzky" */
+  heading: string
+  sides: [CardSide, CardSide]
+  /** the panel's lines: where the curves met, what he needs to match */
+  lines: string[]
+  /** the two curves, when the board is a career window */
+  chart: CardChart | null
+}
+
+/** a comparison's card, in the panel's words: both sides, where the curves met, the curves */
+export function compareCard(q: Query, board: Board, row: Row, peer: Row): CompareCardData {
+  const stat = statByKey(q.stat)
+  const unit = q.how === 'reach' ? (q.seq === 'teamGames' ? 'team games' : seqWords(q.seq, 2)) : q.how === 'sum' ? stat.noun : 'games'
+  const field = board.ranked.length
+  const side = (r: Row): CardSide => ({
+    name: rowName(r),
+    value: r.value == null ? '—' : r.value.toLocaleString('en-US'),
+    unit,
+    claim: `${r.complete && r.value != null ? rankWords(r, field) : 'still inside the window'} · ${r.value == null ? `${r.reached} ${seqWords(q.seq, r.reached)} so far` : r.season != null ? `${r.team}'s first ${q.n} games of ${fmtSeason(r.season)}` : q.how === 'reach' ? `to ${countWords(q.n, stat)}` : `through his first ${r.reached} ${seqWords(q.seq, r.reached)}`}`,
+  })
+  const cmp = compare(row, peer, q)
+  const lines: string[] = []
+  if (cmp) {
+    lines.push(cmp.xs[0] ? `${row.player.name} ${crossingWords(cmp.xs[0], peer, q)}.` : 'Their curves never met.')
+    const m = matchWords(row, peer, cmp, q)
+    if (m) lines.push(m)
+  } else {
+    lines.push(`${rowName(row)}: ${rowWords(row, q)}.`, `${rowName(peer)}: ${rowWords(peer, q)}.`)
+  }
+  return {
+    heading: `${row.player.name} vs ${peer.player.name}`,
+    sides: [side(row), side(peer)],
+    lines,
+    chart: cmp ? { me: cmp.me, them: cmp.them, n: cmp.n, unit: seqWords(q.seq, 1) } : null,
+  }
+}
