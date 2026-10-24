@@ -252,7 +252,7 @@ ${llmsTeams.map((t) => `- [${t.h1}](${t.url}): ${t.lead}`).join('\n')}
 
 ## What to read next
 
-${SIBLINGS.map(([name, href, words]) => `- [${name}](${href}) — ${words}`).join('\n')}
+${SIBLINGS.map(([name, href, words, links]) => `- [${name}](${href})${links ? ':' : ' —'} ${words}${links ? ' ' + links.map((l) => `[${l.name}](${l.url})`).join(' | ') : ''}`).join('\n')}
 `)
 
 fs.mkdirSync(path.join(ROOT, 'dist/share'), { recursive: true })

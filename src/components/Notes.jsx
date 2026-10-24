@@ -10,12 +10,12 @@ const floor = (col) => fmtSeason(floors.skaters[col] ?? floors.goalies[col])
 
 export const KOFI_URL = 'https://ko-fi.com/drewhooverdotcom'
 
-/** the other sports sites, in the order every one of them lists them; the prerender writes the same list into llms.txt */
+/** Putting Up Numbers (puttingupnumbers.com), where the comparators live now: one link a sport */
+const PUN_SPORTS = [['College Football', 'cfb'], ['NFL', 'nfl'], ['NBA', 'nba'], ['WNBA', 'wnba'], ['NHL', 'nhl'], ['Soccer', 'soccer']].map(([name, id]) => ({ name, url: `https://puttingupnumbers.com/${id}/` }))
+
+/** the other sports sites, in the order every one of them lists them (Putting Up Numbers with a link for each sport); the prerender writes the same list into llms.txt */
 export const SIBLINGS = [
-  ['NFL Comparator', 'https://drewhoover.com/nfl-comparator/', 'the same comparator over every NFL career since 1999, with a page for every player and what he leads.'],
-  ['NBA Comparator', 'https://drewhoover.com/nba-comparator/', 'the same comparator over every NBA career since 1946-47, Wilt and Jordan included, with a page for every player and what he leads.'],
-  ['WNBA Comparator', 'https://drewhoover.com/wnba-comparator/', 'the same comparator over every WNBA career since 1997.'],
-  ['College Football Comparator', 'https://drewhoover.com/cfb-comparator/', 'every coach, team and player at the same point in their careers, since 1869, with the best players of each position at every school and conference.'],
+  ['Putting Up Numbers', 'https://puttingupnumbers.com/', 'compare players, coaches, and teams on wins.', PUN_SPORTS],
   ['College Football Streak King', 'https://drewhoover.com/cfb-streak-king/', 'the longest active and all-time winning and losing streaks in college football, under any definition, every FBS game since 1936.'],
   ['Hostile Territory', 'https://drewhoover.com/hostile-territory/', "every head coach's true road record against AP top-10 teams since 1936."],
   ['How Many Rings?', 'https://drewhoover.com/how-many-rings/', 'every person on a national-championship staff since 1990, ranked by the number of rings they can claim.'],
@@ -29,8 +29,8 @@ export function Notes({ ledger }) {
     <>
       <h2 className="notes-h">What to read next</h2>
       <div className="notes">
-        {SIBLINGS.map(([name, href, words]) => (
-          <p key={href}><a href={href}>{name}</a> — {words}</p>
+        {SIBLINGS.map(([name, href, words, links]) => (
+          <p key={href}><a href={href}>{name}</a>{links ? ': ' : ' — '}{words}{links?.map((l, i) => <span key={l.url}>{i ? ' | ' : ' '}<a href={l.url}>{l.name}</a></span>)}</p>
         ))}
       </div>
 
